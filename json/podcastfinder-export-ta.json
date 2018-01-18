@@ -1,0 +1,50 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/TAMPU_VOH",
+  "name" : "AWR Tamil / தமிழ் / tamiḻ",
+  "date" : "20180101",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.feedburner.com/soulfriendtamil",
+  "name" : "த்ம நண்பன் (Soul Friend)",
+  "date" : "20180108",
+  "items" : 32
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/tcvwtcn1da",
+  "name" : "Tamil Bible (Non-Dramatized)",
+  "date" : "20161003",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/tcvwtcn2da",
+  "name" : "Tamil Bible (Dramatized)",
+  "date" : "20161003",
+  "items" : 260
+}, {
+  "uri" : "http://ttb.twr.org/rss/tamil_main.xml",
+  "name" : "த்ரூ த பைபிள் @ ttb.twr.org/tamil",
+  "date" : "20180117",
+  "items" : 261
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-ta.rss",
+  "name" : "Tamil Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "https://audioboom.com/channels/4902475.rss",
+  "name" : "Bhagavad Gita Tamil",
+  "date" : "20180104",
+  "items" : 19
+}, {
+  "uri" : "https://islamhouse.com/pc/2835?page=2835",
+  "name" : "The Importance Of Hospitality In Islam",
+  "date" : "20060418",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/2917?page=2917",
+  "name" : "நோன்பும் சzகாத் எனும் வரியும்",
+  "date" : "20060418",
+  "items" : 1
+}, {
+  "uri" : "https://poornalayam.org/feeds/itunes/MeditationTalk.xml",
+  "name" : "Meditation",
+  "items" : 1
+} ]

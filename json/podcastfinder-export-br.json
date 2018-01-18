@@ -1,0 +1,36 @@
+[ {
+  "uri" : "http://br.rfi.fr/programas/agenda-europa/podcast",
+  "name" : "Um pulo em Paris",
+  "date" : "20180112",
+  "items" : 20
+}, {
+  "uri" : "http://br.rfi.fr/programas/brasil-africa/podcast",
+  "name" : "Brasil-África",
+  "date" : "20171127",
+  "items" : 20
+}, {
+  "uri" : "http://br.rfi.fr/programas/brasil-america-latina/podcast",
+  "name" : "Brasil- América Latina",
+  "date" : "20171224",
+  "items" : 20
+}, {
+  "uri" : "http://br.rfi.fr/programas/ciencia-e-tecnologia/podcast",
+  "name" : "Ciência e Tecnologia",
+  "date" : "20171226",
+  "items" : 20
+}, {
+  "uri" : "http://br.rfi.fr/programas/fato-em-foco/podcast",
+  "name" : "Fato em Foco",
+  "date" : "20151127",
+  "items" : 20
+}, {
+  "uri" : "http://br.rfi.fr/programas/meio-ambiente/podcast",
+  "name" : "Meio Ambiente",
+  "date" : "20180111",
+  "items" : 20
+}, {
+  "uri" : "http://br.rfi.fr/programas/o-mundo-agora/podcast",
+  "name" : "O Mundo Agora",
+  "date" : "20171225",
+  "items" : 20
+} ]

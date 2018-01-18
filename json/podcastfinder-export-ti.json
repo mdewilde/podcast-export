@@ -1,0 +1,26 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/tirad_awr",
+  "name" : "AWR Tigrinya / ትግርኛ (Eritrea, Ethiopia)",
+  "date" : "20180109",
+  "items" : 62
+}, {
+  "uri" : "http://tigrigna.voanews.com/podcast/?count=50&zoneid=3315",
+  "name" : "ፈነወ ትግርኛ 1900 - Voice of America",
+  "date" : "20180117",
+  "items" : 30
+}, {
+  "uri" : "https://islamhouse.com/pc/3069?page=3069",
+  "name" : "The Message Of Hajj",
+  "date" : "20060419",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/816383",
+  "name" : "ናይ ሱራት አል ፋትሐ  ታፍስር  ( ቱርጉም ) አያ : 1 - 7",
+  "date" : "20150226",
+  "items" : 1
+}, {
+  "uri" : "https://tigrigna.voanews.com/podcast/?count=50&zoneid=3315",
+  "name" : "ፈነወ ትግርኛ 1900 - Voice of America",
+  "date" : "20171228",
+  "items" : 29
+} ]

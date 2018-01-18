@@ -1,0 +1,1639 @@
+[ {
+  "uri" : "http://53906.podomatic.com/rss2.xml",
+  "name" : "DJ Barışcan's Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/140journos.xml",
+  "name" : "140journos Vatandaş Haber Bülteni",
+  "date" : "20170310",
+  "items" : 122
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Acik_Bilinc.xml",
+  "name" : "AÃ§Ä±k BilinÃ§",
+  "date" : "20180111",
+  "items" : 246
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Acik_Dergi_Soylesileri.xml",
+  "name" : "AÃ§Ä±k Dergi",
+  "date" : "20180110",
+  "items" : 509
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Acik_Gazete.xml",
+  "name" : "AÃ§Ä±k Gazete",
+  "date" : "20180111",
+  "items" : 284
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Acik_Mimarlik.xml",
+  "name" : "AÃ§Ä±k MimarlÄ±k",
+  "date" : "20180111",
+  "items" : 282
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Ahsaptan_Betona_Mecidiyeden_Jetona.xml",
+  "name" : "AhÅaptan Betona, Mecidiyeden Jetona",
+  "date" : "20171227",
+  "items" : 166
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Beyin_Kulturu.xml",
+  "name" : "Beyin KÃ¼ltÃ¼rÃ¼",
+  "date" : "20170304",
+  "items" : 52
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Cuma_Adli_Adamlar.xml",
+  "name" : "Cuma AdlÄ± Adamlar",
+  "date" : "20170304",
+  "items" : 264
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Didik_Didik_Freud.xml",
+  "name" : "Didik Didik Freud",
+  "date" : "20170304",
+  "items" : 38
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Dunya_Mirasi_Adalar.xml",
+  "name" : "DÃ¼nya MirasÄ± Adalar",
+  "date" : "20180110",
+  "items" : 38
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/EkonomiPolitik.xml",
+  "name" : "Ekonomi Politik",
+  "date" : "20180109",
+  "items" : 38
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Gunun_ve_Guncelin_Edebiyati.xml",
+  "name" : "GÃ¼nÃ¼n ve GÃ¼ncelin EdebiyatÄ±",
+  "date" : "20180106",
+  "items" : 141
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Inceden_Kultur.xml",
+  "name" : "Ä°nceden KÃ¼ltÃ¼r",
+  "date" : "20170304",
+  "items" : 96
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Koku.xml",
+  "name" : "Koku",
+  "date" : "20170304",
+  "items" : 172
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/MBT.xml",
+  "name" : "MÃ¼ziÄin BaÅka TÃ¼rlÃ¼sÃ¼",
+  "date" : "20171004",
+  "items" : 140
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Sanat_Uzun_Ilham_sonsuz.xml",
+  "name" : "Sanat Uzun, Ä°lham Sonsuz",
+  "date" : "20171230",
+  "items" : 62
+}, {
+  "uri" : "http://acikradyo.com.tr/i/rss/Turkiye_Hikayelerini_Anlatiyor.xml",
+  "name" : "TÃ¼rkiye HikÃ¢yelerini AnlatÄ±yor",
+  "date" : "20170304",
+  "items" : 125
+}, {
+  "uri" : "http://ahmettomor.podomatic.com/rss2.xml",
+  "name" : "Dini Sohbetler",
+  "date" : "20171213",
+  "items" : 28
+}, {
+  "uri" : "http://altevren.podomatic.com/rss2.xml",
+  "name" : "AltEvren - Haftanın Çizgi Romanları",
+  "date" : "20171214",
+  "items" : 13
+}, {
+  "uri" : "http://aminrasooli.podomatic.com/rss2.xml",
+  "name" : "Radio Savalan",
+  "date" : "20171213",
+  "items" : 47
+}, {
+  "uri" : "http://audioboom.com/users/2085/boos.rss",
+  "name" : "Faik Uyanik's posts",
+  "date" : "20171231",
+  "items" : 332
+}, {
+  "uri" : "http://baranozhan.podomatic.com/rss2.xml",
+  "name" : "baranozhan's Podcast",
+  "date" : "20171214",
+  "items" : 3
+}, {
+  "uri" : "http://bearzvsbullz.podbean.com/feed/",
+  "name" : "bearzvsbullz Para ve Sermaye Piyasaları",
+  "date" : "20120115",
+  "items" : 11
+}, {
+  "uri" : "http://bencegiderivar.bugraboo.com/episodes/bgv_feed.rss",
+  "name" : "Bence Gideri Var",
+  "date" : "20160516",
+  "items" : 40
+}, {
+  "uri" : "http://dijitalbellek.org/podcast.xml",
+  "name" : "Dijital Bellek",
+  "date" : "20150218",
+  "items" : 12
+}, {
+  "uri" : "http://djboraozdemir.podomatic.com/rss2.xml",
+  "name" : "Bora Özdemir Live Set Podcast",
+  "date" : "20171214",
+  "items" : 4
+}, {
+  "uri" : "http://djmertb.podomatic.com/rss2.xml",
+  "name" : "DjMertB's Podcast",
+  "date" : "20171214",
+  "items" : 2
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/astroloji/astroloji.xml",
+  "name" : "AHMED HULUSİ - ASTROLOJİ SOHBETLERİ - TRT2 1992",
+  "items" : 15
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/evrensel_gercekler/evrensel.xml",
+  "name" : "AHMED HULUSİ - EVRENSEL GERÇEKLER - FLASH TV 1993",
+  "items" : 36
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/expo/expo.xml",
+  "name" : "AHMED HULUSİ - EXPO TV SOHBETLERİ 2005",
+  "date" : "20051103",
+  "items" : 30
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/insan_ve_din/insandin.xml",
+  "name" : "AHMED HULUSİ - İNSAN VE DİN SOHBETLERİ",
+  "items" : 18
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/islam_ve_bilim/islambilim.xml",
+  "name" : "AHMED HULUSİ - İSLÂM VE BİLİM - 1990-1997",
+  "items" : 13
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/konferanslar/konferanslar.xml",
+  "name" : "AHMED HULUSİ - KONFERANSLAR",
+  "date" : "20100608",
+  "items" : 7
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/kuran/abdulbasit/kuran_a.xml",
+  "name" : "AHMED HULUSİ - KUR'ÂN-I KERÎM ÇÖZÜMÜ - ARAPÇA",
+  "date" : "20110603",
+  "items" : 126
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/kuran/semih-sergen/kuran_t.xml",
+  "name" : "AHMED HULUSİ - KUR'ÂN-I KERÎM ÇÖZÜMÜ - TÜRKÇE",
+  "date" : "20110603",
+  "items" : 126
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/son_sohbetler/sonsohbetler.xml",
+  "name" : "AHMED HULUSİ - SON SOHBETLER",
+  "date" : "20111216",
+  "items" : 5
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/tv_soylesi/kirmizikoltuk.xml",
+  "name" : "AHMED HULUSİ - STAR TV KIRMIZI KOLTUK",
+  "date" : "20030526",
+  "items" : 1
+}, {
+  "uri" : "http://download.ahmedhulusi.org/download/video/ipad/yenilen/yenilen.xml",
+  "name" : "AHMED HULUSİ - YENİLEN SOHBETLERİ",
+  "date" : "20061019",
+  "items" : 2
+}, {
+  "uri" : "http://egecubukcu.podomatic.com/rss2.xml",
+  "name" : "Ege Çubukçu's Podcast",
+  "date" : "20171213",
+  "items" : 18
+}, {
+  "uri" : "http://feed.cri.cn/rss/1858e492-180c-4b79-94f5-bcca14ee7a7b",
+  "name" : "Sağlık ve insan",
+  "date" : "20141208",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.feedburner.com/AycaEvHali",
+  "name" : "Ayça ile Ev Hali",
+  "date" : "20180111",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/BilimKazani",
+  "name" : "BİLİM KAZANI",
+  "date" : "20171212",
+  "items" : 40
+}, {
+  "uri" : "http://feeds.feedburner.com/GerisiHikayeKorkuKonusmalari",
+  "name" : "Gerisi Hikaye Korku Konuşmaları",
+  "date" : "20171222",
+  "items" : 103
+}, {
+  "uri" : "http://feeds.feedburner.com/TgrtFm-YayinArsivi",
+  "name" : "TGRT FM - Yayın Arşivi",
+  "date" : "20180101",
+  "items" : 500
+}, {
+  "uri" : "http://feeds.feedburner.com/adaptasyon",
+  "name" : "Adaptasyon",
+  "date" : "20170924",
+  "items" : 170
+}, {
+  "uri" : "http://feeds.feedburner.com/eshabikiram",
+  "name" : "Eshab-ı Kiram",
+  "date" : "20110617",
+  "items" : 57
+}, {
+  "uri" : "http://feeds.feedburner.com/ferzan",
+  "name" : "Dursun Ali Erzincanlı — Ferzan",
+  "date" : "20161206",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.feedburner.com/haksozunvesikalari",
+  "name" : "Hak Sözün Vesikaları",
+  "date" : "20110615",
+  "items" : 64
+}, {
+  "uri" : "http://feeds.feedburner.com/herkeselazimolaniman",
+  "name" : "Herkese Lazım Olan İman",
+  "date" : "20110615",
+  "items" : 37
+}, {
+  "uri" : "http://feeds.feedburner.com/ingilizcasusununitiraflari",
+  "name" : "İngiliz Casusunun İtirafları",
+  "date" : "20110617",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.feedburner.com/islamahlaki",
+  "name" : "İslam Ahlakı",
+  "date" : "20110617",
+  "items" : 182
+}, {
+  "uri" : "http://feeds.feedburner.com/kab-lessons-trk-mp3",
+  "name" : "Kabbalah: Daily Lesson | kbb_trk_mp3",
+  "date" : "20171229",
+  "items" : 131
+}, {
+  "uri" : "http://feeds.feedburner.com/kab-lessons-trk-mp4",
+  "name" : "Kabbalah: Daily Lesson | kbb_trk_mp4",
+  "date" : "20171229",
+  "items" : 131
+}, {
+  "uri" : "http://feeds.feedburner.com/kiyametveahiret",
+  "name" : "Kıyamet ve Ahiret",
+  "date" : "20110617",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.feedburner.com/mektubat",
+  "name" : "Mektubat Tercemesi",
+  "date" : "20110617",
+  "items" : 323
+}, {
+  "uri" : "http://feeds.feedburner.com/menakib",
+  "name" : "Menakıb-ı Cihar-ı Yar-i Güzîn",
+  "date" : "20110620",
+  "items" : 431
+}, {
+  "uri" : "http://feeds.feedburner.com/namazkitabi",
+  "name" : "Namaz Kitabı",
+  "date" : "20110619",
+  "items" : 81
+}, {
+  "uri" : "http://feeds.feedburner.com/oscarboypodcasts",
+  "name" : "Oscar Boy » Podcasts",
+  "date" : "20180109",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/podcasthakkinda",
+  "name" : "Podcast Hakkında",
+  "date" : "20180103",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/sevahidun_nubuvve",
+  "name" : "Şevahid-ün Nübüvve (Peygamberlik Müjdeleri)",
+  "date" : "20110619",
+  "items" : 84
+}, {
+  "uri" : "http://feeds.feedburner.com/tamilmihal2",
+  "name" : "Tam İlmihal 2. kısım (Seadet-i Ebediyye)",
+  "date" : "20110615",
+  "items" : 73
+}, {
+  "uri" : "http://feeds.feedburner.com/tamilmihal3",
+  "name" : "Tam İlmihal 3. kısım (Seadet-i Ebediyye)",
+  "date" : "20110616",
+  "items" : 77
+}, {
+  "uri" : "http://feeds.feedburner.com/tumblr/fhrl",
+  "name" : "devPod",
+  "date" : "20170508",
+  "items" : 50
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:172632150/sounds.rss",
+  "name" : "Racon Bitti",
+  "date" : "20151106",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:179943300/sounds.rss",
+  "name" : "Medyascope.tv Podcast",
+  "date" : "20171228",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:188337357/sounds.rss",
+  "name" : "Amerikan Rüyası Podcast",
+  "date" : "20160110",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:193089008/sounds.rss",
+  "name" : "Kafa Tutmaca",
+  "date" : "20160325",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:203894256/sounds.rss",
+  "name" : "Reklamla Kuşağım",
+  "date" : "20170127",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:205655641/sounds.rss",
+  "name" : "Etiler Yokuşu",
+  "date" : "20160611",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:20622429/sounds.rss",
+  "name" : "Muratt Mat Remixes",
+  "date" : "20171217",
+  "items" : 24
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:210492351/sounds.rss",
+  "name" : "Konuşmamız Lazım",
+  "date" : "20160505",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:233591381/sounds.rss",
+  "name" : "monolog",
+  "date" : "20170821",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:243475644/sounds.rss",
+  "name" : "Yetersiz Bakiye",
+  "date" : "20171028",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:256119857/sounds.rss",
+  "name" : "dj altug turkmen",
+  "date" : "20170316",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:282960484/sounds.rss",
+  "name" : "İkili Oyun",
+  "date" : "20171227",
+  "items" : 57
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:283833508/sounds.rss",
+  "name" : "Delilik",
+  "date" : "20171204",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:28851357/sounds.rss",
+  "name" : "Hasan Dede'nin Dilinden",
+  "date" : "20160930",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:289293436/sounds.rss",
+  "name" : "1 Oyundan Fazlası",
+  "date" : "20171227",
+  "items" : 39
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:293630896/sounds.rss",
+  "name" : "Dünya Nereye Gidiyor?",
+  "date" : "20171226",
+  "items" : 39
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:338338312/sounds.rss",
+  "name" : "Yazıhane Mikrofon",
+  "date" : "20171227",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:366134393/sounds.rss",
+  "name" : "Aktiffelsefe Bursa",
+  "date" : "20180117",
+  "items" : 17
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:366806009/sounds.rss",
+  "name" : "Sheftali Ne İster?",
+  "date" : "20180117",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:373658039/sounds.rss",
+  "name" : "O Tarz Mı?",
+  "date" : "20180116",
+  "items" : 33
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:5349433/sounds.rss",
+  "name" : "Doctor Ziya",
+  "date" : "20171108",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:5434447/sounds.rss",
+  "name" : "Biz Aslında İskoç'uz",
+  "date" : "20160820",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:61557775/sounds.rss",
+  "name" : "Cikolatali Akan Kek",
+  "date" : "20160202",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:82791576/sounds.rss",
+  "name" : "Unsal Unlu",
+  "date" : "20171228",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:84438401/sounds.rss",
+  "name" : "SahnıSemân İslamî İlimler Eğitim ve Araştırma Merkezi",
+  "date" : "20171214",
+  "items" : 250
+}, {
+  "uri" : "http://ferhathakan.podomatic.com/rss2.xml",
+  "name" : "Ferhat Hakan In The House",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://filozofunyolu.podbean.com/feed/",
+  "name" : "Filozofun Yolu: Felsefe Dersleri",
+  "date" : "20171227",
+  "items" : 18
+}, {
+  "uri" : "http://friendorfoe.podomatic.com/rss2.xml",
+  "name" : "Friend or Foe",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://gbow.podomatic.com/rss2.xml",
+  "name" : "GBOWtr's Podcasts",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://gorkemhekimoglu.podomatic.com/rss2.xml",
+  "name" : "GORKEM HEKIMOGLU - Shine Records Radio Show #Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://hidayetce.podbean.com/feed/",
+  "name" : "Hidayet Celik Podcast Deneme",
+  "date" : "20131230",
+  "items" : 3
+}, {
+  "uri" : "http://iphoneturka.net/?feed=podcast",
+  "name" : "iPhone Turka Podcast",
+  "date" : "20171202",
+  "items" : 4
+}, {
+  "uri" : "http://isik-alicann.podomatic.com/rss2.xml",
+  "name" : "Muhabbet Kuşu 1",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://kaankaya.podomatic.com/rss2.xml",
+  "name" : "Kaan Kaya - #DNA",
+  "date" : "20171214",
+  "items" : 7
+}, {
+  "uri" : "http://kacikprens.libsyn.com/rss",
+  "name" : "Kaçık Prens Podcast: Psikoloji ve Günlük Hayat Üzerine Söyleşiler",
+  "date" : "20171226",
+  "items" : 66
+}, {
+  "uri" : "http://karnaval.com/programlar/gevezeshow/rss",
+  "name" : "Virgin Radio - Geveze Show",
+  "items" : 839
+}, {
+  "uri" : "http://karnaval.podomatic.com/rss2.xml",
+  "name" : "Karnaval's Podcast",
+  "date" : "20180106",
+  "items" : 98
+}, {
+  "uri" : "http://kayitbasladi.com/rss",
+  "name" : "Kayıt Başladı",
+  "date" : "20151030",
+  "items" : 44
+}, {
+  "uri" : "http://kayitbasladi.com/rss/",
+  "name" : "Kayıt Başladı",
+  "date" : "20151030",
+  "items" : 44
+}, {
+  "uri" : "http://kutsalcubuk.podomatic.com/rss2.xml",
+  "name" : "Ağzım var konuşuyorum!",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://metsoa4848.podomatic.com/rss2.xml",
+  "name" : "Met Official",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://michaelkuyucu.com/podcast2/michaelshow_akustik.xml",
+  "name" : "Michael Kuyucu Akustik Konser Radyo Programý",
+  "items" : 70
+}, {
+  "uri" : "http://muhabbet-kusu.podomatic.com/rss2.xml",
+  "name" : "Muhabbet Kuşu",
+  "date" : "20171214",
+  "items" : 3
+}, {
+  "uri" : "http://muratsever.podomatic.com/rss2.xml",
+  "name" : "Learn English, Anytime, Anywhere",
+  "date" : "20171213",
+  "items" : 1
+}, {
+  "uri" : "http://muzikpodcast.tripod.com/podmix/podmix.xml",
+  "name" : "Podmix",
+  "date" : "20051123",
+  "items" : 7
+}, {
+  "uri" : "http://numancebi.com/bikacadam/podcast/bikacadampodcast.xml",
+  "name" : "bi'kaç adam",
+  "items" : 14
+}, {
+  "uri" : "http://ozguraksan.podomatic.com/rss2.xml",
+  "name" : "Op. Dr. Özgür Akşan",
+  "date" : "20171214",
+  "items" : 3
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/trkwtcn1da",
+  "name" : "TÃ¼rkÃ§e Ä°ncil Halk Dilinde 2012 (dramatize deÄil) - Turkish Bible (Non-Dramatized)",
+  "date" : "20160614",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/trkwtcn2da",
+  "name" : "TÃ¼rkÃ§e Ä°ncil Halk Dilinde 2012 (dramatize) - Turkish Bible (Dramatized)",
+  "date" : "20160614",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastcevsenmealmp3/cevsenmealson.xml",
+  "name" : "CevÅen Meali",
+  "date" : "20111230",
+  "items" : 5
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastcevsenmp3/cevsenson.xml",
+  "name" : "CevÅen -Ã¼l Kebir",
+  "date" : "20111230",
+  "items" : 11
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/asayimusa.xml",
+  "name" : "Asa-yi Musa - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 42
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/barlalahikasi.xml",
+  "name" : "Barla LÃ¢hikasi - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 38
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/emirdaglahikasi.xml",
+  "name" : "Emirdag LÃ¢hikasi - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 78
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/isaretulicaz.xml",
+  "name" : "IsaratÃ¼'l-I'caz - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 44
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/kastamonulahikasi.xml",
+  "name" : "Kastamonu Lahikasi - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 44
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/lemalar.xml",
+  "name" : "Lem'alar - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 62
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/mektubat.xml",
+  "name" : "Mektubat - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 90
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/mesneviinuriye.xml",
+  "name" : "Mesnevi-i Nuriye - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 52
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/sikkeitasdikigaybi.xml",
+  "name" : "Sikke-i Tasdik-i Gaybi - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 41
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/sozler.xml",
+  "name" : "Risale-i Nur KÃ¼lliyati-SÃ¶zler",
+  "date" : "20111230",
+  "items" : 137
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/sualar.xml",
+  "name" : "SuÃ¢lar - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 92
+}, {
+  "uri" : "http://podcast.moralfm.com.tr/pc/podcastlinksv001/tarihceihayat.xml",
+  "name" : "TarihÃ§e-i Hayat - Risale-i Nur KÃ¼lliyati",
+  "date" : "20111230",
+  "items" : 108
+}, {
+  "uri" : "http://podcast.powergroup.com.tr/powerFM/158.xml",
+  "name" : "Chat Zone",
+  "items" : 498
+}, {
+  "uri" : "http://podcast.powergroup.com.tr/powerFM/162.xml",
+  "name" : "Cenk & Erdem",
+  "items" : 240
+}, {
+  "uri" : "http://podcast.powergroup.com.tr/powerFM/295.xml",
+  "name" : "Bay J Show",
+  "items" : 371
+}, {
+  "uri" : "http://podcast.yalansavar.org/rss",
+  "name" : "Yalansavar",
+  "date" : "20171215",
+  "items" : 16
+}, {
+  "uri" : "http://podcast65015.podomatic.com/rss2.xml",
+  "name" : "tugba can's Podcast",
+  "date" : "20171213",
+  "items" : 8
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_dwn1_tur",
+  "name" : "Deutsch - warum nicht? Bölüm 1 | Almanca öğrenin | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_missionberlin_tur",
+  "name" : "Mission Berlin | Almanca öğrenin | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_radiod1_tur",
+  "name" : "Radio D | Almanca öğrenin | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 25
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_tur",
+  "name" : "Deutsch - warum nicht? Bölüm 1 | Almanca öğrenin | Deutsche Welle",
+  "date" : "20171229",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_tur",
+  "name" : "Deutsch - warum nicht? Bölüm 2 | Almanca öğrenin | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn3_tur",
+  "name" : "Deutsch - warum nicht? Bölüm 3 | Almanca öğrenin | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn4_tur",
+  "name" : "Deutsch - warum nicht? Bölüm 4 | Almanca öğrenin | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_marktplatz_tur",
+  "name" : "Marktplatz – Ekonomide Almanca | Almanca öğrenin | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_tur",
+  "name" : "Mission Berlin | Almanca öğrenin | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_tur",
+  "name" : "Radio D | Almanca öğrenin | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 25
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_tur",
+  "name" : "Wieso nicht? | Almanca öğrenin | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_Basin-Oetzleri",
+  "name" : "Basın Özetleri | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 48
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_basin-oetzleri",
+  "name" : "Basın Özetleri | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 49
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_video-des-tages-tur",
+  "name" : "Günün Videosu | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://siradisi.podomatic.com/rss2.xml",
+  "name" : "Siradisi programi",
+  "date" : "20171214",
+  "items" : 4
+}, {
+  "uri" : "http://sosyaldoku.org/Fetva-Meclisi/fetva-meclisi-ses.rss",
+  "name" : "Fetva Meclisi (Ses) | Nureddin YÄ±ldÄ±z",
+  "items" : 382
+}, {
+  "uri" : "http://sosyaldoku.org/Mektep-Dersleri/mektep-dersleri-ses.rss",
+  "name" : "Mektep Dersleri (Ses) | Nureddin YÄ±ldÄ±z",
+  "items" : 11
+}, {
+  "uri" : "http://sosyaldoku.org/ayet-ayet-sahsiyetimiz1-30/aas-ses.rss",
+  "name" : "Ayet Ayet Şahsiyetimiz (Ses) | Nureddin Yıldız",
+  "date" : "20140121",
+  "items" : 60
+}, {
+  "uri" : "http://sosyaldoku.org/ayet-ayet-sahsiyetimiz1-30/aas-video.rss",
+  "name" : "Ayet Ayet Şahsiyetimiz (Video) | Nureddin Yıldız",
+  "date" : "20140121",
+  "items" : 60
+}, {
+  "uri" : "http://sosyaldoku.org/bir-dakika-fetva/bir-dakika-fetva-ses.rss",
+  "name" : "1 Dakika Fetva (Ses) | Nureddin Yıldız",
+  "date" : "20171104",
+  "items" : 665
+}, {
+  "uri" : "http://sosyaldoku.org/bir-dakika-fetva/bir-dakika-fetva-video.rss",
+  "name" : "1 Dakika Fetva (Video) | Nureddin Yıldız",
+  "date" : "20171104",
+  "items" : 665
+}, {
+  "uri" : "http://sosyaldoku.org/fetvameclisi/fikih-dersleri/fikih-okumalari-ses.rss",
+  "name" : "Fıkıh Okumaları (Ses) | Nureddin Yıldız",
+  "date" : "20140110",
+  "items" : 74
+}, {
+  "uri" : "http://sosyaldoku.org/genclerle-hadis-sohbetleri/ghs-ses.rss",
+  "name" : "Gençlerle Hadis Sohbetleri (Ses) | Nureddin Yıldız",
+  "date" : "20130423",
+  "items" : 9
+}, {
+  "uri" : "http://sosyaldoku.org/genclerle-hadis-sohbetleri/ghs-video.rss",
+  "name" : "Gençlerle Hadis Sohbetleri (Video) | Nureddin Yıldız",
+  "date" : "20130423",
+  "items" : 9
+}, {
+  "uri" : "http://sosyaldoku.org/hayatrehberi/isivaktindencok/ivco-ses.rss",
+  "name" : "İşi Vaktinden Çok Olanlar (Ses) | Nureddin Yıldız",
+  "date" : "20130311",
+  "items" : 46
+}, {
+  "uri" : "http://sosyaldoku.org/hayatrehberi/isivaktindencok/ivcovideo.rss",
+  "name" : "İşi Vaktinden Çok Olanlar (Video) | Nureddin Yıldız",
+  "date" : "20130311",
+  "items" : 47
+}, {
+  "uri" : "http://sosyaldoku.org/hayatrehberi/pazardersleri/hayatrehberises.rss",
+  "name" : "Hayat Rehberi Dersleri (Sesler) | Nureddin YÄ±ldÄ±z",
+  "date" : "20180107",
+  "items" : 315
+}, {
+  "uri" : "http://sosyaldoku.org/islamdan-Hayata-Olculer/iho-ses.rss",
+  "name" : "Ä°slamdan Hayata ÃlÃ§Ã¼ler (Ses) | Nureddin YÄ±ldÄ±z",
+  "items" : 153
+}, {
+  "uri" : "http://sosyaldoku.org/konferanslar/aile-ve-genclik-konferanslari-video.rss",
+  "name" : "“Elde Kor Taşımak”",
+  "date" : "20110831",
+  "items" : 293
+}, {
+  "uri" : "http://sosyaldoku.org/sehzadebasi-sohbetleri/sehzadebasises.rss",
+  "name" : "Şehzadebaşı Sohbetleri (Ses) | Nureddin Yıldız",
+  "date" : "20150111",
+  "items" : 40
+}, {
+  "uri" : "http://sosyaldoku.org/sehzadebasi-sohbetleri/sehzadebasiv.rss",
+  "name" : "Şehzadebaşı Sohbetleri (Video) | Nureddin Yıldız",
+  "date" : "20150111",
+  "items" : 40
+}, {
+  "uri" : "http://sosyaldoku.org/tarikati-muhammediyye/tarikati-muhammediye-ses.rss",
+  "name" : "Tarikat-ı Muhammediyye Okumaları (Ses) | Nureddin Yıldız",
+  "date" : "20171003",
+  "items" : 35
+}, {
+  "uri" : "http://sosyaldoku.org/tibba-muslumanca-bakis/tibba-muslumanca-bakis-ses.rss",
+  "name" : "Tıbba Müslümanca Bakış (Ses) | Nureddin Yıldız",
+  "date" : "20151226",
+  "items" : 13
+}, {
+  "uri" : "http://sosyaldoku.org/tibba-muslumanca-bakis/tibba-muslumanca-bakiss-video.rss",
+  "name" : "Tıbba Müslümanca Bakış (Video) | Nureddin Yıldız",
+  "date" : "20151226",
+  "items" : 13
+}, {
+  "uri" : "http://sukruby.podbean.com/feed/",
+  "name" : "sukruby",
+  "date" : "20120322",
+  "items" : 2
+}, {
+  "uri" : "http://tacinliparmesan.podomatic.com/rss2.xml",
+  "name" : "Tarçınlı Parmesan",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://tomorhoca.podomatic.com/rss2.xml",
+  "name" : "Kısa Dini Sohbetler",
+  "date" : "20171213",
+  "items" : 95
+}, {
+  "uri" : "http://ttb.twr.org/rss/turkish_new.xml",
+  "name" : "Thru the Bible - ttb.twr.org/turkish",
+  "date" : "20171228",
+  "items" : 248
+}, {
+  "uri" : "http://turkeygoodnews1.podomatic.com/rss2.xml",
+  "name" : "Hayat Bu Sözler, İyi Haber, Müjde Şarkıları - Türkiye'de Minör Dilleri(No.17-No.32)／Words of Life, Good News, Gospel Songs-Minor Languages in Turkey by Population(No.17 To No.32)",
+  "date" : "20171214",
+  "items" : 85
+}, {
+  "uri" : "http://turkishlanguage.podomatic.com/rss2.xml",
+  "name" : "Turkish Language Institute's Podcast",
+  "date" : "20171217",
+  "items" : 15
+}, {
+  "uri" : "http://turkishmusic.podomatic.com/rss2.xml",
+  "name" : "Turkish Music's Podcast",
+  "date" : "20180114",
+  "items" : 6
+}, {
+  "uri" : "http://ucagriyildirim33771.podomatic.com/rss2.xml",
+  "name" : "Cagrı Yıldırım's Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://videoyun.libsyn.com/rss",
+  "name" : "Bi'sey Diyecem",
+  "date" : "20171215",
+  "items" : 6
+}, {
+  "uri" : "http://volkanyzc.podbean.com/feed/",
+  "name" : "VolkanYzc ile Jelibon Gibi Sohbetler",
+  "date" : "20140530",
+  "items" : 2
+}, {
+  "uri" : "http://wiki.maestropanel.com/feed/podcast/",
+  "name" : "Server Side",
+  "date" : "20171128",
+  "items" : 7
+}, {
+  "uri" : "http://www.35milimetre.com/havadan-sudan/?format=rss",
+  "name" : "Havadan Sudan (Podcast)",
+  "date" : "20171224",
+  "items" : 100
+}, {
+  "uri" : "http://www.acikbilim.com/feed/acikbilimdrkarl",
+  "name" : "Açık Bilim - Dr Karl ile Bilim Sohbetleri",
+  "date" : "20171228",
+  "items" : 14
+}, {
+  "uri" : "http://www.acikbilim.com/feed/acikbilimradyo",
+  "name" : "Açık Bilim Podcast",
+  "date" : "20171228",
+  "items" : 126
+}, {
+  "uri" : "http://www.acikbilim.com/feed/podcast",
+  "name" : "Açık Bilim Cepyayını",
+  "date" : "20171228",
+  "items" : 47
+}, {
+  "uri" : "http://www.acilci.net/feed/podcast/",
+  "name" : "Acilci.Net Podcast",
+  "date" : "20171230",
+  "items" : 24
+}, {
+  "uri" : "http://www.akportfoy.com.tr/yatirim_danismanligi/videos/podcast/podcast.xml",
+  "name" : "YatÄ±rÄ±m Fikirleri",
+  "items" : 146
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-tr.rss",
+  "name" : "Turkish Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "http://www.americanadvisors.co/feed/podcast/",
+  "name" : "American Advisors",
+  "date" : "20171224",
+  "items" : 10
+}, {
+  "uri" : "http://www.amerikaninsesi.com/podcast/video.aspx?count=50&zoneid=2149",
+  "name" : "VOA-TGRT Haber Ortak Yayın - Amerika'nın Sesi",
+  "date" : "20180117",
+  "items" : 21
+}, {
+  "uri" : "http://www.apostylee.com/podcast/index.xml",
+  "name" : "Bu Masalda Peri Yok",
+  "date" : "20140922",
+  "items" : 12
+}, {
+  "uri" : "http://www.blubrry.com/feeds/cankaya.xml",
+  "name" : "ÃÂ°bret AldÃÂ±n mÃÂ±?",
+  "date" : "20140515",
+  "items" : 4
+}, {
+  "uri" : "http://www.buzzsprout.com/141899.rss",
+  "name" : "Hayatlar Hikayeler",
+  "date" : "20180102",
+  "items" : 3
+}, {
+  "uri" : "http://www.buzzsprout.com/90765.rss",
+  "name" : "TeknoSafari's Podcast",
+  "date" : "20171226",
+  "items" : 48
+}, {
+  "uri" : "http://www.galipdursun.com/gerisihikaye/feed/",
+  "name" : "Gerisi Hikaye Korku Konuşmaları",
+  "date" : "20171105",
+  "items" : 99
+}, {
+  "uri" : "http://www.herkul.org/rss/podcast-audio.php",
+  "name" : "Herkul.org :. Bamteli Audio Podcast",
+  "date" : "20180107",
+  "items" : 355
+}, {
+  "uri" : "http://www.herkul.org/rss/podcast-nagme-video.php",
+  "name" : "Herkul.org :. Herkul Nagme  Video Podcast",
+  "date" : "20171115",
+  "items" : 246
+}, {
+  "uri" : "http://www.herkul.org/rss/podcast-nagme.php",
+  "name" : "Herkul.org :. Herkul Nagme Audio Podcast",
+  "date" : "20171115",
+  "items" : 328
+}, {
+  "uri" : "http://www.herkul.org/rss/podcast.php",
+  "name" : "Herkul.org :. Bamteli Video Podcast",
+  "date" : "20180107",
+  "items" : 355
+}, {
+  "uri" : "http://www.ikikalem.com/podcast.xml",
+  "name" : "ArchiCAD TR Podcast - Mimar Ender AYDIN",
+  "date" : "20170909",
+  "items" : 25
+}, {
+  "uri" : "http://www.marbas.com.tr/podcast/feed.xml",
+  "name" : "MARBAŞ Podcast ile gündemi takip edin",
+  "date" : "20180117",
+  "items" : 111
+}, {
+  "uri" : "http://www.michaelshow.com/podcast/michaelshow.xml",
+  "name" : "Michael Kuyucu Podcast",
+  "items" : 95
+}, {
+  "uri" : "http://www.mp3qurantranslation.com/podcast/turke.rss",
+  "name" : "TÃ¼rkÃ§e Ã§evirisi ile Kur'an Okuyan",
+  "date" : "20131205",
+  "items" : 114
+}, {
+  "uri" : "http://www.mserdark.com/podcast/feed/",
+  "name" : "Sanal Alem",
+  "date" : "20171126",
+  "items" : 4
+}, {
+  "uri" : "http://www.propagandayayinlari.net/podcast/propaganda.xml",
+  "name" : "Propaganda Yayınları: Yazar Podcast'ı",
+  "date" : "20140801",
+  "items" : 1
+}, {
+  "uri" : "http://www.radyoodtu.com.tr/podcast/modernsabahlar/rss.xml",
+  "name" : "Modern Sabahlar",
+  "date" : "20150625",
+  "items" : 54
+}, {
+  "uri" : "http://www.saliha.org/kitaplar/Tam_lmihal_1_Kisim.xml",
+  "name" : "Tam İlmihal 1. kısım (Seadet-i Ebediyye)",
+  "date" : "20110615",
+  "items" : 103
+}, {
+  "uri" : "http://www.saliha.org/kitaplar/tam_lmihal_1_kisim.xml",
+  "name" : "Tam İlmihal 1. kısım (Seadet-i Ebediyye)",
+  "date" : "20110615",
+  "items" : 103
+}, {
+  "uri" : "http://www.sosyaldoku.org/asiye-olmak/asiye-olmak-ses.rss",
+  "name" : "Ãsiye Olmak (Ses) | Nureddin YÄ±ldÄ±z",
+  "items" : 58
+}, {
+  "uri" : "http://www.sosyaldoku.org/dunya-nasil-donuyor/dunya-nasil-donuyor-ses-podcast.rss",
+  "name" : "DÃ¼nya NasÄ±l DÃ¶nÃ¼yor? (Ses) | Nureddin YÄ±ldÄ±z",
+  "items" : 78
+}, {
+  "uri" : "http://www.sosyaldoku.org/hadislerle-dirilis/hadislerledirilis-ses.rss",
+  "name" : "Hadislerle Diriliş (Ses/podcast) | Nureddin Yıldız",
+  "date" : "20171217",
+  "items" : 124
+}, {
+  "uri" : "http://www.sosyaldoku.org/kadin-fikih-okulu/kfo-ses-podcast.rss",
+  "name" : "Kadın Fıkhı Okulu (Ses) | Nureddin Yıldız",
+  "date" : "20130408",
+  "items" : 115
+}, {
+  "uri" : "http://www.sosyaldoku.org/kadin-fikih-okulu/kfo-videolar-podcast.rss",
+  "name" : "Kadın Fıkhı Okulu (Video) | Nureddin Yıldız",
+  "date" : "20130408",
+  "items" : 116
+}, {
+  "uri" : "http://www.sosyaldoku.org/musab-olmak/musab-olmak-ses.rss",
+  "name" : "Mus'ab Olmak (Ses) | Nureddin Yıldız",
+  "date" : "20140725",
+  "items" : 8
+}, {
+  "uri" : "http://www.sosyaldoku.org/musab-olmak/musab-olmak-video.rss",
+  "name" : "Mus'ab Olmak (Video) | Nureddin Yıldız",
+  "date" : "20140725",
+  "items" : 8
+}, {
+  "uri" : "http://www.spreaker.com/show/1398145/episodes/feed",
+  "name" : "girişimci muhabbeti",
+  "date" : "20180110",
+  "items" : 144
+}, {
+  "uri" : "http://www.spreaker.com/show/2251564/episodes/feed",
+  "name" : "MertArınel's show",
+  "date" : "20170516",
+  "items" : 7
+}, {
+  "uri" : "http://www.spreaker.com/show/2588096/episodes/feed",
+  "name" : "Radyo 521",
+  "date" : "20180111",
+  "items" : 54
+}, {
+  "uri" : "http://www.spreaker.com/show/2625393/episodes/feed",
+  "name" : "Eurokids: Turkish news",
+  "date" : "20170820",
+  "items" : 2
+}, {
+  "uri" : "http://www.spreaker.com/show/2650490/episodes/feed",
+  "name" : "Psikolog Beyhan BUDAK",
+  "date" : "20180106",
+  "items" : 83
+}, {
+  "uri" : "http://www.spreaker.com/show/2760879/episodes/feed",
+  "name" : "Üretim Bandı",
+  "date" : "20180110",
+  "items" : 4
+}, {
+  "uri" : "http://www.talkyradio.com/feed/podcast/askin-tadi-tuzu",
+  "name" : "Aşkın Tadı Tuzu",
+  "date" : "20160902",
+  "items" : 10
+}, {
+  "uri" : "http://www.turkcedunyasi.com/feed/podcast/",
+  "name" : "Türkçe Dünyası | Learn Turkish",
+  "date" : "20170609",
+  "items" : 7
+}, {
+  "uri" : "http://www.turkishhvacrindustry.com/podcast",
+  "name" : "İklimlendirme Sanayi İhracatçıları Birliği-Turkish HVACR Industry Exporters Union",
+  "date" : "20130529",
+  "items" : 13
+}, {
+  "uri" : "http://www.ugursener.com/podcast.xml",
+  "name" : "Dance Factory",
+  "date" : "20130116",
+  "items" : 57
+}, {
+  "uri" : "http://www.valthoron.net/sourberry/gkkk.xml",
+  "name" : "Gökyüzünde Karpuz Kesen Kırgızlar",
+  "date" : "20120624",
+  "items" : 148
+}, {
+  "uri" : "http://www.yigitsevinc.com/turkcepodcast/tg.xml",
+  "name" : "TÃ¼rkÃ§Ã¼nÃ¼n GÃ¶zÃ¼nden",
+  "date" : "20150401",
+  "items" : 10
+}, {
+  "uri" : "http://yuceerim.podomatic.com/rss2.xml",
+  "name" : "Sosyal Psikolojiden Sevgilerle 3.Sezon",
+  "date" : "20171214",
+  "items" : 7
+}, {
+  "uri" : "https://fikriminincegolu.com/feed/podcast/",
+  "name" : "Ferdi Leflef'le Fikrimin İnce Golü - Podcast - Lig Radyo",
+  "date" : "20170530",
+  "items" : 10
+}, {
+  "uri" : "https://filozofunyolu.podbean.com/feed/",
+  "name" : "Filozofun Yolu: Felsefe Dersleri",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "https://hearthis.at/djmurattmat/podcast/",
+  "name" : "Dj Murat Mat",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "https://hearthis.at/murattmat/podcast/",
+  "name" : "Muratt Mat - Remixes & Podcast",
+  "date" : "20171228",
+  "items" : 48
+}, {
+  "uri" : "https://hearthis.at/tdsmix/podcast/",
+  "name" : "TDSmix",
+  "date" : "20171229",
+  "items" : 100
+}, {
+  "uri" : "https://islamhouse.com/pc/2769957",
+  "name" : "Kitap ve Sünnete bağlılık",
+  "date" : "20150820",
+  "items" : 17
+}, {
+  "uri" : "https://islamhouse.com/pc/394894?page=394894",
+  "name" : "”Bulûğu’l-Meram Ahkam Hadisleri” 1. dersi: Temizlik Kitabı, 1. Bölüm, mestler üzerine mesh babı",
+  "date" : "20120507",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420490?page=420490",
+  "name" : "Bil ki Allah’tan başka ilah yoktur",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420492?page=420492",
+  "name" : "Oğlunu namaz kılmaktan men eden baba",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420494?page=420494",
+  "name" : "Ey Bacım! Omuzundaki yükün farkında mısın?",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420496?page=420496",
+  "name" : "Sünnete göre kılınmayan namazdaki hatalar",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420500?page=420500",
+  "name" : "Mezhebe değil, sahih sünnete sarıl!",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420502?page=420502",
+  "name" : "Kur’an ve Sahih Sünnet Işığında Akîde Dersleri",
+  "date" : "20130412",
+  "items" : 6
+}, {
+  "uri" : "https://islamhouse.com/pc/420504?page=420504",
+  "name" : "Güneşi sağ elime, ayı da sol elime verseniz...",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420506?page=420506",
+  "name" : "Sizi Cehennem’e Sürükleyen Şey nedir?",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420508?page=420508",
+  "name" : "Bu dînin kaygısını kim yüklenecek?",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420510?page=420510",
+  "name" : "Ey insan! Seni kerim Rabbinden alıkoyan nedir?",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420511?page=420511",
+  "name" : "Ey namaz kılmayan beni dinler misin?",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420512?page=420512",
+  "name" : "Ey namaz kılmayan beni dinler misin?",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420513?page=420513",
+  "name" : "Peygamber -sallallahu aleyhi ve sellem-’in evinde bir gün",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420514?page=420514",
+  "name" : "Peygamber -sallallahu aleyhi ve sellem-’in evinde bir gün",
+  "date" : "20130412",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63670?page=63670",
+  "name" : "Namazın Kılınışı",
+  "date" : "20071125",
+  "items" : 6
+}, {
+  "uri" : "https://islamhouse.com/pc/63676?page=63676",
+  "name" : "Tevhid ve Çeşitleri",
+  "date" : "20071125",
+  "items" : 13
+}, {
+  "uri" : "https://islamhouse.com/pc/63677?page=63677",
+  "name" : "İbadetlerde İhlaslı Olmanın Önemi",
+  "date" : "20071125",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/63678?page=63678",
+  "name" : "İbadetlerde İhlaslı Olmanın Önemi",
+  "date" : "20071125",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/63733?page=63733",
+  "name" : "Hac ve Umre Nasıl Yapılır?",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63735?page=63735",
+  "name" : "Allah İçin Sevmek ve Düşmanlık Beslemek",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63736?page=63736",
+  "name" : "Allah İçin Sevmek ve Düşmanlık Beslemek",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63738?page=63738",
+  "name" : "Tevhid ve Kavramlar",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63739?page=63739",
+  "name" : "Şeyh Bin Baz rh ın hayatından kesitler",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63740?page=63740",
+  "name" : "Şeyh Bin Baz rh ın hayatından kesitler",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63742?page=63742",
+  "name" : "üzücü tablolar ve çareleri",
+  "date" : "20071126",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/63744?page=63744",
+  "name" : "Tekfir Konusunda Alimlerin Görüşleri",
+  "date" : "20071126",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/63834?page=63834",
+  "name" : "Koğuculuk Hakkında",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63835?page=63835",
+  "name" : "İlah Kelimesinin Anlamı",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63836?page=63836",
+  "name" : "İlah Kelimesinin Anlamı",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63837?page=63837",
+  "name" : "Rab Kelimesinin Anlamı",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63838?page=63838",
+  "name" : "Rab Kelimesinin Anlamı",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63848?page=63848",
+  "name" : "İman ve Hakikatleri",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63849?page=63849",
+  "name" : "İman ve Hakikatleri",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63853?page=63853",
+  "name" : "Delilsiz Hareket Etmek",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63854?page=63854",
+  "name" : "Delilsiz Hareket Etmek",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63869?page=63869",
+  "name" : "Misak / Allah’a Verilen Söz",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63870?page=63870",
+  "name" : "Misak / Allah’a Verilen Söz",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63871?page=63871",
+  "name" : "Emr-i bil-Ma’ruf ve Nehy-i anil-Münker",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63872?page=63872",
+  "name" : "Emr-i bil-Ma’ruf ve Nehy-i anil-Münker",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63877?page=63877",
+  "name" : "Günahların İmana Etkisi",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63878?page=63878",
+  "name" : "Günahların İmana Etkisi",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63879?page=63879",
+  "name" : "Bid’atın Açıklaması",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63880?page=63880",
+  "name" : "Bid’atın Açıklaması",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63881?page=63881",
+  "name" : "Allah’ın İsim ve Sıfatları",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63882?page=63882",
+  "name" : "Allah’ın İsim ve Sıfatları",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63902?page=63902",
+  "name" : "İslam ve Tasavvuf",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63903?page=63903",
+  "name" : "İslam ve Tasavvuf",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63915?page=63915",
+  "name" : "Heva, Ayrılık ve Bid’at",
+  "date" : "20071126",
+  "items" : 2
+}, {
+  "uri" : "https://islamhouse.com/pc/63916?page=63916",
+  "name" : "Heva, Ayrılık ve Bid’at",
+  "date" : "20071126",
+  "items" : 2
+}, {
+  "uri" : "https://islamhouse.com/pc/63958?page=63958",
+  "name" : "Bakara Suresi 21-22 Ayetlerinin Açıklaması",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63959?page=63959",
+  "name" : "Bakara Suresi 21-22 Ayetlerinin Açıklaması",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63962?page=63962",
+  "name" : "Allah’tan Başkasından Yardım Dilemin Hükmü",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63963?page=63963",
+  "name" : "Allah’tan Başkasından Yardım Dilemin Hükmü",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63965?page=63965",
+  "name" : "İslam’da Ahde Vefa",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63991?page=63991",
+  "name" : "Hukukun Üstünlüğü",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/63992?page=63992",
+  "name" : "Hukukun Üstünlüğü",
+  "date" : "20071126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64233?page=64233",
+  "name" : "Küçük Şirk : Riya",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64234?page=64234",
+  "name" : "Küçük Şirk : Riya",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64240?page=64240",
+  "name" : "Kur’anı Anlamada Metod Nasıl Olmalıdır?",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64241?page=64241",
+  "name" : "Kur’anı Anlamada Metod Nasıl Olmalıdır?",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64246?page=64246",
+  "name" : "Cennet ve Nimetleri",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64263?page=64263",
+  "name" : "Son Ziyaretçi",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64265?page=64265",
+  "name" : "İnsan ve Din",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64266?page=64266",
+  "name" : "Tevessül, Teberrük ve İstiğase",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64267?page=64267",
+  "name" : "Tevessül, Teberrük ve İstiğase",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64353?page=64353",
+  "name" : "Fıtrat, İman ve Tevhid",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64354?page=64354",
+  "name" : "Fıtrat, İman ve Tevhid",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64359?page=64359",
+  "name" : "Abdest, Teyemmüm ve Gusül",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64360?page=64360",
+  "name" : "Abdest, Teyemmüm ve Gusül",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64368?page=64368",
+  "name" : "İslam’da Selamın Adabı",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64369?page=64369",
+  "name" : "İslam’da Selamın Adabı",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64370?page=64370",
+  "name" : "Zinanın Haramlılığı",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64371?page=64371",
+  "name" : "Zinanın Haramlılığı",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64372?page=64372",
+  "name" : "İçkinin Haramlılığı",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64373?page=64373",
+  "name" : "İçkinin Haramlılığı",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64374?page=64374",
+  "name" : "İnanılması Gereken Esaslar",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64375?page=64375",
+  "name" : "İnanılması Gereken Esaslar",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64403?page=64403",
+  "name" : "Cinlerin ve İnsanların Yaratılış Gayesi İbadet",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64404?page=64404",
+  "name" : "Cinlerin ve İnsanların Yaratılış Gayesi İbadet",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64405?page=64405",
+  "name" : "Deccal Hakkında",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64406?page=64406",
+  "name" : "Deccal Hakkında",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64407?page=64407",
+  "name" : "Mehdi Hakkında",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64408?page=64408",
+  "name" : "Mehdi Hakkında",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64409?page=64409",
+  "name" : "İsa [ aleyhisselam ]",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64410?page=64410",
+  "name" : "İsa [ aleyhisselam ]",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64416?page=64416",
+  "name" : "İslam ve Cemaatçilik",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64422?page=64422",
+  "name" : "Çocuk Eğitimi",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64423?page=64423",
+  "name" : "Çocuk Eğitimi",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/64427?page=64427",
+  "name" : "Bid’at Hakkında",
+  "date" : "20071128",
+  "items" : 1
+}, {
+  "uri" : "https://karnaval.com/programlar/aragaz/rss",
+  "name" : "Metro FM - Aragaz",
+  "date" : "20180112",
+  "items" : 833
+}, {
+  "uri" : "https://karnaval.com/programlar/gevezeshow/rss",
+  "name" : "Virgin Radio - Geveze Show",
+  "date" : "20180112",
+  "items" : 848
+}, {
+  "uri" : "https://karnaval.com/programlar/modern-sabahlar/rss",
+  "name" : "JoyTurk - Modern Sabahlar",
+  "date" : "20180112",
+  "items" : 894
+}, {
+  "uri" : "https://karnaval.com/programlar/rabarba/rss",
+  "name" : "JoyTurk - Mesut Süre ile Rabarba",
+  "date" : "20180112",
+  "items" : 356
+}, {
+  "uri" : "https://karnaval.com/programlar/superkonuk/rss",
+  "name" : "Süper FM - Süper Konuk",
+  "date" : "20170221",
+  "items" : 142
+}, {
+  "uri" : "https://karnaval.com/programlar/zuhaltopalingunlugu/rss",
+  "name" : "Süper FM - Zuhal Topal’ın Günlüğü",
+  "date" : "20161231",
+  "items" : 213
+}, {
+  "uri" : "https://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-tr.rss",
+  "name" : "Turkish Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "https://www.ceyhunyilmaz.com/best/feed.xml",
+  "name" : "Ceyhun YÄ±lmaz Show",
+  "date" : "20180112",
+  "items" : 4
+}, {
+  "uri" : "https://www.mesutcevik.com/podcast/podcast.xml",
+  "name" : "Mesut Çevik ile Podcast",
+  "date" : "20170910",
+  "items" : 14
+}, {
+  "uri" : "https://www.spreaker.com/show/1663452/episodes/feed",
+  "name" : "dnomak",
+  "date" : "20171210",
+  "items" : 48
+}, {
+  "uri" : "https://yollardatv.podbean.com/feed/",
+  "name" : "YOLLARDA.TV ile Girişimcilik ve Teknoloji Sohbetleri",
+  "date" : "20180112",
+  "items" : 20
+} ]

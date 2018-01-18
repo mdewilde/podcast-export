@@ -1,0 +1,2761 @@
+[ {
+  "uri" : "http://110paradise.libsyn.com/rss",
+  "name" : "110% Paradise",
+  "date" : "20171219",
+  "items" : 54
+}, {
+  "uri" : "http://3isacrowd.podomatic.com/rss2.xml",
+  "name" : "3 is a crowd",
+  "date" : "20171213",
+  "items" : 2
+}, {
+  "uri" : "http://adsessor.no/xml/nyheter.xml",
+  "name" : "AdSessor.no | MediaBok.no",
+  "date" : "20060201",
+  "items" : 97
+}, {
+  "uri" : "http://anne-bleiklie.squarespace.com/episoder/?format=rss",
+  "name" : "Marthe&Marthe - Marthe&Marthe",
+  "date" : "20171223",
+  "items" : 35
+}, {
+  "uri" : "http://antikken.podbean.com/feed/",
+  "name" : "Helter og legender fra antikken - en podcast for alle",
+  "date" : "20170601",
+  "items" : 27
+}, {
+  "uri" : "http://api.vg.no/podcast/cover-story.rss",
+  "name" : "Coverstory",
+  "date" : "20171107",
+  "items" : 6
+}, {
+  "uri" : "http://api.vg.no/podcast/giaever-og-joffen.rss",
+  "name" : "VG - Giæver og Joffen",
+  "date" : "20171222",
+  "items" : 137
+}, {
+  "uri" : "http://api.vg.no/podcast/helgestart.rss",
+  "name" : "Tett på med Marte Spurkland",
+  "date" : "20171107",
+  "items" : 63
+}, {
+  "uri" : "http://api.vg.no/podcast/valebrokk-og-co.rss",
+  "name" : "E24 - Valebrokk og Co.",
+  "date" : "20180103",
+  "items" : 117
+}, {
+  "uri" : "http://bakscenen.libsyn.com/rss",
+  "name" : "Bak Scenen",
+  "date" : "20180116",
+  "items" : 35
+}, {
+  "uri" : "http://bibelundervisning.com/mp3.xml",
+  "name" : "Bibelundervisning pÃ¥ Podcast (Audio)",
+  "date" : "20171030",
+  "items" : 127
+}, {
+  "uri" : "http://bokpod.libsyn.com/rss",
+  "name" : "BokPod",
+  "date" : "20180116",
+  "items" : 34
+}, {
+  "uri" : "http://byenogbygda.podomatic.com/rss2.xml",
+  "name" : "Byen og bygda",
+  "date" : "20171217",
+  "items" : 13
+}, {
+  "uri" : "http://bymenigheten-sandnes.no/rss/italer.xml",
+  "name" : "ByMenigheten - Sandnes",
+  "date" : "20180107",
+  "items" : 450
+}, {
+  "uri" : "http://damarisnorge.podbean.com/feed/",
+  "name" : "Damaris Norge - kobler kristen tro og populærkultur",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://damorgenbladet.libsyn.com/rss",
+  "name" : "da!",
+  "date" : "20171228",
+  "items" : 13
+}, {
+  "uri" : "http://denstorekundereisen.libsyn.com/rss",
+  "name" : "Den store kundereisen - en podcast om moderne markedsføring",
+  "date" : "20171215",
+  "items" : 12
+}, {
+  "uri" : "http://dev.varden.no/podcast/odd-magasinet/odd-magasinet.xml",
+  "name" : "ODD-magasinet",
+  "date" : "20150512",
+  "items" : 8
+}, {
+  "uri" : "http://ekstrempodden.libsyn.com/rss",
+  "name" : "Ekstrempodden",
+  "date" : "20171220",
+  "items" : 31
+}, {
+  "uri" : "http://eldoradio.podomatic.com/rss2.xml",
+  "name" : "Eldoradio Podcast",
+  "date" : "20171214",
+  "items" : 28
+}, {
+  "uri" : "http://enpodkastomamerikanskpolitikk.podbean.com/feed/",
+  "name" : "En podkast om amerikansk politikk",
+  "date" : "20161104",
+  "items" : 17
+}, {
+  "uri" : "http://entries.no/freia/podcast/freia-podcast.xml",
+  "name" : "Freia Melkesjokolade",
+  "date" : "20160225",
+  "items" : 3
+}, {
+  "uri" : "http://feed.buffkitten.no/levelbackup",
+  "name" : "Level BackUp",
+  "date" : "20180112",
+  "items" : 119
+}, {
+  "uri" : "http://feed.radcrew.net/radcrew",
+  "name" : "Rad Crew",
+  "date" : "20180113",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.feedburner.com/bergenskirken",
+  "name" : "Salt Bergenskirken",
+  "date" : "20180108",
+  "items" : 367
+}, {
+  "uri" : "http://feeds.feedburner.com/duskullehavaertder",
+  "name" : "Du skulle ha vært der",
+  "date" : "20171102",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/ettersendingpodkast",
+  "name" : "Etter Sending",
+  "date" : "20180109",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.feedburner.com/hvaskjer",
+  "name" : "Hva skjer æ?",
+  "date" : "20170814",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/normisjonsof",
+  "name" : "Normisjon Sogn og Fjordane",
+  "date" : "20160419",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.feedburner.com/tressiesspodcast",
+  "name" : "Tress i Ess",
+  "date" : "20170112",
+  "items" : 50
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:108786923/sounds.rss",
+  "name" : "Om Gud og livet med Chris Duwe",
+  "date" : "20170112",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:109388825/sounds.rss",
+  "name" : "Folk som liker bøker",
+  "date" : "20171023",
+  "items" : 53
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:109942005/sounds.rss",
+  "name" : "Glimt i Olauget",
+  "date" : "20161016",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:113888406/sounds.rss",
+  "name" : "Den beste timen",
+  "date" : "20171223",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:114707784/sounds.rss",
+  "name" : "Peiling",
+  "date" : "20160929",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:116946450/sounds.rss",
+  "name" : "Spør Psykologen - med Janne & Nils",
+  "date" : "20171223",
+  "items" : 39
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:125710174/sounds.rss",
+  "name" : "Syden - den kulturschizofrene skolesekken",
+  "date" : "20171223",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:135102382/sounds.rss",
+  "name" : "Trigger Warning Podcast",
+  "date" : "20170313",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:140739207/sounds.rss",
+  "name" : "Jump Cast",
+  "date" : "20171211",
+  "items" : 61
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:145439361/sounds.rss",
+  "name" : "Alfakrøll Podcast",
+  "date" : "20160217",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:147808685/sounds.rss",
+  "name" : "Bjarte og Pål-CAST",
+  "date" : "20160920",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:148153063/sounds.rss",
+  "name" : "Aftenpodden",
+  "date" : "20171220",
+  "items" : 137
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:149452237/sounds.rss",
+  "name" : "Saft og Svele",
+  "date" : "20171228",
+  "items" : 109
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:150118172/sounds.rss",
+  "name" : "Nøytral",
+  "date" : "20170924",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:150385340/sounds.rss",
+  "name" : "Vinmonopolets podcast",
+  "date" : "20171215",
+  "items" : 73
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:150398403/sounds.rss",
+  "name" : "FEDRElandet - En pappapodcast",
+  "date" : "20161014",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:151641537/sounds.rss",
+  "name" : "#pengepodden",
+  "date" : "20171228",
+  "items" : 136
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:151700937/sounds.rss",
+  "name" : "SF-Podden",
+  "date" : "20171212",
+  "items" : 80
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:152514101/sounds.rss",
+  "name" : "Sis-Finnmárkku syndroma",
+  "date" : "20171219",
+  "items" : 40
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:154959314/sounds.rss",
+  "name" : "Bra damer",
+  "date" : "20171218",
+  "items" : 67
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:156008768/sounds.rss",
+  "name" : "I.Kjelleren",
+  "date" : "20170228",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:156923257/sounds.rss",
+  "name" : "Transistor Podcast",
+  "date" : "20170704",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:157070105/sounds.rss",
+  "name" : "Taler fra Salem Bergen",
+  "date" : "20171218",
+  "items" : 217
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:157574059/sounds.rss",
+  "name" : "Nina & Richard Podcast",
+  "date" : "20150821",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:159004712/sounds.rss",
+  "name" : "hakkamøkk",
+  "date" : "20160531",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:159193610/sounds.rss",
+  "name" : "S&M Podcast",
+  "date" : "20160210",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:159436089/sounds.rss",
+  "name" : "StanghelleEilertsen 2mot1",
+  "date" : "20150818",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:159927637/sounds.rss",
+  "name" : "40 uker",
+  "date" : "20170316",
+  "items" : 37
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:160413340/sounds.rss",
+  "name" : "Oppcast med Ole & Patrick",
+  "date" : "20180105",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:16607799/sounds.rss",
+  "name" : "Frokost På Radio Nova",
+  "date" : "20171223",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:166554787/sounds.rss",
+  "name" : "Det Norske Teatret",
+  "date" : "20170908",
+  "items" : 49
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:171623470/sounds.rss",
+  "name" : "AftenpostenVerden",
+  "date" : "20170714",
+  "items" : 78
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:171844689/sounds.rss",
+  "name" : "Fotballradioen med Jesper og Pål",
+  "date" : "20171220",
+  "items" : 71
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:172076927/sounds.rss",
+  "name" : "KenneTH og Ådnes podcast",
+  "date" : "20170711",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:172303021/sounds.rss",
+  "name" : "Grunnlaget",
+  "date" : "20151029",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:174338605/sounds.rss",
+  "name" : "Pinsemenigheten Zion Konsmo",
+  "date" : "20171119",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:174755687/sounds.rss",
+  "name" : "BokTorsdag under Kulturutvalget",
+  "date" : "20170426",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:175616020/sounds.rss",
+  "name" : "Ukulelesnakk - For deg som spiller ukulele",
+  "date" : "20170928",
+  "items" : 17
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:175892887/sounds.rss",
+  "name" : "4 pils og 1 podcast",
+  "date" : "20170220",
+  "items" : 28
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:17590357/sounds.rss",
+  "name" : "Tolv Kjappe Podcast",
+  "date" : "20170921",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:177074599/sounds.rss",
+  "name" : "Fenomental Podcast",
+  "date" : "20160222",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:177114596/sounds.rss",
+  "name" : "Latter Podcast",
+  "date" : "20171213",
+  "items" : 41
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:177523225/sounds.rss",
+  "name" : "Sagaresepsjonen",
+  "date" : "20161112",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:178661722/sounds.rss",
+  "name" : "Kom heimatt, gut!",
+  "date" : "20160117",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:179061560/sounds.rss",
+  "name" : "Delete",
+  "date" : "20170311",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:179779659/sounds.rss",
+  "name" : "Kathrine og Sofia",
+  "date" : "20161120",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180360263/sounds.rss",
+  "name" : "Stafett er stafett",
+  "date" : "20171223",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180769136/sounds.rss",
+  "name" : "Big 5 med Nils og Harald",
+  "date" : "20161222",
+  "items" : 17
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180819212/sounds.rss",
+  "name" : "Marcus Pedersen",
+  "date" : "20171212",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:181580544/sounds.rss",
+  "name" : "Podcast fra RKBU Midt-Norge",
+  "date" : "20160202",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:182136734/sounds.rss",
+  "name" : "Nordea Insights NO",
+  "date" : "20171219",
+  "items" : 75
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:182200244/sounds.rss",
+  "name" : "Anna Zcitzo",
+  "date" : "20161205",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:183522499/sounds.rss",
+  "name" : "Heia Brann!",
+  "date" : "20171218",
+  "items" : 60
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:183700773/sounds.rss",
+  "name" : "BIT Teatergarasjens podcast",
+  "date" : "20171017",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:183784930/sounds.rss",
+  "name" : "ADHD Norge",
+  "date" : "20171213",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:184094631/sounds.rss",
+  "name" : "Heftig Reach",
+  "date" : "20160320",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:18637591/sounds.rss",
+  "name" : "Uten Filter Podkast",
+  "date" : "20170117",
+  "items" : 24
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:187618207/sounds.rss",
+  "name" : "Bynamo podcast",
+  "date" : "20171214",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:187971827/sounds.rss",
+  "name" : "Aftenpodden Junior - Podcast for barn",
+  "date" : "20170406",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:188848140/sounds.rss",
+  "name" : "Treningspodden - en podcast om trening",
+  "date" : "20170114",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:189004924/sounds.rss",
+  "name" : "#TAfotball",
+  "date" : "20171216",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:189135864/sounds.rss",
+  "name" : "Gullalder",
+  "date" : "20171125",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:189412968/sounds.rss",
+  "name" : "GodNyhet Podcast",
+  "date" : "20171228",
+  "items" : 47
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:191010595/sounds.rss",
+  "name" : "Fatt no det",
+  "date" : "20171223",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:192386252/sounds.rss",
+  "name" : "Den gang da - Historie og samfunn",
+  "date" : "20170907",
+  "items" : 38
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:19445788/sounds.rss",
+  "name" : "Radio Haugaland",
+  "date" : "20171121",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:197779084/sounds.rss",
+  "name" : "Du verden!",
+  "date" : "20171129",
+  "items" : 75
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:197830437/sounds.rss",
+  "name" : "Kaja og Jenny i New York",
+  "date" : "20170729",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:197994369/sounds.rss",
+  "name" : "Teknisk sett",
+  "date" : "20171228",
+  "items" : 104
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:198061096/sounds.rss",
+  "name" : "Lange Flate",
+  "date" : "20170923",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:199137812/sounds.rss",
+  "name" : "StorySLAM Oslo",
+  "date" : "20171226",
+  "items" : 55
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:199502528/sounds.rss",
+  "name" : "Studentpodcast om prokrastinering",
+  "date" : "20171128",
+  "items" : 24
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:200090259/sounds.rss",
+  "name" : "Amerikansk Fotball Podkast",
+  "date" : "20170703",
+  "items" : 37
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:200504898/sounds.rss",
+  "name" : "Stortingsrestauranten",
+  "date" : "20180111",
+  "items" : 63
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:200712324/sounds.rss",
+  "name" : "TV 2 Underhuset",
+  "date" : "20171215",
+  "items" : 67
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:201279002/sounds.rss",
+  "name" : "Fag og Feminin",
+  "date" : "20170223",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:201598441/sounds.rss",
+  "name" : "Erlend Leser Bok",
+  "date" : "20160215",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:201678978/sounds.rss",
+  "name" : "Ungdomspodden",
+  "date" : "20170428",
+  "items" : 50
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:201956106/sounds.rss",
+  "name" : "Gutta som flytta til Oslo",
+  "date" : "20171222",
+  "items" : 36
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:202021949/sounds.rss",
+  "name" : "på generell basis",
+  "date" : "20170208",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:202033801/sounds.rss",
+  "name" : "Vi koker kloden",
+  "date" : "20170618",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:202303369/sounds.rss",
+  "name" : "Alt var mye bedre under Keegan",
+  "date" : "20171024",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:202602101/sounds.rss",
+  "name" : "Yppele, kæm æ du?",
+  "date" : "20160828",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:203810590/sounds.rss",
+  "name" : "Rasmus & Saga",
+  "date" : "20171214",
+  "items" : 70
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:204872030/sounds.rss",
+  "name" : "Ka sa du, sa du? Et språkprogram",
+  "date" : "20160814",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:204902113/sounds.rss",
+  "name" : "Politikk og Røvere",
+  "date" : "20170722",
+  "items" : 43
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:205285143/sounds.rss",
+  "name" : "Minervapodden",
+  "date" : "20171214",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:205624409/sounds.rss",
+  "name" : "Klar Tale",
+  "date" : "20171213",
+  "items" : 84
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:205648088/sounds.rss",
+  "name" : "Podkast fra Forlaget Manifest",
+  "date" : "20160525",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:206625473/sounds.rss",
+  "name" : "First Cast - Rundt lunsjbordet i First House",
+  "date" : "20171211",
+  "items" : 57
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:207089848/sounds.rss",
+  "name" : "TV 2s Konflikt og kaffe",
+  "date" : "20160511",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:207109343/sounds.rss",
+  "name" : "Grønnhetstyranniet",
+  "date" : "20171222",
+  "items" : 104
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:208052811/sounds.rss",
+  "name" : "Uvise Menn",
+  "date" : "20170916",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:208217094/sounds.rss",
+  "name" : "Det finnes ingen dumme spørsmål",
+  "date" : "20170406",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:208221092/sounds.rss",
+  "name" : "Opptak | Underholdning på skjerm",
+  "date" : "20170224",
+  "items" : 30
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:208292034/sounds.rss",
+  "name" : "Treningspodden",
+  "date" : "20171218",
+  "items" : 86
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:208453190/sounds.rss",
+  "name" : "Salem Stavanger",
+  "date" : "20171210",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:208566083/sounds.rss",
+  "name" : "AlltidLue",
+  "date" : "20170718",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:209405503/sounds.rss",
+  "name" : "Studentersamfunnet",
+  "date" : "20171104",
+  "items" : 71
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:209674534/sounds.rss",
+  "name" : "Tjukken og Streken",
+  "date" : "20170620",
+  "items" : 30
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:20989304/sounds.rss",
+  "name" : "vi lager humor",
+  "date" : "20171223",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:210108489/sounds.rss",
+  "name" : "Ta hånda bort fra popfilteret",
+  "date" : "20170409",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:211002087/sounds.rss",
+  "name" : "VINSKOLEN",
+  "date" : "20170406",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:211283833/sounds.rss",
+  "name" : "Finansredaksjonen",
+  "date" : "20171206",
+  "items" : 64
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:213056969/sounds.rss",
+  "name" : "Klagemuren",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:213102065/sounds.rss",
+  "name" : "Tigeren og jeg",
+  "date" : "20160808",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:213623025/sounds.rss",
+  "name" : "Grøss i Grenseland",
+  "date" : "20160323",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:215489809/sounds.rss",
+  "name" : "Internettjentene",
+  "date" : "20180116",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:217989913/sounds.rss",
+  "name" : "TÆB X-tra",
+  "date" : "20160512",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:218529860/sounds.rss",
+  "name" : "Lahlum og Lysbakken",
+  "date" : "20171208",
+  "items" : 47
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:219057394/sounds.rss",
+  "name" : "Wicked Win",
+  "date" : "20170825",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:219666944/sounds.rss",
+  "name" : "På krigsstien - en podcast fra Forsvarets høgskole",
+  "date" : "20171213",
+  "items" : 36
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:220287343/sounds.rss",
+  "name" : "NO FILTER med Chris & Backer",
+  "date" : "20170113",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:222840390/sounds.rss",
+  "name" : "Petroleumsrapporten",
+  "date" : "20160606",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:224127436/sounds.rss",
+  "name" : "Skilsmissecoach Line Strandvik",
+  "date" : "20170330",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:225883014/sounds.rss",
+  "name" : "Taler fra Oasen Søgne og Mandal",
+  "date" : "20171206",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:226021829/sounds.rss",
+  "name" : "Betania Sokndal",
+  "date" : "20171224",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:227766146/sounds.rss",
+  "name" : "Sour Rangers Podcast",
+  "date" : "20170810",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:227929310/sounds.rss",
+  "name" : "GRAVID på ekte",
+  "date" : "20170421",
+  "items" : 35
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:228025652/sounds.rss",
+  "name" : "Nordea Puls",
+  "date" : "20171222",
+  "items" : 69
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:228838610/sounds.rss",
+  "name" : "Luisa & Carina",
+  "date" : "20171002",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:229384136/sounds.rss",
+  "name" : "Manifest podkast",
+  "date" : "20171128",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:230325598/sounds.rss",
+  "name" : "Teip og Tiara",
+  "date" : "20171227",
+  "items" : 29
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:231142522/sounds.rss",
+  "name" : "Mens vi venter",
+  "date" : "20170602",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:231151692/sounds.rss",
+  "name" : "UFF tøyet ditt i den grønne boksen",
+  "date" : "20160605",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:232206146/sounds.rss",
+  "name" : "Podcast fra UiT Norges arktiske universitet",
+  "date" : "20171115",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:235151196/sounds.rss",
+  "name" : "KSU 24/7 Podcast",
+  "date" : "20170511",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:23713455/sounds.rss",
+  "name" : "På bærtur med Kjersti Pleym",
+  "date" : "20170927",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:238598751/sounds.rss",
+  "name" : "Stem Jesus inn i bystyret",
+  "date" : "20161119",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:245214528/sounds.rss",
+  "name" : "Engelsk fotball på nivå 2, 3 og 4.",
+  "date" : "20171017",
+  "items" : 44
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:247749744/sounds.rss",
+  "name" : "u:betania",
+  "date" : "20171209",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:248159157/sounds.rss",
+  "name" : "Salem Kristiansand podcast",
+  "date" : "20171224",
+  "items" : 65
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:249385698/sounds.rss",
+  "name" : "Kveldsmøtet Salem Kristiansand",
+  "date" : "20171203",
+  "items" : 51
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:249588652/sounds.rss",
+  "name" : "Øre for mat",
+  "date" : "20171123",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:251248854/sounds.rss",
+  "name" : "Nobel Peace Center",
+  "date" : "20171130",
+  "items" : 38
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:251489411/sounds.rss",
+  "name" : "LUSCOS Podcast - Fotball og Leeds United",
+  "date" : "20171019",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:252907396/sounds.rss",
+  "name" : "Kolbjørn og Klaus",
+  "date" : "20171209",
+  "items" : 52
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:252908949/sounds.rss",
+  "name" : "Fine Folk - med Marianne Danielsen",
+  "date" : "20171225",
+  "items" : 45
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:25364882/sounds.rss",
+  "name" : "Pickpreik om NFL",
+  "date" : "20171222",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:253952123/sounds.rss",
+  "name" : "På overtid",
+  "date" : "20161204",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:254259485/sounds.rss",
+  "name" : "Danske Bank, Norge",
+  "date" : "20161003",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:25466452/sounds.rss",
+  "name" : "Fu*k off!",
+  "date" : "20161112",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:2548319/sounds.rss",
+  "name" : "MediaPuls - Din puls på digitale og sosiale medier.",
+  "date" : "20171227",
+  "items" : 214
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:254839809/sounds.rss",
+  "name" : "I Oddgarderoben",
+  "date" : "20170112",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:254850927/sounds.rss",
+  "name" : "Verdens Verste Mennesker",
+  "date" : "20161224",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:255772996/sounds.rss",
+  "name" : "Litteratursymposiet i Odda",
+  "date" : "20171127",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:256497285/sounds.rss",
+  "name" : "Ja, de penga",
+  "date" : "20161124",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:256984923/sounds.rss",
+  "name" : "T***ePause",
+  "date" : "20170514",
+  "items" : 19
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:257441686/sounds.rss",
+  "name" : "Verdensveven",
+  "date" : "20170622",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:261975068/sounds.rss",
+  "name" : "Tommy manboy og Kim castle´s Podcast",
+  "date" : "20170913",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:263272167/sounds.rss",
+  "name" : "Fjordingen på Flo skue",
+  "date" : "20170802",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:264185952/sounds.rss",
+  "name" : "Paretopodden",
+  "date" : "20171221",
+  "items" : 17
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:265613042/sounds.rss",
+  "name" : "Løpetid - Podcasten for deg som liker løping",
+  "date" : "20180103",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:267716608/sounds.rss",
+  "name" : "Sånn passe god mat",
+  "date" : "20170820",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:271263328/sounds.rss",
+  "name" : "Skuddet på Toftøy",
+  "date" : "20170119",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:272710381/sounds.rss",
+  "name" : "IKKE FASIT - Vi gir råd, men ikke fasit.",
+  "date" : "20170614",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:282227831/sounds.rss",
+  "name" : "Den Første Overgangskrisa",
+  "date" : "20171213",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:288919430/sounds.rss",
+  "name" : "12 Uker med Berit Nordstrand & Klaus Sonstad",
+  "date" : "20170508",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:293783901/sounds.rss",
+  "name" : "Dovregubbens Ball - Vi tipper Eliteserien",
+  "date" : "20170909",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:296773761/sounds.rss",
+  "name" : "En reisepod for deg som er litt stuck i kvardagslivet.",
+  "date" : "20170328",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:298789620/sounds.rss",
+  "name" : "På Ball",
+  "date" : "20171220",
+  "items" : 35
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:308987586/sounds.rss",
+  "name" : "Over telefonen med Myklebust komikkment",
+  "date" : "20170523",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:312971397/sounds.rss",
+  "name" : "Skammens tempel",
+  "date" : "20171211",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:315988124/sounds.rss",
+  "name" : "Heimelaga",
+  "date" : "20180108",
+  "items" : 35
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:317198765/sounds.rss",
+  "name" : "Helt Normalt",
+  "date" : "20170815",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:323926799/sounds.rss",
+  "name" : "Elbilpodden",
+  "date" : "20180114",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:324117515/sounds.rss",
+  "name" : "Våre Beste Menn",
+  "date" : "20180116",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:326345351/sounds.rss",
+  "name" : "KVALLM",
+  "date" : "20180114",
+  "items" : 29
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:326831037/sounds.rss",
+  "name" : "La stå! podkast fra GAN Aschehoug",
+  "date" : "20171103",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:331778088/sounds.rss",
+  "name" : "Kris på Kripos",
+  "date" : "20171107",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:332210383/sounds.rss",
+  "name" : "Spør en forsker",
+  "date" : "20171221",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:333206305/sounds.rss",
+  "name" : "Alternativ Agenda",
+  "date" : "20180107",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:335089752/sounds.rss",
+  "name" : "Anger",
+  "date" : "20180112",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:335100925/sounds.rss",
+  "name" : "Kan idioter ha rett?",
+  "date" : "20171223",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:337745543/sounds.rss",
+  "name" : "Vorzpiel",
+  "date" : "20171212",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:338082158/sounds.rss",
+  "name" : "Podcast fra Norges Fotballforbund",
+  "date" : "20171211",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:33893444/sounds.rss",
+  "name" : "Skurk Til Kaffen",
+  "date" : "20170809",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:339939611/sounds.rss",
+  "name" : "Ernæringspodden",
+  "date" : "20171219",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:34370636/sounds.rss",
+  "name" : "Golden Cockerel",
+  "date" : "20171219",
+  "items" : 36
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:345102410/sounds.rss",
+  "name" : "Innblikk",
+  "date" : "20171228",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:3600026/sounds.rss",
+  "name" : "Tacofredag med Philip og Magnus",
+  "date" : "20170419",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:364470344/sounds.rss",
+  "name" : "Egg og Bacon",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:364992893/sounds.rss",
+  "name" : "Løkkapodden - vi tar Ringsakerfotballen på alvor",
+  "date" : "20180106",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:37601192/sounds.rss",
+  "name" : "Good Boys Radio",
+  "date" : "20160718",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:40224130/sounds.rss",
+  "name" : "Nuts Podcast",
+  "date" : "20170914",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:44122524/sounds.rss",
+  "name" : "Ka Eg Syns",
+  "date" : "20171218",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:46180473/sounds.rss",
+  "name" : "Studentnyhetene",
+  "date" : "20171208",
+  "items" : 143
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:46814828/sounds.rss",
+  "name" : "Radio Nova",
+  "date" : "20171204",
+  "items" : 135
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:48815635/sounds.rss",
+  "name" : "Upolitisk frikvarter",
+  "date" : "20160923",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:53937710/sounds.rss",
+  "name" : "HMS med JTK",
+  "date" : "20171022",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:56128822/sounds.rss",
+  "name" : "Gi plass til tanken",
+  "date" : "20140911",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:633813/sounds.rss",
+  "name" : "Wildcard FC",
+  "date" : "20171228",
+  "items" : 142
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:64598707/sounds.rss",
+  "name" : "Kvartetten under rosetten",
+  "date" : "20170105",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:64977327/sounds.rss",
+  "name" : "Philips Avent Norge",
+  "date" : "20141105",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:66749961/sounds.rss",
+  "name" : "Kapitalen - Radio Nova",
+  "date" : "20171223",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:68850124/sounds.rss",
+  "name" : "Nova Noir",
+  "date" : "20171223",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:68963881/sounds.rss",
+  "name" : "Opplysningen 99,3",
+  "date" : "20171223",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:68968572/sounds.rss",
+  "name" : "Sorgenfri - Radio Nova",
+  "date" : "20171223",
+  "items" : 41
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:71712947/sounds.rss",
+  "name" : "Teknologimagasinet",
+  "date" : "20171208",
+  "items" : 67
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:7193729/sounds.rss",
+  "name" : "Peiskos",
+  "date" : "20141222",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:7732269/sounds.rss",
+  "name" : "Radio 3 Bodø",
+  "date" : "20171221",
+  "items" : 68
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:87560336/sounds.rss",
+  "name" : "Skien Invitational Podcast",
+  "date" : "20170619",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:940157/sounds.rss",
+  "name" : "Balløya - En norsk Premier League podcast",
+  "date" : "20171222",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:9848059/sounds.rss",
+  "name" : "BOBcast",
+  "date" : "20171222",
+  "items" : 87
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/alternativmedisinogkristentro.xml",
+  "name" : "Alternativ medisin og kristen tro",
+  "date" : "20171227",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_1_korinterbrev.xml",
+  "name" : "Andakten - 1. Korinterbrev",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_1_mosebok.xml",
+  "name" : "Andakten - 1. Mosebok",
+  "date" : "20171230",
+  "items" : 9
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_1_sameuelsbok.xml",
+  "name" : "Andakten - 1. Samuelsbok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_1_tessalonikerbrev.xml",
+  "name" : "Andakten - 1. Tessalonikerbrev",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_2_kongebok.xml",
+  "name" : "Andakten - 2. Kongebok",
+  "date" : "20171230",
+  "items" : 7
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_2_korinterbrev.xml",
+  "name" : "Andakten - 2. Korinterbrev",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_2_mosebok.xml",
+  "name" : "Andakten - 2. Mosebok",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_2_tessalonikerbrev.xml",
+  "name" : "Andakten - 2. Tessalonikerbrev",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_3_mosebok.xml",
+  "name" : "Andakten - 3. Mosebok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_5_mosebok.xml",
+  "name" : "Andakten - 5. Mosebok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_abraham.xml",
+  "name" : "Andakten - Abraham",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_apostelen_johannes.xml",
+  "name" : "Andakten - Apostelen Johannes",
+  "date" : "20171230",
+  "items" : 8
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_daniels_bok.xml",
+  "name" : "Andakten - Daniels bok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_doeperen_johannes.xml",
+  "name" : "Andakten - DÃ¸peren Johannes",
+  "date" : "20171228",
+  "items" : 14
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_dommernes_bok.xml",
+  "name" : "Andakten - Dommernes bok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_esras_bok.xml",
+  "name" : "Andakten - Esras bok",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_esters_bok.xml",
+  "name" : "Andakten - Esters bok",
+  "date" : "20171230",
+  "items" : 6
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_fader_vaar_.xml",
+  "name" : "Andakten - Fader vÃ¥r",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_fremfor_alt.xml",
+  "name" : "Andakten - Fremfor alt",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_jeremia.xml",
+  "name" : "Andakten - Jeremia",
+  "date" : "20171230",
+  "items" : 7
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_jeremias_bok.xml",
+  "name" : "Andakten - Jeremias bok",
+  "date" : "20171230",
+  "items" : 7
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_jesajas_bok.xml",
+  "name" : "Andakten - Jesajas bok",
+  "date" : "20171230",
+  "items" : 11
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_jesu_lidelseshistorie.xml",
+  "name" : "Andakten - Jesu lidelseshistorie",
+  "date" : "20171230",
+  "items" : 13
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_jobs_bok.xml",
+  "name" : "Andakten - Jobs bok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_johannes_3_brev.xml",
+  "name" : "Andakten - Johannes 3 brev",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_johannes_evangeliet.xml",
+  "name" : "Andakten - Johannes evangeliet",
+  "date" : "20171230",
+  "items" : 8
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_josvas_bok.xml",
+  "name" : "Andakten - Josvas bok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_lukas_evangeliet.xml",
+  "name" : "Andakten - Lukas evangeliet",
+  "date" : "20171230",
+  "items" : 9
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_markus_evangeliet.xml",
+  "name" : "Andakten - Markus evangeliet",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_matteus_evangeliet.xml",
+  "name" : "Andakten - Matteus evangeliet",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_moses.xml",
+  "name" : "Andakten - Moses",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_mote_med_jesus_del_2.xml",
+  "name" : "Andakten - MÃ¸te med Jesus del 2",
+  "date" : "20180109",
+  "items" : 87
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_nehemjas_bok.xml",
+  "name" : "Andakten - Nehemjas bok",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_noah.xml",
+  "name" : "Andakten - Noah",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_romerbrevet.xml",
+  "name" : "Andakten - Romerbrevet",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_ruts_bok.xml",
+  "name" : "Andakten - Ruts bok",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_salmenes_bok.xml",
+  "name" : "Andakten - Salmenes bok",
+  "date" : "20171230",
+  "items" : 206
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_troskapitlet.xml",
+  "name" : "Andakten - Troskapitlet",
+  "date" : "20171230",
+  "items" : 32
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/andakt_undre_i_bibelen.xml",
+  "name" : "Andakten - Undre i Bibelen",
+  "date" : "20171228",
+  "items" : 193
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/bv.xml",
+  "name" : "BÃ¸nnens Verden",
+  "date" : "20171230",
+  "items" : 16
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/deaandeligenaadegaver.xml",
+  "name" : "De Ãndelige NÃ¥degaver",
+  "date" : "20171227",
+  "items" : 8
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/dueraldrialene.xml",
+  "name" : "Du er aldri alene",
+  "date" : "20171227",
+  "items" : 18
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/fokus_pa_jesus.xml",
+  "name" : "Fokus pÃ¥ Jesus",
+  "date" : "20171228",
+  "items" : 46
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/forogetter.xml",
+  "name" : "Før og Etter",
+  "date" : "20180117",
+  "items" : 17
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/jegerherrendinlege.xml",
+  "name" : "Jeg er Herren din lege",
+  "date" : "20180117",
+  "items" : 4
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/loo_apostlenesgjerninger.xml",
+  "name" : "Lys over Ordet Apostlenes gjerninger",
+  "date" : "20180117",
+  "items" : 87
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/loo_matteus.xml",
+  "name" : "Lys Over Ordet Matteusevangeliet",
+  "date" : "20171227",
+  "items" : 85
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/medvandrer.xml",
+  "name" : "Medvandrer",
+  "date" : "20180117",
+  "items" : 39
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/paaskeandakter_med_kjell_haltorp.xml",
+  "name" : "PÃ¥skeandakter med Kjell Haltorp",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/pastorenshjorne.xml",
+  "name" : "Pastorens HjÃ¸rne",
+  "date" : "20171227",
+  "items" : 382
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/radio/tanker_om_opprinnelsen.xml",
+  "name" : "Tanker om opprinnelsen",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/speech/2005.xml",
+  "name" : "2005 Filadelfia Kristiansand",
+  "date" : "20171227",
+  "items" : 22
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/speech/2006.xml",
+  "name" : "2006 Filadelfia Kristiansand",
+  "date" : "20171227",
+  "items" : 44
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/speech/2007.xml",
+  "name" : "2007 Filadelfia Kristiansand",
+  "date" : "20171227",
+  "items" : 18
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/speech/2008.xml",
+  "name" : "2008 Filadelfia Kristiansand",
+  "date" : "20171227",
+  "items" : 67
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/speech/2010.xml",
+  "name" : "2010 Filadelfia Kristiansand",
+  "date" : "20171227",
+  "items" : 91
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/speech/_taler.xml",
+  "name" : "Filadelfia, Kristiansand",
+  "date" : "20171227",
+  "items" : 5
+}, {
+  "uri" : "http://filesrv.filakrs.no/mediafiler/itunes/export/video/filadelfiakristiansandvideo.xml",
+  "name" : "Filadelfia Kristiansand Video",
+  "date" : "20110909",
+  "items" : 6
+}, {
+  "uri" : "http://grunderfilm.podbean.com/feed/",
+  "name" : "Alexias verden",
+  "date" : "20160725",
+  "items" : 2
+}, {
+  "uri" : "http://grysinding.libsyn.com/grunderkanalen",
+  "name" : "GrunderKanalen + Mye Mer Med Gry Sinding",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://haugalendingen.podbean.com/feed/",
+  "name" : "Haugalendingen",
+  "date" : "20160824",
+  "items" : 16
+}, {
+  "uri" : "http://helsepodden.libsyn.com/rss",
+  "name" : "Helsepodden",
+  "date" : "20180116",
+  "items" : 5
+}, {
+  "uri" : "http://home.bi.no/a0610224/podcasts/mrk9801/mypodcast.xml",
+  "name" : "MRK 9801 Markedsføringskanaler",
+  "date" : "20080227",
+  "items" : 8
+}, {
+  "uri" : "http://hovedkvarteretpodcast.podomatic.com/rss2.xml",
+  "name" : "Hovedkvarteret",
+  "date" : "20171214",
+  "items" : 25
+}, {
+  "uri" : "http://hverdagspodden.libsyn.com/rss",
+  "name" : "Hverdagspodden",
+  "date" : "20171225",
+  "items" : 21
+}, {
+  "uri" : "http://inf1080.project.ifi.uio.no/rss/lyd.rss",
+  "name" : "INF1080 – Logiske metoder for informatikk (kun lyd)",
+  "date" : "20141125",
+  "items" : 27
+}, {
+  "uri" : "http://inf1080.project.ifi.uio.no/rss/video.rss",
+  "name" : "INF1080 – Logiske metoder for informatikk",
+  "date" : "20141128",
+  "items" : 28
+}, {
+  "uri" : "http://inkubatoren.libsyn.com/rss",
+  "name" : "Inkubatoren | For gründere og de som satser",
+  "date" : "20171219",
+  "items" : 32
+}, {
+  "uri" : "http://israelnyheter.podbean.com/feed/",
+  "name" : "Israel-korrespondenten",
+  "date" : "20171130",
+  "items" : 20
+}, {
+  "uri" : "http://jasmine.nowsprouting.com/sentrumkirkenstrmmen/podcast.php?pageid=21",
+  "name" : "Taler fra Sentrumkirken Strømmen",
+  "date" : "20111105",
+  "items" : 18
+}, {
+  "uri" : "http://juridiskabc.libsyn.com/rss",
+  "name" : "Juridisk ABC",
+  "date" : "20180116",
+  "items" : 38
+}, {
+  "uri" : "http://kjetilguro.podbean.com/feed/",
+  "name" : "36,9 - en podkast om politikk",
+  "date" : "20171103",
+  "items" : 20
+}, {
+  "uri" : "http://kkk5.podomatic.com/rss2.xml",
+  "name" : "Ku, Kønn og Kubikk - Radio 5",
+  "date" : "20171214",
+  "items" : 4
+}, {
+  "uri" : "http://klassiskefilmer.libsyn.com/rss",
+  "name" : "Klassiske Filmer",
+  "date" : "20171215",
+  "items" : 15
+}, {
+  "uri" : "http://kleintass.podbean.com/feed/",
+  "name" : "kleint ass",
+  "date" : "20180117",
+  "items" : 7
+}, {
+  "uri" : "http://lederliv.no/feed/podcast/",
+  "name" : "Lederliv",
+  "date" : "20171221",
+  "items" : 22
+}, {
+  "uri" : "http://lekendelett.podbean.com/feed/",
+  "name" : "Lekendelett Podcast - med Kjetil Fyllingen",
+  "date" : "20171221",
+  "items" : 50
+}, {
+  "uri" : "http://litteraturhuset.libsyn.com/rss",
+  "name" : "Litteraturhusets podkast",
+  "date" : "20171221",
+  "items" : 46
+}, {
+  "uri" : "http://lommeruskogsnerk.podomatic.com/rss2.xml",
+  "name" : "Lommerusk og Snerk",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://lotionogsmedstad.podomatic.com/rss2.xml",
+  "name" : "Lotion & Smedstad - The Podcast",
+  "date" : "20171215",
+  "items" : 44
+}, {
+  "uri" : "http://manchesterunitedpodden.podomatic.com/rss2.xml",
+  "name" : "Manchester United Podden",
+  "date" : "20180111",
+  "items" : 99
+}, {
+  "uri" : "http://margrethe.podbean.com/feed/",
+  "name" : "margrethe",
+  "date" : "20100425",
+  "items" : 3
+}, {
+  "uri" : "http://mariellogsara.podomatic.com/rss2.xml",
+  "name" : "Mariell og Sara",
+  "date" : "20171214",
+  "items" : 36
+}, {
+  "uri" : "http://maritogirene.podomatic.com/rss2.xml",
+  "name" : "maritogirene's Podcast",
+  "date" : "20171213",
+  "items" : 31
+}, {
+  "uri" : "http://mergudstjenester.podbean.com/feed/",
+  "name" : "MER - en annerledes Gudstjeneste",
+  "date" : "20170620",
+  "items" : 10
+}, {
+  "uri" : "http://messiaskirken.sermon.net/rss/main/audio",
+  "name" : "Messiaskirken",
+  "date" : "20180107",
+  "items" : 283
+}, {
+  "uri" : "http://mib60710.podomatic.com/rss2.xml",
+  "name" : "Østfold Lydavis",
+  "date" : "20171219",
+  "items" : 9
+}, {
+  "uri" : "http://mm.aftenbladet.no/podcast/rss/glassjenta/",
+  "name" : "Glassjenta",
+  "date" : "20160216",
+  "items" : 10
+}, {
+  "uri" : "http://modernwikings.podomatic.com/rss2.xml",
+  "name" : "Modern Wikings",
+  "date" : "20171214",
+  "items" : 8
+}, {
+  "uri" : "http://morgenbladet.libsyn.com/rss",
+  "name" : "Morgenbladets podcast",
+  "date" : "20171222",
+  "items" : 136
+}, {
+  "uri" : "http://mtfranknilsen.libsyn.com/rss",
+  "name" : "Mentaltrener Podcasten",
+  "date" : "20171230",
+  "items" : 100
+}, {
+  "uri" : "http://multimedia.api.no/www.vl.no/archive/01247/podcast_andakt_1247659a.rss",
+  "name" : "Vårt Land – Andakten",
+  "date" : "20090919",
+  "items" : 20
+}, {
+  "uri" : "http://musikksirkus.libsyn.com/rss",
+  "name" : "Musikksirkus med Bergersen og Østbye",
+  "date" : "20171219",
+  "items" : 47
+}, {
+  "uri" : "http://odneshotell.podomatic.com/rss2.xml",
+  "name" : "Odnes Hotell",
+  "date" : "20171214",
+  "items" : 19
+}, {
+  "uri" : "http://parergon.podbean.com/feed/",
+  "name" : "Parergon",
+  "date" : "20120614",
+  "items" : 3
+}, {
+  "uri" : "http://perfectdaynorway.libsyn.com/rss",
+  "name" : "Synnøve og Vanessa",
+  "date" : "20171228",
+  "items" : 33
+}, {
+  "uri" : "http://pinsekirka.no/rssfeed.rss",
+  "name" : "Pinsekirka Filadelfia, �lesund",
+  "date" : "20180114",
+  "items" : 169
+}, {
+  "uri" : "http://plansverden.podbean.com/feed/",
+  "name" : "Plans verden",
+  "date" : "20161227",
+  "items" : 5
+}, {
+  "uri" : "http://podcast.badeog.no/the_walking_dead/podcast.xml",
+  "name" : "The Walking Dead",
+  "date" : "20151009",
+  "items" : 3
+}, {
+  "uri" : "http://podcast.badeog.no/weird/podcast.xml",
+  "name" : "Weird things Norwegians do",
+  "date" : "20150430",
+  "items" : 1
+}, {
+  "uri" : "http://podcast.torvund.net/innforing.xml",
+  "name" : "Olav Torvund: Innledning til rettsstudiet",
+  "date" : "20080924",
+  "items" : 7
+}, {
+  "uri" : "http://podcast.torvund.net/kjopsrett.xml",
+  "name" : "Olav Torvund: KjÃ¸psrett",
+  "date" : "20080924",
+  "items" : 10
+}, {
+  "uri" : "http://podcast.torvund.net/pengekravsrett.xml",
+  "name" : "Olav Torvund: Pengkravsrett",
+  "date" : "20081005",
+  "items" : 71
+}, {
+  "uri" : "http://podcasthkc.podomatic.com/rss2.xml",
+  "name" : "Haien, Krabben og Catos Podcast",
+  "date" : "20171214",
+  "items" : 25
+}, {
+  "uri" : "http://podkast.nrk.no/program/20_spoersmaal.rss",
+  "name" : "NRK – 20 spørsmål",
+  "date" : "20160602",
+  "items" : 36
+}, {
+  "uri" : "http://podkast.nrk.no/program/abels_taarn.rss",
+  "name" : "NRK – Abels tårn",
+  "date" : "20180112",
+  "items" : 59
+}, {
+  "uri" : "http://podkast.nrk.no/program/are_og_odin.rss",
+  "name" : "NRK – Are og Odin",
+  "date" : "20180113",
+  "items" : 107
+}, {
+  "uri" : "http://podkast.nrk.no/program/beatles_komplett.rss",
+  "name" : "NRK – Beatles komplett",
+  "date" : "20111114",
+  "items" : 212
+}, {
+  "uri" : "http://podkast.nrk.no/program/befolkningen.rss",
+  "name" : "NRK – Befolkningen",
+  "date" : "20150625",
+  "items" : 85
+}, {
+  "uri" : "http://podkast.nrk.no/program/bok_i_p2.rss",
+  "name" : "NRK – NRK Bok",
+  "items" : 694
+}, {
+  "uri" : "http://podkast.nrk.no/program/boller_og_burritos.rss",
+  "name" : "NRK – Boller og Burritos",
+  "date" : "20130620",
+  "items" : 85
+}, {
+  "uri" : "http://podkast.nrk.no/program/dagens_avis.rss",
+  "name" : "NRK – Dagens avis",
+  "date" : "20131129",
+  "items" : 27
+}, {
+  "uri" : "http://podkast.nrk.no/program/dagsnytt_atten.rss",
+  "name" : "NRK – Dagsnytt Atten",
+  "date" : "20180112",
+  "items" : 1499
+}, {
+  "uri" : "http://podkast.nrk.no/program/dr_hoeyes_helsetips.rss",
+  "name" : "NRK – Dr. Høyes helsetips",
+  "date" : "20170320",
+  "items" : 44
+}, {
+  "uri" : "http://podkast.nrk.no/program/ekko_-_et_aktuelt_samfunnsprogram.rss",
+  "name" : "NRK – Ekko - et aktuelt samfunnsprogram",
+  "date" : "20180112",
+  "items" : 5055
+}, {
+  "uri" : "http://podkast.nrk.no/program/filmpolitiet.rss",
+  "name" : "NRK – Filmpolitiet",
+  "date" : "20180112",
+  "items" : 331
+}, {
+  "uri" : "http://podkast.nrk.no/program/filmpolitiet_dlc.rss",
+  "name" : "NRK – Filmpolitiet DLC",
+  "date" : "20150515",
+  "items" : 28
+}, {
+  "uri" : "http://podkast.nrk.no/program/fredagspanelet.rss",
+  "name" : "NRK – Fredagspanelet",
+  "date" : "20180112",
+  "items" : 122
+}, {
+  "uri" : "http://podkast.nrk.no/program/gaaten_i_isdalen.rss",
+  "name" : "NRK – Gåten i Isdalen",
+  "date" : "20180112",
+  "items" : 16
+}, {
+  "uri" : "http://podkast.nrk.no/program/godhet.rss",
+  "name" : "NRK – Godhet",
+  "date" : "20160215",
+  "items" : 7
+}, {
+  "uri" : "http://podkast.nrk.no/program/hallo_i_uken.rss",
+  "name" : "NRK – Hallo i uken",
+  "items" : 59
+}, {
+  "uri" : "http://podkast.nrk.no/program/heia_fotball.rss",
+  "name" : "NRK – Heia Fotball",
+  "date" : "20180112",
+  "items" : 202
+}, {
+  "uri" : "http://podkast.nrk.no/program/herreavdelingen.rss",
+  "name" : "NRK – Herreavdelingen",
+  "date" : "20180110",
+  "items" : 303
+}, {
+  "uri" : "http://podkast.nrk.no/program/jakten_paa_norge_1814-2014.rss",
+  "name" : "NRK – Jakten på Norge 1814-2014",
+  "date" : "20140310",
+  "items" : 10
+}, {
+  "uri" : "http://podkast.nrk.no/program/jan_olsen_fra_loensj.rss",
+  "name" : "NRK – Jan Olsen fra Lønsj",
+  "date" : "20170329",
+  "items" : 153
+}, {
+  "uri" : "http://podkast.nrk.no/program/janne__jostein_show_.rss",
+  "name" : "NRK – Janne & Jostein Show",
+  "date" : "20180116",
+  "items" : 67
+}, {
+  "uri" : "http://podkast.nrk.no/program/joergen_hva_tenker_du_paa.rss",
+  "name" : "NRK – Jørgen, hva tenker du på?",
+  "date" : "20160126",
+  "items" : 50
+}, {
+  "uri" : "http://podkast.nrk.no/program/jul_i_p2.rss",
+  "name" : "NRK – Jul i P2",
+  "date" : "20180101",
+  "items" : 51
+}, {
+  "uri" : "http://podkast.nrk.no/program/juntafil.rss",
+  "name" : "NRK – Juntafil",
+  "date" : "20170831",
+  "items" : 202
+}, {
+  "uri" : "http://podkast.nrk.no/program/kirketid.rss",
+  "name" : "NRK – Kirketid",
+  "date" : "20140731",
+  "items" : 172
+}, {
+  "uri" : "http://podkast.nrk.no/program/kraft.rss",
+  "name" : "NRK – KRAFT",
+  "date" : "20171224",
+  "items" : 94
+}, {
+  "uri" : "http://podkast.nrk.no/program/kroppen.rss",
+  "name" : "NRK – Kroppen",
+  "date" : "20170712",
+  "items" : 38
+}, {
+  "uri" : "http://podkast.nrk.no/program/kulturnytt.rss",
+  "name" : "NRK – Kulturnytt",
+  "date" : "20180117",
+  "items" : 2398
+}, {
+  "uri" : "http://podkast.nrk.no/program/kurer.rss",
+  "name" : "NRK – Kurer",
+  "date" : "20180112",
+  "items" : 255
+}, {
+  "uri" : "http://podkast.nrk.no/program/lars_og_martin.rss",
+  "name" : "NRK – Lars og Martin",
+  "date" : "20140604",
+  "items" : 16
+}, {
+  "uri" : "http://podkast.nrk.no/program/leonard_cohen3.rss",
+  "name" : "NRK – Håvard Rem presenterer Leonard Cohen",
+  "date" : "20140918",
+  "items" : 10
+}, {
+  "uri" : "http://podkast.nrk.no/program/loensj_med_rune_nilson.rss",
+  "name" : "NRK – Lønsj med Rune Nilson",
+  "date" : "20170331",
+  "items" : 1012
+}, {
+  "uri" : "http://podkast.nrk.no/program/loerdagsraadet.rss",
+  "name" : "NRK – Lørdagsrådet",
+  "date" : "20180113",
+  "items" : 276
+}, {
+  "uri" : "http://podkast.nrk.no/program/martin_beyer-olsen_live.rss",
+  "name" : "NRK – Martin Beyer-Olsen live",
+  "date" : "20130527",
+  "items" : 60
+}, {
+  "uri" : "http://podkast.nrk.no/program/mellom_himmel_og_jord.rss",
+  "name" : "NRK – Mellom himmel og jord",
+  "items" : 139
+}, {
+  "uri" : "http://podkast.nrk.no/program/museum.rss",
+  "name" : "NRK – Museum - et program om norsk historie",
+  "date" : "20180112",
+  "items" : 447
+}, {
+  "uri" : "http://podkast.nrk.no/program/norgesglasset.rss",
+  "name" : "NRK – Norgesglasset",
+  "items" : 159
+}, {
+  "uri" : "http://podkast.nrk.no/program/nrk_gull.rss",
+  "name" : "NRK – Gull",
+  "date" : "20130710",
+  "items" : 525
+}, {
+  "uri" : "http://podkast.nrk.no/program/nyhetsmorgen.rss",
+  "name" : "NRK – Nyhetsmorgen",
+  "date" : "20180117",
+  "items" : 1496
+}, {
+  "uri" : "http://podkast.nrk.no/program/p3_dokumentar.rss",
+  "name" : "NRK – P3 Dokumentar",
+  "date" : "20171214",
+  "items" : 147
+}, {
+  "uri" : "http://podkast.nrk.no/program/p3morgen.rss",
+  "name" : "NRK – P3morgen",
+  "date" : "20180112",
+  "items" : 1093
+}, {
+  "uri" : "http://podkast.nrk.no/program/pepper_og_pasjon.rss",
+  "name" : "NRK – Pepper & pasjon",
+  "items" : 23
+}, {
+  "uri" : "http://podkast.nrk.no/program/prebzogdennis_paa_p3_og_mp3.rss",
+  "name" : "NRK – PrebzOgDennis på P3 og mP3",
+  "date" : "20150823",
+  "items" : 9
+}, {
+  "uri" : "http://podkast.nrk.no/program/psykologen.rss",
+  "name" : "NRK – Psykologen",
+  "date" : "20180110",
+  "items" : 94
+}, {
+  "uri" : "http://podkast.nrk.no/program/purk_eller_skurk.rss",
+  "name" : "NRK – Purk eller skurk?",
+  "date" : "20171003",
+  "items" : 10
+}, {
+  "uri" : "http://podkast.nrk.no/program/radiodokumentaren.rss",
+  "name" : "NRK – Radiodok",
+  "date" : "20180111",
+  "items" : 182
+}, {
+  "uri" : "http://podkast.nrk.no/program/radiofront.rss",
+  "name" : "NRK – Radiofront",
+  "date" : "20140131",
+  "items" : 73
+}, {
+  "uri" : "http://podkast.nrk.no/program/radiomat.rss",
+  "name" : "NRK – Radiomat",
+  "date" : "20160812",
+  "items" : 16
+}, {
+  "uri" : "http://podkast.nrk.no/program/radioresepsjonen.rss",
+  "name" : "NRK – Radioresepsjonen",
+  "date" : "20180111",
+  "items" : 521
+}, {
+  "uri" : "http://podkast.nrk.no/program/radioresepsjonens_arkivpodkast.rss",
+  "name" : "NRK – Radioresepsjonens arkivpodkast",
+  "date" : "20171229",
+  "items" : 414
+}, {
+  "uri" : "http://podkast.nrk.no/program/radioselskapet.rss",
+  "name" : "NRK – Radioselskapet",
+  "date" : "20131112",
+  "items" : 363
+}, {
+  "uri" : "http://podkast.nrk.no/program/radioteatret.rss",
+  "name" : "NRK – Radioteatret",
+  "date" : "20160913",
+  "items" : 18
+}, {
+  "uri" : "http://podkast.nrk.no/program/saann_er_du.rss",
+  "name" : "NRK – Sånn er du",
+  "date" : "20170514",
+  "items" : 18
+}, {
+  "uri" : "http://podkast.nrk.no/program/salongen.rss",
+  "name" : "NRK – Salongen",
+  "date" : "20180113",
+  "items" : 766
+}, {
+  "uri" : "http://podkast.nrk.no/program/silkebaekken.rss",
+  "name" : "NRK – Silkebækken",
+  "date" : "20150407",
+  "items" : 23
+}, {
+  "uri" : "http://podkast.nrk.no/program/sommer_i_p2.rss",
+  "name" : "NRK – Sommer i P2",
+  "date" : "20170812",
+  "items" : 344
+}, {
+  "uri" : "http://podkast.nrk.no/program/spraakteigen.rss",
+  "name" : "NRK – Språkteigen",
+  "date" : "20180112",
+  "items" : 287
+}, {
+  "uri" : "http://podkast.nrk.no/program/steinar_og_bjoerns_baerbare_fredagsparty.rss",
+  "name" : "NRK – Steinar og Bjørns bærbare fredagsparty",
+  "date" : "20130608",
+  "items" : 17
+}, {
+  "uri" : "http://podkast.nrk.no/program/stroemwasenius.rss",
+  "name" : "NRK – Strøm/Wasenius",
+  "date" : "20170701",
+  "items" : 77
+}, {
+  "uri" : "http://podkast.nrk.no/program/superblokka.rss",
+  "name" : "NRK – Superblokka",
+  "date" : "20131231",
+  "items" : 335
+}, {
+  "uri" : "http://podkast.nrk.no/program/the_kaass_furuseths.rss",
+  "name" : "NRK – The Kåss Furuseths",
+  "date" : "20171224",
+  "items" : 49
+}, {
+  "uri" : "http://podkast.nrk.no/program/tore_og_einars_podkast_om_norge.rss",
+  "name" : "NRK – Tore og Einars podkast om Norge",
+  "date" : "20140407",
+  "items" : 16
+}, {
+  "uri" : "http://podkast.nrk.no/program/ukeslutt.rss",
+  "name" : "NRK – Ukeslutt",
+  "date" : "20180113",
+  "items" : 307
+}, {
+  "uri" : "http://podkast.nrk.no/program/ung_og_dum.rss",
+  "name" : "NRK – Ung og Dum",
+  "date" : "20160815",
+  "items" : 25
+}, {
+  "uri" : "http://podkast.nrk.no/program/urix.rss",
+  "name" : "NRK – Urix",
+  "date" : "20180111",
+  "items" : 796
+}, {
+  "uri" : "http://podkast.nrk.no/program/utakt.rss",
+  "name" : "NRK – Utakt",
+  "date" : "20180111",
+  "items" : 329
+}, {
+  "uri" : "http://podkast.nrk.no/program/verdens_rikeste_land.rss",
+  "name" : "NRK – Verdens Rikeste Land",
+  "date" : "20171207",
+  "items" : 862
+}, {
+  "uri" : "http://podkast.nrk.no/program/verdiboersen.rss",
+  "name" : "NRK – Verdibørsen",
+  "date" : "20180113",
+  "items" : 537
+}, {
+  "uri" : "http://podkast.nrk.no/program/vi_under_160.rss",
+  "name" : "NRK – Vi under 1.60",
+  "date" : "20150730",
+  "items" : 20
+}, {
+  "uri" : "http://podkast.nrk.no/program/ytring.rss",
+  "name" : "NRK – Ytring",
+  "date" : "20180114",
+  "items" : 112
+}, {
+  "uri" : "http://podkast.radiorevolt.no/byraaforeningen",
+  "name" : "Byråforeningen",
+  "date" : "20180118",
+  "items" : 16
+}, {
+  "uri" : "http://podkast.radiorevolt.no/ctrl-alt-del-podkast",
+  "name" : "Ctrl+Alt+Delete",
+  "date" : "20180117",
+  "items" : 173
+}, {
+  "uri" : "http://podkast.radiorevolt.no/denfolkeligetimen",
+  "name" : "Den folkelige timen",
+  "date" : "20180118",
+  "items" : 19
+}, {
+  "uri" : "http://podkast.radiorevolt.no/harselas",
+  "name" : "Harselas",
+  "date" : "20171227",
+  "items" : 92
+}, {
+  "uri" : "http://podkast.radiorevolt.no/horror-night",
+  "name" : "Horror Night",
+  "date" : "20180118",
+  "items" : 16
+}, {
+  "uri" : "http://podkast.radiorevolt.no/horror-night-english",
+  "name" : "Horror Night (English)",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://podkast.radiorevolt.no/kara_sahara_podkast",
+  "name" : "Kara fra Sahara",
+  "date" : "20171227",
+  "items" : 60
+}, {
+  "uri" : "http://podkast.radiorevolt.no/laurbaer",
+  "name" : "Fakta på Laurbær",
+  "date" : "20180118",
+  "items" : 42
+}, {
+  "uri" : "http://podkast.radiorevolt.no/mandag",
+  "name" : "Alle elsker mandag",
+  "date" : "20180117",
+  "items" : 218
+}, {
+  "uri" : "http://podkast.radiorevolt.no/nestenhelg",
+  "name" : "Nesten Helg",
+  "date" : "20180118",
+  "items" : 162
+}, {
+  "uri" : "http://podkast.radiorevolt.no/postkaakk",
+  "name" : "SoulMat",
+  "date" : "20180118",
+  "items" : 91
+}, {
+  "uri" : "http://podkast.radiorevolt.no/uillustrert-vitenskap",
+  "name" : "Uillustrert Vitenskap",
+  "date" : "20171228",
+  "items" : 196
+}, {
+  "uri" : "http://podkast.radiorevolt.no/ukesenderen",
+  "name" : "UKEsenderen",
+  "date" : "20171229",
+  "items" : 5
+}, {
+  "uri" : "http://positivungdom.podbean.com/feed/",
+  "name" : "The positivungdom's Podcast",
+  "date" : "20161221",
+  "items" : 3
+}, {
+  "uri" : "http://pyntensomforsvant.libsyn.com/rss",
+  "name" : "Pynten som Forsvant - Julekalender 2014",
+  "date" : "20171230",
+  "items" : 24
+}, {
+  "uri" : "http://radiomarienlyst.podomatic.com/rss2.xml",
+  "name" : "Radio Marienlyst",
+  "date" : "20171214",
+  "items" : 17
+}, {
+  "uri" : "http://radiorakel.no/category/lytt/podkast/mytteria/feed/",
+  "name" : "Mytteria",
+  "date" : "20171215",
+  "items" : 10
+}, {
+  "uri" : "http://radiorakel.no/category/podcast/mor-di/feed/",
+  "name" : "MOR DI!",
+  "date" : "20171215",
+  "items" : 7
+}, {
+  "uri" : "http://ritaogveronicaspodcast.libsyn.com/rss",
+  "name" : "Rita og Veronica",
+  "date" : "20171219",
+  "items" : 32
+}, {
+  "uri" : "http://rollespillinfo.squarespace.com/blog?format=rss",
+  "name" : "Blogg - Rollespill.info",
+  "date" : "20170924",
+  "items" : 100
+}, {
+  "uri" : "http://roverradion.podomatic.com/rss2.xml",
+  "name" : "RøverRadion",
+  "date" : "20180115",
+  "items" : 100
+}, {
+  "uri" : "http://rss.acast.com/blicher",
+  "name" : "Mesterverket",
+  "date" : "20180109",
+  "items" : 1
+}, {
+  "uri" : "http://rss.acast.com/enslaskpaatinget",
+  "name" : "En slask på tinget",
+  "date" : "20171026",
+  "items" : 21
+}, {
+  "uri" : "http://rss.acast.com/friar",
+  "name" : "Friår",
+  "date" : "20171127",
+  "items" : 15
+}, {
+  "uri" : "http://rss.acast.com/kongleroggress",
+  "name" : "Kongler og Gress",
+  "date" : "20171026",
+  "items" : 14
+}, {
+  "uri" : "http://rss.acast.com/snakkom",
+  "name" : "Snakk om",
+  "date" : "20171227",
+  "items" : 63
+}, {
+  "uri" : "http://rss.acast.com/sysla123",
+  "name" : "Sysla Podsnap",
+  "date" : "20171106",
+  "items" : 9
+}, {
+  "uri" : "http://rss.acast.com/syslalaksekast",
+  "name" : "Sysla Laksekast",
+  "date" : "20171026",
+  "items" : 22
+}, {
+  "uri" : "http://rss.acast.com/terapi",
+  "name" : "Terapi",
+  "date" : "20171026",
+  "items" : 54
+}, {
+  "uri" : "http://rss.acast.com/trumpellerclinton",
+  "name" : "Trump eller Clinton? - en podcast om USA-valget",
+  "date" : "20171026",
+  "items" : 10
+}, {
+  "uri" : "http://selmer.podbean.com/feed/",
+  "name" : "Selmer om arbeidsrett",
+  "date" : "20170810",
+  "items" : 9
+}, {
+  "uri" : "http://sherrykhanradio.podomatic.com/rss2.xml",
+  "name" : "Sherry Khan Radio",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://shootgallery.podomatic.com/rss2.xml",
+  "name" : "Artist Talk with Morten Andersen",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://simon70628.podomatic.com/rss2.xml",
+  "name" : "Familiekirken Follo's Podcast",
+  "date" : "20171214",
+  "items" : 39
+}, {
+  "uri" : "http://siriabrahamsen.libsyn.com/rss",
+  "name" : "Siri",
+  "date" : "20171221",
+  "items" : 9
+}, {
+  "uri" : "http://sofa.guru/newpodcast?format=rss",
+  "name" : "Sofa.Guru",
+  "date" : "20171225",
+  "items" : 64
+}, {
+  "uri" : "http://sommerpodkast.podomatic.com/rss2.xml",
+  "name" : "Nils og Bjunes Sommerpodkast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://sorlandskirken.libsyn.com/rss",
+  "name" : "Sørlandskirken",
+  "date" : "20171219",
+  "items" : 100
+}, {
+  "uri" : "http://sosialtsett.libsyn.com/rss",
+  "name" : "Sosialt sett - om teknologi, kommunikasjon og livet i mellom",
+  "date" : "20171219",
+  "items" : 88
+}, {
+  "uri" : "http://sterkere.libsyn.com/rss",
+  "name" : "Sterkere",
+  "date" : "20180112",
+  "items" : 3
+}, {
+  "uri" : "http://strandhuskirker.no/feed/taler/",
+  "name" : "Strand huskirker",
+  "date" : "20171222",
+  "items" : 21
+}, {
+  "uri" : "http://stryni.no/supportersnakk/feed.rss",
+  "name" : "Supportersnakk",
+  "date" : "20081029",
+  "items" : 3
+}, {
+  "uri" : "http://studentradiorena.podomatic.com/rss2.xml",
+  "name" : "Student Radioen på Rena",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://surogsint.podbean.com/feed/",
+  "name" : "Sur & Sint",
+  "date" : "20170614",
+  "items" : 47
+}, {
+  "uri" : "http://tanteull.libsyn.com/rss",
+  "name" : "Tanteull's podcast",
+  "date" : "20171219",
+  "items" : 61
+}, {
+  "uri" : "http://tavarepatroen.libsyn.com/rss",
+  "name" : "Ta vare på troen",
+  "date" : "20171219",
+  "items" : 48
+}, {
+  "uri" : "http://tineogamanda.libsyn.com/rss",
+  "name" : "Tine Monsen og Amanda Sahnouns podcast",
+  "date" : "20171215",
+  "items" : 5
+}, {
+  "uri" : "http://tinyboykris.podomatic.com/rss2.xml",
+  "name" : "Kristoffer Sørensen's Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://tottenhampn.podbean.com/feed/",
+  "name" : "Tottenham Podcast Norge",
+  "date" : "20071204",
+  "items" : 2
+}, {
+  "uri" : "http://ttb.twr.org/rss/norwegian_main.xml",
+  "name" : "Veien gjennom Bibelen @ttb.twr.org/norwegian",
+  "date" : "20180112",
+  "items" : 260
+}, {
+  "uri" : "http://tysk08.podomatic.com/rss2.xml",
+  "name" : "TYSK08 - Geir F",
+  "date" : "20171213",
+  "items" : 40
+}, {
+  "uri" : "http://ukasomgikk.podbean.com/feed/",
+  "name" : "Uka som gikk",
+  "date" : "20111016",
+  "items" : 2
+}, {
+  "uri" : "http://ukasviktigstesaker.podomatic.com/rss2.xml",
+  "name" : "Ukas Viktigste Saker",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://ultima2016.podomatic.com/rss2.xml",
+  "name" : "Ultimafestivalen 2016 - Podcaster med Universet, Pieces of Juno, Erik Honoré, og Ost & Kjex.",
+  "date" : "20171214",
+  "items" : 4
+}, {
+  "uri" : "http://utdannetlab.no/podkast/google-adwords/liste.xml",
+  "name" : "Kurs i Google Adwords | Utdannet.no",
+  "date" : "20151026",
+  "items" : 9
+}, {
+  "uri" : "http://utdannetlab.no/podkast/lightroom/liste.xml",
+  "name" : "Kurs i Adobe Lightroom 5 | Utdannet.no",
+  "date" : "20151026",
+  "items" : 15
+}, {
+  "uri" : "http://utdannetlab.no/podkast/photoshop-cs6/liste.xml",
+  "name" : "Kurs i Adobe Photoshop CS6 | Utdannet.no",
+  "date" : "20151026",
+  "items" : 17
+}, {
+  "uri" : "http://vaartland.podbean.com/feed/",
+  "name" : "Vårt Land",
+  "date" : "20170908",
+  "items" : 4
+}, {
+  "uri" : "http://viseklubb.podbean.com/feed/",
+  "name" : "Olsen & Jensens visepod",
+  "date" : "20171023",
+  "items" : 11
+}, {
+  "uri" : "http://vossindremisjon.no/?feed=podcast",
+  "name" : "Voss Indremisjon",
+  "date" : "20180117",
+  "items" : 17
+}, {
+  "uri" : "http://www.acoweb.no/podcast/rss_feed06.xml",
+  "name" : "Aschehoug Podcast",
+  "date" : "20171215",
+  "items" : 50
+}, {
+  "uri" : "http://www.buzzsprout.com/145661.rss",
+  "name" : "Nå er det alvor",
+  "date" : "20180117",
+  "items" : 2
+}, {
+  "uri" : "http://www.buzzsprout.com/54477.rss",
+  "name" : "Haugesund misjonskirke's Podcast",
+  "date" : "20171228",
+  "items" : 28
+}, {
+  "uri" : "http://www.buzzsprout.com/65248.rss",
+  "name" : "Pinsekirken Tabernaklet Bergen",
+  "date" : "20171226",
+  "items" : 57
+}, {
+  "uri" : "http://www.bykirken.no/images/stories/media/bykirken.xml",
+  "name" : "Bykirken",
+  "date" : "20180114",
+  "items" : 224
+}, {
+  "uri" : "http://www.feedpress.me/paaveitiljobbenpodcast",
+  "name" : "På vei til jobben",
+  "date" : "20160623",
+  "items" : 234
+}, {
+  "uri" : "http://www.gamereactor.dk/rss/podcast.php?lang=no",
+  "name" : "Gamereactor TV - Norge",
+  "items" : 300
+}, {
+  "uri" : "http://www.hurradio.no/category/den-flyvende-hollender/feed/",
+  "name" : "Hurradio: Den Flyvende Hollender",
+  "date" : "20171213",
+  "items" : 5
+}, {
+  "uri" : "http://www.hurradio.no/category/du-skal-hore-mye/feed/",
+  "name" : "Hurradio: Du Skal Hore Mye",
+  "date" : "20171213",
+  "items" : 8
+}, {
+  "uri" : "http://www.kandusi.no/podcasts/folkiegenby/folkiegenby.rss",
+  "name" : "Folk i egen by",
+  "date" : "20170411",
+  "items" : 18
+}, {
+  "uri" : "http://www.karinasverden.no/feed/podcast/",
+  "name" : "Karinas Verden",
+  "date" : "20170906",
+  "items" : 10
+}, {
+  "uri" : "http://www.karisma.no/undervisning/talereferat_podcast.xml",
+  "name" : "Karismakirken",
+  "date" : "20080618",
+  "items" : 488
+}, {
+  "uri" : "http://www.nrj.no/lyttesenter/podcast.ashx?pid=418",
+  "name" : "Morgenshowet - NRJ Norge",
+  "items" : 858
+}, {
+  "uri" : "http://www.ordentligradio.no/feed/verbal-ulydighet/",
+  "name" : "Verbal Ulydighet",
+  "date" : "20171112",
+  "items" : 10
+}, {
+  "uri" : "http://www.p4.no/lyttesenter/podcast.ashx?pid=326",
+  "name" : "Bye & RÃ¸nning Show",
+  "items" : 35
+}, {
+  "uri" : "http://www.p4.no/lyttesenter/podcast.ashx?pid=330",
+  "name" : "Misjonen med Antonsen og Golden",
+  "items" : 749
+}, {
+  "uri" : "http://www.p4.no/lyttesenter/podcast.ashx?tid=443",
+  "name" : "Fem PÃ¥",
+  "items" : 465
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=10794",
+  "name" : "Walkman med Martin Mentzoni",
+  "date" : "20180110",
+  "items" : 35
+}, {
+  "uri" : "http://www.radcrew.net/category/classic/feed",
+  "name" : "Rad Crew Classic",
+  "date" : "20171229",
+  "items" : 30
+}, {
+  "uri" : "http://www.radcrew.net/category/rad-crew-nitro/feed",
+  "name" : "Rad Crew NITRO Wrestling",
+  "date" : "20180117",
+  "items" : 15
+}, {
+  "uri" : "http://www.radcrew.net/category/weekend-crew/feed",
+  "name" : "Rad Crew: NEON",
+  "date" : "20180117",
+  "items" : 30
+}, {
+  "uri" : "http://www.spreaker.com/show/1255053/episodes/feed",
+  "name" : "Den Norske Doctor Who Podcasten",
+  "date" : "20150202",
+  "items" : 1
+}, {
+  "uri" : "http://www.utdannetlab.no/podkast/photoshop-cc/liste.xml",
+  "name" : "Kurs i Adobe Photoshop CC | Utdannet.no",
+  "date" : "20151026",
+  "items" : 15
+}, {
+  "uri" : "http://www.vitendate.no/feed/",
+  "name" : "Vitendate : Fersk forskning som podcast",
+  "date" : "20160208",
+  "items" : 13
+}, {
+  "uri" : "http://www.weum.no/samliv.info/podcast.xml",
+  "name" : "Maren & Sven Weum",
+  "date" : "20111022",
+  "items" : 8
+}, {
+  "uri" : "https://api.vg.no/podcast/foppall.rss",
+  "name" : "Foppall med Bernt Hulsker",
+  "date" : "20180111",
+  "items" : 127
+}, {
+  "uri" : "https://api.vg.no/podcast/harm-og-hegseth.rss",
+  "name" : "Harm og Hegseth",
+  "date" : "20171229",
+  "items" : 107
+}, {
+  "uri" : "https://api.vg.no/podcast/hello.rss",
+  "name" : "Hello ...",
+  "date" : "20171026",
+  "items" : 3
+}, {
+  "uri" : "https://api.vg.no/podcast/pocket.rss",
+  "name" : "VG - Pocket med Camilla Norli",
+  "date" : "20171026",
+  "items" : 22
+}, {
+  "uri" : "https://api.vg.no/podcast/vg-sporten.rss",
+  "name" : "VG Sporten med Brenne og Borud",
+  "date" : "20171224",
+  "items" : 88
+}, {
+  "uri" : "https://bibelundervisning.com/mp3.xml",
+  "name" : "Bibelundervisning på Podcast (Audio)",
+  "date" : "20171030",
+  "items" : 129
+}, {
+  "uri" : "https://birger-emanuelsen.squarespace.com/blog?format=rss",
+  "name" : "Birger Emanuelsen - Birger Emanuelsen",
+  "date" : "20160429",
+  "items" : 2
+}, {
+  "uri" : "https://blogg.hioa.no//vitenogsnakkis/feed/podcast/",
+  "name" : "Viten + snakkis",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "https://feed.pippa.io/public/shows/5a397a86e7ff166a301fe8f2",
+  "name" : "Heimelaga",
+  "date" : "20180117",
+  "items" : 37
+}, {
+  "uri" : "https://feed.pippa.io/public/shows/hva-er-du-redd-for",
+  "name" : "Hva er du redd for?",
+  "date" : "20180117",
+  "items" : 2
+}, {
+  "uri" : "https://feed.pippa.io/public/shows/kaffeslabberas",
+  "name" : "Kaffeslabberas med Marve",
+  "date" : "20180110",
+  "items" : 4
+}, {
+  "uri" : "https://feed.pippa.io/public/shows/modernemediaendelig-mandag",
+  "name" : "Endelig Mandag",
+  "date" : "20171128",
+  "items" : 3
+}, {
+  "uri" : "https://feed.pippa.io/public/shows/modernemediasoldat",
+  "name" : "Soldat",
+  "date" : "20171024",
+  "items" : 4
+}, {
+  "uri" : "https://feed.pippa.io/public/shows/modernemediatoppfotball",
+  "name" : "Toppfotball",
+  "date" : "20171227",
+  "items" : 76
+}, {
+  "uri" : "https://feed.pippa.io/public/shows/suksess-veien-til-toppen",
+  "name" : "SUKSESS - Veien Til Toppen",
+  "date" : "20180107",
+  "items" : 4
+}, {
+  "uri" : "https://mortenhake.com/category/hakeslepp/feed/?redirect=no",
+  "name" : "Hakeslepp",
+  "date" : "20171128",
+  "items" : 33
+}, {
+  "uri" : "https://nsr.samfunnet.no/category/podcast/fredagssendinga/feed/",
+  "name" : "Fredagssendinga",
+  "date" : "20170813",
+  "items" : 43
+}, {
+  "uri" : "https://palbakk.podbean.com/feed/",
+  "name" : "Barmen og Bakken sitter bakerst",
+  "date" : "20180115",
+  "items" : 6
+}, {
+  "uri" : "https://podkast.nrk.no/program/22_juli_-_hvordan_kunne_det_skje.rss",
+  "name" : "NRK – 22. JULI - Hvordan kunne det skje?",
+  "date" : "20171001",
+  "items" : 6
+}, {
+  "uri" : "https://podkast.nrk.no/program/hos_peder.rss",
+  "name" : "NRK – Hos Peder",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "https://podkast.nrk.no/program/kjente_boeker_paa_4_minutter.rss",
+  "name" : "NRK – Kjente bøker på 4 minutter",
+  "date" : "20180109",
+  "items" : 40
+}, {
+  "uri" : "https://podkast.nrk.no/program/krig_og_fred.rss",
+  "name" : "NRK – Krig og fred",
+  "date" : "20180111",
+  "items" : 15
+}, {
+  "uri" : "https://podkast.nrk.no/program/lindmo_og_co.rss",
+  "name" : "NRK – Lindmo og Co",
+  "date" : "20180111",
+  "items" : 15
+}, {
+  "uri" : "https://podkast.nrk.no/program/lyden_av_nytt_paa_nytt.rss",
+  "name" : "NRK – Lyden av Nytt på Nytt",
+  "date" : "20171201",
+  "items" : 15
+}, {
+  "uri" : "https://rss.acast.com/fotballklubben",
+  "name" : "Fotballklubben",
+  "date" : "20180110",
+  "items" : 99
+}, {
+  "uri" : "https://rss.acast.com/jentegarderoben20",
+  "name" : "Jentegarderoben 2.0",
+  "date" : "20171230",
+  "items" : 79
+}, {
+  "uri" : "https://rss.acast.com/pocket",
+  "name" : "VG - Pocket med Camilla Norli",
+  "date" : "20171026",
+  "items" : 22
+}, {
+  "uri" : "https://simplecast.com/podcasts/1870/rss",
+  "name" : "Bowsershow - Hey Listen",
+  "date" : "20171229",
+  "items" : 53
+}, {
+  "uri" : "https://stangut.wordpress.com/feed/",
+  "name" : "Stangut's Blog",
+  "date" : "20171019",
+  "items" : 10
+}, {
+  "uri" : "https://sunneord.no/feed/adolf%20bjerkreim",
+  "name" : "Sunne ord: adolf bjerkreim",
+  "date" : "20170904",
+  "items" : 50
+}, {
+  "uri" : "https://sunneord.no/feed/albert%20lang%c3%a5ker",
+  "name" : "Sunne ord: albert langåker",
+  "date" : "20170904",
+  "items" : 44
+}, {
+  "uri" : "https://sunneord.no/feed/andreas%20kvalav%c3%a5g",
+  "name" : "Sunne ord: andreas kvalavåg",
+  "date" : "20170925",
+  "items" : 8
+}, {
+  "uri" : "https://sunneord.no/feed/angus%20mackinnon",
+  "name" : "Sunne ord: angus mackinnon",
+  "date" : "20170904",
+  "items" : 31
+}, {
+  "uri" : "https://sunneord.no/feed/arne%20helseth%20dyrseth",
+  "name" : "Sunne ord: arne helseth dyrseth",
+  "date" : "20170904",
+  "items" : 50
+}, {
+  "uri" : "https://sunneord.no/feed/arne%20johansen",
+  "name" : "Sunne ord: arne johansen",
+  "date" : "20170904",
+  "items" : 18
+}, {
+  "uri" : "https://sunneord.no/feed/carsten%20line",
+  "name" : "Sunne ord: carsten line",
+  "date" : "20170904",
+  "items" : 19
+}, {
+  "uri" : "https://sunneord.no/feed/edvard%20kjelle",
+  "name" : "Sunne ord: edvard kjelle",
+  "date" : "20170904",
+  "items" : 5
+}, {
+  "uri" : "https://sunneord.no/feed/gunnar%20rike",
+  "name" : "Sunne ord: gunnar rike",
+  "date" : "20170904",
+  "items" : 6
+}, {
+  "uri" : "https://sunneord.no/feed/henrik%20gautesen",
+  "name" : "Sunne ord: henrik gautesen",
+  "date" : "20170904",
+  "items" : 50
+}, {
+  "uri" : "https://sunneord.no/feed/henrik%20r%c3%b8ykenes",
+  "name" : "Sunne ord: henrik røykenes",
+  "date" : "20170904",
+  "items" : 50
+}, {
+  "uri" : "https://sunneord.no/feed/hjalmar%20berg%20hansen",
+  "name" : "Sunne ord: hjalmar berg hansen",
+  "date" : "20170904",
+  "items" : 50
+}, {
+  "uri" : "https://sunneord.no/feed/jan%20harald%20roaldsnes",
+  "name" : "Sunne ord: jan harald roaldsnes",
+  "date" : "20170904",
+  "items" : 38
+}, {
+  "uri" : "https://sunneord.no/feed/jon%20aurebekk",
+  "name" : "Sunne ord: jon aurebekk",
+  "date" : "20170910",
+  "items" : 50
+}, {
+  "uri" : "https://sunneord.no/feed/konrad%20landro",
+  "name" : "Sunne ord: konrad landro",
+  "date" : "20170904",
+  "items" : 13
+}, {
+  "uri" : "https://sunneord.no/feed/magnus%20solberg",
+  "name" : "Sunne ord: magnus solberg",
+  "date" : "20170903",
+  "items" : 6
+}, {
+  "uri" : "https://sunneord.no/feed/odd%20s%c3%a6ther",
+  "name" : "Sunne ord: odd sæther",
+  "date" : "20170904",
+  "items" : 39
+}, {
+  "uri" : "https://sunneord.no/feed/per%20bergene%20holm",
+  "name" : "Sunne ord: per bergene holm",
+  "date" : "20170904",
+  "items" : 9
+}, {
+  "uri" : "https://sykepleien.podbean.com/feed/",
+  "name" : "Sykepleien",
+  "date" : "20171221",
+  "items" : 20
+}, {
+  "uri" : "https://sykepleiepluss.no/podcast.php",
+  "name" : "SykepleiePluss",
+  "date" : "20180114",
+  "items" : 127
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=morgenklubben-med-loven-co",
+  "name" : "Morgenklubben med Loven & Co",
+  "date" : "20180109",
+  "items" : 100
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=radio-1-norge",
+  "name" : "Morgen på Radio 1",
+  "date" : "20180117",
+  "items" : 12
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=tro-og-fordom-med-suzanne-aabel",
+  "name" : "Tro og fordom med Suzanne Aabel",
+  "date" : "20171221",
+  "items" : 10
+}, {
+  "uri" : "https://www.amnesty.no/podcast.xml",
+  "name" : "Megafonen",
+  "date" : "20170630",
+  "items" : 10
+}, {
+  "uri" : "https://www.blindeforbundet.no/medlemskap/fylkeslag/oslo/podcast/feed.xml",
+  "name" : "Oslo lydavis - podcast",
+  "date" : "20161207",
+  "items" : 2
+}, {
+  "uri" : "https://www.blindeforbundet.no/tilbud-kurs-og-arrangementer/spor-2-podcast/feed.xml",
+  "name" : "Spor 2 - podcast",
+  "date" : "20180115",
+  "items" : 98
+}, {
+  "uri" : "https://www.buzzsprout.com/38390.rss",
+  "name" : "Ås biblioteks podcast",
+  "date" : "20171215",
+  "items" : 96
+}, {
+  "uri" : "https://www.buzzsprout.com/4457.rss",
+  "name" : "Misjonskirken Stavanger's Podcast",
+  "date" : "20171227",
+  "items" : 276
+}, {
+  "uri" : "https://www.nettbibelskolen.com/undervisningen.xml",
+  "name" : "Nettbibelskolen pÃ¥ Podcast (Audio)",
+  "date" : "20100804",
+  "items" : 207
+}, {
+  "uri" : "https://www.spreaker.com/show/1304456/episodes/feed",
+  "name" : "TaxCast Norge",
+  "date" : "20171126",
+  "items" : 19
+} ]

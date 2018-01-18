@@ -1,0 +1,35 @@
+[ {
+  "uri" : "http://crosswaynepal.sermon.net/rss/crosswaymain",
+  "name" : "Cross-Way - Main Playlist",
+  "date" : "20150319",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.feedburner.com/NEPKA_VOH",
+  "name" : "AWR Nepali / Nepalese / नेपाली",
+  "date" : "20180117",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.feedburner.com/nepka_voh",
+  "name" : "AWR Nepali / Nepalese / नेपाली",
+  "date" : "20171228",
+  "items" : 62
+}, {
+  "uri" : "http://nepalispeakingcommunitychurch.sermon.net/rss/main",
+  "name" : "Nepali Speaking Community Church",
+  "date" : "20140927",
+  "items" : 5
+}, {
+  "uri" : "http://ttb.twr.org/rss/nepali_main.xml",
+  "name" : "à¤®à¥à¤à¥à¤¤à¤¿à¤à¥ à¤®à¤¾à¤°à¥à¤ @ ttb.twr.org/nepali",
+  "date" : "20180112",
+  "items" : 260
+}, {
+  "uri" : "http://www.bulbulonline.com/rss.php",
+  "name" : "Bulbul - Euta Irani Chara (à¤¬à¥à¤²à¤¬à¥à¤² - à¤à¤à¤à¤¾ à¤à¤°à¤¾à¤¨à¤¿ à¤à¤°à¤¾)",
+  "date" : "20140426",
+  "items" : 273
+}, {
+  "uri" : "http://www.foundationsforfreedom.net/Feeds/Languages/Nepali.xml",
+  "name" : "Initiating Spiritual Growth in the Church - Nepali: Audios, Videos and Articles",
+  "items" : 19
+} ]

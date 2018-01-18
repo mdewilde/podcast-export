@@ -1,0 +1,21 @@
+[ {
+  "uri" : "http://feed.cri.cn/rss/84dd1a5c-a31f-49f5-8f05-9ab4c117882d",
+  "name" : "Songs on demand of CRI Myanmar service",
+  "date" : "20150129",
+  "items" : 100
+}, {
+  "uri" : "http://feed.cri.cn/rss/b280f3fb-7e3b-46fa-b0b7-4bd11fce2a6b",
+  "name" : "Jintailang’s Happy Life",
+  "date" : "20141208",
+  "items" : 80
+}, {
+  "uri" : "http://feeds.feedburner.com/myayn_voh",
+  "name" : "AWR Burmese / မြန်မာစကား (Myanmar)",
+  "date" : "20180109",
+  "items" : 62
+}, {
+  "uri" : "http://streamer1.rfaweb.org/audio/BUR/Burmese_podcast.php",
+  "name" : "အာရ္အက္ဖ္ေအ ေန႔စဥ္ အသံလႊင့္ အစီအစဥ္",
+  "date" : "20180117",
+  "items" : 20
+} ]

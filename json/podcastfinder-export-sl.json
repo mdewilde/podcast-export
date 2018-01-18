@@ -1,0 +1,516 @@
+[ {
+  "uri" : "http://apparatus.si/oddaja/bluzenje/feed/",
+  "name" : "Bluzenje",
+  "date" : "20171221",
+  "items" : 6
+}, {
+  "uri" : "http://apparatus.si/oddaja/filmflow/feed/",
+  "name" : "FilmFlow",
+  "date" : "20171221",
+  "items" : 86
+}, {
+  "uri" : "http://apparatus.si/oddaja/glave/feed/",
+  "name" : "Glave",
+  "date" : "20171221",
+  "items" : 111
+}, {
+  "uri" : "http://apparatus.si/oddaja/opazovalnica/feed/",
+  "name" : "Opazovalnica",
+  "date" : "20171221",
+  "items" : 38
+}, {
+  "uri" : "http://apparatus.si/oddaja/pivotiranje/feed/",
+  "name" : "Pivotiranje",
+  "date" : "20180117",
+  "items" : 76
+}, {
+  "uri" : "http://apparatus.si/oddaja/podrobnosti/feed",
+  "name" : "Podrobnosti",
+  "date" : "20180117",
+  "items" : 93
+}, {
+  "uri" : "http://apparatus.si/oddaja/podrobnosti/feed/",
+  "name" : "Podrobnosti",
+  "date" : "20171221",
+  "items" : 92
+}, {
+  "uri" : "http://apparatus.si/oddaja/pogovor/feed/",
+  "name" : "Apparatus pogovori",
+  "date" : "20171221",
+  "items" : 159
+}, {
+  "uri" : "http://apparatus.si/oddaja/v-afektu/feed/",
+  "name" : "V afektu",
+  "date" : "20171221",
+  "items" : 20
+}, {
+  "uri" : "http://audioboom.com/users/63208/boos.rss",
+  "name" : "Val 202's posts",
+  "date" : "20140118",
+  "items" : 400
+}, {
+  "uri" : "http://audioboom.com/users/63208/posts.rss",
+  "name" : "Val 202's posts",
+  "date" : "20140118",
+  "items" : 400
+}, {
+  "uri" : "http://feeds.feedburner.com/bimpogovori",
+  "name" : "BIMpogovori",
+  "date" : "20171222",
+  "items" : 47
+}, {
+  "uri" : "http://feeds.feedburner.com/slvlj_awr",
+  "name" : "AWR: Slovenian",
+  "date" : "20100607",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.feedburner.com/tiro-podcastointernetu",
+  "name" : "TIRO - Podcast o internetu",
+  "date" : "20170601",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:123780082/sounds.rss",
+  "name" : "Sportinfo podcast",
+  "date" : "20171203",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:16934864/sounds.rss",
+  "name" : "Val 202 - SoundCloud",
+  "date" : "20171222",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:195012866/sounds.rss",
+  "name" : "Oddaja Offbeat",
+  "date" : "20170601",
+  "items" : 56
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:242930216/sounds.rss",
+  "name" : "RUNning on hardWOOD",
+  "date" : "20171124",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:245331593/sounds.rss",
+  "name" : "Oi Rio - Brazilščina za začetnike",
+  "date" : "20160822",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:255273348/sounds.rss",
+  "name" : "Časnik Finance, poslovni dnevnik",
+  "date" : "20171206",
+  "items" : 33
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:269560323/sounds.rss",
+  "name" : "Lahkonočnice | Zvočne pravljice, ki bodo vaše malčke zazibale v svet sanj",
+  "date" : "20171222",
+  "items" : 99
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:83502699/sounds.rss",
+  "name" : "Radio Mladina",
+  "date" : "20180104",
+  "items" : 186
+}, {
+  "uri" : "http://podcast.rtvslo.si/18_vzporednik.xml",
+  "name" : "18. vzporednik",
+  "date" : "20171226",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/digital_delight.xml",
+  "name" : "Digital Delight",
+  "date" : "20151218",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/dogodki_in_odmevi.xml",
+  "name" : "Dogodki in odmevi",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/evropa_osebno.xml",
+  "name" : "Evropa osebno",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/express.xml",
+  "name" : "Express",
+  "date" : "20170714",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/frekvenca_x.xml",
+  "name" : "Frekvenca X",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/glasovi_svetov.xml",
+  "name" : "Glasovi svetov",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/globalna_vas.xml",
+  "name" : "Globalna vas",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/gori_doli_naokoli.xml",
+  "name" : "Gori, doli, naokoli",
+  "date" : "20160326",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/gremo_v_kino.xml",
+  "name" : "Gremo v kino",
+  "date" : "20171222",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/intelekta.xml",
+  "name" : "Intelekta",
+  "date" : "20171226",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/jezikanje.xml",
+  "name" : "Jezikanje",
+  "date" : "20180112",
+  "items" : 53
+}, {
+  "uri" : "http://podcast.rtvslo.si/kje_pa_vas_cevelj_zuli.xml",
+  "name" : "Kje pa vas čevelj žuli",
+  "date" : "20180110",
+  "items" : 45
+}, {
+  "uri" : "http://podcast.rtvslo.si/lahko_noc_otroci.xml",
+  "name" : "Lahko noč, otroci!",
+  "date" : "20171224",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/latrina_202.xml",
+  "name" : "Latrina 202",
+  "date" : "20171215",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/na_val_na_sport.xml",
+  "name" : "Naval na šport",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/nebuloze.xml",
+  "name" : "Nebuloze",
+  "date" : "20171219",
+  "items" : 50
+}, {
+  "uri" : "http://podcast.rtvslo.si/nedeljski_gost.xml",
+  "name" : "Nedeljski gost Vala 202",
+  "date" : "20171224",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/nedeljski_izlet.xml",
+  "name" : "Nedeljski izlet",
+  "date" : "20180114",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/noetova_banda.xml",
+  "name" : "Noetova banda",
+  "date" : "20171216",
+  "items" : 16
+}, {
+  "uri" : "http://podcast.rtvslo.si/nove_glasbene_generacije.xml",
+  "name" : "Nove glasbene generacije",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/odbita_do_bita.xml",
+  "name" : "Odbita do bita",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/petkova_centrifuga.xml",
+  "name" : "Petkova centrifuga",
+  "date" : "20171215",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/podobe_znanja.xml",
+  "name" : "Podobe znanja",
+  "date" : "20171222",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/pogled_v_znanost.xml",
+  "name" : "Pogled v znanost",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/pot_v_raj.xml",
+  "name" : "Pot v raj",
+  "date" : "20171222",
+  "items" : 16
+}, {
+  "uri" : "http://podcast.rtvslo.si/proti_etru.xml",
+  "name" : "Proti etru",
+  "date" : "20180111",
+  "items" : 34
+}, {
+  "uri" : "http://podcast.rtvslo.si/radio_ga_ga.xml",
+  "name" : "Radio GA - GA",
+  "date" : "20171222",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/slovencem_po_svetu.xml",
+  "name" : "Slovencem po svetu",
+  "date" : "20180112",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/spetek.xml",
+  "name" : "Spetek",
+  "date" : "20171215",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/stevilke.xml",
+  "name" : "Številke",
+  "date" : "20171218",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/studio_city.xml",
+  "name" : "Studio city",
+  "date" : "20180115",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/studio_ob_17h.xml",
+  "name" : "Studio ob 17h",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/svetovalni_servis.xml",
+  "name" : "Svetovalni servis",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/toplovod.xml",
+  "name" : "Toplovod",
+  "date" : "20171219",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/tvit_na_i.xml",
+  "name" : "Tvit na I",
+  "date" : "20170917",
+  "items" : 72
+}, {
+  "uri" : "http://podcast.rtvslo.si/v_sredo.xml",
+  "name" : "V sredo",
+  "date" : "20171227",
+  "items" : 28
+}, {
+  "uri" : "http://podcast.rtvslo.si/vroci_mikrofon.xml",
+  "name" : "Vroči mikrofon",
+  "date" : "20171226",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.rtvslo.si/zapisi_iz_mocvirja.xml",
+  "name" : "Zapisi iz močvirja",
+  "date" : "20171226",
+  "items" : 35
+}, {
+  "uri" : "http://tejakralj.com/?feed=podcast",
+  "name" : "Malo mešano na jeziku",
+  "date" : "20151206",
+  "items" : 10
+}, {
+  "uri" : "http://torekobpetih.si/feed/podcast/",
+  "name" : "Torpedo",
+  "date" : "20171221",
+  "items" : 10
+}, {
+  "uri" : "http://www.bitnipogovori.si/rss",
+  "name" : "Bitni pogovori",
+  "date" : "20171208",
+  "items" : 186
+}, {
+  "uri" : "http://www.delo.si/podcast/od_srede_do_srede.xml",
+  "name" : "Od srede do srede: komentirata Janez MarkeÅ¡ in Ali Å½erdin",
+  "date" : "20171227",
+  "items" : 86
+}, {
+  "uri" : "http://www.delo.si/podcast/popkulturni_pogovori.xml",
+  "name" : "Popkulturni pogovori: komentira uredniÅ¡tvo Vikenda",
+  "date" : "20171207",
+  "items" : 30
+}, {
+  "uri" : "http://www.delo.si/podcast/strasno_hudi.xml",
+  "name" : "StraÅ¡no hudi",
+  "date" : "20171128",
+  "items" : 20
+}, {
+  "uri" : "http://www.ljudmila.org/beitthron/cona/pod7comp/randomlogic.xml",
+  "name" : "Random Logic - for project 7 Composers produced by radioCona, 2008",
+  "date" : "20081007",
+  "items" : 1
+}, {
+  "uri" : "http://www.marsowci.net/category/fotkast/feed/",
+  "name" : "Fotkast",
+  "date" : "20171228",
+  "items" : 41
+}, {
+  "uri" : "http://www.marsowci.net/category/membranje/feed/",
+  "name" : "Membranje",
+  "date" : "20171228",
+  "items" : 44
+}, {
+  "uri" : "http://www.marsowci.net/category/the-tranzistorij/feed/",
+  "name" : "Tranzistorij",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://www.podcast.si/category/podcast-nove-dimenzije-usode/feed/",
+  "name" : "Podcast NOVE DIMENZIJE USODE – Podcast.si",
+  "date" : "20170918",
+  "items" : 10
+}, {
+  "uri" : "http://www.racunalniske-novice.com/podcast/feed.xml",
+  "name" : "RaÄunalniÅ¡ke novice  - IT novice (podcast)",
+  "date" : "20171221",
+  "items" : 299
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/arsov_logos.xml",
+  "name" : "Arsov logos",
+  "date" : "20091229",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/dogodki_in_odmevi.xml",
+  "name" : "Dogodki in odmevi",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/druga_jutranja_kronika.xml",
+  "name" : "Jutranja kronika",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/evropa_osebno.xml",
+  "name" : "Evropa osebno",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/frekvenca_x.xml",
+  "name" : "Frekvenca X",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/glasovi_svetov.xml",
+  "name" : "Glasovi svetov",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/gori_doli_naokoli.xml",
+  "name" : "Gori, doli, naokoli",
+  "date" : "20160326",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/ime_tedna.xml",
+  "name" : "Ime tedna",
+  "date" : "20171218",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/intelekta.xml",
+  "name" : "Intelekta",
+  "date" : "20171226",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/lahko_noc_otroci.xml",
+  "name" : "Lahko noč, otroci!",
+  "date" : "20171224",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/mama_huhu.xml",
+  "name" : "MAMA HUHU - Kitajščina za začetnike",
+  "date" : "20080822",
+  "items" : 9
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/mladi_virtuozi.xml",
+  "name" : "Mladi virtuozi",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/nedeljski_gost.xml",
+  "name" : "Nedeljski gost Vala 202",
+  "date" : "20171224",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/nedeljski_izlet.xml",
+  "name" : "Nedeljski izlet",
+  "date" : "20171231",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/nove_glasbene_generacije.xml",
+  "name" : "Nove glasbene generacije",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/petkova_centrifuga.xml",
+  "name" : "Petkova centrifuga",
+  "date" : "20171215",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/podobe_znanja.xml",
+  "name" : "Podobe znanja",
+  "date" : "20171222",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/poslanci.xml",
+  "name" : "Poslanci na Valu 202",
+  "date" : "20090927",
+  "items" : 82
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/radio_gaga.xml",
+  "name" : "Radio GA - GA",
+  "date" : "20180112",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/slovencem_po_svetu.xml",
+  "name" : "Slovencem po svetu",
+  "date" : "20171222",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/sotocja.xml",
+  "name" : "Sotočja",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/studio_ob_17h.xml",
+  "name" : "Studio ob 17h",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/svetovalni_servis.xml",
+  "name" : "Svetovalni servis",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://www.rtvslo.si/podcasts/toplovod.xml",
+  "name" : "Toplovod",
+  "date" : "20180109",
+  "items" : 100
+}, {
+  "uri" : "http://www.sport-tv.si/podcast.xml",
+  "name" : "Å port TV podcast",
+  "date" : "20170816",
+  "items" : 247
+}, {
+  "uri" : "http://www.znanostnacesti.si/rss.aspx",
+  "name" : "Znanost na cesti",
+  "date" : "20180103",
+  "items" : 73
+}, {
+  "uri" : "http://zakulisje.libsyn.com/rss",
+  "name" : "Zakulisje",
+  "date" : "20171219",
+  "items" : 25
+}, {
+  "uri" : "https://simplecast.com/podcasts/1755/rss",
+  "name" : "POGOVARJA SE FRANCI KAPLER",
+  "date" : "20170405",
+  "items" : 9
+}, {
+  "uri" : "https://simplecast.com/podcasts/2260/rss",
+  "name" : "Na Potezi",
+  "date" : "20171214",
+  "items" : 24
+}, {
+  "uri" : "https://www.fahrenheit77.net/category/drzavljan-d/feed/",
+  "name" : "Državljan D",
+  "date" : "20171218",
+  "items" : 59
+} ]

@@ -1,0 +1,96 @@
+[ {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/latlvrp1da.xml",
+  "name" : "Latvijas Bībeles (bez dramatizēt) Psalmu grāmata - Latvian Bible 1953 British and Foreign Bible Society (Non-Dramatized)",
+  "date" : "20160901",
+  "items" : 150
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=113&a=1&id=22",
+  "name" : "Krustpunktā",
+  "date" : "20180112",
+  "items" : 500
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=125&a=1&id=34",
+  "name" : "Monopols",
+  "date" : "20180111",
+  "items" : 496
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=134&a=1&id=21",
+  "name" : "Kā labāk dzīvot",
+  "date" : "20180112",
+  "items" : 499
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=188&a=1&id=16",
+  "name" : "21. gadsimta latvietis",
+  "date" : "20180107",
+  "items" : 250
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=579&a=1&id=19",
+  "name" : "Septiņas dienas Eiropā",
+  "date" : "20170306",
+  "items" : 156
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=767&a=1&id=30",
+  "name" : "Īstenības izteiksme 15 minūtēs",
+  "date" : "20180112",
+  "items" : 482
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=790&a=1&id=46",
+  "name" : "Nauda laiku lokos",
+  "date" : "20171227",
+  "items" : 14
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=859&a=1&id=45",
+  "name" : "Gadsimts ar savu valsti",
+  "date" : "20180103",
+  "items" : 14
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=867&a=1&id=42",
+  "name" : "Cienījamie lasītāji. Etīdes par literatūru",
+  "date" : "20180113",
+  "items" : 15
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=1&s=89&a=1&id=48",
+  "name" : "Ielūdz Radioteātris",
+  "date" : "20180101",
+  "items" : 14
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=3&s=210&a=1&id=35",
+  "name" : "Pa ceļam ar Klasiku",
+  "date" : "20180112",
+  "items" : 15
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=5&s=595&a=1&id=32",
+  "name" : "Domnīca",
+  "date" : "20171217",
+  "items" : 106
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv/?rt=site&ac=feed&c=5&s=810&a=1&id=44",
+  "name" : "Pieci klausās",
+  "date" : "20180113",
+  "items" : 15
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv?rt=site&ac=feed&c=1&s=114&a=1&id=17",
+  "name" : "Zināmais nezināmajā",
+  "date" : "20180111",
+  "items" : 495
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv?rt=site&ac=feed&c=1&s=116&a=1&id=18",
+  "name" : "Šīs dienas acīm",
+  "date" : "20180107",
+  "items" : 344
+}, {
+  "uri" : "http://www.latvijasradio.lsm.lv?rt=site&ac=feed&c=1&s=331&a=1&id=20",
+  "name" : "Viena Rīga-daudz talantu",
+  "date" : "20141228",
+  "items" : 72
+}, {
+  "uri" : "http://www.lsm.lv/rss/?lang=lv&newsblock=138&format=itunes",
+  "name" : "Rīta intervija",
+  "date" : "20180117",
+  "items" : 135
+}, {
+  "uri" : "http://www.next.lv/next_rss_pod.xml",
+  "name" : "NEXT.LV audio podkāsti",
+  "date" : "20090907",
+  "items" : 2
+} ]

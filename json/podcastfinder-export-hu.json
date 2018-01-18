@@ -1,0 +1,616 @@
+[ {
+  "uri" : "http://agyvihar.com/feed.xml",
+  "name" : "Agyvihar",
+  "date" : "20171218",
+  "items" : 81
+}, {
+  "uri" : "http://api.classfm.hu/v1/replay/rss",
+  "name" : "Class FM, a rádió",
+  "date" : "00180112",
+  "items" : 10
+}, {
+  "uri" : "http://bassjazz.com/podcast/feed.xml",
+  "name" : "JazzNotesz",
+  "date" : "20171228",
+  "items" : 14
+}, {
+  "uri" : "http://beszelokockak.hu/feed/podcast/",
+  "name" : "Beszélő kockák",
+  "date" : "20170921",
+  "items" : 46
+}, {
+  "uri" : "http://budaiandvic.podomatic.com/rss2.xml",
+  "name" : "Budai Vic's Podcast",
+  "date" : "20180102",
+  "items" : 2
+}, {
+  "uri" : "http://chocolatezombieanddjmcflay.podomatic.com/rss2.xml",
+  "name" : "The Sound Of Revealed 2014",
+  "date" : "20171214",
+  "items" : 6
+}, {
+  "uri" : "http://civilftp.civilradio.hu/mindentanokrol/podcast.xml",
+  "name" : "Mindent a nÅkrÅl",
+  "date" : "20141208",
+  "items" : 65
+}, {
+  "uri" : "http://crisscode.podomatic.com/rss2.xml",
+  "name" : "Criss Code Official Podcast",
+  "date" : "20171214",
+  "items" : 3
+}, {
+  "uri" : "http://davidnagy.web.elte.hu/dgykozmofizika.rss",
+  "name" : "Kozmofizika",
+  "date" : "20101123",
+  "items" : 10
+}, {
+  "uri" : "http://digi.podomatic.com/rss2.xml",
+  "name" : "DIGI  | TRANCE PODCAST",
+  "date" : "20171213",
+  "items" : 5
+}, {
+  "uri" : "http://ecigitesztek.hu/podcast/podcast.xml",
+  "name" : "PÃ¡rÃ¡sÃ­tÃ³",
+  "date" : "20171224",
+  "items" : 182
+}, {
+  "uri" : "http://feckamusic.hu/podcast/podcast.xml",
+  "name" : "Fecka's Podcast",
+  "date" : "20110120",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/Daralo",
+  "name" : "Daráló Podcast",
+  "date" : "20180112",
+  "items" : 37
+}, {
+  "uri" : "http://feeds.feedburner.com/Podkedd",
+  "name" : "Podkedd",
+  "date" : "20180101",
+  "items" : 188
+}, {
+  "uri" : "http://feeds.feedburner.com/abszoluthallasradio",
+  "name" : "Abszolút hallás rádió",
+  "date" : "20130121",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.feedburner.com/adatptsz-amagyardatapodcast",
+  "name" : "Adatépítész - a magyar data podcast",
+  "date" : "20180106",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/ahianyzodarab",
+  "name" : "A Hiányzó Darab – podcast » A hianyzo darab",
+  "date" : "20170402",
+  "items" : 18
+}, {
+  "uri" : "http://feeds.feedburner.com/ccpodkazt",
+  "name" : "Podkazt - c+c musik faktory",
+  "date" : "20180109",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/daralo",
+  "name" : "Daráló Podcast",
+  "date" : "20180112",
+  "items" : 37
+}, {
+  "uri" : "http://feeds.feedburner.com/filmklub",
+  "name" : "Filmklub podcast",
+  "date" : "20171206",
+  "items" : 52
+}, {
+  "uri" : "http://feeds.feedburner.com/harmaskonyveles",
+  "name" : "Hármas könyvelés",
+  "date" : "20170823",
+  "items" : 213
+}, {
+  "uri" : "http://feeds.feedburner.com/hellopeti.xml",
+  "name" : "HelloPeti",
+  "date" : "20170213",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/irodaihuszarok",
+  "name" : "Irodai Huszárok",
+  "date" : "20171218",
+  "items" : 57
+}, {
+  "uri" : "http://feeds.feedburner.com/konnekted",
+  "name" : "Konnekted",
+  "date" : "20171217",
+  "items" : 83
+}, {
+  "uri" : "http://feeds.feedburner.com/leragottcsont",
+  "name" : "Lerágott csont",
+  "date" : "20170212",
+  "items" : 33
+}, {
+  "uri" : "http://feeds.feedburner.com/napi-utra-valo",
+  "name" : "Napi-útra-való",
+  "date" : "20170412",
+  "items" : 1608
+}, {
+  "uri" : "http://feeds.feedburner.com/nyilvanosvetites",
+  "name" : "Nyilvános vetítés",
+  "date" : "20180111",
+  "items" : 220
+}, {
+  "uri" : "http://feeds.feedburner.com/pe/mTpz",
+  "name" : "#Kezdőhang Radio Show",
+  "date" : "20170608",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/szabadeuradio",
+  "name" : "Szabad Európa Rádió",
+  "date" : "20170205",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.feedburner.com/szinfoltcafe",
+  "name" : "Szín Folt Cafe",
+  "date" : "20171224",
+  "items" : 156
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:100606170/sounds.rss",
+  "name" : "Panda Egyetem Rádió",
+  "date" : "20170113",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:108789602/sounds.rss",
+  "name" : "impakták",
+  "date" : "20171224",
+  "items" : 24
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:141452681/sounds.rss",
+  "name" : "Filmvilág podcast",
+  "date" : "20171222",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:142875055/sounds.rss",
+  "name" : "Checkpoint",
+  "date" : "20171224",
+  "items" : 126
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:147241439/sounds.rss",
+  "name" : "Malackaraj",
+  "date" : "20170226",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:159160489/sounds.rss",
+  "name" : "slotCast",
+  "date" : "20170228",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180844022/sounds.rss",
+  "name" : "Pannon pszicho",
+  "date" : "20160819",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180864627/sounds.rss",
+  "name" : "Három kérdés",
+  "date" : "20171223",
+  "items" : 101
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:181311311/sounds.rss",
+  "name" : "Kutyák és lovak",
+  "date" : "20161019",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:185789380/sounds.rss",
+  "name" : "Szertár",
+  "date" : "20171223",
+  "items" : 103
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:202072872/sounds.rss",
+  "name" : "20 perccel a jövőbe",
+  "date" : "20171224",
+  "items" : 49
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:204213207/sounds.rss",
+  "name" : "Spin-O-Rama Hungary",
+  "date" : "20171229",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:219498447/sounds.rss",
+  "name" : "HWSW Weekly",
+  "date" : "20171016",
+  "items" : 42
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:224396476/sounds.rss",
+  "name" : "SportTerasz - sport podcast",
+  "date" : "20171205",
+  "items" : 60
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:226532274/sounds.rss",
+  "name" : "Rádió 1",
+  "date" : "20171221",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:228979753/sounds.rss",
+  "name" : "Wide Screen - Podcast",
+  "date" : "20170219",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:241757694/sounds.rss",
+  "name" : "Közös Albion",
+  "date" : "20170224",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:252899445/sounds.rss",
+  "name" : "THPFC Podcast",
+  "date" : "20180110",
+  "items" : 37
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:261242545/sounds.rss",
+  "name" : "Filmbarátok Podcast",
+  "date" : "20171228",
+  "items" : 135
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:266659931/sounds.rss",
+  "name" : "Vélemény Huszárok",
+  "date" : "20161106",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:280182637/sounds.rss",
+  "name" : "Sport TV podcast",
+  "date" : "20171228",
+  "items" : 114
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:281745775/sounds.rss",
+  "name" : "TheVR Happy Hour",
+  "date" : "20171226",
+  "items" : 198
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:282234471/sounds.rss",
+  "name" : "Alien Industries Podcast",
+  "date" : "20171224",
+  "items" : 24
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:290422920/sounds.rss",
+  "name" : "Comedy Central Podcast",
+  "date" : "20170629",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:309841731/sounds.rss",
+  "name" : "Keleten-Nyugaton Podcast",
+  "date" : "20171227",
+  "items" : 77
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:319635779/sounds.rss",
+  "name" : "Balázsék",
+  "date" : "20171221",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:3421454/sounds.rss",
+  "name" : "Sportmajom",
+  "date" : "20171122",
+  "items" : 94
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:52090386/sounds.rss",
+  "name" : "Ex-ReggeliShow",
+  "date" : "20171105",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:67176473/sounds.rss",
+  "name" : "atlatszo.hu",
+  "date" : "20171125",
+  "items" : 250
+}, {
+  "uri" : "http://fussneki.hu/feed/podcast",
+  "name" : "Fuss neki!",
+  "date" : "20171022",
+  "items" : 60
+}, {
+  "uri" : "http://fuzovelkifele.com/feed/podcast/",
+  "name" : "Fűzővel kifelé!",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://golgotakistarcsa.hu/sermons/feed/golgota-kistarcsa-tanitasok/",
+  "name" : "Golgota Kistarcsa Tanítások",
+  "date" : "20171228",
+  "items" : 128
+}, {
+  "uri" : "http://index.hu/kultur/rss/kateg/kultrovatpodcast/",
+  "name" : "Index - Kultrovat podcast",
+  "date" : "20180101",
+  "items" : 25
+}, {
+  "uri" : "http://inforadio.hu/assets/static/podcast/inforadio_arena_rss.xml",
+  "name" : "InforÃ¡diÃ³ - ArÃ©na",
+  "date" : "20180112",
+  "items" : 10
+}, {
+  "uri" : "http://infostart.hu/assets/static/podcast/inforadio_arena_rss.xml",
+  "name" : "Inforádió - Aréna",
+  "date" : "20180117",
+  "items" : 8
+}, {
+  "uri" : "http://kissdaniel73.podomatic.com/rss2.xml",
+  "name" : "Deep House Threat",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://klikkplay.hu/rss",
+  "name" : "KlikkPlay",
+  "date" : "20180107",
+  "items" : 10
+}, {
+  "uri" : "http://kristonati.podomatic.com/rss2.xml",
+  "name" : "Ready To Rage Radio by The Sons Of The Madness",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://latszoter.hu/radio/feed/garazsmenet",
+  "name" : "Garázsmenet - Látszótér Rádió",
+  "date" : "20180116",
+  "items" : 200
+}, {
+  "uri" : "http://minimalize.ininet.hu/index.php/podcast",
+  "name" : "Minimal & Techno Podcast",
+  "date" : "20171109",
+  "items" : 18
+}, {
+  "uri" : "http://mixtapes.sznokarecords.com/feed.xml",
+  "name" : "Hammer Mixtapes by Sznoka",
+  "date" : "20171229",
+  "items" : 46
+}, {
+  "uri" : "http://motaba.podomatic.com/rss2.xml",
+  "name" : "Minimal & Techno Podcast",
+  "date" : "20171225",
+  "items" : 3
+}, {
+  "uri" : "http://onkenyes.hu/kategoria/podcast/feed/",
+  "name" : "Önkényes Mérvadó",
+  "date" : "20171219",
+  "items" : 279
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/hunrntn1da",
+  "name" : "Magyar BibliatÃ¡rsulat (Non-dramatizÃ¡lt) - Hungarian Bible (Non-Dramatized)",
+  "date" : "20161017",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/hunrnto1da",
+  "name" : "Magyar Biblia - ÃszÃ¶vetsÃ©g (Non-dramatizÃ¡lt) - Hungarian Bible - Old Testament (Non-Dramatized)",
+  "date" : "20161017",
+  "items" : 929
+}, {
+  "uri" : "http://podcast.mobilkisokos.hu/feed.xml",
+  "name" : "180 perc - MiniszterelnÃ¶ki interjÃº",
+  "date" : "20171229",
+  "items" : 81
+}, {
+  "uri" : "http://podcast.szaloky.com/jazzcast.xml",
+  "name" : "Mainstream Jazzcast",
+  "date" : "20110220",
+  "items" : 1
+}, {
+  "uri" : "http://podcast11561.podomatic.com/rss2.xml",
+  "name" : "tommy's podcast",
+  "date" : "20171220",
+  "items" : 7
+}, {
+  "uri" : "http://podcast3605636966.podomatic.com/rss2.xml",
+  "name" : "tommy's podcast",
+  "date" : "20171213",
+  "items" : 3
+}, {
+  "uri" : "http://podcast6229440397.podomatic.com/rss2.xml",
+  "name" : "tommy's podcast",
+  "date" : "20171213",
+  "items" : 4
+}, {
+  "uri" : "http://podcastgen.radiomaria.org/~podcast.at.radiomaria.org/feed.xml",
+  "name" : "Radio Maria Austria",
+  "date" : "20180109",
+  "items" : 2
+}, {
+  "uri" : "http://podcastgen.radiomaria.org/~podcast.sk.radiomaria.org/feed.xml",
+  "name" : "Radio Maria Slovakia (hun)",
+  "date" : "20171225",
+  "items" : 8
+}, {
+  "uri" : "http://publio.hu/podcast/publio_kettesben.xml",
+  "name" : "Publio - Kettesben",
+  "date" : "20131216",
+  "items" : 4
+}, {
+  "uri" : "http://ronybass.com/feed/podcast/",
+  "name" : "Rony Bass Official Podcast",
+  "date" : "20170315",
+  "items" : 49
+}, {
+  "uri" : "http://stamfordlions.hu/podcast/feed.xml",
+  "name" : "BÃ¼ntetÅ Podcast",
+  "date" : "20171228",
+  "items" : 101
+}, {
+  "uri" : "http://sumeg.ferencesek.hu/rss.xml",
+  "name" : "Barsi Bal�zs Podcast",
+  "date" : "20180107",
+  "items" : 182
+}, {
+  "uri" : "http://thedjbudaimusic.podomatic.com/rss2.xml",
+  "name" : "Budai Martin's Podcast",
+  "date" : "20171213",
+  "items" : 6
+}, {
+  "uri" : "http://timemachinehungary.podomatic.com/rss2.xml",
+  "name" : "Time Machine Crew Hungary's Podcast",
+  "date" : "20171214",
+  "items" : 7
+}, {
+  "uri" : "http://totalcar.hu/egester/rss/podcast",
+  "name" : "Totalcar - Égéstér posztok",
+  "date" : "20180112",
+  "items" : 280
+}, {
+  "uri" : "http://ttb.twr.org/rss/hungarian_main.xml",
+  "name" : "A Biblia Ãzenete @ ttb.twr.org/hungarian",
+  "date" : "20180112",
+  "items" : 252
+}, {
+  "uri" : "http://tudomany.civilradio.hu/podcast/feed.xml",
+  "name" : "Civil TudomÃ¡ny",
+  "date" : "20150217",
+  "items" : 51
+}, {
+  "uri" : "http://vekker.podomatic.com/rss2.xml",
+  "name" : "Adam Weltler's Podcast",
+  "date" : "20171214",
+  "items" : 8
+}, {
+  "uri" : "http://www.androvera.com/nhb/nhb.xml",
+  "name" : "NAPI HANGZ� BIBLIA",
+  "date" : "20140116",
+  "items" : 365
+}, {
+  "uri" : "http://www.baranyattila.hu/podcast/funky/podcast.xml",
+  "name" : "Funky Mixes",
+  "date" : "20161228",
+  "items" : 16
+}, {
+  "uri" : "http://www.baranyattila.hu/podcast/house/podcast.xml",
+  "name" : "B-sensual Official HOUSE Podcast",
+  "date" : "20170114",
+  "items" : 40
+}, {
+  "uri" : "http://www.bbradio.hu/podcast.xml",
+  "name" : "Body.Builder RÃ¡diÃ³",
+  "date" : "20171214",
+  "items" : 183
+}, {
+  "uri" : "http://www.bbtv.hu/podcast.xml",
+  "name" : "Body.Builder Television",
+  "date" : "20171226",
+  "items" : 150
+}, {
+  "uri" : "http://www.buildergasztro.hu/podcast.xml",
+  "name" : "Builder Gasztro",
+  "date" : "20171214",
+  "items" : 200
+}, {
+  "uri" : "http://www.doplay.eu/hu/feed/podcast/",
+  "name" : "DOPLAY - CSAK JÁTÉK",
+  "date" : "20171107",
+  "items" : 5
+}, {
+  "uri" : "http://www.gamer365.hu/gamer365hu.xml",
+  "name" : "Gamer365.hu",
+  "date" : "20180109",
+  "items" : 174
+}, {
+  "uri" : "http://www.misia.sk/podcast/hungarian/",
+  "name" : "Apostolic Prophetic Bible Ministry - hungarian",
+  "date" : "20171228",
+  "items" : 279
+}, {
+  "uri" : "http://www.ndjt.hu/cast/podcast.xml",
+  "name" : "NDJT Project - The Podcast Series",
+  "date" : "20160128",
+  "items" : 4
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=1055",
+  "name" : "GaborKis Mixing",
+  "date" : "20131214",
+  "items" : 4
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=12350",
+  "name" : "Futószalag",
+  "date" : "20180108",
+  "items" : 27
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=4221",
+  "name" : "Ball Don't Lie Podcast",
+  "date" : "20161025",
+  "items" : 18
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=4926",
+  "name" : "KÃ¶nyvesblog",
+  "date" : "20160115",
+  "items" : 13
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=796",
+  "name" : "Kezdő5.hu Podcast",
+  "date" : "20141025",
+  "items" : 12
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=8021",
+  "name" : "NBA1.hu Podcasts",
+  "date" : "20151215",
+  "items" : 4
+}, {
+  "uri" : "http://www.sorozatguru.info/?feed=podcast",
+  "name" : "SorozatGURU Podcast",
+  "date" : "20180114",
+  "items" : 9
+}, {
+  "uri" : "http://www2.golgotabudapest.hu/index.php/hu/component/podcastmanager?format=raw&feedname=2",
+  "name" : "Golgota Budapest",
+  "date" : "20180115",
+  "items" : 139
+}, {
+  "uri" : "http://zsoltaros.com/podcast.xml",
+  "name" : "Amerikai Magyar Baptista Gyülekezet",
+  "date" : "20100618",
+  "items" : 9
+}, {
+  "uri" : "https://ahetmesterlovesze.wordpress.com/category/podcasts/feed/",
+  "name" : "A hét mesterlövésze",
+  "date" : "20171229",
+  "items" : 82
+}, {
+  "uri" : "https://hearthis.at/dave-harrigan/podcast/",
+  "name" : "Special Chill Session",
+  "date" : "20180117",
+  "items" : 4
+}, {
+  "uri" : "https://islamhouse.com/pc/384362",
+  "name" : "A Korán értelmezésének magyar fordítása - 78-114 szúra",
+  "date" : "20120103",
+  "items" : 38
+}, {
+  "uri" : "https://mariaradio.podbean.com/feed/",
+  "name" : "Mária Rádió Magyarország",
+  "date" : "20171223",
+  "items" : 20
+}, {
+  "uri" : "https://mariaut.podbean.com/feed/",
+  "name" : "A Mária Út Podcast",
+  "date" : "20170815",
+  "items" : 20
+}, {
+  "uri" : "https://popkultcsajoksatobbi.wordpress.com/category/podcasts/feed/",
+  "name" : "Popkult, csajok, satöbbi » podcasts",
+  "date" : "20180117",
+  "items" : 50
+}, {
+  "uri" : "https://rss.simplecast.com/podcasts/1242/rss",
+  "name" : "88 mérföld óránként",
+  "date" : "20170929",
+  "items" : 23
+}, {
+  "uri" : "https://s3.amazonaws.com/epizodistak/epizodistak.xml",
+  "name" : "EpizodistÃ¡k Podcast - 2. Ã©vad",
+  "date" : "20140419",
+  "items" : 13
+}, {
+  "uri" : "https://simplecast.com/podcasts/1242/rss",
+  "name" : "88 mérföld óránként",
+  "date" : "20170929",
+  "items" : 23
+}, {
+  "uri" : "https://szempillantas.fireside.fm/rss",
+  "name" : "Szempillantás",
+  "date" : "20171219",
+  "items" : 42
+}, {
+  "uri" : "https://szinfoltcafe.fireside.fm/rss",
+  "name" : "Szín Folt Cafe",
+  "date" : "20171224",
+  "items" : 156
+}, {
+  "uri" : "https://www.peterjabin.com/feed.xml",
+  "name" : "PETER JABIN OFFICIAL",
+  "date" : "20180111",
+  "items" : 59
+} ]

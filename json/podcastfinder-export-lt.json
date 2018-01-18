@@ -1,0 +1,196 @@
+[ {
+  "uri" : "http://dubauskaite.lt/dd-podcast.xml",
+  "name" : "1-800-DAINAD DAINOS DAINAI",
+  "date" : "20150424",
+  "items" : 99
+}, {
+  "uri" : "http://ttb.twr.org/rss/lithuanian_main.xml",
+  "name" : "Kelionė Biblijos puslapiais @ ttb.twr.org/lithuanian",
+  "date" : "20180117",
+  "items" : 261
+}, {
+  "uri" : "http://www.fullflavour.lt/feed/mp3/",
+  "name" : "Red1 - Liquid drum and bass!",
+  "date" : "20180105",
+  "items" : 69
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/1015811/cia-ir-dabar?rss",
+  "name" : "Čia ir dabar.",
+  "date" : "20180117",
+  "items" : 114
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/1015811/cia_ir_dabar?rss",
+  "name" : "Čia ir dabar.",
+  "date" : "20171229",
+  "items" : 114
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/1277952/lrt_radijas_90?rss",
+  "name" : "LRT Radijas 90.",
+  "date" : "20171230",
+  "items" : 45
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/1310720/devyni_radijo_desimtmeciai?rss",
+  "name" : "Devyni radijo dešimtmečiai.",
+  "date" : "20171230",
+  "items" : 22
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/131097/radijo-teatras?rss",
+  "name" : "Radijo teatras.",
+  "date" : "20171229",
+  "items" : 386
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/131097/radijo_teatras?rss",
+  "name" : "Radijo teatras.",
+  "date" : "20180117",
+  "items" : 392
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/32768/zinios?rss",
+  "name" : "Žinios.",
+  "date" : "20171229",
+  "items" : 1000
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/412/teise-zinoti?rss",
+  "name" : "Teisė žinoti.",
+  "date" : "20180114",
+  "items" : 430
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/589825/ka_man_skaityti_?rss",
+  "name" : "Ką man skaityti?.",
+  "date" : "20171230",
+  "items" : 172
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65553/gyvoji-istorija?rss",
+  "name" : "Gyvoji istorija.",
+  "date" : "20171229",
+  "items" : 358
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65557/literaturos_akiraciai?rss",
+  "name" : "Literatūros akiračiai.",
+  "date" : "20180117",
+  "items" : 410
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65558/mes-moterys?rss",
+  "name" : "Mes, moterys.",
+  "date" : "20180114",
+  "items" : 266
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65558/mes_moterys?rss",
+  "name" : "Mes, moterys.",
+  "date" : "20180117",
+  "items" : 266
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65562/tetos_betos_viktorina?rss",
+  "name" : "Tetos Betos viktorina.",
+  "date" : "20171229",
+  "items" : 220
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65564/ziniu-amzius?rss",
+  "name" : "Žinių amžius.",
+  "date" : "20180114",
+  "items" : 253
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65566/pasnekesiai-apie-tave-ir-kitus?rss",
+  "name" : "Pašnekesiai apie tave ir kitus.",
+  "date" : "20171229",
+  "items" : 295
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65566/pasnekesiai_apie_tave_ir_kitus?rss",
+  "name" : "Pašnekesiai apie tave ir kitus.",
+  "date" : "20171229",
+  "items" : 295
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65569/vakaro-pasaka?rss",
+  "name" : "Vakaro pasaka.",
+  "date" : "20171229",
+  "items" : 1000
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65570/vidurnakcio-lyrika?rss",
+  "name" : "Vidurnakčio lyrika.",
+  "date" : "20171229",
+  "items" : 909
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65576/muzikinis_vidudienis?rss",
+  "name" : "Muzikinis vidudienis.",
+  "date" : "20171229",
+  "items" : 860
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65580/kasdienybes_kultura?rss",
+  "name" : "Kasdienybės kultūra.",
+  "date" : "20180117",
+  "items" : 486
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65584/radijo-paskaitos?rss",
+  "name" : "Radijo paskaitos.",
+  "date" : "20171229",
+  "items" : 283
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65584/radijo_paskaitos?rss",
+  "name" : "Radijo paskaitos.",
+  "date" : "20180117",
+  "items" : 285
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65585/ryto_allegro?rss",
+  "name" : "Ryto allegro.",
+  "date" : "20180117",
+  "items" : 1000
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65587/zmones-ir-idejos?rss",
+  "name" : "Žmonės ir idėjos.",
+  "date" : "20171229",
+  "items" : 344
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65587/zmones_ir_idejos?rss",
+  "name" : "Žmonės ir idėjos.",
+  "date" : "20180117",
+  "items" : 349
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65588/is_radijo_aukso_fondo?rss",
+  "name" : "Iš radijo aukso fondo.",
+  "date" : "20180117",
+  "items" : 163
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65589/po_lyros_zenklu?rss",
+  "name" : "Po lyros ženklu.",
+  "date" : "20180117",
+  "items" : 208
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65590/vakaras-su-knyga?rss",
+  "name" : "Vakaras su knyga.",
+  "date" : "20171229",
+  "items" : 1000
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65590/vakaras_su_knyga?rss",
+  "name" : "Vakaras su knyga.",
+  "date" : "20180117",
+  "items" : 1000
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65638/manasis-as?rss",
+  "name" : "Manasis aš.",
+  "date" : "20171229",
+  "items" : 326
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65645/radijo-dokumentika?rss",
+  "name" : "Radijo dokumentika.",
+  "date" : "20180118",
+  "items" : 114
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/65645/radijo_dokumentika?rss",
+  "name" : "Radijo dokumentika.",
+  "date" : "20180118",
+  "items" : 114
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/720896/svelnus-tardymai?rss",
+  "name" : "Švelnūs tardymai.",
+  "date" : "20171229",
+  "items" : 133
+}, {
+  "uri" : "http://www.lrt.lt/mediateka/prenumerata/laida/884736/parastes?rss",
+  "name" : "Paraštės .",
+  "date" : "20171229",
+  "items" : 106
+}, {
+  "uri" : "http://www.partyzanai.com/podcast/podcast.xml",
+  "name" : "Partyzanai Podcast",
+  "date" : "20110405",
+  "items" : 46
+} ]

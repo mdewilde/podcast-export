@@ -1,0 +1,396 @@
+[ {
+  "uri" : "http://feed.cri.cn/rss/719d3456-3e52-4ed1-abc2-302d6eaedeb2",
+  "name" : "AKUSHIN SINAWA",
+  "date" : "20141208",
+  "items" : 42
+}, {
+  "uri" : "http://feeds.feedburner.com/haulg_awr",
+  "name" : "AWR Hausa - هَوْسَ",
+  "date" : "20180109",
+  "items" : 62
+}, {
+  "uri" : "http://ha.rfi.fr/shirye-shirye/bakonmu-yau/podcast/",
+  "name" : "Bakonmu a Yau",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://ha.rfi.fr/shirye-shirye/kasuwanci/podcast/",
+  "name" : "Kasuwanci",
+  "date" : "20171227",
+  "items" : 20
+}, {
+  "uri" : "http://ha.rfi.fr/shirye-shirye/kida-da-aladu/podcast/",
+  "name" : "Kida da Al'adu",
+  "date" : "20171114",
+  "items" : 20
+}, {
+  "uri" : "http://ha.rfi.fr/shirye-shirye/mu-zagaya-duniya/podcast/",
+  "name" : "Mu Zagaya Duniya",
+  "date" : "20171223",
+  "items" : 20
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_ha",
+  "name" : "Shirin Radio D zango na 1 | Koyon Jamusanci | Deutsche Welle",
+  "date" : "20171230",
+  "items" : 26
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/podcast/podcast_ha_kasuw.xml",
+  "name" : "RFI - Kasuwanci",
+  "date" : "20171227",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/2771969",
+  "name" : "Hukunce-hukuncen Safa da Marwa",
+  "date" : "20150906",
+  "items" : 9
+}, {
+  "uri" : "https://islamhouse.com/pc/2774348",
+  "name" : "Sharhin littafin aqidan muhammed bin abdu wahhab",
+  "date" : "20150919",
+  "items" : 25
+}, {
+  "uri" : "https://islamhouse.com/pc/2786740",
+  "name" : "Shaidawa “Annabi MuhammadManzan Allah ne”",
+  "date" : "20151228",
+  "items" : 11
+}, {
+  "uri" : "https://islamhouse.com/pc/3157?page=3157",
+  "name" : "Oh! My Islam Brother!",
+  "date" : "20060419",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/3159?page=3159",
+  "name" : "The Rites Of Hajj And Umra(Piligramme And Minor Piligramme)",
+  "date" : "20060419",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/3163?page=3163",
+  "name" : "The Greatness Of Corrupting In Allah’s Sacred Land",
+  "date" : "20060419",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/3169?page=3169",
+  "name" : "The Fruit Of Saying The Truth And The Consequence Of Telling Lies",
+  "date" : "20060419",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449228",
+  "name" : "Hakkokin iyalai",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449234",
+  "name" : "Illolin zinace zinace",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449255",
+  "name" : "Haramcin shan jiya",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449267",
+  "name" : "Gulma",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449271",
+  "name" : "Koyi da manzun allah (s.a.w)",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449275",
+  "name" : "Hukumce hukumcen aikin haji da umra",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449279",
+  "name" : "Mutane 17 Wanda Allah Bazaiyi Magana Da Suba Ranar Alkiyama",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449286",
+  "name" : "Ciniki Mai Riba",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449288",
+  "name" : "Kasuwanci da amana",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449292",
+  "name" : "Hakuri akan jarabawa aduniya",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449296",
+  "name" : "Mafiya mahimmacin mas alolin haji da umra",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449298",
+  "name" : "Hakkin iyaye da na yaya",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449300",
+  "name" : "Hakkokin mace amuslinci",
+  "date" : "20131126",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/449316",
+  "name" : "Arba una hadith",
+  "date" : "20131127",
+  "items" : 25
+}, {
+  "uri" : "https://islamhouse.com/pc/453395",
+  "name" : "Siffofin 99 da maza keso ga mata",
+  "date" : "20140113",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/453567",
+  "name" : "Sharhin Littafin Usulul Iman",
+  "date" : "20140115",
+  "items" : 6
+}, {
+  "uri" : "https://islamhouse.com/pc/453575",
+  "name" : "Littafin Alfurkan",
+  "date" : "20140115",
+  "items" : 38
+}, {
+  "uri" : "https://islamhouse.com/pc/453577",
+  "name" : "Sharhin Littafin Muktasar Siyratur Rasul",
+  "date" : "20140115",
+  "items" : 21
+}, {
+  "uri" : "https://islamhouse.com/pc/460264",
+  "name" : "Sharhin littafin tagut na sheik mhd bin abdul wahab",
+  "date" : "20140128",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/548607",
+  "name" : "Sharhin Al jamiau fi ibadatillah",
+  "date" : "20140426",
+  "items" : 2
+}, {
+  "uri" : "https://islamhouse.com/pc/601669",
+  "name" : "Sharhin littafin kash shubuhat na ibn u saimin",
+  "date" : "20140529",
+  "items" : 29
+}, {
+  "uri" : "https://islamhouse.com/pc/716277",
+  "name" : "Mine ne bayan azumi",
+  "date" : "20140629",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/716279",
+  "name" : "Azumi da hukuncinsa",
+  "date" : "20140629",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/716282",
+  "name" : "Sharhin littafin qiyam ramadan  na shiek nasir addin albani",
+  "date" : "20140629",
+  "items" : 12
+}, {
+  "uri" : "https://islamhouse.com/pc/727590",
+  "name" : "Sharhin littafi iqtidaaul siratull mustaqim",
+  "date" : "20140906",
+  "items" : 66
+}, {
+  "uri" : "https://islamhouse.com/pc/794446",
+  "name" : "Sharhin littafin umdatul ahkam na babban malami abdul gany almakdisi",
+  "date" : "20141208",
+  "items" : 25
+}, {
+  "uri" : "https://islamhouse.com/pc/795068",
+  "name" : "Tarihin annabi (S.A.W)",
+  "date" : "20141213",
+  "items" : 36
+}, {
+  "uri" : "https://islamhouse.com/pc/805338",
+  "name" : "Hukuncin tsanatawa acikin addini",
+  "date" : "20150111",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/805361",
+  "name" : "Hukuncin sallah da najasa ajiki  acikin mantuwa",
+  "date" : "20150111",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/805365",
+  "name" : "Hukuncin tawassali da aiki da sunayan allah da manzonsa",
+  "date" : "20150111",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/810865",
+  "name" : "Tafsirin surar annisa",
+  "date" : "20150207",
+  "items" : 16
+}, {
+  "uri" : "https://islamhouse.com/pc/814531",
+  "name" : "Bidi a acikin addinin musulinci",
+  "date" : "20150219",
+  "items" : 2
+}, {
+  "uri" : "https://islamhouse.com/pc/814582",
+  "name" : "Haram cin kashe war ra yuwa",
+  "date" : "20150221",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/814598",
+  "name" : "wajabcin kame bakigame da fitina tsakanin sahabbai",
+  "date" : "20150221",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/814603",
+  "name" : "Hukumce hukumcan taima ma",
+  "date" : "20150221",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/822385",
+  "name" : "Hakikanin bayani akan maulidi",
+  "date" : "20150309",
+  "items" : 18
+}, {
+  "uri" : "https://islamhouse.com/pc/822620",
+  "name" : "Tafsirin surar ma ida",
+  "date" : "20150310",
+  "items" : 10
+}, {
+  "uri" : "https://islamhouse.com/pc/822624",
+  "name" : "Kofofin alkairi",
+  "date" : "20150310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/822985",
+  "name" : "Sharhin littafin ahkamul jana iz",
+  "date" : "20150310",
+  "items" : 69
+}, {
+  "uri" : "https://islamhouse.com/pc/823935",
+  "name" : "Hukumce hukumcan Ruwa",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823939",
+  "name" : "Hanyar magabata wajan yada da awa",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823941",
+  "name" : "Mutuwar aure da abidake gawoshi",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823943",
+  "name" : "Falalar matayan manzon allah (asw)",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823947",
+  "name" : "Yadda aljani yake shiga cikin mata",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823949",
+  "name" : "Zikirin safe da marece",
+  "date" : "20150315",
+  "items" : 2
+}, {
+  "uri" : "https://islamhouse.com/pc/823957",
+  "name" : "Wanda yayyi shakun fitan iska acikin salla",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823966",
+  "name" : "Hukumcin yin wanka aranar jumaa",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823972",
+  "name" : "Hukumcin ruwanda  kare ya sayya baki acikina",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823976",
+  "name" : "Hukumcin bawali cikin rowan da basa gudu da alwala ko wanka  acikinsu",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/823980",
+  "name" : "Ladubban shiga ban daki",
+  "date" : "20150315",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/882978",
+  "name" : "Sharhin littafin riyadus salihina",
+  "date" : "20150412",
+  "items" : 108
+}, {
+  "uri" : "https://islamhouse.com/pc/885399",
+  "name" : "illar harshe",
+  "date" : "20150504",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/885403",
+  "name" : "Mahimmacin lokaci a rayuwar dan ada",
+  "date" : "20150504",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/885509",
+  "name" : "Fa idodi daga hadisin ummu zarri",
+  "date" : "20150505",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/885511",
+  "name" : "Haila larurar mata",
+  "date" : "20150505",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/885517",
+  "name" : "Siffofin kawarijawa",
+  "date" : "20150505",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/885520",
+  "name" : "Hukuncin aske kai batarada auzuriba",
+  "date" : "20150505",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/885526",
+  "name" : "Hukuncin jinin dake futa ajikin dan adam",
+  "date" : "20150505",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/889508",
+  "name" : "Falalar Sha’aban da kuma bidi’o’in dake cikinsa",
+  "date" : "20150602",
+  "items" : 9
+}, {
+  "uri" : "https://islamhouse.com/pc/889598",
+  "name" : "Hukunci azumi kuwana daya ko biyu kafin azumi",
+  "date" : "20150603",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/889604",
+  "name" : "Lokacin suhur da fa idodinsa a ramadan",
+  "date" : "20150603",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/889608",
+  "name" : "Hukuncin azumin wanda ya wayi gari da janaba a azumi",
+  "date" : "20150603",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/897289",
+  "name" : "Tafsirin surar yusuf",
+  "date" : "20150621",
+  "items" : 10
+}, {
+  "uri" : "https://islamhouse.com/pc/897398",
+  "name" : "tambayoyi kan azumi",
+  "date" : "20150622",
+  "items" : 20
+} ]

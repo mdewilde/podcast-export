@@ -1,0 +1,1056 @@
+[ {
+  "uri" : "http://feed.cri.cn/rss/ea21ce36-1606-4d9b-85cd-880128745e3d",
+  "name" : "HỘP THƯ NGỌC ÁNH",
+  "date" : "20141208",
+  "items" : 96
+}, {
+  "uri" : "http://feeds.feedburner.com/VIESD_SAB",
+  "name" : "AWR Vietnamese (tiếng Việt) Weekend Program",
+  "date" : "20180106",
+  "items" : 29
+}, {
+  "uri" : "http://feeds.feedburner.com/VIESD_VOH",
+  "name" : "AWR Vietnamese / tiếng Việt / Việt ngữ",
+  "date" : "20180101",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.feedburner.com/cherryradiopodcasting",
+  "name" : "Cherry Radio",
+  "date" : "20180117",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.feedburner.com/lifeabroadpodcast",
+  "name" : "Podcasts – Life Abroad Podcast",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/bltepin1da",
+  "name" : "à¸ à¸²à¸©à¸²à¹à¸à¸à¸³ Tai Dam kinh thÃ¡nh (Non-ká»ch) - Tai Dam Bible (Non-Dramatized)",
+  "date" : "20160614",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/bltepin2da",
+  "name" : "à¸ à¸²à¸©à¸²à¹à¸à¸à¸³ Tai Dam kinh thÃ¡nh (ká»ch) - Tai Dam Bible (Dramatized)",
+  "date" : "20160614",
+  "items" : 260
+}, {
+  "uri" : "http://streamer1.rfaweb.org/audio/VIE/Vie1400UTC.php",
+  "name" : "Chương trình phát thanh 9 giờ tối hàng ngày",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://streamer1.rfaweb.org/audio/VIE/Vie2330UTC.php",
+  "name" : "Chương trình phát thanh 6:30 sáng hàng ngày",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://streamer1.rfaweb.org/audio/vie/vie1400utc.php",
+  "name" : "ChÆ°Æ¡ng trÃ¬nh phÃ¡t thanh 9 giá» tá»i hÃ ng ngÃ y",
+  "date" : "20180113",
+  "items" : 20
+}, {
+  "uri" : "http://streamer1.rfaweb.org/audio/vie/vie2330utc.php",
+  "name" : "ChÆ°Æ¡ng trÃ¬nh phÃ¡t thanh 6:30 sÃ¡ng hÃ ng ngÃ y",
+  "date" : "20180114",
+  "items" : 20
+}, {
+  "uri" : "http://ttb.twr.org/rss/vietnamese_main.xml",
+  "name" : "TÃ¬m Hiá»u ThÃ¡nh Kinh @ ttb.twr.org/vietnamese",
+  "date" : "20180112",
+  "items" : 260
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-am-nhac/podcast",
+  "name" : "TẠP CHÍ ÂM NHẠC",
+  "date" : "20180113",
+  "items" : 20
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-cong-dong/podcast",
+  "name" : "TẠP CHÍ XÃ HỘI",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-dac-biet/podcast",
+  "name" : "TẠP CHÍ ĐẶC BIỆT",
+  "date" : "20180113",
+  "items" : 20
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-khoa-hoc/podcast",
+  "name" : "TẠP CHÍ KHOA HỌC",
+  "date" : "20170712",
+  "items" : 20
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-kinh-te/podcast",
+  "name" : "TẠP CHÍ KINH TẾ",
+  "date" : "20180109",
+  "items" : 20
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-tieu-diem/podcast",
+  "name" : "TẠP CHÍ TIÊU ĐIỂM",
+  "date" : "20180111",
+  "items" : 20
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-van-hoa/podcast",
+  "name" : "TẠP CHÍ VĂN HÓA",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://vi.rfi.fr/phat-thanh/tap-chi-viet-nam/podcast",
+  "name" : "TẠP CHÍ VIỆT NAM",
+  "date" : "20180108",
+  "items" : 20
+}, {
+  "uri" : "http://web5ngay.libsyn.com/rss",
+  "name" : "Sách Nói Kinh Doanh",
+  "date" : "20180116",
+  "items" : 2
+}, {
+  "uri" : "http://www.ampedgaming.com/feed",
+  "name" : "Amped Gaming",
+  "date" : "20180116",
+  "items" : 5
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/cjecwkp1da.xml",
+  "name" : "Chru Kinh ThÃ¡nh (Non-ká»ch) - Chru Bible Matthew-Acts (Non-Dramatized)",
+  "date" : "20150914",
+  "items" : 117
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/mwwhdvn2da.xml",
+  "name" : "Hmong Daw Kinh Thánh - Hmong Daw Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/viecovn1da.xml",
+  "name" : "Kinh Thánh Tiếng Việt (Non-kịch) 1924 Khoi-Cadman – Vietnamese Bible (Non-Dramatized)",
+  "date" : "20151028",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/vievovn1da.xml",
+  "name" : "Kinh Thánh Tiếng Việt (kịch) Old Version – Vietnamese Bible (Non-Dramatized)",
+  "date" : "20160712",
+  "items" : 260
+}, {
+  "uri" : "http://www.nhk.or.jp/lesson/common/rss/podcast/vietnamese.xml",
+  "name" : "Cùng nhau học tiếng Nhật - Đài phát thanh Nhật Bản NHK WORLD",
+  "date" : "20180109",
+  "items" : 32
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=12476",
+  "name" : "HTTL Surrey Vietnamese Alliance Church",
+  "date" : "20171224",
+  "items" : 61
+}, {
+  "uri" : "http://www.radioaustralia.net.au/vietnamese/podcast/feed/englishforbusiness-vi",
+  "name" : "Tiáº¿ng Anh ThÆ°Æ¡ng máº¡i",
+  "date" : "00120803",
+  "items" : 26
+}, {
+  "uri" : "http://www.radioaustralia.net.au/vietnamese/podcast/feed/englishforhospitality-vi",
+  "name" : "Tiáº¿ng Anh Du lá»ch",
+  "date" : "00130206",
+  "items" : 26
+}, {
+  "uri" : "http://www.radioaustralia.net.au/vietnamese/podcast/feed/englishfromaustralia1-vi",
+  "name" : "Tiáº¿ng Anh á» Australia I",
+  "date" : "00120601",
+  "items" : 26
+}, {
+  "uri" : "http://www.radioaustralia.net.au/vietnamese/podcast/feed/englishfromaustralia2-vi",
+  "name" : "Tiáº¿ng Anh á» Australia II",
+  "date" : "00130206",
+  "items" : 24
+}, {
+  "uri" : "http://www.vietchristian.com/kinhthanh/pod.asp",
+  "name" : "Kinh Thanh Podcast",
+  "date" : "20171229",
+  "items" : 1189
+}, {
+  "uri" : "http://www.vietchristian.com/pod.asp",
+  "name" : "VietChristian Podcast -",
+  "date" : "20171230",
+  "items" : 30
+}, {
+  "uri" : "http://www.vietchristian.com/pod.asp?id=svtk",
+  "name" : "Song Voi Thanh Kinh Podcast",
+  "date" : "20171229",
+  "items" : 40
+}, {
+  "uri" : "http://www.voatiengviet.com/podcast/?count=50&zoneid=1952",
+  "name" : "VOA 4 giờ 30 sáng - VOA",
+  "date" : "20180114",
+  "items" : 30
+}, {
+  "uri" : "http://www.voatiengviet.com/podcast/?count=50&zoneid=1957",
+  "name" : "VOA 10 giờ khuya - VOA",
+  "date" : "20180114",
+  "items" : 30
+}, {
+  "uri" : "http://www.voatiengviet.com/podcast/video.aspx?count=50&zoneid=2089",
+  "name" : "Phóng sự đặc biệt - VOA",
+  "date" : "20180118",
+  "items" : 50
+}, {
+  "uri" : "http://www.voatiengviet.com/podcast/video.aspx?count=50&zoneid=3405",
+  "name" : "Truyền hình vệ tinh - VOA",
+  "date" : "20171230",
+  "items" : 22
+}, {
+  "uri" : "http://www.voatiengviet.com/podcast/video.aspx?count=50&zoneid=4019",
+  "name" : "News Words - VOA",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/PodCast/Podcast_VI_LADIA.xml",
+  "name" : "RFI - Nhịp Cầu Tri Âm",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/PodCast/Podcast_VI_VIETN.xml",
+  "name" : "RFI - Việt Nam trong dòng thời sự",
+  "date" : "20180115",
+  "items" : 10
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/podcast/podcast_vi_cultu.xml",
+  "name" : "RFI - Tạp chí Văn Hóa",
+  "date" : "20180112",
+  "items" : 10
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/podcast/podcast_vi_focus.xml",
+  "name" : "RFI - Táº¡p chÃ­ TiÃªu Äiá»m",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/podcast/podcast_vi_ladia.xml",
+  "name" : "RFI - Nhá»p Cáº§u Tri Ãm",
+  "date" : "20171228",
+  "items" : 1
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/podcast/podcast_vi_magec.xml",
+  "name" : "RFI - Táº¡p chÃ­ kinh táº¿",
+  "date" : "20171212",
+  "items" : 10
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/podcast/podcast_vi_magsp.xml",
+  "name" : "RFI - Táº¡p chÃ­ Äáº·c biá»t",
+  "date" : "20180101",
+  "items" : 10
+}, {
+  "uri" : "http://www1.rfi.fr/radiofr/podcast/podcast_vi_vietn.xml",
+  "name" : "RFI - Viá»t Nam trong dÃ²ng thá»i sá»±",
+  "date" : "20171225",
+  "items" : 1
+}, {
+  "uri" : "http://www3.nhk.or.jp/rj/podcast/rss/vietnamese.xml",
+  "name" : "Vietnamese News - NHK WORLD RADIO JAPAN",
+  "date" : "20171228",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/193993?page=193993",
+  "name" : "Giới thiệu về Islam, nghi thức gia nhập và điều bắt buộc sau Islam",
+  "date" : "20090307",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/198070?page=198070",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Ahmad bin Aly Al-Ajmy",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/198185?page=198185",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Sahl bin Zain Yaseen",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/198300?page=198300",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Faris Ubbaad",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/198415?page=198415",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Hany Al-Ru-fa-y.",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/198530?page=198530",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Abdul Absid Abdul Somad.",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/198645?page=198645",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Mahmud Kholeel Al-Hosry.",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/198760?page=198760",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Muhammad Siddeeq Al-Manshawy.",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/199105?page=199105",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Abdul Wadud Maqbul Haneef.",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/199220?page=199220",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Mahir bin Hamd Al-Mu-a’i-qo-ly.",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/199335?page=199335",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Abdullah Khoiyot.",
+  "date" : "20090325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/220407?page=220407",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Abdul Basid Muhammad Abdus Somad bằng đường truyền Wash được truyền lại từ ông Nafe’ Al-Madany",
+  "date" : "20090620",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/220637?page=220637",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Kholid Al-Qohtony",
+  "date" : "20090620",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/220752?page=220752",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Shaikh Mahmud Kholeel Al-Hisry bằng đường truyền Al-Dawry được truyền lại từ ông Abu Amr",
+  "date" : "20090620",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/222213?page=222213",
+  "name" : "Cách Thức Lấy Nước Wudu",
+  "date" : "20090706",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/222215?page=222215",
+  "name" : "Nghi thức dâng lễ Salah bắt buộc",
+  "date" : "20090706",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/241101?page=241101",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng Saaleh Al-Hashim",
+  "date" : "20091012",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/253217?page=253217",
+  "name" : "Nghe xướng đọc Qur’an và xem bản dịch ý nghĩa và  nội dung chương Al-Fatihah và Juz A’mma bằng tiếng Việt",
+  "date" : "20091121",
+  "items" : 38
+}, {
+  "uri" : "https://islamhouse.com/pc/258953?page=258953",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Mahmud Aly Al-Bana",
+  "date" : "20091205",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/259181?page=259181",
+  "name" : "Xướng đọc Thiên Kinh Qur’an theo đường truyền của Qolun từ ông Nafé bởi giọng đọc của Shaikh Aly bin Abdul Rohman Al-Huzaify",
+  "date" : "20091205",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/267810?page=267810",
+  "name" : "Qur’an Haram Makkah của Sa-ud Al-Shurem",
+  "date" : "20100130",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/280901?page=280901",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Muhammad Saaleh A’lim Shah",
+  "date" : "20100307",
+  "items" : 113
+}, {
+  "uri" : "https://islamhouse.com/pc/281015?page=281015",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Yaseen Al-Dausary",
+  "date" : "20100307",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/295344?page=295344",
+  "name" : "Tình Cảm Anh Em Trong Tôn Giáo Islam",
+  "date" : "20100510",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/295352?page=295352",
+  "name" : "Nhắc Nhở Về Đại Hồng Ân Islam",
+  "date" : "20100510",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/308417?page=308417",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Abdur Rosheed Sufy theo đường truyền Hafs từ A’sim",
+  "date" : "20100528",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/308418?page=308418",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Ahmad Ahmad Nu-a’i-ná’ theo đường truyền Hafs từ A’sim",
+  "date" : "20100528",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/319990?page=319990",
+  "name" : "Ramadan Rộng Lượng",
+  "date" : "20100815",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/328428?page=328428",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Shaikh Abdur Rozzaaq Al-Dulaimy Boqsor Al-Munfasil",
+  "date" : "20101124",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/331936?page=331936",
+  "name" : "Trang web hổ trợ dễ dàng tìm các giọng đọc Thiên Kinh Qur’an và nguyên bản kiến thức Islam",
+  "date" : "20110112",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/340214?page=340214",
+  "name" : "Hành Lễ Salah Là Bổn Phận Của Mỗi Người Muslim",
+  "date" : "20110415",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/348444?page=348444",
+  "name" : "Xướng đọc Thiên Kinh Qur’an bởi giọng đọc Abdullah Bosfor",
+  "date" : "20110609",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/352318?page=352318",
+  "name" : "Hãy Quan Hệ Với Allah Lúc Rảnh Rỗi Sẽ Được Ngài Chiếu Cố Khi Gặp Khó Khăn Nạn Kiếp",
+  "date" : "20110616",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/355763?page=355763",
+  "name" : "Những Người Đam Mê Thiên Đàng",
+  "date" : "20110709",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/370439?page=370439",
+  "name" : "Tin Tưởng Vào Định Mệnh Là Nhiệm Vụ",
+  "date" : "20110921",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/374583?page=374583",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Mushary Al-Rashid Al-A’fasy (ghi âm tại California)",
+  "date" : "20111028",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/374585?page=374585",
+  "name" : "Xướng đọc Thiên Kinh Qur’an với giọng đọc Ahmad Khadhr Al-Taraabalsy, bằng đường truyền của Qaalun từ ông Naafe’",
+  "date" : "20111028",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/378867?page=378867",
+  "name" : "Bài Thuyết Giảng Tết Al-Adh-ha Năm 1432 H – 2011",
+  "date" : "20111115",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/380118?page=380118",
+  "name" : "Chỉ Có Allah Mới Là Đấng Công Bằng",
+  "date" : "20111201",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/385545?page=385545",
+  "name" : "Cuộc Trải Nghiệm Kinh Hoàng Của Imam Ahmad bin Hambal",
+  "date" : "20120121",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/387765?page=387765",
+  "name" : "Qur’an Madinah năm 1431 H",
+  "date" : "20120225",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/387766?page=387766",
+  "name" : "Qur’an Makkah năm 1432 H",
+  "date" : "20120225",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/393528",
+  "name" : "Hành Trình cõi Vĩnh Hằng",
+  "date" : "20120419",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/396178",
+  "name" : "Những điều Nabi (cầu xin ban bình an và phúc lành cho Người) khuyến cáo nên tránh",
+  "date" : "20120616",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/396744",
+  "name" : "Lời Khuyên Dành Cho Tháng Ramadan Hồng Phúc",
+  "date" : "20120716",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/396773",
+  "name" : "Những Điều Làm Hư Sự Nhịn Chay",
+  "date" : "20120717",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/396973",
+  "name" : "Tháng Ramadan Là Tháng Thiên Kinh Qur’an Được Mặc Khải",
+  "date" : "20120724",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/396975",
+  "name" : "Những Điều Không Làm Hư Sự Nhịn Chay",
+  "date" : "20120724",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397663",
+  "name" : "Lòng Kính Sợ Allah Qua Sự Nhịn Chay Ramadan",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397681",
+  "name" : "E’tikaaf",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397685",
+  "name" : "Đêm Định Mệnh",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397687",
+  "name" : "Bạn Sẽ Làm Gì Khi Ramadan Đến",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397691",
+  "name" : "Các Thiên Lộc Của Allah Ban cho Nhân Tháng Ramadan Hồng Phúc",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397695",
+  "name" : "Chuyện Ngắn - Ba Câu Chuyện (Phần 1)",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397699",
+  "name" : "Vài Lời Khuyên Dành Cho Phụ Nữ Muslim",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397705",
+  "name" : "Về Con Người - “Hỏa Ngục Được Tạo Ra Là Để Tôi Đi Vào” -",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/397709",
+  "name" : "Phân Tích Hadith: “Nhóm người giàu đã chiếm hết ân phước bằng tiền tài của họ và họ hưởng được thiên đàng vĩnh cữu . . .”",
+  "date" : "20120806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/405831",
+  "name" : "Suy Ngẫm Về Hai Câu Kinh Số 71 – 72 Của Chương Mar-yam",
+  "date" : "20121023",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/410260",
+  "name" : "Qui Định Cách Ăn Mặc Theo Islam",
+  "date" : "20121230",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/412897",
+  "name" : "Hoàn Cảnh Ra Đi Vĩnh Viễn Của Nabi (cầu xin Allah ban bình an và phúc lành cho Người)",
+  "date" : "20130202",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/414110",
+  "name" : "Islam, Một Bộ Luật Tổng Quát",
+  "date" : "20130210",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/415413",
+  "name" : "Một Chút Để Nhớ Về Thiên Đàng",
+  "date" : "20130307",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/415858",
+  "name" : "Kiên Nhẫn Trước Định Mệnh An Bài Của Allah",
+  "date" : "20130312",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/419465",
+  "name" : "Allah Tạo Hóa Trời, Đất Trong Sáu Hay Bảy Ngày ?",
+  "date" : "20130330",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420566",
+  "name" : "Miêu Tả Về Hỏa Ngục",
+  "date" : "20130414",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420908",
+  "name" : "Các Phương Châm Cải Thiện Niềm Tin Về Tôn Giáo",
+  "date" : "20130421",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/422375",
+  "name" : "Allah Ở Đâu ?",
+  "date" : "20130425",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/429895",
+  "name" : "Hai Mẫu Chuyện Ngắn Về Hai Vị Sahabah Rabi-a’h bin Ka’b và Sa’d bin Ra-be’",
+  "date" : "20130616",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/429897",
+  "name" : "Lời Tuyên Dương Qur’an Dành Cho Sahabah",
+  "date" : "20130616",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/431668",
+  "name" : "Sơ Lược Tiểu Sử Abu Bakr Al-Siddeeq - cầu xin Allah hài lòng về ông -",
+  "date" : "20130701",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/433562",
+  "name" : "Tuân Lệnh Allah Là Hạnh Phúc Thực Thụ",
+  "date" : "20130709",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/433900",
+  "name" : "Ba Lời Khuyên Vì Ramadan Hồng Phúc",
+  "date" : "20130715",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/434226",
+  "name" : "Sơ Lược Tiểu Sử Salmaan Al-Faarisy – cầu xin Allah hài lòng về ông -",
+  "date" : "20130720",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/435757",
+  "name" : "Con Đường Thành Đạt",
+  "date" : "20130725",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/435759",
+  "name" : "Thành Tâm Vì Allah",
+  "date" : "20130725",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/436098",
+  "name" : "Truyện Từ Qur’an - Qaaroon -",
+  "date" : "20130728",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/436100",
+  "name" : "Hai Câu Chuyện Hay Do Rasul Kể",
+  "date" : "20130728",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/438305",
+  "name" : "Sunnah và Trái Ngược Sunnah Trong E’id Al-Fitr",
+  "date" : "20130806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439550",
+  "name" : "Truyện Từ Qur’an - Vu Khống A’-ishah -",
+  "date" : "20130831",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439579",
+  "name" : "Về Con Người - Chàng Thanh Niên Zina -",
+  "date" : "20130901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439601",
+  "name" : "Sơ Lược Về Tiểu Sử Mẹ Của Tín Đồ Có Đức Tin Bà Khadijah",
+  "date" : "20130901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439605",
+  "name" : "Sơ Lược Về Tiểu Sử Bà Fatimah Al-Zahra",
+  "date" : "20130901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439701",
+  "name" : "Lòng Kính Sợ Và Biết Tạ Ơn",
+  "date" : "20130902",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439953",
+  "name" : "Nhân Hậu Là Hành Động Của Con Tim",
+  "date" : "20130907",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/442649",
+  "name" : "Hỡi Tín Đồ Salah Al-Fajr",
+  "date" : "20131005",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/443459",
+  "name" : "Truyện Từ Qur’an - Zul Qarnain -",
+  "date" : "20131022",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/448317",
+  "name" : "Nhắc Về Cái Chết",
+  "date" : "20131109",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/448459",
+  "name" : "Nếu Các Ngươi Biết Tạ Ơn TA, Ắt TA Sẽ Ban Thêm Cho Các Ngươi",
+  "date" : "20131112",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/448916",
+  "name" : "Về Con Người - Chàng Thanh Niên Hư Đốn -",
+  "date" : "20131121",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/448918",
+  "name" : "Về Con Người - Suhail bin A’mr -",
+  "date" : "20131121",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/448963",
+  "name" : "Chuyện Ngắn - Ba Câu Chuyện (phần 2)",
+  "date" : "20131123",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/450766",
+  "name" : "Vài Lời Khuyên Cho Phụ Nữ",
+  "date" : "20131218",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/453297",
+  "name" : "Chuyện Ngắn - Ba Câu Chuyện (phần 3)",
+  "date" : "20140111",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/453299",
+  "name" : "Các Phép Mầu Của Nabi",
+  "date" : "20140111",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/453337",
+  "name" : "Theo Sunnah Hay Theo Lời Của U’lama ?",
+  "date" : "20140112",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/461105",
+  "name" : "Vị Ngọt Cuộc Sống",
+  "date" : "20140209",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/461260",
+  "name" : "Hãy Trở Về Với Allah",
+  "date" : "20140215",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/461265",
+  "name" : "Sự Thật Về Cái Chết",
+  "date" : "20140215",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/461421",
+  "name" : "Giá Trị Bố Thí",
+  "date" : "20140218",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/469462",
+  "name" : "Sơ Lược Tiểu Sử Al-Faarooq U’mar bin Al-Khattaab",
+  "date" : "20140310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/469468",
+  "name" : "Dấu Hiệu Ngày Tận Thế - Truyện Ngắn Về Dajjaal -",
+  "date" : "20140310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/469469?page=469469",
+  "name" : "Dấu Hiệu Ngày Tận Thế - Truyện Ngắn Về Dajjaal -",
+  "date" : "20140310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/469472",
+  "name" : "Về Con Người - Um Muhammad -",
+  "date" : "20140310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/469473?page=469473",
+  "name" : "Về Con Người - Um Muhammad -",
+  "date" : "20140310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/469474",
+  "name" : "Sao Bạn Không Hành Lễ Salah ?",
+  "date" : "20140310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/469475?page=469475",
+  "name" : "Sao Bạn Không Hành Lễ Salah ?",
+  "date" : "20140310",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/480590",
+  "name" : "Trong Những Hưởng Thụ Của Thiên Đàng",
+  "date" : "20140402",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/480591?page=480591",
+  "name" : "Trong Những Hưởng Thụ Của Thiên Đàng",
+  "date" : "20140402",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/482374",
+  "name" : "Hậu Quả Bỏ Hành Lễ Salah",
+  "date" : "20140405",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/482375?page=482375",
+  "name" : "Hậu Quả Bỏ Hành Lễ Salah",
+  "date" : "20140405",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/482492?page=482492",
+  "name" : "Ganh Ghét, Đố Kỵ",
+  "date" : "20140405",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/563376",
+  "name" : "Ân Phước Năm Lễ Nguyện Salah",
+  "date" : "20140506",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/563377?page=563377",
+  "name" : "Ân Phước Năm Lễ Nguyện Salah",
+  "date" : "20140506",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/575206",
+  "name" : "Về Con Người - Con Trai Thủ Lĩnh Al-Maamoon Al-A’bbaasi Và Người Đàn Ông Nghèo",
+  "date" : "20140513",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/575207?page=575207",
+  "name" : "Về Con Người - Con Trai Thủ Lĩnh Al-Maamoon Al-A’bbaasi Và Người Đàn Ông Nghèo",
+  "date" : "20140513",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/601554",
+  "name" : "Tafseer Chương Al-A’sr",
+  "date" : "20140528",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/601555?page=601555",
+  "name" : "Tafseer Chương Al-A’sr",
+  "date" : "20140528",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/624976?page=624976",
+  "name" : "Tafseer Chương Al-Faatihah",
+  "date" : "20140608",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/657344",
+  "name" : "Nhận Xét Các Hadith Nói Về Tháng Sha’baan",
+  "date" : "20140615",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/657345?page=657345",
+  "name" : "Nhận Xét Các Hadith Nói Về Tháng Sha’baan",
+  "date" : "20140615",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/678928",
+  "name" : "Tafseer Từ Câu Kinh 16 Đến 30 Của Chương Qaaf",
+  "date" : "20140619",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/678929?page=678929",
+  "name" : "Tafseer Từ Câu Kinh 16 Đến 30 Của Chương Qaaf",
+  "date" : "20140619",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/678931",
+  "name" : "Chuyện Về Nabi Lut - cầu xin bình cho Người -",
+  "date" : "20140619",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/678932?page=678932",
+  "name" : "Chuyện Về Nabi Lut - cầu xin bình cho Người -",
+  "date" : "20140619",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/716232",
+  "name" : "Giáo Luật Nhịn Chay Trích Từ Al-Fiqh Al-Muyasir",
+  "date" : "20140628",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/716233?page=716233",
+  "name" : "Giáo Luật Nhịn Chay Trích Từ Al-Fiqh Al-Muyasir",
+  "date" : "20140628",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/717274",
+  "name" : "Suy Ngẫm Về Vài Hadith Liên Quan Ramadan",
+  "date" : "20140708",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/717275?page=717275",
+  "name" : "Suy Ngẫm Về Vài Hadith Liên Quan Ramadan",
+  "date" : "20140708",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/717291",
+  "name" : "Việc Hành Đạo Được Allah Yêu Thích Nhất",
+  "date" : "20140708",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/717292?page=717292",
+  "name" : "Việc Hành Đạo Được Allah Yêu Thích Nhất",
+  "date" : "20140708",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/717293",
+  "name" : "Giá Trị Salah Al-Taraaweeh",
+  "date" : "20140708",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/717294?page=717294",
+  "name" : "Giá Trị Salah Al-Taraaweeh",
+  "date" : "20140708",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/718053",
+  "name" : "Vài Lời Khuyên Nhân Ramadan Thiên Liêng",
+  "date" : "20140715",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/718054?page=718054",
+  "name" : "Vài Lời Khuyên Nhân Ramadan Thiên Liêng",
+  "date" : "20140715",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/718066",
+  "name" : "Nhiệm Vụ Với Người Láng Giềng",
+  "date" : "20140715",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/718067?page=718067",
+  "name" : "Nhiệm Vụ Với Người Láng Giềng",
+  "date" : "20140715",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/718079?page=718079",
+  "name" : "Hãy Tôn Thờ Allah Cho Đến Chết",
+  "date" : "20140715",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722209",
+  "name" : "Thờ Allah, Không Thờ Ramadan",
+  "date" : "20140806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722210?page=722210",
+  "name" : "Thờ Allah, Không Thờ Ramadan",
+  "date" : "20140806",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722325",
+  "name" : "Kết Quả Kính Sợ Allah",
+  "date" : "20140809",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722326?page=722326",
+  "name" : "Kết Quả Kính Sợ Allah",
+  "date" : "20140809",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722327",
+  "name" : "Về Con Người - Bal-a’m bin Baa-u’ra -",
+  "date" : "20140809",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722328?page=722328",
+  "name" : "Về Con Người - Bal-a’m bin Baa-u’ra -",
+  "date" : "20140809",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722331",
+  "name" : "Các Hadith Rèn Luyện Phẩm Chất Muslim",
+  "date" : "20140809",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/722332?page=722332",
+  "name" : "Các Hadith Rèn Luyện Phẩm Chất Muslim",
+  "date" : "20140809",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/727118",
+  "name" : "Dấu Hiệu Ngày Tận Thế - Khá Chi Tiết Về Dajjaal -",
+  "date" : "20140901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/727119?page=727119",
+  "name" : "Dấu Hiệu Ngày Tận Thế - Khá Chi Tiết Về Dajjaal -",
+  "date" : "20140901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/727209",
+  "name" : "Tầm Quan Trọng Của Kiến Thức Trong Islam",
+  "date" : "20140903",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/727210?page=727210",
+  "name" : "Tầm Quan Trọng Của Kiến Thức Trong Islam",
+  "date" : "20140903",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/733604",
+  "name" : "Đừng Thất Vọng Về Lòng Nhân Từ Của Allah",
+  "date" : "20141017",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/733605?page=733605",
+  "name" : "Đừng Thất Vọng Về Lòng Nhân Từ Của Allah",
+  "date" : "20141017",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/734959",
+  "name" : "Chìa Khóa Để Hiểu Islam",
+  "date" : "20141026",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/734960?page=734960",
+  "name" : "Chìa Khóa Để Hiểu Islam",
+  "date" : "20141026",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/735864",
+  "name" : "Bố Thí Để Gia Tăng Công Đức",
+  "date" : "20141104",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/735865?page=735865",
+  "name" : "Bố Thí Để Gia Tăng Công Đức",
+  "date" : "20141104",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/790768",
+  "name" : "Du-a’ (Lời Cầu Xin) Là Thờ Phượng",
+  "date" : "20141201",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/802886",
+  "name" : "Trong Những Đạo Đức Islam",
+  "date" : "20141231",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/802887?page=802887",
+  "name" : "Trong Những Đạo Đức Islam",
+  "date" : "20141231",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/810040",
+  "name" : "Chữa Bệnh Bằng Những Lời Niệm Chú Từ Qur’an và Sunnah",
+  "date" : "20150202",
+  "items" : 1
+}, {
+  "uri" : "https://vietchristian.com/pod.asp?id=svtk",
+  "name" : "Song Voi Thanh Kinh Podcast",
+  "date" : "20171228",
+  "items" : 40
+}, {
+  "uri" : "https://www.voatiengviet.com/podcast/?count=50&zoneId=1952",
+  "name" : "VOA 4 giờ 30 sáng - VOA",
+  "date" : "20180118",
+  "items" : 30
+}, {
+  "uri" : "https://www.voatiengviet.com/podcast/?count=50&zoneId=1957",
+  "name" : "VOA 10 giờ khuya - VOA",
+  "date" : "20180118",
+  "items" : 31
+} ]

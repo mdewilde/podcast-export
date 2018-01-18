@@ -1,0 +1,46 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/BENDH_VOH",
+  "name" : "AWR Bangla (Bengali) বাংলা",
+  "date" : "20180112",
+  "items" : 62
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/bngwtcn1da",
+  "name" : "Bengali Bible (Non-Dramatized) Easy-to-Read Version",
+  "date" : "20160922",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/bngwtcn2da",
+  "name" : "Bengali Bible (Dramatized) Easy-to-Read Version",
+  "date" : "20160922",
+  "items" : 260
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_ben",
+  "name" : "Deutsch – warum nicht? সিরিজ ১ | জার্মান শিখুন | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_ben",
+  "name" : "Deutsch – warum nicht?  সিরিজ ২ | জার্মান ভাষা শেখা | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_ben",
+  "name" : "Mission Europe | জার্মান শিখুন | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 25
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_ben",
+  "name" : "Radio D | জার্মান শিখুন | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_ben",
+  "name" : "Wieso nicht? | জার্মান শিখুন | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-bn.rss",
+  "name" : "Bengali Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171227",
+  "items" : 100
+} ]

@@ -1,0 +1,2610 @@
+[ {
+  "uri" : "http://80grams.podomatic.com/rss2.xml",
+  "name" : "80 grams :: comunicació literària",
+  "date" : "20171213",
+  "items" : 24
+}, {
+  "uri" : "http://api.rtve.es/api/programas/2099/audios.rss",
+  "name" : "Va de cine",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/23735/audios.rss",
+  "name" : "Retalls",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/35011/audios.rss",
+  "name" : "Vida verda",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/35252/audios.rss",
+  "name" : "Catalunya Exprés Magazine",
+  "date" : "20171229",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/47631/audios.rss",
+  "name" : "Serveis informatius Ràdio 4",
+  "date" : "20171229",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/49950/audios.rss",
+  "name" : "Confidències",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/77970/audios.rss",
+  "name" : "Els concerts de Ràdio 4",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/79610/audios.rss",
+  "name" : "Més que esport",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://api.rtve.es/api/programas/79632/audios.rss",
+  "name" : "Amics i coneguts",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://biblioteca57282.podomatic.com/rss2.xml",
+  "name" : "Amb Gust de Llibres",
+  "date" : "20171221",
+  "items" : 17
+}, {
+  "uri" : "http://cansaladaviada.podomatic.com/rss2.xml",
+  "name" : "Caloret del Maresme",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/0/podseccio5800.xml",
+  "name" : "American Dream",
+  "date" : "20160907",
+  "items" : 16
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/2/podprograma1220.xml",
+  "name" : "Geografia humana",
+  "date" : "20171106",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/2/podseccio5120.xml",
+  "name" : "Esport vintage",
+  "date" : "20150210",
+  "items" : 10
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/2/podseccio5620.xml",
+  "name" : "Canya o safareig",
+  "date" : "20170223",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/3/podseccio4330.xml",
+  "name" : "We are the Champions",
+  "date" : "20160907",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/3/podseccio5230.xml",
+  "name" : "Catalunya Ràdio - Tarragona i Ebre",
+  "date" : "20150126",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/4/podprograma1040.xml",
+  "name" : "Tot gira",
+  "date" : "20171223",
+  "items" : 12
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/4/podprograma940.xml",
+  "name" : "Sona 9",
+  "date" : "20171215",
+  "items" : 19
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/4/podseccio5540.xml",
+  "name" : "Els plaers de la vida",
+  "date" : "20150910",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/5/podprograma850.xml",
+  "name" : "3 Rondes",
+  "date" : "20171024",
+  "items" : 11
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/7/podseccio5870.xml",
+  "name" : "Informe Melé",
+  "date" : "20161014",
+  "items" : 8
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/0/8/podprograma580.xml",
+  "name" : "Missa des de Montserrat",
+  "date" : "20160404",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/0/podseccio5101.xml",
+  "name" : "Tuit Fighter",
+  "date" : "20150206",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/1/podseccio5511.xml",
+  "name" : "L'entrevista",
+  "date" : "20150720",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/2/podprograma1721.xml",
+  "name" : "Històries de l'òpera",
+  "date" : "20170828",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/2/podseccio5521.xml",
+  "name" : "Els millors moments",
+  "date" : "20150714",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/3/podseccio3931.xml",
+  "name" : "Univers F1, the context",
+  "date" : "20130315",
+  "items" : 1
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/3/podseccio5531.xml",
+  "name" : "Gossip",
+  "date" : "20161124",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/5/podseccio4351.xml",
+  "name" : "Qui era qui",
+  "date" : "20140312",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/6/podprograma861.xml",
+  "name" : "DeliCatessen",
+  "date" : "20171215",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/6/podseccio4361.xml",
+  "name" : "MeteoMar M. Vizcarro",
+  "date" : "20161117",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/7/podprograma471.xml",
+  "name" : "Solistes",
+  "date" : "20170828",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/1/7/podseccio5771.xml",
+  "name" : "La classe dels dofins, amb Elisabet Pedrosa",
+  "date" : "20170829",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/0/podseccio1002.xml",
+  "name" : "Quadern de notes d'Àlex Rovira",
+  "date" : "20160906",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/0/podseccio5802.xml",
+  "name" : "Lord Muniesa",
+  "date" : "20160915",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/3/podseccio5532.xml",
+  "name" : "Els losers",
+  "date" : "20151215",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/4/podprograma1442.xml",
+  "name" : "La nit dels ignorants 3.0",
+  "date" : "20171215",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/4/podseccio5242.xml",
+  "name" : "La transmissió de l'Espanyol",
+  "date" : "20150129",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/4/podseccio5542.xml",
+  "name" : "La sobretaula",
+  "date" : "20171031",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/6/podprograma1362.xml",
+  "name" : "Lletres d'or",
+  "date" : "20161025",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/6/podprograma1662.xml",
+  "name" : "Especial Diada Nacional de Catalunya 2016",
+  "date" : "20161114",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/6/podseccio4262.xml",
+  "name" : "L'entrevista d'\"El matí\"",
+  "date" : "20171026",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podprograma1072.xml",
+  "name" : "No t'ho perdis",
+  "date" : "20160404",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podprograma1672.xml",
+  "name" : "Esports Catalunya Ràdio",
+  "date" : "20171205",
+  "items" : 11
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podseccio4372.xml",
+  "name" : "Hotel Califòrnia, amb Eudald Serra",
+  "date" : "20140312",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/7/podseccio5772.xml",
+  "name" : "Bonus Track, amb Agnès Marquès",
+  "date" : "20161123",
+  "items" : 7
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/8/podprograma1682.xml",
+  "name" : "Catalunya vespre",
+  "date" : "20171024",
+  "items" : 14
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/8/podseccio4282.xml",
+  "name" : "Informe Sala i Martín",
+  "date" : "20171220",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/2/9/podseccio5592.xml",
+  "name" : "Els homes clàssics",
+  "date" : "20171030",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/0/podseccio5203.xml",
+  "name" : "El més petit de tots",
+  "date" : "20150327",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/0/podseccio5803.xml",
+  "name" : "Grimau & Roll",
+  "date" : "20160915",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/1/podprograma1113.xml",
+  "name" : "Solidaris (Catalunya Informació)",
+  "date" : "20161115",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/1/podseccio3713.xml",
+  "name" : "MeteoTerra J. Puig",
+  "date" : "20161117",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/2/podprograma1023.xml",
+  "name" : "Fora de catàleg",
+  "date" : "20171117",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/2/podseccio4423.xml",
+  "name" : "L'èxtasi de la nit",
+  "date" : "20140312",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/2/podseccio5823.xml",
+  "name" : "L'arxiu d'or",
+  "date" : "20160921",
+  "items" : 15
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/3/podseccio5533.xml",
+  "name" : "Minguella vintage",
+  "date" : "20170111",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/4/podprograma543.xml",
+  "name" : "La finestra indiscreta",
+  "date" : "20171017",
+  "items" : 8
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/5/podprograma653.xml",
+  "name" : "Tot gira migdia",
+  "date" : "20170829",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/6/podseccio5863.xml",
+  "name" : "Els sofistes",
+  "date" : "20161018",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/7/podprograma873.xml",
+  "name" : "T'agrada el blues?",
+  "date" : "20171017",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/7/podseccio5773.xml",
+  "name" : "M'importa un rave, amb Adam Martín i David Olivares",
+  "date" : "20170828",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/3/9/podseccio5593.xml",
+  "name" : "Fem un Gavaldà",
+  "date" : "20161018",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/0/podseccio4504.xml",
+  "name" : "Les perles de l'Eudald",
+  "date" : "20140523",
+  "items" : 2
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/0/podseccio5204.xml",
+  "name" : "Per saber-ne més",
+  "date" : "20150327",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/0/podseccio5804.xml",
+  "name" : "La Masia no es toca",
+  "date" : "20161123",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/3/podprograma1734.xml",
+  "name" : "Tot costa",
+  "date" : "20180111",
+  "items" : 8
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/3/podseccio5534.xml",
+  "name" : "Follow Garriga",
+  "date" : "20150926",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/4/podprograma1744.xml",
+  "name" : "APM? a \"El matí de Catalunya Ràdio\"",
+  "date" : "20171107",
+  "items" : 12
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/4/podprograma944.xml",
+  "name" : "En guàrdia!",
+  "date" : "20171018",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/4/podseccio4344.xml",
+  "name" : "Barça vintage",
+  "date" : "20141125",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/7/podprograma1474.xml",
+  "name" : "MeteoMauri",
+  "date" : "20171214",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/4/7/podseccio5774.xml",
+  "name" : "La muntanya màgica, amb Sílvia Soler",
+  "date" : "20160908",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/0/podprograma1605.xml",
+  "name" : "Guia d'orquestra",
+  "date" : "20170830",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/0/podseccio5805.xml",
+  "name" : "El boig de la Castellana",
+  "date" : "20160915",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/2/podprograma925.xml",
+  "name" : "Generació digital",
+  "date" : "20171124",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/2/podseccio5125.xml",
+  "name" : "Las Palmeras 2",
+  "date" : "20150206",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/3/podprograma435.xml",
+  "name" : "Qui té por del segle XX?",
+  "date" : "20170828",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/3/podseccio5135.xml",
+  "name" : "Snack Barça",
+  "date" : "20160908",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/4/podprograma1045.xml",
+  "name" : "Independents",
+  "date" : "20171215",
+  "items" : 17
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/4/podprograma1445.xml",
+  "name" : "Els viatgers de la Gran Anaconda",
+  "date" : "20171106",
+  "items" : 11
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/4/podseccio3445.xml",
+  "name" : "La setmana de la Marmota, amb Blai Marsé",
+  "date" : "20150826",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/5/podprograma1655.xml",
+  "name" : "Històries de l'òpera: El verisme",
+  "date" : "20160203",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/5/podseccio3455.xml",
+  "name" : "Laie recomana",
+  "date" : "20150504",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/6/podprograma1665.xml",
+  "name" : "Els spin doctors",
+  "date" : "20171017",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/5/7/podseccio5775.xml",
+  "name" : "Històries de mitja tarda, amb Carles Porta",
+  "date" : "20180102",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/6/4/podprograma1646.xml",
+  "name" : "Tast vertical",
+  "date" : "20170904",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/6/5/podprograma1156.xml",
+  "name" : "Catalunya Ràdio Tarragona",
+  "date" : "20160404",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/6/6/podseccio5366.xml",
+  "name" : "Qüestionari expert",
+  "date" : "20150825",
+  "items" : 14
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/6/7/podseccio5276.xml",
+  "name" : "Catalunya Ràdio - Aran",
+  "date" : "20150126",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/6/7/podseccio5776.xml",
+  "name" : "La filharmònica, amb Pep Blay i Joan-Pau Chaves",
+  "date" : "20170419",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/6/9/podprograma496.xml",
+  "name" : "La transmissió d'en Puyal - LaTdP",
+  "date" : "20171207",
+  "items" : 17
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/1/podprograma1117.xml",
+  "name" : "Solidaris",
+  "date" : "20171117",
+  "items" : 14
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/1/podseccio5217.xml",
+  "name" : "Cap de setmana",
+  "date" : "20150828",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/2/podseccio5227.xml",
+  "name" : "Reportatges Catalunya Informació",
+  "date" : "20150126",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/4/podprograma1647.xml",
+  "name" : "L'ofici d'educar",
+  "date" : "20171018",
+  "items" : 19
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/4/podseccio3447.xml",
+  "name" : "Guillamino en 4-D",
+  "date" : "20150209",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/5/podprograma1157.xml",
+  "name" : "Catalunya Ràdio Girona",
+  "date" : "20160404",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/6/podseccio3167.xml",
+  "name" : "Gols i +",
+  "date" : "20170304",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/7/podprograma1377.xml",
+  "name" : "perVersions",
+  "date" : "20171114",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/7/podprograma977.xml",
+  "name" : "Contrapunts",
+  "date" : "20160915",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/7/podseccio2177.xml",
+  "name" : "Extres del Generació Digital",
+  "date" : "20140909",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/7/podseccio5777.xml",
+  "name" : "El Tinder dels feyts, amb David Arnau i Xabier Pou",
+  "date" : "20160908",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/8/podprograma487.xml",
+  "name" : "Una tarda a l'òpera",
+  "date" : "20170913",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/8/podseccio5787.xml",
+  "name" : "Únics i extraordinaris, amb Lolita Bosch",
+  "date" : "20170828",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/9/podprograma1297.xml",
+  "name" : "Catalunya migdia (cap de setmana)",
+  "date" : "20160920",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/7/9/podseccio5797.xml",
+  "name" : "Els records essencials d'Àngel Llàcer",
+  "date" : "20170206",
+  "items" : 11
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/1/podseccio3518.xml",
+  "name" : "La memòria",
+  "date" : "20140312",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/1/podseccio5218.xml",
+  "name" : "Catalunya Ràdio - Barcelona i Catalunya Central",
+  "date" : "20150220",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/1/podseccio5818.xml",
+  "name" : "Sala de màquines",
+  "date" : "20171026",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/2/podseccio5128.xml",
+  "name" : "Videojocs amb Albert Garcia",
+  "date" : "20150206",
+  "items" : 13
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/2/podseccio5228.xml",
+  "name" : "Catalunya Ràdio - Lleida i Pirineu",
+  "date" : "20150126",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/3/podprograma1038.xml",
+  "name" : "L'ofici de viure",
+  "date" : "20171215",
+  "items" : 14
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/3/podprograma1738.xml",
+  "name" : "Estat de Gràcia",
+  "date" : "20180116",
+  "items" : 14
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/4/podprograma1448.xml",
+  "name" : "Els experts",
+  "date" : "20171215",
+  "items" : 15
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/4/podprograma548.xml",
+  "name" : "Mans",
+  "date" : "20171106",
+  "items" : 16
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/4/podseccio3448.xml",
+  "name" : "The New Raemon és crític de còmics",
+  "date" : "20150216",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/4/podseccio5248.xml",
+  "name" : "La transmissió d'en Puyal",
+  "date" : "20141126",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/7/podprograma1678.xml",
+  "name" : "Bonus cracks, amb Guillamino i The New Raemon",
+  "date" : "20170925",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/7/podseccio5078.xml",
+  "name" : "Sóc tan fan!",
+  "date" : "20150206",
+  "items" : 12
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/8/podseccio5788.xml",
+  "name" : "El racó de pensar",
+  "date" : "20171026",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/9/podseccio5398.xml",
+  "name" : "L'entrevista",
+  "date" : "20151005",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/8/9/podseccio5798.xml",
+  "name" : "\"Amb mal peu\", una sèrie a la ràdio",
+  "date" : "20160910",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/0/podseccio5809.xml",
+  "name" : "La dèria de l'Empar Moliner",
+  "date" : "20171213",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/2/podseccio5229.xml",
+  "name" : "Catalunya Ràdio - Girona",
+  "date" : "20150126",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/3/podprograma1739.xml",
+  "name" : "Catalunya migdia",
+  "date" : "20171205",
+  "items" : 3
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/3/podprograma839.xml",
+  "name" : "La transmissió de l'Espanyol",
+  "date" : "20171031",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/3/podseccio5539.xml",
+  "name" : "La paraula i el gest",
+  "date" : "20150910",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/4/podseccio3449.xml",
+  "name" : "Com ser un expert",
+  "date" : "20170907",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/5/podprograma1559.xml",
+  "name" : "El divan",
+  "date" : "20171204",
+  "items" : 17
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/5/podseccio5159.xml",
+  "name" : "Els minuts que sonen",
+  "date" : "20151005",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/6/podprograma1669.xml",
+  "name" : "Informatius Catalunya Ràdio",
+  "date" : "20170207",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/9/podseccio5399.xml",
+  "name" : "Els irrepetibles",
+  "date" : "20151005",
+  "items" : 20
+}, {
+  "uri" : "http://dinamics.ccma.cat/public/podcast/catradio/xml/9/9/podseccio5599.xml",
+  "name" : "Big data",
+  "date" : "20151006",
+  "items" : 20
+}, {
+  "uri" : "http://elscibernetics.cat/feed/podcast/",
+  "name" : "Els cibernètics",
+  "date" : "20170917",
+  "items" : 8
+}, {
+  "uri" : "http://fapi-top.prisasd.com/podcast/playser/ser_catalunya.xml",
+  "name" : "Cadena SER Catalunya",
+  "date" : "20180114",
+  "items" : 200
+}, {
+  "uri" : "http://fapi-top.prisasd.com/podcast/playser/ser_tarragona.xml",
+  "name" : "SER Tarragona",
+  "date" : "20180113",
+  "items" : 200
+}, {
+  "uri" : "http://feedpress.me/reservoirjocs",
+  "name" : "RESERVOIR JOCS",
+  "date" : "20171230",
+  "items" : 100
+}, {
+  "uri" : "http://feeds.feedburner.com/banyereshouseclub-1012fmradiobanyeres",
+  "name" : "Banyeres House Club - amb Bigboss dj",
+  "date" : "20150326",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/cafeicigarro",
+  "name" : "Els Esmorzars del Cafè i Cigarro",
+  "date" : "20171127",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/caparazonpod",
+  "name" : "Podcast El caparazon",
+  "date" : "20150604",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/elmonmoniato",
+  "name" : "El Món Moniato",
+  "date" : "20150228",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/elplabarealink",
+  "name" : "Àrea Link - RNE4",
+  "date" : "20131223",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/elrizomamalinowski",
+  "name" : "El Rizoma Malinowski",
+  "date" : "20140707",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/elsassassinsdigitalsmakina19931995",
+  "name" : "ElsAssassinsDigitals 1993-1995",
+  "date" : "20120830",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/entrevins",
+  "name" : "Entre Vins",
+  "date" : "20160613",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/esferes",
+  "name" : "la música de les esferes",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/focdencenalls",
+  "name" : "Foc d'encenalls",
+  "date" : "20121111",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.feedburner.com/generacioperduda-burrcies",
+  "name" : "Generació Perduda - Burrícies",
+  "date" : "20150604",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.feedburner.com/generacioperduda-mitesdelaronya",
+  "name" : "Generació Perduda - Mites de la Ronya",
+  "date" : "20150604",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.feedburner.com/generacioperduda-revistademitjans",
+  "name" : "Generació Perduda - Revista de Mitjans",
+  "date" : "20150604",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.feedburner.com/generacioperduda-secciotop",
+  "name" : "Generació Perduda - Secció TOP",
+  "date" : "20150514",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.feedburner.com/generaciperduda-camionersdeltemps",
+  "name" : "Generació Perduda - Camioners del temps",
+  "date" : "20150604",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/generaciperduda-entrevistes",
+  "name" : "Generació Perduda - Entrevistes",
+  "date" : "20150528",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/ha-temporada1",
+  "name" : "L'Hora Arlequinada | Temporada 1",
+  "date" : "20160506",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/informatiuslamarinafm",
+  "name" : "Serveis Informatius La Marina FM",
+  "date" : "20171220",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/informatiusvilassarradio",
+  "name" : "Serveis informatius",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/ivoox/jonf",
+  "name" : "Podcast COACHING i ESPORT",
+  "date" : "20140212",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/ivoox/qthc",
+  "name" : "Santos Ochoa Barcelona",
+  "date" : "00120902",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.feedburner.com/ivoox/wmjr",
+  "name" : "Jazz FM",
+  "date" : "20170123",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/launiversitatinvisible",
+  "name" : "La Universitat Invisible",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/lhoraarlequinadat3",
+  "name" : "L'Hora Arlequinada | Temporada 3",
+  "date" : "20180112",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.feedburner.com/lhoraarlequinadatemporada2",
+  "name" : "L'Hora Arlequinada | Temporada 2",
+  "date" : "20170512",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.feedburner.com/nenaencatala",
+  "name" : "Nena en Català",
+  "date" : "20090125",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/parlantdetot",
+  "name" : "Parlant de Tot amb Jaume Cabot",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/penjatsxpilotes",
+  "name" : "Penjats per les pilotes",
+  "date" : "20160524",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/podcastgeneracioperduda",
+  "name" : "Podcast Generació Perduda",
+  "date" : "20150604",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/podcastlocaldejazz",
+  "name" : "Podcast Local de Jazz",
+  "date" : "20170505",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/podcastningnosperfecte",
+  "name" : "Podcast Ningú no és perfecte",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/podcastonadesants-montjuc",
+  "name" : "Podcast Ona de Sants-Montjuïc",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/portesobertes",
+  "name" : "Portes Obertes",
+  "date" : "20170918",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/quitebocasequivocanitsderadio",
+  "name" : "Nits de ràdio - Onda Cero",
+  "date" : "20150923",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/radiomaricel",
+  "name" : "Ràdio Maricel de Sitges",
+  "date" : "20171231",
+  "items" : 100
+}, {
+  "uri" : "http://feeds.feedburner.com/ripolletradiodivendrespoprock",
+  "name" : "Dimecres Pop-Rock",
+  "date" : "20171222",
+  "items" : 50
+}, {
+  "uri" : "http://feeds.feedburner.com/ripolletradioel7artdetalia",
+  "name" : "El 7è Art De Talia",
+  "date" : "20180117",
+  "items" : 30
+}, {
+  "uri" : "http://feeds.feedburner.com/ripolletradiohoradelte",
+  "name" : "L'Hora Del Te",
+  "date" : "20171222",
+  "items" : 50
+}, {
+  "uri" : "http://feeds.feedburner.com/ripolletradioinfosetmanal",
+  "name" : "Info Setmanal",
+  "date" : "20180117",
+  "items" : 300
+}, {
+  "uri" : "http://feeds.feedburner.com/ripolletradiolaondadmente",
+  "name" : "La Onda D-Mente",
+  "date" : "20180117",
+  "items" : 46
+}, {
+  "uri" : "http://feeds.feedburner.com/ripolletradiolhoradelsescacs",
+  "name" : "L’Hora dels Escacs",
+  "date" : "20171222",
+  "items" : 49
+}, {
+  "uri" : "http://feeds.feedburner.com/ripolletradioparlemdetennistaula",
+  "name" : "Parlem de Tennis Taula",
+  "date" : "20180117",
+  "items" : 59
+}, {
+  "uri" : "http://feeds.feedburner.com/semanticpodcast",
+  "name" : "Semàntic",
+  "date" : "20121002",
+  "items" : 34
+}, {
+  "uri" : "http://feeds.feedburner.com/sombrerero32",
+  "name" : "Sombrerero",
+  "date" : "20151015",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.feedburner.com/tecnoeducalaltraradio",
+  "name" : "L'altra ràdio - RNE4",
+  "date" : "20141021",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/vormar",
+  "name" : "Podcast CCOO Vallès Oriental - Maresme",
+  "date" : "20140613",
+  "items" : 20
+}, {
+  "uri" : "http://joanfbayan.podomatic.com/rss2.xml",
+  "name" : "Joan francesc Bayan's Podcast",
+  "date" : "20171213",
+  "items" : 5
+}, {
+  "uri" : "http://preedicio.libsyn.com/rss",
+  "name" : "Escriure amb un Mac",
+  "date" : "20171219",
+  "items" : 79
+}, {
+  "uri" : "http://quran2013.podomatic.com/rss2.xml",
+  "name" : "تلاوات خاشعة",
+  "date" : "20171225",
+  "items" : 36
+}, {
+  "uri" : "http://rctgn.cat/category/podcast/estructura/infonastic/feed/",
+  "name" : "InfoNastic – Ràdio Ciutat de Tarragona",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://rctgn.cat/category/podcast/feed/",
+  "name" : "Ràdio Ciutat de Tarragona - rctgn.cat Radio Ciutat de Tarragona",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://rwm.macba.es/api/ca/all_podcast/77.xml",
+  "name" : "RWM MACBA  - SON[I]A",
+  "items" : 251
+}, {
+  "uri" : "http://sessionumerada.podomatic.com/rss2.xml",
+  "name" : "SESSIÓ NUMERADA",
+  "date" : "20171213",
+  "items" : 6
+}, {
+  "uri" : "http://skarlataojara.contrabanda.org/feed",
+  "name" : "Skarlata Ojara",
+  "date" : "20180102",
+  "items" : 10
+}, {
+  "uri" : "http://skarlataojara.contrabanda.org/feed/",
+  "name" : "Skarlata Ojara",
+  "date" : "20171221",
+  "items" : 10
+}, {
+  "uri" : "http://vilaweb.tv/linternauta.xml",
+  "name" : "L'internauta - VilaWeb",
+  "date" : "20180106",
+  "items" : 50
+}, {
+  "uri" : "http://www.ara.cat/itunes/audio/podcast.xml",
+  "name" : "Diari Ara",
+  "date" : "20180117",
+  "items" : 100
+}, {
+  "uri" : "http://www.canalblau.cat/feed/podcast/",
+  "name" : "Canal Blau",
+  "date" : "20180116",
+  "items" : 30
+}, {
+  "uri" : "http://www.catradio.cat/podcast/xml/0/8/podprograma980.xml",
+  "name" : "Tintín a la ràdio",
+  "date" : "20160404",
+  "items" : 20
+}, {
+  "uri" : "http://www.catradio.cat/podcast/xml/1/6/podprograma861.xml",
+  "name" : "DeliCatessen",
+  "date" : "20171215",
+  "items" : 20
+}, {
+  "uri" : "http://www.catradio.cat/podcast/xml/4/4/podprograma944.xml",
+  "name" : "En guàrdia!",
+  "date" : "20171018",
+  "items" : 20
+}, {
+  "uri" : "http://www.catradio.cat/podcast/xml/5/2/podprograma925.xml",
+  "name" : "Generació digital",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://www.formula.cat/podcast.xml",
+  "name" : "Formula.CAT amb Andreu Bassols (MÃºsica en catalÃ  i grups emergents)",
+  "date" : "20170720",
+  "items" : 203
+}, {
+  "uri" : "http://www.ivoox.com/1h-amb-joan-rodriguez-dj_fg_f192046_filtro_1.xml",
+  "name" : "1H amb Joan Rodríguez (DJ)",
+  "date" : "20170521",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/21-per-cent_fg_f1110830_filtro_1.xml",
+  "name" : "21 per cent",
+  "date" : "20170406",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/coctelera-3-0_fg_f1269729_filtro_1.xml",
+  "name" : "La Coctelera 3.0",
+  "date" : "20161221",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/els-experts_fg_f193556_filtro_1.xml",
+  "name" : "Els Experts",
+  "date" : "20131127",
+  "items" : 1
+}, {
+  "uri" : "http://www.ivoox.com/els-happy-djs_fg_f1266696_filtro_1.xml",
+  "name" : "Els Happy DJs",
+  "date" : "20160120",
+  "items" : 1
+}, {
+  "uri" : "http://www.ivoox.com/en-construccio-greatest-hits_fg_f124881.579347_filtro_1.xml",
+  "name" : "En construcció - Greatest hits",
+  "date" : "20130929",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/entrevistes-a-moure-soroll_fg_f123108_filtro_1.xml",
+  "name" : "entrevistes a moure soroll",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/estem-fatal_fg_f183794_filtro_1.xml",
+  "name" : "ESTEM FATAL!",
+  "date" : "20140519",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/feed_fg_f1106362_filtro_1.xml",
+  "name" : "Suena Michel",
+  "date" : "20140407",
+  "items" : 4
+}, {
+  "uri" : "http://www.ivoox.com/feed_fg_f1107551_filtro_1.xml",
+  "name" : "Podcast de Bemore Group",
+  "date" : "20151229",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/feed_fg_f1131445_filtro_1.xml",
+  "name" : "Això és Mac",
+  "date" : "20170215",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/feed_fg_f124145_filtro_1.xml",
+  "name" : "Bon viatge!",
+  "date" : "20131211",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/feed_fg_f128986_filtro_1.xml",
+  "name" : "Marca't un Canyu",
+  "date" : "20160621",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/feed_fg_f13698_filtro_1.xml",
+  "name" : "Podcast Albert Cuesta",
+  "date" : "20180109",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/feed_fg_f194141_filtro_1.xml",
+  "name" : "La Tardor (V. Alcalde, C. Navarro)",
+  "date" : "20131202",
+  "items" : 1
+}, {
+  "uri" : "http://www.ivoox.com/fora-de-joc_fg_f1145643_filtro_1.xml",
+  "name" : "FORA DE JOC",
+  "date" : "20141222",
+  "items" : 4
+}, {
+  "uri" : "http://www.ivoox.com/generacio-trend_fg_f1134749_filtro_1.xml",
+  "name" : "Generació TREND",
+  "date" : "20141107",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/germanor-nova-seccio_fg_f1267262_filtro_1.xml",
+  "name" : "Germanor - Nova secció",
+  "date" : "20160624",
+  "items" : 19
+}, {
+  "uri" : "http://www.ivoox.com/informatiu_fg_f130687.591388_filtro_1.xml",
+  "name" : "Informatiu",
+  "date" : "20141029",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/just-one-more_fg_f1261965_filtro_1.xml",
+  "name" : "Just One More",
+  "date" : "20161012",
+  "items" : 12
+}, {
+  "uri" : "http://www.ivoox.com/llevataps-2-0_fg_f191593_filtro_1.xml",
+  "name" : "El Llevataps 2.0",
+  "date" : "20150820",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/lover-rater_fg_f1251868_filtro_1.xml",
+  "name" : "Lover Rater",
+  "date" : "20161010",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/males-vibracions_fg_f1191283_filtro_1.xml",
+  "name" : "Males Vibracions",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/mas-alla-historia_fg_f1102601_filtro_1.xml",
+  "name" : "::Más allá de la historia::Los Misterios nos miran",
+  "date" : "20171221",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/massa-informacio_fg_f1311970_filtro_1.xml",
+  "name" : "Massa Informació",
+  "date" : "20160922",
+  "items" : 1
+}, {
+  "uri" : "http://www.ivoox.com/massa-pa-carabassa_fg_f1275350_filtro_1.xml",
+  "name" : "Massa pa la Carabassa",
+  "date" : "20170530",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/modem-podcast_fg_f1311946_filtro_1.xml",
+  "name" : "Modem Podcast",
+  "date" : "20171022",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/moure-soroll-prat-radio_fg_f123109_filtro_1.xml",
+  "name" : "moure soroll el prat ràdio",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/no-hi-ha-qui-t-aguanti_fg_f180435_filtro_1.xml",
+  "name" : "No Hi ha Qui t'aguanti",
+  "date" : "20140214",
+  "items" : 19
+}, {
+  "uri" : "http://www.ivoox.com/nou-i-tres-quarts_fg_f1404812_filtro_1.xml",
+  "name" : "Nou i Tres Quarts",
+  "date" : "20170523",
+  "items" : 5
+}, {
+  "uri" : "http://www.ivoox.com/odd-is-house_fg_f1102805_filtro_1.xml",
+  "name" : "ODD IS HOUSE!",
+  "date" : "20160630",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/ona-jove_fg_f124800_filtro_1.xml",
+  "name" : "Ona Jove",
+  "date" : "20170922",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/penjats-per-les-pilotes_fg_f1314435_filtro_1.xml",
+  "name" : "La Frontera",
+  "date" : "20171126",
+  "items" : 16
+}, {
+  "uri" : "http://www.ivoox.com/podcast-a-les-portes-troia_fg_f186177_filtro_1.xml",
+  "name" : "A les portes de Troia",
+  "date" : "20180115",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-aixo-es-la-mola_fg_f161469_filtro_1.xml",
+  "name" : "Això és La Mola",
+  "date" : "20140628",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-al-vent-del-mon_fg_f1148039_filtro_1.xml",
+  "name" : "Podcast Al vent del món",
+  "date" : "20171005",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-anatomia-del-so_fg_f162825_filtro_1.xml",
+  "name" : "Anatomia del So",
+  "date" : "20130430",
+  "items" : 6
+}, {
+  "uri" : "http://www.ivoox.com/podcast-becoming-psicocoaching_fg_f1136558_filtro_1.xml",
+  "name" : "Podcast de Becoming-Psicocoaching",
+  "date" : "20171130",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-cops-de-rock_fg_f11978_filtro_1.xml",
+  "name" : "COPS DE ROCK -Heavy Metal Maniacs",
+  "date" : "20160331",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-els-contes-tanit_fg_f193123_filtro_1.xml",
+  "name" : "Els Contes de la Tanit",
+  "date" : "20140112",
+  "items" : 3
+}, {
+  "uri" : "http://www.ivoox.com/podcast-en-construccio-programes_fg_f125602_filtro_1.xml",
+  "name" : "En construcció  - Programes",
+  "date" : "20141121",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-joaquim_fg_f155092_filtro_1.xml",
+  "name" : "Joaquim",
+  "date" : "20121207",
+  "items" : 2
+}, {
+  "uri" : "http://www.ivoox.com/podcast-oficial-pndr_fg_f162579.5599441_filtro_1.xml",
+  "name" : "Per no dir res",
+  "date" : "20180111",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-podcast-35-mm_fg_f153918_filtro_1.xml",
+  "name" : "Podcast 35 mm",
+  "date" : "20140707",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-podcast-esglesia-evangelica-betlem_fg_f113654_filtro_1.xml",
+  "name" : "Podcast Església Evangèlica de Betlem",
+  "date" : "20160412",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-podcast-la-casa-vidre_fg_f123625_filtro_1.xml",
+  "name" : "Podcast La Casa De Vidre",
+  "date" : "20180111",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-podcast-lupa-ma_fg_f139304_filtro_1.xml",
+  "name" : "Podcast Lupa en Mà",
+  "date" : "20150312",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/podcast-toma-jeroma-1a-temporada_fg_f1119157_filtro_1.xml",
+  "name" : "Podcast Toma Jeroma - 1a Temporada",
+  "date" : "20140729",
+  "items" : 8
+}, {
+  "uri" : "http://www.ivoox.com/podcast-toma-jeroma-radio-show_fg_f1163924_filtro_1.xml",
+  "name" : "Podcast de Toma Jeroma Radio Show",
+  "date" : "20150719",
+  "items" : 8
+}, {
+  "uri" : "http://www.ivoox.com/podcast-trajecte-final_fg_f168575_filtro_1.xml",
+  "name" : "Podcast Trajecte Final",
+  "date" : "20171224",
+  "items" : 20
+}, {
+  "uri" : "http://www.ivoox.com/ready-to-play_fg_f1313860_filtro_1.xml",
+  "name" : "Ready to Play",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://www.novaradiolloret.org/feed/podcast/",
+  "name" : "Nova Ràdio Lloret",
+  "date" : "20171229",
+  "items" : 100
+}, {
+  "uri" : "http://www.oracio.org/podcast/rss.xml",
+  "name" : "GOA, Grups d'OraciÃ³ i Amistat",
+  "date" : "20171108",
+  "items" : 21
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/el-barca-juga-a-rac1",
+  "name" : "El Barça juga a RAC1 - L'hora a hora",
+  "date" : "20180109",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/el-mon/HOUR",
+  "name" : "El món a RAC1 - L'hora a hora",
+  "date" : "20180111",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/la-competencia?limit=15&prog=LA%2520COMPETENCIA&param=la_competencia",
+  "name" : "La competència - Programa sencer",
+  "date" : "20180118",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/la-competencia?limit=15&prog=la%2520competencia&param=la_competencia",
+  "name" : "La competència - Programa sencer",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/la-segona-hora?cat=la_segona_hora",
+  "name" : "La segona hora - Programa sencer",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/tu-diras/?cat=Tu_diras",
+  "name" : "Tu diràs - L'hora a hora",
+  "date" : "20180118",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/tu-diras/?cat=tu_diras",
+  "name" : "Tu diràs - L'hora a hora",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/versio/ernesto-ekaizer",
+  "name" : "Versió RAC1 - Ernesto Ekaizer",
+  "date" : "20180118",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/versio/sergi-pamies?cat=versio-rac1_sergi-pamies&cp=6",
+  "name" : "Versió RAC1 - Sergi Pàmies",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://www.rac1.cat/audioteca/rss/versio?cat=versio_rac1",
+  "name" : "Versió RAC1 - L'hora a hora",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=el-mon-a-rac1_cronica-negra&cp=6",
+  "name" : "RAC1 Podcast: EL MON A RAC1-CRONICA NEGRA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=el-mon-a-rac1_el-consultori&cp=6",
+  "name" : "RAC1 Podcast: EL MON A RAC1-EL CONSULTORI",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=el-mon-a-rac1_se-de-que-em-parles&cp=6",
+  "name" : "RAC1 Podcast: EL MON A RAC1-SE DE QUE EM PARLES",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=la-competencia_angelinia-directa&cp=6",
+  "name" : "RAC1 Podcast: LA COMPETENCIA-ANGELINIA DIRECTA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=la-segona-hora_al-twitter-hi-ha-molt-de-fato&cp=6",
+  "name" : "RAC1 Podcast: LA SEGONA HORA-AL TWITTER HI HA MOLT DE FATO",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=la-segona-hora_consultori-i-sindic&cp=6",
+  "name" : "RAC1 Podcast: LA SEGONA HORA-CONSULTORI I SINDIC",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=la-segona-hora_dia-de-l-espectador&cp=6",
+  "name" : "RAC1 Podcast: LA SEGONA HORA-DIA DE L ESPECTADOR",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=la-segona-hora_la-caixa-dels-trons&cp=6",
+  "name" : "RAC1 Podcast: LA SEGONA HORA-LA CAIXA DELS TRONS",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=versio-rac1_ernesto-ekaizer&cp=6",
+  "name" : "RAC1 Podcast: VERSIO RAC1-ERNESTO EKAIZER",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=versio-rac1_jordi-evole&cp=6",
+  "name" : "RAC1 Podcast: VERSIO RAC1-JORDI EVOLE",
+  "date" : "20180118",
+  "items" : 8
+}, {
+  "uri" : "http://www.racalacarta.com/mi-wp-feeder.php?cat=versio-rac1_valerie-tasso&cp=6",
+  "name" : "RAC1 Podcast: VERSIO RAC1-VALERIE TASSO",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_actualitat&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-ACTUALITAT",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_alucena&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-ALUCENA",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_analisi&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-ANALISI",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_celebrities&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-CELEBRITIES",
+  "date" : "20171229",
+  "items" : 3
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_concurs-infantil&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-CONCURS INFANTIL",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_connexions-jr&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-CONNEXIONS JR",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_coses-peyu&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-COSES PEYU",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_eligries&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-ELIGRIES",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_entrevista&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-ENTREVISTA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_fenomenus&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-FENOMENUS",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_fricando-directe&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-FRICANDO DIRECTE",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_hem-trobat&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-HEM TROBAT",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_ho-esta-petant&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-HO ESTA PETANT",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_imprescindibles&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-IMPRESCINDIBLES",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_jr&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-JR",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_mare-peyu&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-MARE PEYU",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_mc-alan&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-MC ALAN",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_medina-d-or&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-MEDINA D OR",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_oscar-tv&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-OSCAR TV",
+  "date" : "20180109",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_pare-marc&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-PARE MARC",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_peyu-tv&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-PEYU TV",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_redorta-tv&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-REDORTA TV",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_rumore&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-RUMORE",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_seccions-medina&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-SECCIONS MEDINA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_tnt&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-TNT",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_top4&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-TOP4",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?cat=fricando-matiner_versions&cp=6",
+  "name" : "RAC105 Podcast: FRICANDO MATINER-VERSIONS",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder-105.php?prog=fricando%20matiner&param=fricando_matiner",
+  "name" : "RAC105 Podcast: FRICANDO MATINER",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_apunts-imprescindibles&cp=6",
+  "name" : "EL MON A RAC1-APUNTS IMPRESCINDIBLES",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_diari-de-versions&cp=6",
+  "name" : "EL MON A RAC1-DIARI DE VERSIONS",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_economia&cp=6",
+  "name" : "EL MON A RAC1-ECONOMIA",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_el-contenidor&cp=6",
+  "name" : "EL MON A RAC1-EL CONTENIDOR",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_el-sr-castanys&cp=6",
+  "name" : "EL MON A RAC1-EL SR CASTANYS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_entrevista&cp=6",
+  "name" : "EL MON A RAC1-ENTREVISTA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_estem-millor-del-que-sembla&cp=6",
+  "name" : "EL MON A RAC1-ESTEM MILLOR DEL QUE SEMBLA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_gabinet-de-crisi&cp=6",
+  "name" : "EL MON A RAC1-GABINET DE CRISI",
+  "date" : "20180118",
+  "items" : 1
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_histories-de&cp=6",
+  "name" : "EL MON A RAC1-HISTORIES DE",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_lectura-de-la-premsa-en-diagonal&cp=6",
+  "name" : "EL MON A RAC1-LECTURA DE LA PREMSA EN DIAGONAL",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_les-series&cp=6",
+  "name" : "EL MON A RAC1-LES SERIES",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_ombudsman&cp=6",
+  "name" : "EL MON A RAC1-OMBUDSMAN",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_perles-cultivades&cp=6",
+  "name" : "EL MON A RAC1-PERLES CULTIVADES",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_televisio-i-cinema&cp=6",
+  "name" : "EL MON A RAC1-TELEVISIO I CINEMA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el-mon-a-rac1_ull-de-poll&cp=6",
+  "name" : "EL MON A RAC1-ULL DE POLL",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=el_barca_juga_a_rac1",
+  "name" : "EL BARCA JUGA A RAC1",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=fricando-matiner_coses-peyu&cp=6",
+  "name" : "FRICANDO MATINER-COSES PEYU",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=fricando-matiner_seccions-medina&cp=6",
+  "name" : "FRICANDO MATINER-SECCIONS MEDINA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-competencia_actualitat-en-1-minut&cp=6",
+  "name" : "LA COMPETENCIA-ACTUALITAT EN 1 MINUT",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-competencia_chistessss&cp=6",
+  "name" : "LA COMPETENCIA-CHISTESSSS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-competencia_cinema-a-la-fresca&cp=6",
+  "name" : "LA COMPETENCIA-CINEMA A LA FRESCA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-competencia_el-greatest-hit&cp=6",
+  "name" : "LA COMPETENCIA-EL GREATEST HIT",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-competencia_racull-de-premsa&cp=6",
+  "name" : "LA COMPETENCIA-RACULL DE PREMSA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_2014-si-o-que&cp=6",
+  "name" : "LA PRIMERA PEDRA-2014 SI O QUE",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_2015-i-ara-que&cp=6",
+  "name" : "LA PRIMERA PEDRA-2015 I ARA QUE",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_agenda-alsina&cp=6",
+  "name" : "LA PRIMERA PEDRA-AGENDA ALSINA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_aixo-es-un-escandol&cp=6",
+  "name" : "LA PRIMERA PEDRA-AIXO ES UN ESCANDOL",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_animals-fc&cp=",
+  "name" : "LA PRIMERA PEDRA-ANIMALS FC",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_apps-i-tecnologia&cp=6",
+  "name" : "LA PRIMERA PEDRA-APPS I TECNOLOGIA",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_cronica-exterior&cp=6",
+  "name" : "LA PRIMERA PEDRA-CRONICA EXTERIOR",
+  "date" : "20180109",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_david-balaguer&cp=6",
+  "name" : "LA PRIMERA PEDRA-DAVID BALAGUER",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_el-judici-final&cp=6",
+  "name" : "LA PRIMERA PEDRA-EL JUDICI FINAL",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_gracies-per-la-propina&cp=6",
+  "name" : "LA PRIMERA PEDRA-GRACIES PER LA PROPINA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_han-fet-historia&cp=6",
+  "name" : "LA PRIMERA PEDRA-HAN FET HISTORIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_ja-surt-el-sol&cp=6",
+  "name" : "LA PRIMERA PEDRA-JA SURT EL SOL",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_la-ruta-del-vermut&cp=6",
+  "name" : "LA PRIMERA PEDRA-LA RUTA DEL VERMUT",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_que-se-mueran-los-feos&cp=6",
+  "name" : "LA PRIMERA PEDRA-QUE SE MUERAN LOS FEOS",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_romancos-arnella&cp=6",
+  "name" : "LA PRIMERA PEDRA-ROMANCOS ARNELLA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_sue-ellen-ets-un-pendo&cp=6",
+  "name" : "LA PRIMERA PEDRA-SUE ELLEN ETS UN PENDO",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-primera-pedra_tu-a-la-teva&cp=6",
+  "name" : "LA PRIMERA PEDRA-TU A LA TEVA",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_al-youtube-hi-ha-molt-de-fato&cp=6",
+  "name" : "LA SEGONA HORA-AL YOUTUBE HI HA MOLT DE FATO",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_consultori-jair&cp=6",
+  "name" : "LA SEGONA HORA-CONSULTORI JAIR",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_defensa-personal&cp=6",
+  "name" : "LA SEGONA HORA-DEFENSA PERSONAL",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_estudi-audiencia&cp=6",
+  "name" : "LA SEGONA HORA-ESTUDI AUDIENCIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_et-felicito-fill&cp=6",
+  "name" : "LA SEGONA HORA-ET FELICITO FILL",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_exclusiva-llimoo&cp=6",
+  "name" : "LA SEGONA HORA-EXCLUSIVA LLIMOO",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_get-fit-get-fat&cp=6",
+  "name" : "LA SEGONA HORA-GET FIT GET FAT",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_historia-de-l-art&cp=6",
+  "name" : "LA SEGONA HORA-HISTORIA DE L ART",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_historia-del-metal&cp=6",
+  "name" : "LA SEGONA HORA-HISTORIA DEL METAL",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_informe-bb&cp=6",
+  "name" : "LA SEGONA HORA-INFORME BB",
+  "date" : "20180118",
+  "items" : 6
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_la-botiga-dels-horrors&cp=6",
+  "name" : "LA SEGONA HORA-LA BOTIGA DELS HORRORS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_la-seccio-puig&cp=6",
+  "name" : "LA SEGONA HORA-LA SECCIO PUIG",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_m-agradaria-cantar&cp=6",
+  "name" : "LA SEGONA HORA-M AGRADARIA CANTAR",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_m-agradaria-cantar-internacional&cp=6",
+  "name" : "LA SEGONA HORA-M AGRADARIA CANTAR INTERNACIONAL",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_que-passa-a-forocoches&cp=6",
+  "name" : "LA SEGONA HORA-QUE PASSA A FOROCOCHES",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_traiem-a-passejar&cp=6",
+  "name" : "LA SEGONA HORA-TRAIEM A PASSEJAR",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_treball-de-camp&cp=6",
+  "name" : "LA SEGONA HORA-TREBALL DE CAMP",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_treu-me-la-del-cap&cp=6",
+  "name" : "LA SEGONA HORA-TREU ME LA DEL CAP",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=la-segona-hora_upper-diagonal&cp=6",
+  "name" : "LA SEGONA HORA-UPPER DIAGONAL",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=no-ho-se_no-s-ha-parlat-prou-de&cp=6",
+  "name" : "NO HO SE-NO S HA PARLAT PROU DE",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_consultori-legal&cp=6",
+  "name" : "TOT ES POSSIBLE-CONSULTORI LEGAL",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_el-fisio-a-casa&cp=6",
+  "name" : "TOT ES POSSIBLE-EL FISIO A CASA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_el-raco-dels-llibres&cp=6",
+  "name" : "TOT ES POSSIBLE-EL RACO DELS LLIBRES",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_gastronutricio&cp=6",
+  "name" : "TOT ES POSSIBLE-GASTRONUTRICIO",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_jardineria&cp=6",
+  "name" : "TOT ES POSSIBLE-JARDINERIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_la-pregunta-del-famos&cp=6",
+  "name" : "TOT ES POSSIBLE-LA PREGUNTA DEL FAMOS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_mascotes&cp=6",
+  "name" : "TOT ES POSSIBLE-MASCOTES",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_moda&cp=6",
+  "name" : "TOT ES POSSIBLE-MODA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_nutricio&cp=6",
+  "name" : "TOT ES POSSIBLE-NUTRICIO",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_taller-escriptura&cp=6",
+  "name" : "TOT ES POSSIBLE-TALLER ESCRIPTURA",
+  "date" : "20171227",
+  "items" : 7
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tot-es-possible_tema-del-dia&cp=6",
+  "name" : "TOT ES POSSIBLE-TEMA DEL DIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=tu_diras",
+  "name" : "Tu diràs - L'hora a hora",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_actuacions-musicals&cp=6",
+  "name" : "VERSIO RAC1-ACTUACIONS MUSICALS",
+  "date" : "20171227",
+  "items" : 4
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_autoajuda&cp=6",
+  "name" : "VERSIO RAC1-AUTOAJUDA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_berto-romero&cp=6",
+  "name" : "VERSIO RAC1-BERTO ROMERO",
+  "date" : "20180118",
+  "items" : 2
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_carles-torras&cp=6",
+  "name" : "VERSIO RAC1-CARLES TORRAS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_ciencia&cp=6",
+  "name" : "VERSIO RAC1-CIENCIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_cinema&cp=6",
+  "name" : "VERSIO RAC1-CINEMA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_consultori-creixell&cp=6",
+  "name" : "VERSIO RAC1-CONSULTORI CREIXELL",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_cor-amb-joan-spin&cp=6",
+  "name" : "VERSIO RAC1-COR AMB JOAN SPIN",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_coses-del-marc-serra&cp=6",
+  "name" : "Versió RAC1 - Coses del Marc Serra",
+  "date" : "20171229",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_coses-meves&cp=6",
+  "name" : "VERSIO RAC1-COSES MEVES",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_credits&cp=6",
+  "name" : "VERSIO RAC1-CREDITS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_cultura-senyor-bohigas&cp=6",
+  "name" : "VERSIO RAC1-CULTURA SENYOR BOHIGAS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_dj-toni-peret&cp=6",
+  "name" : "VERSIO RAC1-DJ TONI PERET",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_document-del-dia&cp=6",
+  "name" : "VERSIO RAC1-DOCUMENT DEL DIA",
+  "date" : "20180101",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_economia&cp=6",
+  "name" : "VERSIO RAC1-ECONOMIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_el-concurs-amb-jordi-gracia&cp=6",
+  "name" : "VERSIO RAC1-EL CONCURS AMB JORDI GRACIA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_encantats-amb-ramon-gener&cp=6",
+  "name" : "VERSIO RAC1-ENCANTATS AMB RAMON GENER",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_entrevista&cp=6",
+  "name" : "Versió RAC1 - Entrevista",
+  "date" : "20171227",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_esports-amb-albert-bassas&cp=6",
+  "name" : "VERSIO RAC1-ESPORTS AMB ALBERT BASSAS",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_esports-amb-fran-domenech&cp=6",
+  "name" : "VERSIO RAC1-ESPORTS AMB FRAN DOMENECH",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_francesc-orteu&cp=6",
+  "name" : "VERSIO RAC1-FRANCESC ORTEU",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_franking&cp=6",
+  "name" : "VERSIO RAC1-FRANKING",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_gabinet-de-crisi&cp=6",
+  "name" : "VERSIO RAC1-GABINET DE CRISI",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_impactes-del-dia&cp=6",
+  "name" : "VERSIO RAC1-IMPACTES DEL DIA",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_informe-peyu&cp=6",
+  "name" : "VERSIO RAC1-INFORME PEYU",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_iu-forn&cp=6",
+  "name" : "VERSIO RAC1-IU FORN",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_juan-carlos-ortega&cp=6",
+  "name" : "VERSIO RAC1-JUAN CARLOS ORTEGA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_margarita-puig&cp=6",
+  "name" : "VERSIO RAC1-MARGARITA PUIG",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_motor&cp=6",
+  "name" : "VERSIO RAC1-MOTOR",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_politica-amb-jm-marti&cp=6",
+  "name" : "Versió RAC1 - Política",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_quim-monzo&cp=6",
+  "name" : "VERSIO RAC1-QUIM MONZO",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_sergi-pamies&cp=6",
+  "name" : "Versió RAC1 - Sergi Pàmies",
+  "date" : "20171227",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_sr-bohigues-bar-de-baix&cp=6",
+  "name" : "VERSIO RAC1-SR BOHIGUES BAR DE BAIX",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_televisio&cp=6",
+  "name" : "VERSIO RAC1-TELEVISIO",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_xarxa&cp=6",
+  "name" : "VERSIO RAC1-XARXA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio-rac1_xarxa-amb-marc-serra&cp=6",
+  "name" : "VERSIO RAC1-XARXA AMB MARC SERRA",
+  "date" : "20171230",
+  "items" : 1
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=versio_rac1",
+  "name" : "Versió RAC1 - L'hora a hora",
+  "date" : "20180101",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_10-coses-que-no-sabies-de&cp=6",
+  "name" : "VIA LLIURE-10 COSES QUE NO SABIES DE",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_antonio-banos&cp=6",
+  "name" : "VIA LLIURE-ANTONIO BANOS",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_backstage&cp=6",
+  "name" : "VIA LLIURE-BACKSTAGE",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_bellesa&cp=6",
+  "name" : "VIA LLIURE-BELLESA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_blogs-vivants&cp=6",
+  "name" : "VIA LLIURE-BLOGS VIVANTS",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_bookcrossing&cp=6",
+  "name" : "VIA LLIURE-BOOKCROSSING",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_brots-verds&cp=6",
+  "name" : "VIA LLIURE-BROTS VERDS",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_campi-qui-pugui&cp=6",
+  "name" : "VIA LLIURE-CAMPI QUI PUGUI",
+  "date" : "20180118",
+  "items" : 7
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_canvia-lliure&cp=6",
+  "name" : "VIA LLIURE-CANVIA LLIURE",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_cartes-dels-lectors&cp=6",
+  "name" : "VIA LLIURE-CARTES DELS LECTORS",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_ciencia&cp=6",
+  "name" : "VIA LLIURE-CIENCIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_cinema-i-tv&cp=6",
+  "name" : "VIA LLIURE-CINEMA I TV",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_concurs-efemerides&cp=6",
+  "name" : "VIA LLIURE-CONCURS EFEMERIDES",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_conversa&cp=6",
+  "name" : "VIA LLIURE-CONVERSA",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_cuina&cp=6",
+  "name" : "VIA LLIURE-CUINA",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_cuinar-amb-antonella&cp=6",
+  "name" : "VIA LLIURE-CUINAR AMB ANTONELLA",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_desemmascarem-els-politics&cp=6",
+  "name" : "VIA LLIURE-DESEMMASCAREM ELS POLITICS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_duel-de-series&cp=6",
+  "name" : "VIA LLIURE-DUEL DE SERIES",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_economia&cp=6",
+  "name" : "VIA LLIURE-ECONOMIA",
+  "date" : "20171227",
+  "items" : 1
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_el-codi-fabra&cp=6",
+  "name" : "VIA LLIURE-EL CODI FABRA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_el-maleti-del-cinefil&cp=6",
+  "name" : "VIA LLIURE-EL MALETI DEL CINEFIL",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_el-mix&cp=6",
+  "name" : "VIA LLIURE-EL MIX",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_el-parany-historic&cp=6",
+  "name" : "VIA LLIURE-EL PARANY HISTORIC",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_el-perque&cp=6",
+  "name" : "VIA LLIURE-EL PERQUE",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_el-vip&cp=6",
+  "name" : "VIA LLIURE-EL VIP",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_els-morts-de-la-setmana&cp=6",
+  "name" : "VIA LLIURE-ELS MORTS DE LA SETMANA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_en-profunditat&cp=6",
+  "name" : "VIA LLIURE-EN PROFUNDITAT",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_entrevista&cp=6",
+  "name" : "VIA LLIURE-ENTREVISTA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_entrevista-d-actualitat&cp=6",
+  "name" : "VIA LLIURE-ENTREVISTA D ACTUALITAT",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_espai&cp=6",
+  "name" : "VIA LLIURE-ESPAI",
+  "date" : "20171227",
+  "items" : 4
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_experiments-kupperians&cp=6",
+  "name" : "VIA LLIURE-EXPERIMENTS KUPPERIANS",
+  "date" : "20171227",
+  "items" : 5
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_fruites&cp=6",
+  "name" : "VIA LLIURE-FRUITES",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_grans-amors&cp=6",
+  "name" : "VIA LLIURE-GRANS AMORS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_honorables-catalans&cp=6",
+  "name" : "VIA LLIURE-HONORABLES CATALANS",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_illustres-execrables&cp=6",
+  "name" : "VIA LLIURE-ILLUSTRES EXECRABLES",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_internet&cp=6",
+  "name" : "VIA LLIURE-INTERNET",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_jocs&cp=6",
+  "name" : "VIA LLIURE-JOCS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_l-actuacio&cp=6",
+  "name" : "VIA LLIURE-L ACTUACIO",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_la-sort-del-fracas&cp=6",
+  "name" : "VIA LLIURE-LA SORT DEL FRACAS",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_la-tele&cp=6",
+  "name" : "VIA LLIURE-LA TELE",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_la-tertulia&cp=6",
+  "name" : "VIA LLIURE-LA TERTULIA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_la-tirallonga&cp=6",
+  "name" : "VIA LLIURE-LA TIRALLONGA",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_mix-de-cuina&cp=6",
+  "name" : "VIA LLIURE-MIX DE CUINA",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_musica&cp=6",
+  "name" : "VIA LLIURE-MUSICA",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_musics-de-carrer&cp=6",
+  "name" : "VIA LLIURE-MUSICS DE CARRER",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_nuria-jar&cp=6",
+  "name" : "VIA LLIURE-NURIA JAR",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_nutricio&cp=6",
+  "name" : "VIA LLIURE-NUTRICIO",
+  "date" : "20171227",
+  "items" : 9
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_pa-ciencia-la-nostra&cp=6",
+  "name" : "VIA LLIURE-PA CIENCIA LA NOSTRA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_parelles-de-ball&cp=6",
+  "name" : "VIA LLIURE-PARELLES DE BALL",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_personatges-per-descobrir&cp=6",
+  "name" : "VIA LLIURE-PERSONATGES PER DESCOBRIR",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_playlist-arenyes&cp=6",
+  "name" : "VIA LLIURE-PLAYLIST ARENYES",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_prohibit-llegir&cp=6",
+  "name" : "VIA LLIURE-PROHIBIT LLEGIR",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_propostes-oci&cp=6",
+  "name" : "VIA LLIURE-PROPOSTES OCI",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_psicologia&cp=6",
+  "name" : "VIA LLIURE-PSICOLOGIA",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_que-diu-que-diu&cp=6",
+  "name" : "VIA LLIURE-QUE DIU QUE DIU",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_sanjuan-i-martos&cp=6",
+  "name" : "VIA LLIURE-SANJUAN I MARTOS",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_si-o-no&cp=6",
+  "name" : "VIA LLIURE-SI O NO",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_temet&cp=6",
+  "name" : "VIA LLIURE-TEMET",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_tertulia&cp=6",
+  "name" : "VIA LLIURE-TERTULIA",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_trio-pantalles&cp=6",
+  "name" : "VIA LLIURE-TRIO PANTALLES",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?cat=via-lliure_un-mati-de-diumenge-a&cp=6",
+  "name" : "VIA LLIURE-UN MATI DE DIUMENGE A",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?limit=15&prog=14/15&param=info",
+  "name" : "14/15",
+  "date" : "20180117",
+  "items" : 15
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?limit=15&prog=la%20competencia&param=la_competencia",
+  "name" : "LA COMPETENCIA",
+  "date" : "20180117",
+  "items" : 15
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?limit=15&prog=primer%20toc&param=primer_toc",
+  "name" : "PRIMER TOC",
+  "date" : "20180117",
+  "items" : 15
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?limit=15&prog=tot%20es%20possible&param=tot_es_possible",
+  "name" : "Tot és possible - Programa sencer",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?limit=15&prog=via%20lliure&param=via_lliure",
+  "name" : "VIA LLIURE",
+  "date" : "20180118",
+  "items" : 15
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?prog=100%20metres&param=100_metres",
+  "name" : "100 METRES",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?prog=14%2015&param=14_15",
+  "name" : "14 15",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?prog=amb%20molt%20de%20gust&param=amb_molt_de_gust",
+  "name" : "Amb molt de gust - Programa sencer",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?prog=l%20espanyol%20juga%20a%20rac1&param=l_espanyol_juga_a_rac1",
+  "name" : "L ESPANYOL JUGA A RAC1",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?prog=no%20hi%20som%20per%20festes&param=no_hi_som_per_festes",
+  "name" : "No hi som per festes - Talls horaris",
+  "date" : "20180118",
+  "items" : 20
+}, {
+  "uri" : "http://www.racalacarta.com/wp-feeder.php?prog=no%20ho%20se&param=no_ho_se",
+  "name" : "No ho sé - L'hora a hora",
+  "date" : "20171229",
+  "items" : 20
+}, {
+  "uri" : "http://www.radiolesborges.cat/escoltans/arxiu/itunes.xml",
+  "name" : "Ràdio Les Borges 107.1FM",
+  "date" : "20110519",
+  "items" : 2
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/a-la-corda-fluixa/feed/",
+  "name" : "A la Corda Fluixa",
+  "date" : "20180117",
+  "items" : 29
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/a-tot-jazz/feed/",
+  "name" : "A Tot Jazz",
+  "date" : "20180117",
+  "items" : 50
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/aixi-som/feed/",
+  "name" : "Així Som",
+  "date" : "20171222",
+  "items" : 23
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/el-cel-obert/feed/",
+  "name" : "El Cel Obert",
+  "date" : "20171222",
+  "items" : 21
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/los-tres-tenores/feed/",
+  "name" : "Los Tres Tenores",
+  "date" : "20171222",
+  "items" : 40
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/ple-municipal/feed/",
+  "name" : "Ple Municipal",
+  "date" : "20171222",
+  "items" : 31
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/running-rua/feed/",
+  "name" : "Running RUA",
+  "date" : "20180117",
+  "items" : 8
+}, {
+  "uri" : "http://www.ripolletradio.cat/programa/seguro-que-ya-existe/feed/",
+  "name" : "Seguro que ya existe",
+  "date" : "20171222",
+  "items" : 27
+}, {
+  "uri" : "http://www.smartoxide.com/a0mn.xml",
+  "name" : "L'Albiol. Muntanyes de la Costa Daurada",
+  "date" : "20110801",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a10mn.xml",
+  "name" : "Duesaigües. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a11mn.xml",
+  "name" : "Vilanova d'Escornalbou. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a12mn.xml",
+  "name" : "La Febró. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a13mn.xml",
+  "name" : "Maspujols. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a14mn.xml",
+  "name" : "Prades. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a15mn.xml",
+  "name" : "Pratdip. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a16mn.xml",
+  "name" : "Riudecanyes. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a17mn.xml",
+  "name" : "Riudecols. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a18mn.xml",
+  "name" : "Vilaplana. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a1mn.xml",
+  "name" : "L'Aleixar. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a2mn.xml",
+  "name" : "Alforja. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a3mn.xml",
+  "name" : "Almoster. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a4mn.xml",
+  "name" : "Arbolí. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a5mn.xml",
+  "name" : "L'Argentera. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a6mn.xml",
+  "name" : "Les Borges del Camp. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a7mn.xml",
+  "name" : "Botarell. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a8mn.xml",
+  "name" : "Capafonts. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.smartoxide.com/a9mn.xml",
+  "name" : "Colldejou. Muntanyes de la Costa Daurada",
+  "date" : "20110727",
+  "items" : 3
+}, {
+  "uri" : "http://www.totsantcugat.cat/ca/downloads2/podcasts.xml",
+  "name" : "TOT Sant Cugat",
+  "date" : "20150302",
+  "items" : 10
+}, {
+  "uri" : "https://fapi-top.prisasd.com/podcast/playser/el_balco.xml",
+  "name" : "El BalcÃ³",
+  "date" : "20180112",
+  "items" : 200
+}, {
+  "uri" : "https://fapi-top.prisasd.com/podcast/playser/punt_de_llibre.xml",
+  "name" : "Punt de Llibre",
+  "date" : "20180113",
+  "items" : 31
+}, {
+  "uri" : "https://fapi-top.prisasd.com/podcast/playser/radio_ser_principat_d_andorra.xml",
+  "name" : "RÃ dio SER Principat d'Andorra",
+  "date" : "20180113",
+  "items" : 200
+}, {
+  "uri" : "https://fapi-top.prisasd.com/podcast/playser/ser_ebre.xml",
+  "name" : "SER Ebre",
+  "date" : "20180113",
+  "items" : 200
+}, {
+  "uri" : "https://mossegalapoma.cat/pindola/feed/",
+  "name" : "mpossegalapoma píndoles",
+  "date" : "20171220",
+  "items" : 7
+}, {
+  "uri" : "https://www.flaixfm.cat/rss/flaix-club.xml",
+  "name" : "Euro Flaix Club",
+  "date" : "20180113",
+  "items" : 10
+}, {
+  "uri" : "https://www.radioflaixbac.cat/rss/el-mati-i-la-mare-que-el-va-parir.xml",
+  "name" : "El matí i la mare que el va parir",
+  "date" : "20180113",
+  "items" : 88
+} ]

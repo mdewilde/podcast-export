@@ -1,0 +1,31 @@
+[ {
+  "uri" : "http://feed.cri.cn/rss/b8801ea0-f9e5-4cc9-87ed-7fd6c7f6adc4",
+  "name" : "E-Klubo",
+  "date" : "20141208",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/retradio",
+  "name" : "Pola Retradio en Esperanto",
+  "date" : "20171231",
+  "items" : 10
+}, {
+  "uri" : "http://kern.punkto.info/feed/m4a/",
+  "name" : "kern.punkto",
+  "date" : "20171203",
+  "items" : 10
+}, {
+  "uri" : "http://static1.1.sqspcdn.com/static/f/164207/1020313/1387676728570/radioverda.xml?token=ibuo54vrkidno923bzowmla11aq%3d",
+  "name" : "Radio Verda",
+  "date" : "20131221",
+  "items" : 103
+}, {
+  "uri" : "http://www.fsu.ch/podkasto/espodkasto.xml",
+  "name" : "esPodkasto - ghoju aù frenezigxu!",
+  "date" : "20080930",
+  "items" : 30
+}, {
+  "uri" : "http://www.loyalbooks.com/book/dr-esperantos-international-language-introduction-and-complete-grammar-by-ll-zamenhof/feed",
+  "name" : "Dr. Esperanto's International Language, Introduction and Complete Grammar by Ludwik L. Zamenhof",
+  "date" : "20180117",
+  "items" : 12
+} ]

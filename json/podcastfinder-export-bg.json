@@ -1,0 +1,186 @@
+[ {
+  "uri" : "http://djmascota.podomatic.com/rss2.xml",
+  "name" : "MASCOTA Podcast",
+  "date" : "20171225",
+  "items" : 33
+}, {
+  "uri" : "http://feeds.feedburner.com/bulpl_awr",
+  "name" : "AWR Bulgarian - Български език",
+  "date" : "20171225",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.feedburner.com/socialevonetpodcasts",
+  "name" : "Подкастовете на Socialevo.Net",
+  "date" : "20130713",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.lds.org/worldwide-devotional-mp3-bul",
+  "name" : "Worldwide Devotional For Young Adults | MP3 | BULGARIAN",
+  "date" : "20170921",
+  "items" : 40
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:151494583/sounds.rss",
+  "name" : "BalloonCast",
+  "date" : "20171221",
+  "items" : 99
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:221120888/sounds.rss",
+  "name" : "Streets of Sofia",
+  "date" : "20161123",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:234169782/sounds.rss",
+  "name" : "Свръхчовекът: как да живеем живота на мечтите си",
+  "date" : "20171226",
+  "items" : 71
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:283747986/sounds.rss",
+  "name" : "Говори ѝнтернет",
+  "date" : "20171222",
+  "items" : 40
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:293983666/sounds.rss",
+  "name" : "Комеди Клуб Подкаст The Comedy Club Channel",
+  "date" : "20171226",
+  "items" : 68
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:299747716/sounds.rss",
+  "name" : "Камък, ножица, хартия (thekanoha)",
+  "date" : "20180117",
+  "items" : 39
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:330828572/sounds.rss",
+  "name" : "Тихо, филмът започва",
+  "date" : "20171208",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:332029755/sounds.rss",
+  "name" : "София сутрин",
+  "date" : "20171108",
+  "items" : 4
+}, {
+  "uri" : "http://predpriemachite.com/category/misli-za-pari/feed/",
+  "name" : "Мисли за Пари",
+  "date" : "20171204",
+  "items" : 13
+}, {
+  "uri" : "http://predpriemachite.com/category/startup-razgovor/feed/",
+  "name" : "Стартъп Разговор",
+  "date" : "20171204",
+  "items" : 50
+}, {
+  "uri" : "http://propovedi.org/?feed=podcast",
+  "name" : "ProPoVedi.Org",
+  "date" : "20171002",
+  "items" : 350
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_dwn1_bul",
+  "name" : "Deutsch - warum nicht? Серия 1 | Да учим немски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_radiod1_bul",
+  "name" : "Radio D | Да учим немски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_bul",
+  "name" : "Deutsch - warum nicht? Серия 1 | Да учим немски | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_bul",
+  "name" : "Deutsch - warum nicht? Серия 2 | Да учим немски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn3_bul",
+  "name" : "Deutsch - warum nicht? Серия 3 | Да учим немски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn4_bul",
+  "name" : "Deutsch - warum nicht? Серия 4 | Да учим немски | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_marktplatz_bul",
+  "name" : "Marktplatz - икономиче | Да учим немски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_bul",
+  "name" : "Mission Berlin | Да учим немски | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 24
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_bul",
+  "name" : "Radio D | Да учим немски | Deutsche Welle",
+  "date" : "20171229",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_bul",
+  "name" : "Wieso nicht? | Да учим немски | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 20
+}, {
+  "uri" : "http://ttb.twr.org/rss/bulgarian_main.xml",
+  "name" : "ÐÑÑÑÐ²Ð°Ð½Ðµ Ð¿ÑÐµÐ· ÐÐ¸Ð±Ð»Ð¸ÑÑÐ° @ttb.twr.org/bulgarian",
+  "date" : "20180112",
+  "items" : 260
+}, {
+  "uri" : "http://wakeupandstartup.com/feed/podcast/",
+  "name" : "WakeUpAndStartUp",
+  "date" : "20170510",
+  "items" : 57
+}, {
+  "uri" : "http://winteriscolderintheeast.podomatic.com/rss2.xml",
+  "name" : "Winter is colder in the East (Зимата е по-студена на изток)",
+  "date" : "20171214",
+  "items" : 7
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-bg.rss",
+  "name" : "Bulgarian Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/blgambn1da.xml",
+  "name" : "Български Библията (не драматизира) - Bulgarian Bible (Non-Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.nerds2nerds.com/?feed=rss2",
+  "name" : "Nerds2Nerds",
+  "date" : "20171119",
+  "items" : 10
+}, {
+  "uri" : "http://www.spreaker.com/show/2625392/episodes/feed",
+  "name" : "Eurokids: Bulgarian news",
+  "date" : "20170820",
+  "items" : 2
+}, {
+  "uri" : "https://hearthis.at/mrkdj/podcast/",
+  "name" : "Impressive Sounds with Mr.K on Radio NOVA",
+  "date" : "20171228",
+  "items" : 86
+}, {
+  "uri" : "https://islamhouse.com/pc/2777?page=2777",
+  "name" : "Important Advices",
+  "date" : "20060416",
+  "items" : 1
+}, {
+  "uri" : "https://rss.simplecast.com/podcasts/2910/rss",
+  "name" : "--force push",
+  "date" : "20170801",
+  "items" : 6
+}, {
+  "uri" : "https://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-bg.rss",
+  "name" : "Bulgarian Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "https://www.capital.bg/rss/podcast/",
+  "name" : "Капитал - Подкаст",
+  "date" : "20180117",
+  "items" : 30
+} ]

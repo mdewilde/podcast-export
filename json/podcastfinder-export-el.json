@@ -1,0 +1,270 @@
+[ {
+  "uri" : "http://adayinthegreek.podbean.com/feed/",
+  "name" : "A Day In The Greek",
+  "date" : "20121214",
+  "items" : 20
+}, {
+  "uri" : "http://antonypl.podomatic.com/rss2.xml",
+  "name" : "Antony PL's Undergound sessions  podcast",
+  "date" : "20171213",
+  "items" : 3
+}, {
+  "uri" : "http://archive.papandreou.gr/papandreou/content/rssxml.aspx",
+  "name" : "www.papandreou.gr podcasts - όλα τα feed μαζί",
+  "items" : 185
+}, {
+  "uri" : "http://archive.papandreou.gr/papandreou/content/rssxml.aspx?l=2&cat=episkopisitheseon",
+  "name" : "Επισκόπηση Θέσεων - www.papandreou.gr podcasts",
+  "date" : "20070625",
+  "items" : 62
+}, {
+  "uri" : "http://archive.papandreou.gr/papandreou/content/rssxml.aspx?l=2&cat=omiliesdiloseis",
+  "name" : "Γιώργος Α. Παπανδρέου Podcasts - Ομιλίες & Δηλώσεις",
+  "date" : "20090331",
+  "items" : 121
+}, {
+  "uri" : "http://bestrepublic.podomatic.com/rss2.xml",
+  "name" : "Best Republic",
+  "date" : "20171220",
+  "items" : 1
+}, {
+  "uri" : "http://crispingoldtop.podomatic.com/rss2.xml",
+  "name" : "\"Living the dream\" Podcast",
+  "date" : "20171214",
+  "items" : 6
+}, {
+  "uri" : "http://discoverlife.podomatic.com/rss2.xml",
+  "name" : "Discoverlife.gr's Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://eleftheriosnikolaou.podomatic.com/rss2.xml",
+  "name" : "Great Feasts of the Eastern Orthodox Church",
+  "date" : "20171214",
+  "items" : 5
+}, {
+  "uri" : "http://feedpress.me/hellenicmelodies",
+  "name" : "Hellenic Melodies",
+  "date" : "20180113",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.feedburner.com/DevastationPodcast",
+  "name" : "Devastation Podcast",
+  "date" : "20171228",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.feedburner.com/dropbox/kstf",
+  "name" : "Αθέατα Περάσματα",
+  "date" : "20140813",
+  "items" : 211
+}, {
+  "uri" : "http://feeds.feedburner.com/ellinofreneiaReal",
+  "name" : "Ελληνοφρένεια",
+  "date" : "20180111",
+  "items" : 83
+}, {
+  "uri" : "http://feeds.feedburner.com/ellinofreneiareal",
+  "name" : "Ελληνοφρένεια",
+  "date" : "20180111",
+  "items" : 83
+}, {
+  "uri" : "http://feeds.feedburner.com/hotdocradio",
+  "name" : "Hot Doc Radio",
+  "date" : "20131108",
+  "items" : 36
+}, {
+  "uri" : "http://feeds.feedburner.com/kanelli",
+  "name" : "Μπήκαν στην πόλη οι οχτροί",
+  "date" : "20170523",
+  "items" : 139
+}, {
+  "uri" : "http://feeds.feedburner.com/radiofilter",
+  "name" : "FILTER Indie Rock Webcast",
+  "date" : "20171213",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/vidcastgr-ipod",
+  "name" : "Vidcast.gr (iPod)",
+  "date" : "20090831",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.feedburner.com/x-lostfinalepodcast",
+  "name" : "x-Lost Finale podcast",
+  "date" : "20100608",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.feedburner.com/xatzinikolaou",
+  "name" : "Νίκος Χατζηνικολάου @Realfm97.8",
+  "date" : "20160202",
+  "items" : 36
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:1085930/sounds.rss",
+  "name" : "SPORT 24 Radio 103,3 Shows",
+  "date" : "20151218",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:171618492/sounds.rss",
+  "name" : "Katerina Renieri",
+  "date" : "20170811",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:213919755/sounds.rss",
+  "name" : "GiatiOxi",
+  "date" : "20171225",
+  "items" : 90
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:254979529/sounds.rss",
+  "name" : "Atlas Audio Class by Sousana Kalfa",
+  "date" : "20171002",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:45865480/sounds.rss",
+  "name" : "The Full Court Press podcast",
+  "date" : "20151218",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:62329583/sounds.rss",
+  "name" : "Gadgetakias TN",
+  "date" : "20150821",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:70778359/sounds.rss",
+  "name" : "PICK N POP",
+  "date" : "20170609",
+  "items" : 20
+}, {
+  "uri" : "http://file.kathimerini.gr/podcast/feed.xml",
+  "name" : "Test book 1",
+  "date" : "20171117",
+  "items" : 2
+}, {
+  "uri" : "http://fxholic.com/category/greek-signals/feed/",
+  "name" : "FOREX Signals στα Ελληνικά",
+  "date" : "20171228",
+  "items" : 31
+}, {
+  "uri" : "http://kieronconc.podbean.com/feed/",
+  "name" : "Art of Participatory Leadership Podcasts",
+  "date" : "20130228",
+  "items" : 1
+}, {
+  "uri" : "http://mousikopodilato.podomatic.com/rss2.xml",
+  "name" : "Mousiko Podilato's Podcast",
+  "date" : "20171213",
+  "items" : 4
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feeds/audio-bibles/GRKEPTN1DA.xml",
+  "name" : "ÎÏÏÎ±Î¯Î± ÎÎ»Î»Î·Î½Î¹ÎºÎ® ÎÎ¹Î²Î»Î¹ÎºÎ® - Ancient Greek Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.skai.gr/series/gnorizontas-tin-acropoli/feed/",
+  "name" : "ΓΝΩΡΙΖΟΝΤΑΣ ΤΗΝ ΙΣΤΟΡΙΑ ΜΑΣ – ΑΚΡΟΠΟΛΗ",
+  "date" : "20171212",
+  "items" : 20
+}, {
+  "uri" : "http://podcasting.hau.gr/livemglessons/learninggreekpodcasts.php",
+  "name" : "Learning Greek Podcasts from the Hellenic American Union",
+  "date" : "20070320",
+  "items" : 81
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_gri",
+  "name" : "Deutsch - warum nicht? Σειρά 1 | Μαθαίνω γερμανικά | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_gri",
+  "name" : "Deutsch - warum nicht? Σειρά 2 | Μαθαίνω γερμανικά | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_marktplatz_gri",
+  "name" : "Marktplatz - τα γερμανικά στην οικονομία | Μαθαίνω γερμανικά | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_gri",
+  "name" : "Mission Europe – Mission Berlin | Μαθαίνω γερμανικά | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 24
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_gri",
+  "name" : "Radio D | Μαθαίνω γερμανικά | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 13
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_gri",
+  "name" : "Wieso nicht? | Μαθαίνω γερμανικά | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_gri_kultur",
+  "name" : "Πολιτιστικές αναφορές | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 48
+}, {
+  "uri" : "http://skai-podcast-diatrofi.libsyn.com/rss",
+  "name" : "Γνωρίζοντας την Ιστορία μας – Η Ελληνική Διατροφή από την προϊστορία μέχρι σήμερα",
+  "date" : "20171219",
+  "items" : 25
+}, {
+  "uri" : "http://startupminds.gr/feed/podcast/",
+  "name" : "Startup Minds – Συνεντεύξεις με Ελληνικά startups.",
+  "date" : "20171021",
+  "items" : 4
+}, {
+  "uri" : "http://tpangalos.podomatic.com/rss2.xml",
+  "name" : "Theodoros Pangalos Podcast",
+  "date" : "20171213",
+  "items" : 4
+}, {
+  "uri" : "http://trucasting.podomatic.com/rss2.xml",
+  "name" : "TruCasting",
+  "date" : "20171214",
+  "items" : 14
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/grkeptn1da.xml",
+  "name" : "Αρχαία Ελληνική Βιβλική - Ancient Greek Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/grksftn1da.xml",
+  "name" : "ÎÎ»Î»Î·Î½Î¹ÎºÎ® ÎÎ³Î¯Î± ÎÏÎ±ÏÎ® (Î¼Î·-Î´ÏÎ±Î¼Î±ÏÎ¿ÏÎ¿Î¹Î·Î¼Î­Î½Î¿) - Greek Bible Spyros Filos Translation (Non-Dramatized)",
+  "date" : "20160708",
+  "items" : 260
+}, {
+  "uri" : "http://www.fetareport.gr/feed/itunes.rss",
+  "name" : "Feta Report",
+  "date" : "20170307",
+  "items" : 33
+}, {
+  "uri" : "http://www.loyalbooks.com/book/apology-of-socrates-by-plato/feed",
+  "name" : "The Apology of Socrates (ελληνικά) by Plato",
+  "date" : "20180117",
+  "items" : 6
+}, {
+  "uri" : "http://www.nicosiacf.com/?feed=podcast&podcast_series=casting-the-truth",
+  "name" : "Casting the Truth",
+  "date" : "20171208",
+  "items" : 10
+}, {
+  "uri" : "http://www.offradio.gr/itunesxml/offcasts.xml",
+  "name" : "OFFcasts",
+  "date" : "20171227",
+  "items" : 255
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=9500",
+  "name" : "Greek Community Church",
+  "date" : "20080803",
+  "items" : 7
+}, {
+  "uri" : "http://yatabazah.podomatic.com/rss2.xml",
+  "name" : "don't EVER love me..",
+  "date" : "20171213",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/409884",
+  "name" : "10 Σημεία Διαφωτισμού στο τι έδωσε ο Προφήτης Μωχάμμαντ στην ανθρωπότητα",
+  "date" : "20121226",
+  "items" : 1
+} ]

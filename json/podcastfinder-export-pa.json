@@ -1,0 +1,30 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/panla_awr",
+  "name" : "Panjabi / Punjabi / ਪੰਜਾਬੀ / پنجابی (Pakistan)",
+  "date" : "20180109",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.feedburner.com/panpu_voh",
+  "name" : "AWR Panjabi / Punjabi / ਪੰਜਾਬੀ (India)",
+  "date" : "20180109",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:111854621/sounds.rss",
+  "name" : "JP Singh's Talk Show | Politics and Real Estate| Radio Punjab",
+  "date" : "20170814",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:150019877/sounds.rss",
+  "name" : "Abbotsford Punjabi Church",
+  "date" : "20170411",
+  "items" : 128
+}, {
+  "uri" : "http://podcast.harmanradio.com/all",
+  "name" : "Harman Radio Punjabi Podcast",
+  "date" : "20180117",
+  "items" : 25
+}, {
+  "uri" : "http://www.screencast.com/users/lilpama/playlists/amar%20jheeta%20-%20oh%20pal/itunes",
+  "name" : "Amar Jheeta - Oh Pal",
+  "items" : 1
+} ]

@@ -1,0 +1,11 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/sndla_awr?format=xml",
+  "name" : "AWR: Sindhi (سنڌي) Sindh region (Saraiki, Vicholi, Kutchi)",
+  "date" : "20180111",
+  "items" : 62
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-sd.rss",
+  "name" : "Sindhi Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171227",
+  "items" : 100
+} ]

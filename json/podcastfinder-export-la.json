@@ -1,0 +1,16 @@
+[ {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feeds/audio-bibles/LTNNVVN2DA.xml",
+  "name" : "Latin (Neo Vulgata) Biblium - Latin Bible (Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/ltnnvvn1da.xml",
+  "name" : "Latin (Neo Vulgata) Biblium - Latin Bible (Non-Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/ltnnvvn2da.xml",
+  "name" : "Latin (Neo Vulgata) Biblium - Latin Bible (Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+} ]

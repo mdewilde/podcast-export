@@ -1,0 +1,31 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/malpu_voh",
+  "name" : "AWR Malayalam / മലയാളം / malayāḷam",
+  "date" : "20180109",
+  "items" : 62
+}, {
+  "uri" : "http://ttb.twr.org/rss/malayalam_main.xml",
+  "name" : "ജീവ സന്ദേശം @ ttb.twr.org/malayalam",
+  "date" : "20180117",
+  "items" : 96
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-ml.rss",
+  "name" : "Malayalam Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/mjswtcn1da.xml",
+  "name" : "മലയാളം ബൈബിൾ - Malayalam Bible (Non-Dramatized)",
+  "date" : "20160126",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/mjswtcn2da.xml",
+  "name" : "മലയാളം ബൈബിൾ -  Malayalam Bible (Dramatized)",
+  "date" : "20160126",
+  "items" : 260
+}, {
+  "uri" : "http://www.omnycontent.com/d/playlist/4f310486-9d11-45c6-91e3-a471009b957c/ab7e8e97-71f6-4145-a19c-a53d00b0bc8b/066ac42e-a3fb-4499-a1c7-a53d00b0d436/podcast.rss",
+  "name" : "The Big Breakfast Club",
+  "date" : "20170809",
+  "items" : 88
+} ]

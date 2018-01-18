@@ -1,0 +1,26 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/tsuzingenuntsuzogn",
+  "name" : "Tsu zingen un tsu zogn/צו זינגען און צו זאָגן",
+  "date" : "20171019",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/yitan-full",
+  "name" : "Yi-Tan Call: Full Version",
+  "date" : "20110905",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/yitan-summary",
+  "name" : "Yi-Tan Call: Summary Version",
+  "date" : "20110905",
+  "items" : 10
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/yddlmmp1da.xml",
+  "name" : "Yiddish Eastern Bible -ייִדיש מזרח ביבל - ספר פון מתיא ייִדיש מזרח ביבל - ספר פון מתיא",
+  "date" : "20150914",
+  "items" : 28
+}, {
+  "uri" : "https://media.zencast.fm/the-yiddish-voice-podcast/rss",
+  "name" : "The 'Yiddish Voice' Podcast",
+  "date" : "20171230",
+  "items" : 120
+} ]

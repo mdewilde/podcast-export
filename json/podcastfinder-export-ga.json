@@ -1,0 +1,86 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/fada-is-fairsing",
+  "name" : "Fada is Fairsing",
+  "date" : "20170226",
+  "items" : 135
+}, {
+  "uri" : "http://feeds.feedburner.com/picnic2013",
+  "name" : "Beo ón bPicnic Aibhléiseach 2013!",
+  "date" : "20130903",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.feedburner.com/raidiorira_inniu",
+  "name" : "Raidio Ri-Ra",
+  "date" : "20171216",
+  "items" : 10
+}, {
+  "uri" : "http://podcastgen.radiomaria.org/~podcast.ie.radiomaria.org/feed.xml",
+  "name" : "Radio Maria Ireland",
+  "date" : "20171227",
+  "items" : 1
+}, {
+  "uri" : "http://static.uahirise.org/podcasts/bm-hirise-audio-ga.xml.rss",
+  "name" : "HiRISE: BeautifulMars Gaeilge",
+  "date" : "20160106",
+  "items" : 8
+}, {
+  "uri" : "http://www.cyberears.com/podcasts/podcast_5827.xml",
+  "name" : "Alien Communication",
+  "date" : "20110118",
+  "items" : 1
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/aerthonnta.xml",
+  "name" : "Aerthonnta – Ceolaistir na hEitilte",
+  "date" : "20130418",
+  "items" : 3
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/cnc.xml",
+  "name" : "CultÃºr na Cathrach",
+  "date" : "20111206",
+  "items" : 7
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/comhra.xml",
+  "name" : "I gComhrá, le Helena King",
+  "date" : "20120626",
+  "items" : 6
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/gaeilge2013.xml",
+  "name" : "Gaeilge na hArdteistiméireachta 2013",
+  "date" : "20130422",
+  "items" : 12
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/gna.xml",
+  "name" : "Gaeilge na hArdteistimÃ©ireachta -  Siollabas Nua",
+  "date" : "20120304",
+  "items" : 20
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/mal.xml",
+  "name" : "An tAthair Seosamh Mallin â PÃ¡iste na RÃ©abhlÃ³ide",
+  "date" : "20111130",
+  "items" : 1
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/nocht.xml",
+  "name" : "Gaeilge Nocht",
+  "date" : "20121126",
+  "items" : 5
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/oir.xml",
+  "name" : "Oireachtas na Samhna 2011",
+  "date" : "20111107",
+  "items" : 3
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/saol.xml",
+  "name" : "Is Ait an Mac an Saol",
+  "date" : "20110602",
+  "items" : 6
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/seo_mor.xml",
+  "name" : "An Seó Mór",
+  "date" : "20130516",
+  "items" : 5
+}, {
+  "uri" : "http://www.raidionalife.ie/podcast/sruth.xml",
+  "name" : "Sruth Ama",
+  "date" : "20110825",
+  "items" : 4
+} ]

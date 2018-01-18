@@ -1,0 +1,111 @@
+[ {
+  "uri" : "http://alekscomedyset.alekscuracsaric.me/?feed=podcast",
+  "name" : "Aleks' Comedy Set",
+  "date" : "20141030",
+  "items" : 9
+}, {
+  "uri" : "http://feed.cri.cn/rss/3a484d8b-0464-4d95-84d0-6ed46e6ae9b6",
+  "name" : "Gospodarski fokus s Karlom",
+  "date" : "20141208",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/medrivodcastneonatologija",
+  "name" : "Medri Vodcast: Neonatologija",
+  "date" : "20080222",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.feedburner.com/radioputovanja",
+  "name" : "Radio putovanja, program o ljudima, kontinentima,zemljama i gradovima. Bosanski, hrvatski, srpski.",
+  "date" : "20180109",
+  "items" : 24
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:44956940/sounds.rss",
+  "name" : "Filmske Repulzije",
+  "date" : "20170706",
+  "items" : 90
+}, {
+  "uri" : "http://podcastgen.radiomaria.org/~podcast.ba.radiomaria.org/feed.xml",
+  "name" : "Radio Maria Bosnia and Herzegovina",
+  "date" : "20171227",
+  "items" : 1
+}, {
+  "uri" : "http://podcastgen.radiomaria.org/~podcast.hr.radiomaria.org/feed.xml",
+  "name" : "Radio Maria Croatia (Hrvatska)",
+  "date" : "20171225",
+  "items" : 1
+}, {
+  "uri" : "http://reebok.podomatic.com/rss2.xml",
+  "name" : "Reebok Croatia Podcast",
+  "date" : "20171214",
+  "items" : 2
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_dwn1_kro",
+  "name" : "Deutsch – warum nicht? Serija 1 | Učenje njemačkog | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_radiod1_kro",
+  "name" : "Radio D | Učenje njemačkog | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_kro",
+  "name" : "Deutsch – warum nicht? Serija 1 | Učenje njemačkog | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_kro",
+  "name" : "Deutsch – warum nicht? Serija 2 | Učenje njemačkog | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn3_kro",
+  "name" : "Deutsch – warum nicht? Serija 3 | Učenje njemačkog | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn4_kro",
+  "name" : "Deutsch – warum nicht? Serija 4 | Učenje njemačkog | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 25
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_marktplatz_kro",
+  "name" : "Marktplatz – njemački jezik u gospodarstvu | Učenje njemačkog | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_kro",
+  "name" : "Mission Europe – Mission Berlin | Učenje njemačkog | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_kro",
+  "name" : "Radio D | Učenje njemačkog | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_kro",
+  "name" : "Wieso nicht? | Učenje njemačkog | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 20
+}, {
+  "uri" : "http://rss.dw.com/xml/vdt-croatian",
+  "name" : "Video dana | Video Podcast |Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://stropcast.com/category/kod_charlieja_doma/feed/",
+  "name" : "Kod Charlieja doma – Stropcast Podcast",
+  "date" : "20160614",
+  "items" : 49
+}, {
+  "uri" : "http://www.deejay-max.com/wttc_podcasts/wttc_podcast.xml",
+  "name" : "Welcome To The Club Radio Show",
+  "date" : "20180114",
+  "items" : 58
+}, {
+  "uri" : "http://www.serijala.com/feed/podcast/",
+  "name" : "Serijala Podcast",
+  "date" : "20180116",
+  "items" : 30
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/axtaranadam",
+  "name" : "Axtaran Adam – RadiotionFM",
+  "date" : "20180111",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.feedburner.com/azeba_awr",
+  "name" : "AWR: Azerbaijani - Азәрбајҹан дили",
+  "date" : "20100610",
+  "items" : 3
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/azbemvn1da",
+  "name" : "AzÉrbaycan CÉnubi Ä°ncil (Qeyri-sÉhnÉlÉÅdirilmiÅ) - Azerbaijani South Bible (Non-Dramatized)",
+  "date" : "20160727",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/tkribtp1da",
+  "name" : "Tsakhur Bible (Qeyri-sÉhnÉlÉÅdirilmiÅ)-SÃ¼leymanÄ±n mÉsÉllÉri, Luke - Tsakhur Bible (Non-Dramtized) - Proverbs, Luke",
+  "date" : "20160726",
+  "items" : 55
+}, {
+  "uri" : "http://www.azadliq.org/podcast/?count=50&zoneid=5",
+  "name" : "Radio: AzadliqLive - Azad Avropa / Azadlıq Radioları",
+  "date" : "20180117",
+  "items" : 7
+}, {
+  "uri" : "https://islamhouse.com/pc/2751?page=2751",
+  "name" : "Tövhid",
+  "date" : "20060415",
+  "items" : 11
+}, {
+  "uri" : "https://islamhouse.com/pc/2755?page=2755",
+  "name" : "Allahın ucalığı",
+  "date" : "20060415",
+  "items" : 1
+}, {
+  "uri" : "https://www.azadliq.org/podcast/?count=50&zoneId=5",
+  "name" : "Radio: AzadliqLive - Azad Avropa / Azadlıq Radioları",
+  "date" : "20180118",
+  "items" : 7
+} ]

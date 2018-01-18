@@ -1,0 +1,11 @@
+[ {
+  "uri" : "http://www.educorsica.fr/podcasts/a_mio_lingua/aml.xml",
+  "name" : "CRDP de Corse - A mio Lingua",
+  "date" : "20141219",
+  "items" : 49
+}, {
+  "uri" : "http://www.educorsica.fr/podcasts/siti_e_munumenti/mesdc.xml",
+  "name" : "CRDP de Corse - Siti è munumenti di Corsica",
+  "date" : "20140201",
+  "items" : 40
+} ]

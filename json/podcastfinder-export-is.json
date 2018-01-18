@@ -1,0 +1,256 @@
+[ {
+  "uri" : "http://agust.podomatic.com/rss2.xml",
+  "name" : "Kvikmyndaumfjöllun með Ara og Ágústi",
+  "date" : "20171214",
+  "items" : 13
+}, {
+  "uri" : "http://epli.podomatic.com/rss2.xml",
+  "name" : "epli.is - iPad 101",
+  "date" : "20171214",
+  "items" : 17
+}, {
+  "uri" : "http://feeds.feedburner.com/KopisPodcast",
+  "name" : "Podcast – Kop.is",
+  "date" : "20180116",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/ameriski-draumurinn-stada-svartra-i-bandarikjunum-og-baratta-theirra",
+  "name" : "Ameríski draumurinn - staða svartra í Bandaríkjunum og barátta þeirra",
+  "date" : "20170413",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/astandsborn",
+  "name" : "Ástandsbörn",
+  "date" : "20171226",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/bok-vikunnar",
+  "name" : "Bók vikunnar",
+  "date" : "20180114",
+  "items" : 55
+}, {
+  "uri" : "http://feeds.feedburner.com/fataekt-folk",
+  "name" : "Fátækt fólk",
+  "date" : "20170408",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.feedburner.com/fiskarnir-hafa-enga-faetur",
+  "name" : "Fiskarnir hafa enga fætur",
+  "date" : "20171016",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.feedburner.com/folk-og-fraedi",
+  "name" : "Fólk og fræði",
+  "date" : "20170722",
+  "items" : 37
+}, {
+  "uri" : "http://feeds.feedburner.com/frjalsar-hendur",
+  "name" : "Frjálsar hendur",
+  "date" : "20171001",
+  "items" : 39
+}, {
+  "uri" : "http://feeds.feedburner.com/i-ljosi-sogunnar",
+  "name" : "Í ljósi sögunnar",
+  "date" : "20180112",
+  "items" : 76
+}, {
+  "uri" : "http://feeds.feedburner.com/kopispodcast",
+  "name" : "Podcast – Kop.is",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/laugardagskvold-med-matta",
+  "name" : "Laugardagskvöld með Matta",
+  "date" : "20180113",
+  "items" : 50
+}, {
+  "uri" : "http://feeds.feedburner.com/lestin",
+  "name" : "Lestin",
+  "date" : "20180112",
+  "items" : 255
+}, {
+  "uri" : "http://feeds.feedburner.com/letigardurinn",
+  "name" : "Letigarðurinn",
+  "date" : "20161224",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/markmannshanskarnir-hans-albert-camus",
+  "name" : "Markmannshanskarnir hans Alberts Camus",
+  "date" : "20171209",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.feedburner.com/morgunverdur-meistaranna",
+  "name" : "Morgunverður meistaranna",
+  "date" : "20170119",
+  "items" : 64
+}, {
+  "uri" : "http://feeds.feedburner.com/mozart-misskilinn-snillingur",
+  "name" : "Mozart: Misskilinn snillingur",
+  "date" : "20161203",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.feedburner.com/nei-haettu-nu-alveg",
+  "name" : "Nei, hættu nú alveg",
+  "date" : "20170417",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.feedburner.com/orugga-kynslodin",
+  "name" : "Örugga kynslóðin",
+  "date" : "20170629",
+  "items" : 17
+}, {
+  "uri" : "http://feeds.feedburner.com/rabbabari",
+  "name" : "Rabbabari",
+  "date" : "20180102",
+  "items" : 42
+}, {
+  "uri" : "http://feeds.feedburner.com/rokkland",
+  "name" : "Rokkland",
+  "date" : "20171217",
+  "items" : 59
+}, {
+  "uri" : "http://feeds.feedburner.com/ruv_grinland",
+  "name" : "Grínland",
+  "date" : "20170101",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.feedburner.com/saga-hlutanna",
+  "name" : "Saga hlutanna",
+  "date" : "20160309",
+  "items" : 23
+}, {
+  "uri" : "http://feeds.feedburner.com/samfelagid",
+  "name" : "Samfélagið",
+  "date" : "20180112",
+  "items" : 277
+}, {
+  "uri" : "http://feeds.feedburner.com/samtalid",
+  "name" : "Samtal",
+  "date" : "20171231",
+  "items" : 60
+}, {
+  "uri" : "http://feeds.feedburner.com/segdu-mer",
+  "name" : "Segðu mér",
+  "date" : "20180111",
+  "items" : 86
+}, {
+  "uri" : "http://feeds.feedburner.com/sirkus-jons-gnarr",
+  "name" : "Sirkus Jóns Gnarr",
+  "date" : "20180113",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.feedburner.com/spegillinn",
+  "name" : "Spegillinn",
+  "date" : "20171229",
+  "items" : 244
+}, {
+  "uri" : "http://feeds.feedburner.com/talandi-um-thad",
+  "name" : "Talandi um það",
+  "date" : "20170709",
+  "items" : 36
+}, {
+  "uri" : "http://feeds.feedburner.com/undantekningin",
+  "name" : "Undantekningin",
+  "date" : "20170614",
+  "items" : 18
+}, {
+  "uri" : "http://feeds.feedburner.com/utvarpssagan-tomas-jonsson-metsolubok",
+  "name" : "Kvöldsagan: Tómas Jónsson metsölubók",
+  "date" : "20170510",
+  "items" : 48
+}, {
+  "uri" : "http://feeds.feedburner.com/vidsja",
+  "name" : "Víðsjá",
+  "date" : "20180111",
+  "items" : 276
+}, {
+  "uri" : "http://feeds.feedburner.com/vikulokin",
+  "name" : "Vikulokin",
+  "date" : "20171230",
+  "items" : 51
+}, {
+  "uri" : "http://feeds.feedburner.com/visindavarp-aevars",
+  "name" : "Vísindavarp Ævars",
+  "date" : "20170524",
+  "items" : 45
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:162785986/sounds.rss",
+  "name" : "Durgarnir",
+  "date" : "20171207",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:71356845/sounds.rss",
+  "name" : "Upptök",
+  "date" : "20171110",
+  "items" : 4
+}, {
+  "uri" : "http://fotbolti.net/podcast_fn.php",
+  "name" : "Fotbolti.net",
+  "date" : "20180113",
+  "items" : 413
+}, {
+  "uri" : "http://kjarninn.is/feed/podcast",
+  "name" : "Hlaðvarp Kjarnans",
+  "date" : "20180118",
+  "items" : 250
+}, {
+  "uri" : "http://kjarninn.is/feed/podcast/",
+  "name" : "Hlaðvarp Kjarnans",
+  "date" : "20171228",
+  "items" : 250
+}, {
+  "uri" : "http://podcast.ruv.is/i_ljosi_sogunnar/podcast.xml",
+  "name" : "Í ljósi sögunnar",
+  "date" : "20180112",
+  "items" : 75
+}, {
+  "uri" : "http://podcast.ruv.is/laugardagskvold_med_matta/podcast.xml",
+  "name" : "Laugardagskvöld með Matta",
+  "date" : "20180113",
+  "items" : 50
+}, {
+  "uri" : "http://podcast.ruv.is/neihaettu/podcast.xml",
+  "name" : "Nei, hættu nú alveg",
+  "date" : "20170417",
+  "items" : 2
+}, {
+  "uri" : "http://podcast.ruv.is/saga_hlutanna/podcast.xml",
+  "name" : "Saga hlutanna",
+  "date" : "20160309",
+  "items" : 23
+}, {
+  "uri" : "http://podcast.ruv.is/segdu_mer/podcast.xml",
+  "name" : "Segðu mér",
+  "date" : "20180117",
+  "items" : 89
+}, {
+  "uri" : "http://podcast.ruv.is/talandi_um_thad/podcast.xml",
+  "name" : "Talandi um það",
+  "date" : "20170709",
+  "items" : 35
+}, {
+  "uri" : "http://podcast.ruv.is/vikulokin/podcast.xml",
+  "name" : "Vikulokin",
+  "date" : "20180113",
+  "items" : 52
+}, {
+  "uri" : "http://www.buzzsprout.com/143488.rss",
+  "name" : "Karfan.is",
+  "date" : "20180110",
+  "items" : 4
+}, {
+  "uri" : "http://www.ruv.is/rss/hladvarp/hormonar",
+  "name" : "Hormónar",
+  "date" : "20170310",
+  "items" : 10
+}, {
+  "uri" : "http://www.ruv.is/rss/hladvarp/tvihofdi-hladvarp",
+  "name" : "Tvíhöfði hlaðvarp",
+  "date" : "20170819",
+  "items" : 12
+}, {
+  "uri" : "https://heiddis93.podbean.com/feed/",
+  "name" : "Morðmálin",
+  "date" : "20171221",
+  "items" : 8
+} ]

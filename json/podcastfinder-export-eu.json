@@ -1,0 +1,25 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/lovemecomrss",
+  "name" : "A Foreign Affair",
+  "items" : 3
+}, {
+  "uri" : "http://feeds2.feedburner.com/berriatb_itunes",
+  "name" : "BerriaTB | Berria.eus",
+  "date" : "20130704",
+  "items" : 20
+}, {
+  "uri" : "http://info7.naiz.eus/eu/rss/sections/info7/kalegorrian.rss",
+  "name" : "INFO7 - Kalegorrian | naiz.eus",
+  "date" : "20180118",
+  "items" : 30
+}, {
+  "uri" : "http://oizjox.podomatic.com/rss2.xml",
+  "name" : "Jox's Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://www.irekia.euskadi.eus/eu/podcast.xml",
+  "name" : "Irekia Eusko Jaurlaritza - Gobierno Vasco",
+  "date" : "20180116",
+  "items" : 100
+} ]

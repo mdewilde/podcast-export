@@ -1,0 +1,46 @@
+[ {
+  "uri" : "http://www.rte.ie//radio1/podcast/podcast_ansaolodheas.xml",
+  "name" : "RTÉ - An Saol ó Dheas",
+  "date" : "20180112",
+  "items" : 125
+}, {
+  "uri" : "http://www.rte.ie//radio1/podcast/podcast_iclub.xml",
+  "name" : "RTÃ - i-Club",
+  "date" : "20090511",
+  "items" : 191
+}, {
+  "uri" : "http://www.rte.ie//radio1/podcast/podcast_irisaniar.xml",
+  "name" : "RTÃ - Iris Aniar",
+  "date" : "20171222",
+  "items" : 119
+}, {
+  "uri" : "http://www.rte.ie//radio1/podcast/podcast_seobeoantsathairn.xml",
+  "name" : "RTÃ - SeÃ³ Beo an tSathairn",
+  "date" : "20090525",
+  "items" : 64
+}, {
+  "uri" : "http://www.rte.ie/radio1/podcast/podcast_agallaimhonardchathair.xml",
+  "name" : "RTÃ - Agallaimh Ã³n Ard Chathair",
+  "date" : "20110901",
+  "items" : 30
+}, {
+  "uri" : "http://www.rte.ie/radio1/podcast/podcast_cartlannbhotharnaleinsi.xml",
+  "name" : "RTÃ - Cartlann BhÃ³thar na LÃ©insÃ­",
+  "date" : "20091229",
+  "items" : 29
+}, {
+  "uri" : "http://www.rte.ie/radio1/podcast/podcast_focalfaire.xml",
+  "name" : "RTÃ - Focal Faire",
+  "date" : "20080612",
+  "items" : 1
+}, {
+  "uri" : "http://www.rte.ie/radio1/podcast/podcast_igceartlarnandaoine.xml",
+  "name" : "RTÃ - I gCeartlÃ¡r na nDaoine",
+  "date" : "20100521",
+  "items" : 30
+}, {
+  "uri" : "http://www.rte.ie/radio1/podcast/podcast_roghanaseachtaine.xml",
+  "name" : "RTÉ - Rogha Na Seachtaine",
+  "date" : "20091214",
+  "items" : 29
+} ]

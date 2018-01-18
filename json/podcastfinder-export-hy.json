@@ -1,0 +1,26 @@
+[ {
+  "uri" : "http://civilitasfoundation.org/cf/index.php?option=com_podcast&view=feed&format=raw",
+  "name" : "Civilitas Foundation",
+  "date" : "20121105",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.feedburner.com/HYEYE_FAM",
+  "name" : "AWR: Armenian - Հայերեն Hayeren",
+  "date" : "20180110",
+  "items" : 56
+}, {
+  "uri" : "http://feeds.feedburner.com/HYEYE_HLT",
+  "name" : "AWR: Armenian Health - Հայերեն Hayeren",
+  "date" : "20171228",
+  "items" : 61
+}, {
+  "uri" : "http://feeds.lds.org/worldwide-devotional-mp3-hye",
+  "name" : "Worldwide Devotional For Young Adults | MP3 | ARMENIAN",
+  "date" : "20170921",
+  "items" : 39
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/armancp1da.xml",
+  "name" : "հայերեն արեվմտյան աստվածաշունչ (Ավետարանները) - Armenian Western Bible (Gospels)",
+  "date" : "20150914",
+  "items" : 89
+} ]

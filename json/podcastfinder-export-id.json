@@ -1,0 +1,576 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/INDJA_VOH",
+  "name" : "AWR Indonesian / Bahasa Indonesia",
+  "date" : "20180111",
+  "items" : 62
+}, {
+  "uri" : "http://gkicianjur.com/feed/podcast/audio",
+  "name" : "Sejenak Merenung bersama GKI Cianjur - AUDIO Podcast",
+  "date" : "20171230",
+  "items" : 2
+}, {
+  "uri" : "http://gkicianjur.com/feed/podcast/video",
+  "name" : "Sejenak Merenung bersama GKI Cianjur - VIDEO Podcast",
+  "date" : "20171230",
+  "items" : 2
+}, {
+  "uri" : "http://media.fajarpengharapan.com/audio/audio4itunes.xml",
+  "name" : "Berkat 3 Generasi",
+  "date" : "20150426",
+  "items" : 4
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/lexwbtn1da",
+  "name" : "Luang Alkitab (Non-didramatisasi) - Luang Bible (Non-Dramatized)",
+  "date" : "20160629",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/lexwbtn2da",
+  "name" : "Luang Alkitab (didramatisasi) - Luang Bible (Dramatized)",
+  "date" : "20160629",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/sdalain1da",
+  "name" : "Toraja Alkitab (Non-didramatisasi) - Toraja Bible (Non-Dramatized)",
+  "date" : "20160629",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/sdalain2da",
+  "name" : "Toraja Alkitab (didramatisasi) - Toraja Bible (Dramatized)",
+  "date" : "20160629",
+  "items" : 260
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_ind",
+  "name" : "Deutsch - warum nicht? Seri 1 | Belajar Bahasa Jerman | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_ind",
+  "name" : "Deutsch - warum nicht? Seri 2 | Belajar Bahasa Jerman | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn3_ind",
+  "name" : "Deutsch - warum nicht? Seri 3 | Belajar Bahasa Jerman | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn4_ind",
+  "name" : "Deutsch - warum nicht? Seri 4 | Belajar Bahasa Jerman | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_ind",
+  "name" : "Mission Europe - Mission Berlin | Belajar Bahasa Jerman | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 25
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_ind",
+  "name" : "Radio D 1 | Belajar Bahasa Jerman | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_ind",
+  "name" : "Wieso nicht? | Belajar Bahasa Jerman | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 19
+}, {
+  "uri" : "http://truth.id/voice/category/bible-teaching/feed",
+  "name" : "Bible Teaching",
+  "date" : "20171228",
+  "items" : 30
+}, {
+  "uri" : "http://truth.id/voice/category/daily-enlightenment/feed/",
+  "name" : "Truth Daily Enlightenment",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-id.rss",
+  "name" : "Indonesian Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/atqlain1da.xml",
+  "name" : "Aralle-Tabulahan Alkitab (non-didramatisasi) - Aralle-Tabulahan Bible (Non-Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/atqlain2da.xml",
+  "name" : "Aralle-Tabulahan Alkitab (didramatisasi) - Aralle-Tabulahan Bible (Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/btslain2da.xml",
+  "name" : "Batak Simalungun Alkitab - Batak Simalungun Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/btxlain1da.xml",
+  "name" : "Batak Karo Alkitab (Non-didramatisasi) - Batak Karo Bible (Non-Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/btxlain2da.xml",
+  "name" : "Batak Karo Alkitab (didramatisasi) - Batak Karo Bible (Dramatized)",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/gbilain2da.xml",
+  "name" : "Galela Alkitab - Galela Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/lewlain1da.xml",
+  "name" : "Kaili Ledo Alkitab (Non-didramatisasi) - Kaili Ledo Bible (Non-Dramatized)",
+  "date" : "20151109",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/ljplain2da.xml",
+  "name" : "Lampung Alkitab - Lampung Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/mnbtbln2da.xml",
+  "name" : "Muna Alkitab  - Muna Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/mwvlain2da.xml",
+  "name" : "Mentawai Alkitab - Mentawai Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/npylain2da.xml",
+  "name" : "Napu Alkitab -  Napu Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/pmfntmn2da.xml",
+  "name" : "Bahasa Taa Alkitab  - Bahasa Taa Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/ptulain2da.xml",
+  "name" : "Bambam Alkitab - Bambam Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/sajlain1da.xml",
+  "name" : "Sahu Alkitab (non-didramatisasi) - Sahu Bible (Non-Dramatized)",
+  "date" : "20160411",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/tlblain1da.xml",
+  "name" : "Tobelo Alkitab (Non-didramatisasi) - Tobelo Bible (Non-Dramatized)",
+  "date" : "20151130",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/tlblain2da.xml",
+  "name" : "Tobelo Alkitab (didramatisasi) - Tobelo Bible (Dramatized)",
+  "date" : "20151130",
+  "items" : 260
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/twulain2da.xml",
+  "name" : "Rote Alkitab - Rote Bible",
+  "date" : "20150914",
+  "items" : 260
+}, {
+  "uri" : "http://www.gkygrv.org/podcast.rss",
+  "name" : "GKY Green Ville Podcast",
+  "date" : "20171225",
+  "items" : 404
+}, {
+  "uri" : "http://www.radioaustralia.net.au/indonesian/podcast/feed/englishforbusiness-id",
+  "name" : "Bahasa Inggris untuk Bisnis",
+  "date" : "00130205",
+  "items" : 21
+}, {
+  "uri" : "http://www.radioaustralia.net.au/indonesian/podcast/feed/englishforstudy-id",
+  "name" : "Bahasa Inggris untuk Studi di Australia",
+  "date" : "00130205",
+  "items" : 24
+}, {
+  "uri" : "http://www.radioaustralia.net.au/indonesian/podcast/feed/englishfromaustralia-id",
+  "name" : "Bahasa Inggris dari Australia",
+  "date" : "00130205",
+  "items" : 19
+}, {
+  "uri" : "http://www.radioaustralia.net.au/indonesian/podcast/feed/talk-id",
+  "name" : "Paket program Radio Australia Indonesia",
+  "date" : "00140703",
+  "items" : 10
+}, {
+  "uri" : "http://www.rasikafm.co.id/feed/",
+  "name" : "Rasika USA",
+  "date" : "20170822",
+  "items" : 10
+}, {
+  "uri" : "http://www.voaindonesia.com/podcast/?count=50&zoneid=3151",
+  "name" : "VOA Executive Lounge - Voice of America | Bahasa Indonesia",
+  "date" : "20171230",
+  "items" : 39
+}, {
+  "uri" : "http://www.voaindonesia.com/podcast/?count=50&zoneid=425",
+  "name" : "VOA Gondangdia - Voice of America | Bahasa Indonesia",
+  "date" : "20180118",
+  "items" : 16
+}, {
+  "uri" : "http://www.voaindonesia.com/podcast/video.aspx?count=50&zoneid=414",
+  "name" : "Apa Kabar Amerika - Voice of America | Bahasa Indonesia",
+  "date" : "20180118",
+  "items" : 4
+}, {
+  "uri" : "http://www.voaindonesia.com/podcast/video.aspx?count=50&zoneid=416",
+  "name" : "Kilas VOA - Voice of America | Bahasa Indonesia",
+  "date" : "20180118",
+  "items" : 22
+}, {
+  "uri" : "http://www.worldlanguagespodcasting.com/podcasts/indonesian.xml",
+  "name" : "Indonesian Podcast - Improve your Indonesian language skills by listening to conversations about Australian culture",
+  "date" : "20070819",
+  "items" : 2
+}, {
+  "uri" : "http://www3.nhk.or.jp/rj/podcast/rss/indonesian.xml",
+  "name" : "Indonesian News - NHK WORLD RADIO JAPAN",
+  "date" : "20171228",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/192313?page=192313",
+  "name" : "Alam Jin dan Dunia Misteri",
+  "date" : "20090129",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/194277?page=194277",
+  "name" : "Rukun-rukun Islam",
+  "date" : "20090311",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/194279?page=194279",
+  "name" : "Keutamaan tauhid dan pembagiannya",
+  "date" : "20090311",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/270606?page=270606",
+  "name" : "Hakikat Kedekatan Allah",
+  "date" : "20100203",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/270629?page=270629",
+  "name" : "Syubhat Seputar Makam Rasulullah saw",
+  "date" : "20100203",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/305009?page=305009",
+  "name" : "Keagungan Doa",
+  "date" : "20100517",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/313587?page=313587",
+  "name" : "Keutamaan Shalat Berjamaah dan Menjadi Imam",
+  "date" : "20100627",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/313592?page=313592",
+  "name" : "Nasehat Dalam Menghadapi Fitnah",
+  "date" : "20100627",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/314944?page=314944",
+  "name" : "Kupas Tuntas Amalan Nisfu Syaban",
+  "date" : "20100710",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/340889?page=340889",
+  "name" : "Syarah Hadits Enam Sifat Mukmin",
+  "date" : "20110424",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/343932?page=343932",
+  "name" : "Syarah Hadits Tentang Hak Jalan",
+  "date" : "20110508",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/344204?page=344204",
+  "name" : "Syarah Hadits ‘…aku berlindung kepada-Mu dari fitnah fakir’",
+  "date" : "20110510",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/344206?page=344206",
+  "name" : "Syarah Hadits Doa Nabi SAW Setelah Subuh Ya Allah, berilah aku ilmu yang bermanfaat, rizqi yang halal dan amal yang diterima.’",
+  "date" : "20110510",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/344208?page=344208",
+  "name" : "Syarah Hadits Jangan Marah",
+  "date" : "20110510",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/354484?page=354484",
+  "name" : "Makna Hadits\" Barangsiapa yang Allah kehendaki kebaikan maka Allah pahamkan tentang agama islam\"",
+  "date" : "20110620",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/358860?page=358860",
+  "name" : "Wajibnya Bertaubat",
+  "date" : "20110720",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/358862?page=358862",
+  "name" : "Sebab-Sebab Bertambahnya Iman",
+  "date" : "20110720",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/387179?page=387179",
+  "name" : "Jurus Jitu untuk Mendidik Anak",
+  "date" : "20120211",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/387181?page=387181",
+  "name" : "Jagalah Dirimu dan Keluargamu dari Siksa Api Neraka",
+  "date" : "20120211",
+  "items" : 3
+}, {
+  "uri" : "https://islamhouse.com/pc/388471?page=388471",
+  "name" : "Tarjamah Al-Fatihah dan Juz Amma dalam Bahasa Indonesia",
+  "date" : "20120228",
+  "items" : 38
+}, {
+  "uri" : "https://islamhouse.com/pc/391974",
+  "name" : "Jaringan Islam Liberal dan Bahayanya Bagi Umat Islam",
+  "date" : "20120319",
+  "items" : 5
+}, {
+  "uri" : "https://islamhouse.com/pc/392977?page=392977",
+  "name" : "Himpunan 70 Hadits Pilihan",
+  "date" : "20120407",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/401399",
+  "name" : "Mengimani Perbedaan Pria dan Wanita",
+  "date" : "20120906",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/401401",
+  "name" : "Arti Persatuan dan Berpegang Teguh Kepada Agama Allah",
+  "date" : "20120906",
+  "items" : 2
+}, {
+  "uri" : "https://islamhouse.com/pc/409855",
+  "name" : "IKHLAS MENGHARAP RIDHA ALLAH",
+  "date" : "20121226",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/409865",
+  "name" : "TAUFIQ ALLAH SWT",
+  "date" : "20121226",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/409867",
+  "name" : "KISAH WAFATNYA ABU THALIB",
+  "date" : "20121226",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/409875",
+  "name" : "MENINGGALKAN SUATU KEBURUKAN KARENA ALLAH",
+  "date" : "20121226",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/409878",
+  "name" : "MEMAKAN HARTA HARAM",
+  "date" : "20121226",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/418826?page=418826",
+  "name" : "Mushaf murattal oleh qari Mahmud Khalil Al Khushori dan terjemahnya dalam bahasa Bosnia",
+  "date" : "20130325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/418827?page=418827",
+  "name" : "Mushaf Masjidil Nabawi tahun 1431 H",
+  "date" : "20130325",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/4188?page=4188",
+  "name" : "Kepada Saudariku Wanita Pekerja",
+  "date" : "20060820",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/420720?page=420720",
+  "name" : "Audio Tilawah Sepersepuluh Terakhir",
+  "date" : "20130418",
+  "items" : 57
+}, {
+  "uri" : "https://islamhouse.com/pc/435465",
+  "name" : "Bulan Ramadhan Adalah Bulan Kesabaran",
+  "date" : "20130724",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/435469",
+  "name" : "Ibadah-Ibadah di Penghujung Bulan Ramadhan",
+  "date" : "20130724",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439642",
+  "name" : "Buah Keimanan",
+  "date" : "20130901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439645",
+  "name" : "Siapa Wali-Wali Allah ?",
+  "date" : "20130901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439647",
+  "name" : "Hakekat Keimanan",
+  "date" : "20130901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/439649",
+  "name" : "Saling Menasehati Dengan Kasih Sayang",
+  "date" : "20130901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/443465",
+  "name" : "Cinta Nabi shallallahu ’alaihi wa sallam",
+  "date" : "20131022",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/443469",
+  "name" : "Janganlah Kalian Memakan Harta Sesama Kalian dengan Cara yang Bathil",
+  "date" : "20131022",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/443471",
+  "name" : "Pelajaran dari Wafatnya Manusia Terbaik",
+  "date" : "20131022",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/4486?page=4486",
+  "name" : "Takut Terhadap Kesyirikan",
+  "date" : "20070307",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/4488?page=4488",
+  "name" : "Bagaimana Agar Bisa selamat Dari Fitnah Dan Syubhat",
+  "date" : "20070307",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/4529?page=4529",
+  "name" : "Orang Yang Benar-Benar Bangkrut",
+  "date" : "20070318",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/4536?page=4536",
+  "name" : "Hakikat Takwa Kepada Allah",
+  "date" : "20070318",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52463?page=52463",
+  "name" : "Dimana Allah",
+  "date" : "20070826",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52468?page=52468",
+  "name" : "Ghuluw Terhadap Orang Saleh",
+  "date" : "20070826",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52470?page=52470",
+  "name" : "Beberapa Permasalahan Tentang Shalat",
+  "date" : "20070826",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52748?page=52748",
+  "name" : "Menjaga Lisan",
+  "date" : "20070831",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52751?page=52751",
+  "name" : "Aqidah Yang Benar (Syarah Ushul Al Iman)",
+  "date" : "20070831",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52758?page=52758",
+  "name" : "Peringatan Keras Untuk Menjadikan Kuburan Sebagai Masjid",
+  "date" : "20070831",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52762?page=52762",
+  "name" : "Urgensi Shalat dalam Kehidupan Seorang Muslim",
+  "date" : "20070831",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52764?page=52764",
+  "name" : "Tata Cara Shalat",
+  "date" : "20070831",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52768?page=52768",
+  "name" : "Tata Cara Melaksanakan Ibadah Haji",
+  "date" : "20070901",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52870?page=52870",
+  "name" : "Makna, Syarat dan Urgensi kalimat La ilaha illallah",
+  "date" : "20070902",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/52874?page=52874",
+  "name" : "Keutamaan Ilmu dan Ulama",
+  "date" : "20070902",
+  "items" : 2
+}, {
+  "uri" : "https://islamhouse.com/pc/52954?page=52954",
+  "name" : "Hakikat Puasa",
+  "date" : "20070904",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/888094/",
+  "name" : "Hadits Pilihan Juz 4",
+  "date" : "20150524",
+  "items" : 80
+}, {
+  "uri" : "https://islamhouse.com/pc/888479/",
+  "name" : "Bagaimana Cara Meraih Berkah Hidup",
+  "date" : "20150526",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/888483/",
+  "name" : "Pelajaran Dari Kisah Nabi Yunus",
+  "date" : "20150526",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/888485/",
+  "name" : "Sihir, Kesurupan dan Penyakit ’Ain",
+  "date" : "20150526",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/888507/",
+  "name" : "Manfaat Bagi Mayit Dari Orang Yang Masih Hidup",
+  "date" : "20150526",
+  "items" : 1
+}, {
+  "uri" : "https://toffeedev.com/feed/podcast/",
+  "name" : "Toffee Podcast",
+  "date" : "20180105",
+  "items" : 6
+}, {
+  "uri" : "https://truth.id/voice/category/bible-teaching/feed/",
+  "name" : "Bible Teaching",
+  "date" : "20180117",
+  "items" : 30
+}, {
+  "uri" : "https://truth.id/voice/category/daily-enlightenment/feed/",
+  "name" : "Truth Daily Enlightenment",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "https://www.voaindonesia.com/podcast/?count=50&zoneId=421",
+  "name" : "Siaran Pagi - Voice of America | Bahasa Indonesia",
+  "date" : "20180118",
+  "items" : 22
+}, {
+  "uri" : "https://www.voaindonesia.com/podcast/?count=50&zoneid=3151",
+  "name" : "VOA Executive Lounge - Voice of America | Bahasa Indonesia",
+  "date" : "20171229",
+  "items" : 39
+} ]

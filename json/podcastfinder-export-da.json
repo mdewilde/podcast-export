@@ -1,0 +1,4266 @@
+[ {
+  "uri" : "http://17medsigneamtoft.podbean.com/feed/",
+  "name" : "17 med Signe Amtoft",
+  "date" : "20171020",
+  "items" : 8
+}, {
+  "uri" : "http://a.podcast.dk/audiopodcast/channel/2806965",
+  "name" : "Tryk Optag",
+  "date" : "20110823",
+  "items" : 3
+}, {
+  "uri" : "http://aasr.dk/feed/podcast/feedback",
+  "name" : "Feedback",
+  "date" : "20171224",
+  "items" : 4
+}, {
+  "uri" : "http://aasr.dk/feed/podcast/kan-vi-vinde-kommunalvalget",
+  "name" : "Kan vi vinde kommunalvalget?",
+  "date" : "20171224",
+  "items" : 4
+}, {
+  "uri" : "http://album.podbean.com/feed/",
+  "name" : "Album 2016",
+  "date" : "20170727",
+  "items" : 20
+}, {
+  "uri" : "http://andyg.dk/p3trends/podcast/feed.xml",
+  "name" : "P3 Trends Podcast",
+  "date" : "20120927",
+  "items" : 8
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10027038",
+  "name" : "Tour de France FM",
+  "date" : "20170721",
+  "items" : 23
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10027368",
+  "name" : "Wiki-værkstedet",
+  "date" : "20150808",
+  "items" : 32
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10107693",
+  "name" : "24syv Weekend",
+  "date" : "20141108",
+  "items" : 84
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10107694",
+  "name" : "Myteradio – Radio24syv",
+  "date" : "20140907",
+  "items" : 6
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10327258",
+  "name" : "Det, vi taler om",
+  "date" : "20180112",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10518117",
+  "name" : "Et Dyreliv",
+  "date" : "20161030",
+  "items" : 88
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10537990",
+  "name" : "Den bedste tid",
+  "date" : "20150530",
+  "items" : 81
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10631610",
+  "name" : "Togtur",
+  "date" : "20141130",
+  "items" : 1
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10685650",
+  "name" : "Finnsk Terapi",
+  "date" : "20180107",
+  "items" : 145
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10735696",
+  "name" : "Kirken og Borgen",
+  "date" : "20141224",
+  "items" : 1
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10735744",
+  "name" : "Mandater i spil",
+  "date" : "20150101",
+  "items" : 1
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10737798",
+  "name" : "Niels Lindvigs Nytårskur",
+  "date" : "20150101",
+  "items" : 10
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/10839671",
+  "name" : "Den Korte Weekendavis",
+  "date" : "20180112",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11437283",
+  "name" : "Mit navn det står med prikker",
+  "date" : "20150406",
+  "items" : 20
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11590126",
+  "name" : "Sincere",
+  "date" : "20150615",
+  "items" : 11
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11597864",
+  "name" : "Radio CONTACT",
+  "date" : "20180110",
+  "items" : 56
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11614839",
+  "name" : "Det, vi ikke taler om",
+  "date" : "20150618",
+  "items" : 16
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11615852",
+  "name" : "Situationsrummet",
+  "date" : "20151204",
+  "items" : 26
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11769603",
+  "name" : "Den Brændende Mand",
+  "date" : "20150731",
+  "items" : 25
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11777576/",
+  "name" : "Hitlers Æselører",
+  "date" : "20171020",
+  "items" : 42
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11777621",
+  "name" : "Fitness M/K",
+  "date" : "20180113",
+  "items" : 129
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11777621/",
+  "name" : "Fitness M/K",
+  "date" : "20180113",
+  "items" : 129
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11813530",
+  "name" : "Konsulenterne kommer",
+  "date" : "20150809",
+  "items" : 5
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11922050",
+  "name" : "Frank Aaen Arkivet",
+  "date" : "20150829",
+  "items" : 24
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/11929746",
+  "name" : "Croque Monsieur",
+  "date" : "20180114",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/12144388",
+  "name" : "Politiradio",
+  "date" : "20180107",
+  "items" : 107
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/12391837",
+  "name" : "Jeppesens Bibelskole",
+  "date" : "20180112",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/12481610",
+  "name" : "Djævelen i Karla Strauss",
+  "date" : "20151201",
+  "items" : 24
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/12540521",
+  "name" : "De Lange Nisser",
+  "date" : "20151225",
+  "items" : 9
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/12592536",
+  "name" : "Spørge Jørgen",
+  "date" : "20170303",
+  "items" : 56
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/12664475",
+  "name" : "24syv Specials",
+  "date" : "20170113",
+  "items" : 7
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13013226",
+  "name" : "Retssagen",
+  "date" : "20161003",
+  "items" : 11
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13682096",
+  "name" : "Min Lille Hassan",
+  "date" : "20170812",
+  "items" : 35
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13788245",
+  "name" : "Det Røde Felt - sammendrag",
+  "date" : "20180116",
+  "items" : 71
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13792677",
+  "name" : "Huxi og det Gode Gamle Folketing - sammendrag",
+  "date" : "20180113",
+  "items" : 70
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13797173",
+  "name" : "Rushys Roulette - sammendrag",
+  "date" : "20180111",
+  "items" : 72
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13797369",
+  "name" : "Cordua & Steno - sammendrag",
+  "date" : "20180112",
+  "items" : 74
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13797510",
+  "name" : "Annejagt - sammendrag",
+  "date" : "20161001",
+  "items" : 13
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13965301",
+  "name" : "Je Suis Jalving",
+  "date" : "20160806",
+  "items" : 30
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13965705",
+  "name" : "Kampagnesporet",
+  "date" : "20180107",
+  "items" : 112
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13967997",
+  "name" : "Er du Sunshine?",
+  "date" : "20180112",
+  "items" : 172
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13973585",
+  "name" : "Forældreintra",
+  "date" : "20180113",
+  "items" : 90
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13973661",
+  "name" : "Snakker med mig selv",
+  "date" : "20160807",
+  "items" : 6
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13973671",
+  "name" : "24 Spørgsmål til Professoren",
+  "date" : "20180112",
+  "items" : 65
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13973704",
+  "name" : "Se Europa, og dø",
+  "date" : "20160807",
+  "items" : 5
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13975981",
+  "name" : "Københavnermodellen",
+  "date" : "20160827",
+  "items" : 40
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/13976201",
+  "name" : "Q&A",
+  "date" : "20180108",
+  "items" : 74
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/14293987",
+  "name" : "Mord i Rum Sø",
+  "date" : "20160826",
+  "items" : 8
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/14622401",
+  "name" : "Et Kokkeliv Ekstra",
+  "date" : "20161007",
+  "items" : 4
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/14632714",
+  "name" : "René Linjer",
+  "date" : "20180112",
+  "items" : 128
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/14643339",
+  "name" : "René Linjer - sammendrag",
+  "date" : "20180113",
+  "items" : 31
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/14673426",
+  "name" : "Kampagnesporet - sammendrag",
+  "date" : "20161108",
+  "items" : 4
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/15112566",
+  "name" : "Verdens Kedeligste Dag",
+  "date" : "20161229",
+  "items" : 4
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/16512232",
+  "name" : "55 minutter",
+  "date" : "20180111",
+  "items" : 188
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/16512250",
+  "name" : "Fedeabes Fyraften",
+  "date" : "20180113",
+  "items" : 134
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/16618054",
+  "name" : "Bevidsthedsfeltet",
+  "date" : "20180106",
+  "items" : 19
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/16861108",
+  "name" : "Fisketegn",
+  "date" : "20171007",
+  "items" : 23
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/16958516",
+  "name" : "Pakzads Polemik",
+  "date" : "20180107",
+  "items" : 38
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/17935648",
+  "name" : "Mit livs sexferie",
+  "date" : "20170805",
+  "items" : 5
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/17935668",
+  "name" : "Små hverdagsproblemer",
+  "date" : "20170805",
+  "items" : 5
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/17935814",
+  "name" : "Kirsebær med de store",
+  "date" : "20170805",
+  "items" : 5
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/17937754",
+  "name" : "Winthertid",
+  "date" : "20180117",
+  "items" : 60
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/17972602",
+  "name" : "Man kan aldrig vide",
+  "date" : "20171030",
+  "items" : 19
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3561248",
+  "name" : "24syv Nyheder",
+  "date" : "20180114",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3731589",
+  "name" : "Kontinentet – Radio24syv",
+  "date" : "20111229",
+  "items" : 19
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3784851",
+  "name" : "Millionærklubben",
+  "date" : "20180112",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3786960",
+  "name" : "Bom og Bjerke – Radio24syv",
+  "date" : "20120711",
+  "items" : 74
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3787362",
+  "name" : "Den Store Roman – Radio24syv",
+  "date" : "20130815",
+  "items" : 279
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843145",
+  "name" : "AK 24syv",
+  "date" : "20180113",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843148",
+  "name" : "Mortens Aften – Radio24syv",
+  "date" : "20120505",
+  "items" : 126
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843152",
+  "name" : "Elektronista",
+  "date" : "20180110",
+  "items" : 295
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843257",
+  "name" : "Halløj i Betalingsringen – Radio24syv",
+  "date" : "20130831",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843405",
+  "name" : "Flaskens Ånd",
+  "date" : "20180113",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843407",
+  "name" : "Interne Affærer – Radio24syv",
+  "date" : "20121110",
+  "items" : 53
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843419",
+  "name" : "Cordua & Steno",
+  "date" : "20180111",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843757",
+  "name" : "Globus USA – Radio24syv",
+  "date" : "20141102",
+  "items" : 152
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843763",
+  "name" : "24syv Morgen",
+  "date" : "20180112",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843764",
+  "name" : "De 6 hatte",
+  "date" : "20170626",
+  "items" : 233
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843770",
+  "name" : "Mikrofonholder",
+  "date" : "20180111",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843771",
+  "name" : "Mens Du Sov – Radio24syv",
+  "date" : "20131228",
+  "items" : 46
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3843776",
+  "name" : "Fodbold FM",
+  "date" : "20180108",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3887302",
+  "name" : "24syv Dokumentar",
+  "date" : "20180110",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3893899",
+  "name" : "Simons Syvkabale – Radio24syv",
+  "date" : "20120629",
+  "items" : 52
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/3973425",
+  "name" : "RomerRiget",
+  "date" : "20180113",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4017057",
+  "name" : "Forfra med Jeppesen",
+  "date" : "20150627",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4023677",
+  "name" : "3. Planet fra Solen – Radio24syv",
+  "date" : "20121229",
+  "items" : 61
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4024488",
+  "name" : "Center for Vild Analyse – Radio24syv",
+  "date" : "20121230",
+  "items" : 61
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4184863",
+  "name" : "Genialos",
+  "date" : "20171220",
+  "items" : 17
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4466232",
+  "name" : "Aflyttet",
+  "date" : "20180107",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4643454",
+  "name" : "Europa i Flammer",
+  "date" : "20180107",
+  "items" : 271
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4791960",
+  "name" : "Lagermand & Kvinderne – Radio24syv",
+  "date" : "20120413",
+  "items" : 12
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/4963518",
+  "name" : "Kollektionen",
+  "date" : "20160325",
+  "items" : 30
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/5011213",
+  "name" : "AK 24syv Musik – Radio24syv",
+  "date" : "20131006",
+  "items" : 62
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6496111",
+  "name" : "Kristian Leths Magiske Cirkel – Radio24syv",
+  "date" : "20120803",
+  "items" : 25
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6535133",
+  "name" : "Kom i Form - Radio24syv",
+  "date" : "20120713",
+  "items" : 5
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6555368",
+  "name" : "Huxi og det Gode Gamle Folketing",
+  "date" : "20180109",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6556037",
+  "name" : "OL Guld – Radio24syv",
+  "date" : "20120726",
+  "items" : 12
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6563547",
+  "name" : "Rushys Roulette",
+  "date" : "20180117",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6572418",
+  "name" : "Carsten Jensen i krig – Radio24syv",
+  "date" : "20120810",
+  "items" : 8
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6592326",
+  "name" : "Aydin & Fædregruppen – Radio24syv",
+  "date" : "20120812",
+  "items" : 33
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6658788",
+  "name" : "Den Nye Verdensorden – Radio24syv",
+  "date" : "20120817",
+  "items" : 10
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6922267",
+  "name" : "Kultur i ugen – Radio24syv",
+  "date" : "20131011",
+  "items" : 57
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/6952738",
+  "name" : "Det amerikanske præsidentvalg på Radio24syv",
+  "date" : "20121108",
+  "items" : 205
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/7436297",
+  "name" : "Redens Julekoncert",
+  "date" : "20151223",
+  "items" : 4
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/7489238",
+  "name" : "24syv Jul",
+  "date" : "20121226",
+  "items" : 15
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/7545647",
+  "name" : "Rytmisk Salon – Radio24syv",
+  "date" : "20130329",
+  "items" : 22
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/7560743",
+  "name" : "Kina Snak",
+  "date" : "20180112",
+  "items" : 236
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/7579027",
+  "name" : "Zornigs Zone",
+  "date" : "20161001",
+  "items" : 221
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/7649972",
+  "name" : "Hvad skal vi leve af? – Radio24syv",
+  "date" : "20130208",
+  "items" : 9
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8219466",
+  "name" : "Asfalt-Bal FM",
+  "date" : "20150604",
+  "items" : 6
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8373634",
+  "name" : "Det Røde Felt",
+  "date" : "20180108",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8389189",
+  "name" : "Sommer i SS – Radio24syv",
+  "date" : "20130728",
+  "items" : 4
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8405756",
+  "name" : "Damernes Magazine – Radio24syv",
+  "date" : "20130903",
+  "items" : 28
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8409268",
+  "name" : "Smæk for skillingen – Radio24syv",
+  "date" : "20130803",
+  "items" : 12
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8412902",
+  "name" : "Du må kalde mig Mads Holger – Radio24syv",
+  "date" : "20130804",
+  "items" : 12
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8421423",
+  "name" : "Bagfra med Gustav – Radio24syv",
+  "date" : "20130803",
+  "items" : 12
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8629629",
+  "name" : "Søndagspolitikken",
+  "date" : "20180114",
+  "items" : 211
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8633649",
+  "name" : "Mads Holger i Herning – Radio24syv",
+  "date" : "20130928",
+  "items" : 28
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8633895",
+  "name" : "Efter Otte",
+  "date" : "20180116",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8741566",
+  "name" : "Bæltestedet",
+  "date" : "20180105",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8772645",
+  "name" : "Ak 24syv Kulturnyheder – Radio24syv",
+  "date" : "20140206",
+  "items" : 60
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/8986764",
+  "name" : "24 Mord",
+  "date" : "20131224",
+  "items" : 24
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9035024",
+  "name" : "Stream Team",
+  "date" : "20170430",
+  "items" : 149
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9160065",
+  "name" : "Selskabet – Radio24syv",
+  "date" : "20140628",
+  "items" : 82
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9705745",
+  "name" : "Engle og Dæmoner – Radio24syv",
+  "date" : "20140609",
+  "items" : 6
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9760337",
+  "name" : "Pharaos Cigarer",
+  "date" : "20180113",
+  "items" : 300
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9829655",
+  "name" : "EU - Kontinentet vælger – Radio24syv",
+  "date" : "20140516",
+  "items" : 1
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9874462",
+  "name" : "Danmarks Röst – Radio24syv",
+  "date" : "20140802",
+  "items" : 30
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9889736",
+  "name" : "Bearnaise er Dyrenes Konge",
+  "date" : "20180113",
+  "items" : 135
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9969686",
+  "name" : "Globus Hotel – Radio24syv",
+  "date" : "20140727",
+  "items" : 11
+}, {
+  "uri" : "http://arkiv.radio24syv.dk/audiopodcast/channel/9970295",
+  "name" : "Antidemokratisk Festival – Radio24syv",
+  "date" : "20140802",
+  "items" : 32
+}, {
+  "uri" : "http://atlas.kristiangranov.dk/feed/podcast/",
+  "name" : "ATLAS",
+  "date" : "20170108",
+  "items" : 10
+}, {
+  "uri" : "http://audioboom.com/users/103444/boos.rss",
+  "name" : "Thomas Bilde's posts",
+  "date" : "20111026",
+  "items" : 13
+}, {
+  "uri" : "http://audioboom.com/users/138220/posts.rss",
+  "name" : "Lise Bidstrup's posts",
+  "date" : "20111021",
+  "items" : 6
+}, {
+  "uri" : "http://audioboom.com/users/142069/boos.rss",
+  "name" : "Radio MS",
+  "date" : "20170913",
+  "items" : 383
+}, {
+  "uri" : "http://audioboom.com/users/145768/posts.rss",
+  "name" : "Morten Ovesen's posts",
+  "date" : "20120313",
+  "items" : 5
+}, {
+  "uri" : "http://audioboom.com/users/281898/posts.rss",
+  "name" : "Katvil's posts",
+  "date" : "20120514",
+  "items" : 1
+}, {
+  "uri" : "http://audioboom.com/users/30499/posts.rss",
+  "name" : "Martin Angelo Atheos Sommer Sunesen's posts",
+  "date" : "20120820",
+  "items" : 16
+}, {
+  "uri" : "http://audioboom.com/users/365690/posts.rss",
+  "name" : "Kristian Molbo's posts",
+  "date" : "20130502",
+  "items" : 9
+}, {
+  "uri" : "http://audioboom.com/users/665325/boos.rss",
+  "name" : "Fabiola Christensen 's posts",
+  "date" : "20160313",
+  "items" : 62
+}, {
+  "uri" : "http://audioboom.com/users/935073/boos/favourites.rss",
+  "name" : "4aFløngSkole's favorite posts",
+  "date" : "20130129",
+  "items" : 13
+}, {
+  "uri" : "http://besttellers.dk/mellemossagt.xml",
+  "name" : "Mellem Os Sagt",
+  "date" : "20140722",
+  "items" : 12
+}, {
+  "uri" : "http://bingecast.dk/feed/podcast/",
+  "name" : "Bingecast",
+  "date" : "20171003",
+  "items" : 10
+}, {
+  "uri" : "http://blindsmagerne.libsyn.com/rss",
+  "name" : "Blindsmagerne",
+  "date" : "20180102",
+  "items" : 24
+}, {
+  "uri" : "http://bravocharlieradio.underflyvning.dk/feed/podcast/",
+  "name" : "Bravo Charlie Radio",
+  "date" : "20170406",
+  "items" : 5
+}, {
+  "uri" : "http://brittabaumann.dk/feed/podcast/",
+  "name" : "Britta Baumanns Podcast: Mindre bullsh*t! Mere power!",
+  "date" : "20171221",
+  "items" : 18
+}, {
+  "uri" : "http://cast.nbi.ku.dk/casthddk.xml",
+  "name" : "ScienceXplorer HD / Danish",
+  "date" : "20081218",
+  "items" : 7
+}, {
+  "uri" : "http://cdn.radioplay.se/data/rss/382.xml",
+  "name" : "I seng med NOVA",
+  "date" : "20171202",
+  "items" : 31
+}, {
+  "uri" : "http://cdn.radioplay.se/data/rss/398.xml",
+  "name" : "Radio der klæ’r dig",
+  "date" : "20160909",
+  "items" : 8
+}, {
+  "uri" : "http://cdn.radioplay.se/data/rss/401.xml",
+  "name" : "Hr. MÃ¼ller",
+  "date" : "20170901",
+  "items" : 5
+}, {
+  "uri" : "http://christinasantini.com/blog?format=rss",
+  "name" : "Superfoods and plant medicine - The Nutrition Doctor",
+  "date" : "20171212",
+  "items" : 56
+}, {
+  "uri" : "http://contentmarketingliga.dk/feed/podcast",
+  "name" : "Content Marketing Liga Podcast",
+  "date" : "20141127",
+  "items" : 11
+}, {
+  "uri" : "http://deloittecompliance.libsyn.com/rss",
+  "name" : "Deloitte Compliance",
+  "date" : "20171219",
+  "items" : 2
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/alberts-laere-radiokapitler-om-en-forfatter-for-livet_feed.rss",
+  "name" : "Alberts lære: Radiokapitler om en forfatter for livet",
+  "date" : "20170224",
+  "items" : 10
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/aret-har-16-maneder_feed.rss",
+  "name" : "Året har 16 måneder",
+  "date" : "20180105",
+  "items" : 12
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/bob-dylan_feed.rss",
+  "name" : "Bob Dylan",
+  "date" : "20161223",
+  "items" : 10
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/den-rde-sofa_feed.rss",
+  "name" : "Den rÃ¸de sofa",
+  "date" : "20171222",
+  "items" : 59
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/europas-idehistoriske-rdder_feed.rss",
+  "name" : "Europas idéhistoriske rødder",
+  "date" : "20171222",
+  "items" : 10
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/filosofi_feed.rss",
+  "name" : "Filosofi",
+  "date" : "20170818",
+  "items" : 19
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/forskning-videnskab_feed.rss",
+  "name" : "Forskning og Videnskab",
+  "date" : "20170901",
+  "items" : 31
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/internationale-danske-klassiske-solister_feed.rss",
+  "name" : "Internationale danske klassiske solister",
+  "date" : "20170602",
+  "items" : 22
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/islamiske-dynastier-og-kunst_feed.rss",
+  "name" : "Islamiske dynastier og kunst",
+  "date" : "20170526",
+  "items" : 22
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/jefferson-airplane_feed.rss",
+  "name" : "Jefferson Airplane",
+  "date" : "20151124",
+  "items" : 4
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/klassisk-paa-nettet_feed.rss",
+  "name" : "Klassisk pÃ¥ nettet",
+  "date" : "20171229",
+  "items" : 39
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/liv-i-landdistrikterne_feed.rss",
+  "name" : "Liv i landdistrikterne",
+  "date" : "20160617",
+  "items" : 23
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/michel-montaigne_feed.rss",
+  "name" : "Essays",
+  "date" : "20160219",
+  "items" : 5
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/nordisk-samarbejde_feed.rss",
+  "name" : "Nordisk samarbejde",
+  "date" : "20160826",
+  "items" : 6
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/ronkedorerne_feed.rss",
+  "name" : "Ronkedorerne",
+  "date" : "20171208",
+  "items" : 50
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/science_feed.rss",
+  "name" : "Videnskab og filosofi",
+  "date" : "20180112",
+  "items" : 50
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/snderjyske-danmarkshistorier_feed.rss",
+  "name" : "Sønderjylland fortæller Danmarkshistorie",
+  "date" : "20160624",
+  "items" : 10
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/sren-kierkegaard-pa-den-2.-radio_feed.rss",
+  "name" : "Forførerens dagbog af SØREN KIERKEGAARD",
+  "date" : "20171020",
+  "items" : 14
+}, {
+  "uri" : "http://den2radio.dk/assets/rss/verden-af-igar_feed.rss",
+  "name" : "Verden af i Gaar",
+  "date" : "20180112",
+  "items" : 21
+}, {
+  "uri" : "http://densjettefejl.libsyn.com/rss",
+  "name" : "Den Sjette Fejl",
+  "date" : "20171219",
+  "items" : 8
+}, {
+  "uri" : "http://detmansiger.hoert.dk/detmansiger.xml",
+  "name" : "DET MAN SIGER",
+  "date" : "20161124",
+  "items" : 21
+}, {
+  "uri" : "http://djfozzdk.podomatic.com/rss2.xml",
+  "name" : "House mix - Dj Fozz Dk 2012",
+  "date" : "20171214",
+  "items" : 3
+}, {
+  "uri" : "http://dommerne.libsyn.com/rss",
+  "name" : "Dårligdommerne",
+  "date" : "20171228",
+  "items" : 95
+}, {
+  "uri" : "http://drafthousefilms.com/itunes/klown",
+  "name" : "Lars von Trier's KLOWN TV Episode",
+  "date" : "20120726",
+  "items" : 1
+}, {
+  "uri" : "http://energitte.podomatic.com/rss2.xml",
+  "name" : "enerGitte",
+  "date" : "20171216",
+  "items" : 52
+}, {
+  "uri" : "http://farmandpodcast.dk/feed/podcast/",
+  "name" : "Farmænd",
+  "date" : "20171222",
+  "items" : 27
+}, {
+  "uri" : "http://fckobenhavn.libsyn.com/rss",
+  "name" : "F.C. København",
+  "date" : "20180116",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreroman-dorphpasternak",
+  "name" : "Den Store Roman med Christian Dorph og Simon Pasternak – Radio24syv",
+  "date" : "20120629",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreromancollingnielsen",
+  "name" : "Den Store Roman med Kaspar Colling Nielsen – Radio24syv",
+  "date" : "20120601",
+  "items" : 24
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreromanditlevjensen",
+  "name" : "Den Store Roman med Kristian Ditlev Jensen – Radio24syv",
+  "date" : "20120229",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreromanhusum",
+  "name" : "Den Store Roman med Lars Husum – Radio24syv",
+  "date" : "20120330",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreromanklarlund",
+  "name" : "Den Store Roman med Anders Rønnow Klarlund – Radio24syv",
+  "date" : "20120104",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreromankongstad",
+  "name" : "Den Store Roman med Martin Kongstad – Radio24syv",
+  "date" : "20111130",
+  "items" : 23
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreromanmoestrup",
+  "name" : "Den Store Roman med Mette Moestrup – Radio24syv",
+  "date" : "20120430",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdenstoreromanstoltz",
+  "name" : "Den Store Roman med Kristina Stoltz – Radio24syv",
+  "date" : "20120131",
+  "items" : 17
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvdok-det-psykiatriske-hospital",
+  "name" : "Det psykiatriske hospital – 24syv Dokumentar",
+  "date" : "20121027",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvlortealbum",
+  "name" : "(Lorte-)album",
+  "date" : "20150629",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvmonogram-hannahschneider",
+  "name" : "Monogram med Hannah Schneider – Radio24syv",
+  "date" : "20121109",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/24syvmonogram-highlight",
+  "name" : "Highlights fra Monogram – Radio24syv",
+  "date" : "20121214",
+  "items" : 15
+}, {
+  "uri" : "http://feeds.feedburner.com/aerligsnak",
+  "name" : "Ærlig snak",
+  "date" : "20180105",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/bagomkbh",
+  "name" : "Bag om København",
+  "date" : "20180104",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.feedburner.com/builderdk",
+  "name" : "Builder Podcast",
+  "date" : "20100510",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/cphx_lydvandringer",
+  "name" : "Copenhagen X Lydvandringer i Ørestad",
+  "date" : "20080206",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.feedburner.com/dagenslydavis",
+  "name" : "Dagens Lydavis",
+  "date" : "20180117",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.feedburner.com/denstoreromancharlotteweitze",
+  "name" : "Den Store Roman med Charlotte Weitze – Radio24syv",
+  "date" : "20130723",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.feedburner.com/denstoreromanmettekorsgaard",
+  "name" : "Den Store Roman med Mette Korsgaard – Radio24syv",
+  "date" : "20120928",
+  "items" : 20
+}, {
+  "uri" : "http://feeds.feedburner.com/denstoreromanpeteradolphsen",
+  "name" : "Den Store Roman med Peter Adolphsen – Radio24syv",
+  "date" : "20130131",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.feedburner.com/dobbeltdsdefinitivedvdpodcast",
+  "name" : "Dobbelt Ds Definitive DVD Podcast",
+  "date" : "20171221",
+  "items" : 354
+}, {
+  "uri" : "http://feeds.feedburner.com/etstykmedcontent",
+  "name" : "Et styk' med content",
+  "date" : "20180104",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.feedburner.com/givlyd?format=xml",
+  "name" : "Giv lyd - åbne studier på Hovedbiblioteket",
+  "date" : "20161108",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.feedburner.com/hbarr",
+  "name" : "Lyden af Københavns Hovedbibliotek",
+  "date" : "20171214",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis10",
+  "name" : "Lydavis for Valby og Vigerslev",
+  "date" : "20180111",
+  "items" : 34
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis11",
+  "name" : "Lydavis for Vanløse",
+  "date" : "20180115",
+  "items" : 34
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis12",
+  "name" : "Lydavis for Vesterbro og Sydhavnen",
+  "date" : "20180117",
+  "items" : 31
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis13",
+  "name" : "Lydavis for Østerbro",
+  "date" : "20180111",
+  "items" : 34
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis14",
+  "name" : "Ugen i København",
+  "date" : "20180115",
+  "items" : 18
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis6",
+  "name" : "Lydavis for Amager",
+  "date" : "20180116",
+  "items" : 32
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis7",
+  "name" : "Lydavisen for Brønshøj, Husum og Tingbjerg",
+  "date" : "20180117",
+  "items" : 32
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis8",
+  "name" : "Lydavis for Indre By og Christianshavn",
+  "date" : "20180117",
+  "items" : 32
+}, {
+  "uri" : "http://feeds.feedburner.com/lydavis9",
+  "name" : "Lydavis for Nørrebro og Nordvest",
+  "date" : "20180117",
+  "items" : 31
+}, {
+  "uri" : "http://feeds.feedburner.com/mariagerefterskole",
+  "name" : "Podcasts fra Mariager Efterskole",
+  "date" : "20171019",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/medieraadet_dfi",
+  "name" : "Medierådet for børn og unge",
+  "date" : "20160129",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-darkness-falls",
+  "name" : "Monogram med Darkness Falls – Radio24syv",
+  "date" : "20121123",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-green-lives",
+  "name" : "Monogram med Green Lives – Radio24syv",
+  "date" : "20121026",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-howlbabyhowl",
+  "name" : "Monogram med Howl Baby Howl – Radio24syv",
+  "date" : "20120928",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-juncker",
+  "name" : "Monogram med Juncker – Radio24syv",
+  "date" : "20121102",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-kira-skov",
+  "name" : "Monogram med Kira Skov – Radio24syv",
+  "date" : "20121130",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-mariefisker?format=xml",
+  "name" : "Monogram med Marie Fisker – Radio24syv",
+  "date" : "20120831",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-mathildesavery",
+  "name" : "Monogram med Mathilde Savery – Radio24syv",
+  "date" : "20120907",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-nikolajgrandjean",
+  "name" : "Monogram med Nikolaj Grandjean – Radio24syv",
+  "date" : "20120907",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-nikolajnorlund",
+  "name" : "Monogram med Nikolaj Nørlund – Radio24syv",
+  "date" : "20120921",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogram-orgi-e?format=xml",
+  "name" : "Monogram med Orgi-E – Radio24syv",
+  "date" : "20130405",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.feedburner.com/monogramcuc",
+  "name" : "Monogram med Complicated Universal Cum – Radio24syv",
+  "date" : "20121012",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/monogramjonasbreum",
+  "name" : "Monogram med Jonas Breum – Radio24syv",
+  "date" : "20121116",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.feedburner.com/ngaeeroa",
+  "name" : "New games and everything else | Spreaker",
+  "date" : "20111108",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.feedburner.com/podcastclubfoam",
+  "name" : "Club Foam",
+  "date" : "20141127",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.feedburner.com/pottercut",
+  "name" : "Online markedsføring på Internettet",
+  "date" : "20180113",
+  "items" : 100
+}, {
+  "uri" : "http://feeds.feedburner.com/raabaand-psyk",
+  "name" : "Råbånd til 'Det psykiatriske hospital' – Radio24syv",
+  "date" : "20121103",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.feedburner.com/radiofrihedbagfacaden",
+  "name" : "Radio Frihed: Bag Facaden",
+  "date" : "20070712",
+  "items" : 53
+}, {
+  "uri" : "http://feeds.feedburner.com/radioomlivetmedkraeft?format=xml",
+  "name" : "Radio om livet med kræft  - Radio om livet med kræft",
+  "date" : "20130717",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.feedburner.com/rudersdal",
+  "name" : "Rudersdal Bibliotekerne Lydavis",
+  "date" : "20180111",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.feedburner.com/soundcloud/uzxy",
+  "name" : "Bænkevarmerne",
+  "date" : "20160517",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.feedburner.com/tjeckmagazinevideopodcast",
+  "name" : "TJECK Magazine Video Podcast",
+  "date" : "20100416",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.feedburner.com/triforkpodcast",
+  "name" : "Trifork Software Pilot Podcast",
+  "date" : "20110615",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.feedburner.com/wordpress/almowattaa4",
+  "name" : "شرح موطأ الإمام مالك 4",
+  "date" : "20180118",
+  "items" : 40
+}, {
+  "uri" : "http://feeds.feedburner.com/youngadultsyas",
+  "name" : "Young AdultS - YAS",
+  "date" : "20180102",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.h-o-l-g-e-r.dk/h-o-l-g-e-r_netcast-holger",
+  "name" : "“Holger” og “Viljen til magten”, to spændingsromaner af Dan Larsen",
+  "date" : "20090628",
+  "items" : 383
+}, {
+  "uri" : "http://feeds.podtrac.com/iy47jcfxdsyj",
+  "name" : "BYLYD",
+  "date" : "20160323",
+  "items" : 30
+}, {
+  "uri" : "http://feeds.podtrac.com/jdi7pprgtm0l",
+  "name" : "Run For Cover Cast",
+  "date" : "20171121",
+  "items" : 81
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:102524623/sounds.rss",
+  "name" : "Max Peber Podcasts",
+  "date" : "20160626",
+  "items" : 54
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:111089251/sounds.rss",
+  "name" : "My Daily Grind Podcast",
+  "date" : "20161228",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:119931182/sounds.rss",
+  "name" : "Serve & Smash Podcast",
+  "date" : "20170903",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:12025732/sounds.rss",
+  "name" : "Vi var ikke hurtige nok- En ydmyg Formel 1 podcast",
+  "date" : "20171123",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:12091150/sounds.rss",
+  "name" : "Dorthe Chakravarty",
+  "date" : "20170529",
+  "items" : 7
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:122703038/sounds.rss",
+  "name" : "Tipsbladet.dk's lyd",
+  "date" : "20160712",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:127460141/sounds.rss",
+  "name" : "Viva La Liga",
+  "date" : "20161024",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:132826495/sounds.rss",
+  "name" : "København Vineyard",
+  "date" : "20171219",
+  "items" : 137
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:135167893/sounds.rss",
+  "name" : "F.C Københavns Fanradio",
+  "date" : "20171211",
+  "items" : 169
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:139892818/sounds.rss",
+  "name" : "Konsol Tosserne",
+  "date" : "20150830",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:148457707/sounds.rss",
+  "name" : "Motocast",
+  "date" : "20170930",
+  "items" : 19
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:151024478/sounds.rss",
+  "name" : "Artist talks and panel discussions",
+  "date" : "20170501",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:152628219/sounds.rss",
+  "name" : "Kontoret",
+  "date" : "20160919",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:153631907/sounds.rss",
+  "name" : "Fra (an)sat til selvstændig",
+  "date" : "20161222",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:154053854/sounds.rss",
+  "name" : "Grundlyd",
+  "date" : "20171204",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:154832827/sounds.rss",
+  "name" : "Borgen unplugged",
+  "date" : "20171222",
+  "items" : 131
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:157566624/sounds.rss",
+  "name" : "Velfærdsland",
+  "date" : "20160505",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:159970194/sounds.rss",
+  "name" : "Bælgstøbt",
+  "date" : "20160328",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:171636828/sounds.rss",
+  "name" : "Penge med Per",
+  "date" : "20171218",
+  "items" : 80
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:176032330/sounds.rss",
+  "name" : "Zetland Lyd_",
+  "date" : "20170517",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:177839935/sounds.rss",
+  "name" : "Brain Food Podcast",
+  "date" : "20160929",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180369357/sounds.rss",
+  "name" : "Nordea Markets Insights DK",
+  "date" : "20171229",
+  "items" : 128
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180552642/sounds.rss",
+  "name" : "Ideas On Air",
+  "date" : "20170115",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:180655682/sounds.rss",
+  "name" : "FAQ dig",
+  "date" : "20161202",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:181675253/sounds.rss",
+  "name" : "Tirsdage I Stoke",
+  "date" : "20171229",
+  "items" : 105
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:184338938/sounds.rss",
+  "name" : "I Kassen med David Bjerre",
+  "date" : "20171226",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:18832813/sounds.rss",
+  "name" : "Radio Information",
+  "date" : "20180116",
+  "items" : 43
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:18832813/sounds.rss?tapir",
+  "name" : "Radio Information",
+  "date" : "20171222",
+  "items" : 40
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:190755527/sounds.rss",
+  "name" : "Hammerlock Wrestling",
+  "date" : "20160427",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:195283539/sounds.rss",
+  "name" : "Martiny Podcast",
+  "date" : "20170701",
+  "items" : 45
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:19624891/sounds.rss",
+  "name" : "Supersnak",
+  "date" : "20171227",
+  "items" : 85
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:203606672/sounds.rss",
+  "name" : "Bilsnak",
+  "date" : "20171201",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:203838815/sounds.rss",
+  "name" : "TV 2 NBA",
+  "date" : "20171221",
+  "items" : 100
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:205053527/sounds.rss",
+  "name" : "FU Podcast",
+  "date" : "20160614",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:208294852/sounds.rss",
+  "name" : "Medlemsradio",
+  "date" : "20161229",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:212306243/sounds.rss",
+  "name" : "Temmelig Fint",
+  "date" : "20160428",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:214576190/sounds.rss",
+  "name" : "Det Ovale Rum",
+  "date" : "20171212",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:215748560/sounds.rss",
+  "name" : "Bet Me Up Before You Go Go",
+  "date" : "20171122",
+  "items" : 58
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:220796084/sounds.rss",
+  "name" : "Aarhus Studenterradio",
+  "date" : "20170420",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:221254466/sounds.rss",
+  "name" : "Noget med drager",
+  "date" : "20171109",
+  "items" : 29
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:224146568/sounds.rss",
+  "name" : "Anebefalet",
+  "date" : "20170228",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:225077567/sounds.rss",
+  "name" : "- Min Inspiration -",
+  "date" : "20160511",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:227360785/sounds.rss",
+  "name" : "Begreber og Ting At Tænke Over",
+  "date" : "20160618",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:227631818/sounds.rss",
+  "name" : "TV 2 Cykling",
+  "date" : "20171222",
+  "items" : 56
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:228230339/sounds.rss",
+  "name" : "Mediano Special",
+  "date" : "20171228",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:230788796/sounds.rss",
+  "name" : "Ørerne i maskinen",
+  "date" : "20171224",
+  "items" : 18
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:231395881/sounds.rss",
+  "name" : "En halvleg med redaktionen",
+  "date" : "20180111",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:233978955/sounds.rss",
+  "name" : "Ryk Verden Podcast: Jagten på en ny medievirkelighed",
+  "date" : "20171125",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:246139104/sounds.rss",
+  "name" : "Sydhavnens Soundlab",
+  "date" : "20161214",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:246332974/sounds.rss",
+  "name" : "Salon:Pissoir",
+  "date" : "20170311",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:247776198/sounds.rss",
+  "name" : "Fodbold med Horup",
+  "date" : "20171212",
+  "items" : 60
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:248130676/sounds.rss",
+  "name" : "Spørg Charlie podcast",
+  "date" : "20171107",
+  "items" : 34
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:249400773/sounds.rss",
+  "name" : "Fodboldministeriet",
+  "date" : "20171215",
+  "items" : 54
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:254466314/sounds.rss",
+  "name" : "MindCast",
+  "date" : "20171228",
+  "items" : 69
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:256675079/sounds.rss",
+  "name" : "Mediano bulibold",
+  "date" : "20171218",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:259558523/sounds.rss",
+  "name" : "Succes Kriteriet",
+  "date" : "20171106",
+  "items" : 30
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:260790729/sounds.rss",
+  "name" : "NFL Showet",
+  "date" : "20171228",
+  "items" : 78
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:281312624/sounds.rss",
+  "name" : "Fit Living Podcast",
+  "date" : "20180115",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:284399506/sounds.rss",
+  "name" : "Souplesse Cycling",
+  "date" : "20171215",
+  "items" : 41
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:284836510/sounds.rss",
+  "name" : "Voksenvenner",
+  "date" : "20171205",
+  "items" : 42
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:284918896/sounds.rss",
+  "name" : "Detox Din Hjerne",
+  "date" : "20171212",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:296729160/sounds.rss",
+  "name" : "Golf.dk Podcast - Spil Med",
+  "date" : "20180104",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:296913170/sounds.rss",
+  "name" : "Kunsten At Se På Kunst",
+  "date" : "20170322",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:298726840/sounds.rss",
+  "name" : "TV 2 Håndbold",
+  "date" : "20171217",
+  "items" : 29
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:302115366/sounds.rss",
+  "name" : "Vi Elsker Serier - Podcast",
+  "date" : "20170611",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:302826660/sounds.rss",
+  "name" : "Kulturtårnet på Knippelsbro",
+  "date" : "20171210",
+  "items" : 18
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:304546558/sounds.rss",
+  "name" : "Matador med mere / med Martin og Mathilde",
+  "date" : "20171221",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:308780930/sounds.rss",
+  "name" : "Sustain Daily Podcast",
+  "date" : "20170826",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:310404568/sounds.rss",
+  "name" : "Båndets Historier",
+  "date" : "20171214",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:310953142/sounds.rss",
+  "name" : "Business Insights",
+  "date" : "20171220",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:314973706/sounds.rss",
+  "name" : "Med dansk tale",
+  "date" : "20171230",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:319392620/sounds.rss",
+  "name" : "Den Ugentlige Podcast",
+  "date" : "20171226",
+  "items" : 26
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:322182221/sounds.rss",
+  "name" : "Den Tredje Sektor",
+  "date" : "20170926",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:323719654/sounds.rss",
+  "name" : "Premier League Showet",
+  "date" : "20171222",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:32692341/sounds.rss",
+  "name" : "Brunch med Carla Mickelborg",
+  "date" : "20171226",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:328496790/sounds.rss",
+  "name" : "Listen - Danmarks progressive podcast",
+  "date" : "20171222",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:328876811/sounds.rss",
+  "name" : "Buur & Wille på Samfundstjeneste",
+  "date" : "20171112",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:330989471/sounds.rss",
+  "name" : "Det Ovale Kontor - NFL preview",
+  "date" : "20180111",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:331011877/sounds.rss",
+  "name" : "Eftertanker",
+  "date" : "20171129",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:331012575/sounds.rss",
+  "name" : "Gyldendal Podcast",
+  "date" : "20171214",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:331247959/sounds.rss",
+  "name" : "SMART the podcast",
+  "date" : "20171223",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:333809772/sounds.rss",
+  "name" : "Jeg er et problem",
+  "date" : "20171219",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:338450364/sounds.rss",
+  "name" : "Altinget: Parlamentet",
+  "date" : "20171221",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:340317285/sounds.rss",
+  "name" : "Rejsen Til Amerika: Anders Østergaards Rejsedagbøger",
+  "date" : "20171204",
+  "items" : 1
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:3437446/sounds.rss",
+  "name" : "Kolding Valgmenighed",
+  "date" : "20171224",
+  "items" : 60
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:352702826/sounds.rss",
+  "name" : "Chip In",
+  "date" : "20171206",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:363325832/sounds.rss",
+  "name" : "Der er så meget, mænd ikke forstår",
+  "date" : "20171227",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:40576257/sounds.rss",
+  "name" : "Vesterbro bag facaden",
+  "date" : "20161117",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:43540936/sounds.rss",
+  "name" : "Avis læser man da højt",
+  "date" : "20170621",
+  "items" : 22
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:4378703/sounds.rss",
+  "name" : "Videnskab.dk Podcast",
+  "date" : "20171222",
+  "items" : 41
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:45400269/sounds.rss",
+  "name" : "Rocket Cast",
+  "date" : "20170604",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:47138723/sounds.rss",
+  "name" : "Hidden Gems",
+  "date" : "20170512",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:5029384/sounds.rss",
+  "name" : "Filosoffens Podcast",
+  "date" : "20171223",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:5228463/sounds.rss",
+  "name" : "Noget om Emma",
+  "date" : "20170306",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:5392051/sounds.rss",
+  "name" : "Gamle Mænd I Nye Medier",
+  "date" : "20170525",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:55190420/sounds.rss",
+  "name" : "Det Ovale Hjørne",
+  "date" : "20161124",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:6587704/sounds.rss",
+  "name" : "Fordi Vi Elsker Wrestling",
+  "date" : "20171222",
+  "items" : 31
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:99960830/sounds.rss",
+  "name" : "Bold og Bøger",
+  "date" : "20170622",
+  "items" : 7
+}, {
+  "uri" : "http://feeds2.feedburner.com/concept-i",
+  "name" : "Thomas Rosenstand om SEO, SEM, Google",
+  "date" : "20180101",
+  "items" : 10
+}, {
+  "uri" : "http://feeds2.feedburner.com/koldingkirkecenter",
+  "name" : "Kolding Kirke Center",
+  "date" : "20100103",
+  "items" : 14
+}, {
+  "uri" : "http://filmman.dk/feed/podcast",
+  "name" : "Se Film med Andreas og Nikolaj",
+  "date" : "20171018",
+  "items" : 3
+}, {
+  "uri" : "http://filmnoerden.libsyn.com/rss",
+  "name" : "Filmnørdens Hjørne",
+  "date" : "20171221",
+  "items" : 179
+}, {
+  "uri" : "http://filmsnak.dk/?feed=podcast",
+  "name" : "Film Snak",
+  "date" : "20171228",
+  "items" : 210
+}, {
+  "uri" : "http://forsvaretivirkeligheden.libsyn.com/rss",
+  "name" : "Forsvaret i virkeligheden",
+  "date" : "20180116",
+  "items" : 4
+}, {
+  "uri" : "http://fredericiaim.podomatic.com/rss2.xml",
+  "name" : "Fredericia Indre Missions Podcast",
+  "date" : "20171214",
+  "items" : 33
+}, {
+  "uri" : "http://fupifarvandet.dk/episodes.rss",
+  "name" : "Fup I Farvandet",
+  "date" : "20171215",
+  "items" : 256
+}, {
+  "uri" : "http://generationstartup.dk/feed/podcast",
+  "name" : "Generation Startup",
+  "date" : "20160908",
+  "items" : 7
+}, {
+  "uri" : "http://greatdane.dk/region_h_leder/?feed=podcast",
+  "name" : "Region Hovedstaden Leder",
+  "date" : "20160105",
+  "items" : 1
+}, {
+  "uri" : "http://handuo.libsyn.com/rss",
+  "name" : "Han Duo",
+  "date" : "20171215",
+  "items" : 116
+}, {
+  "uri" : "http://hannefoighel.podomatic.com/rss2.xml",
+  "name" : "hanne foighel's Podcast",
+  "date" : "20171229",
+  "items" : 99
+}, {
+  "uri" : "http://heartbeats.dk/feed/podcast/blandede-baand",
+  "name" : "Blandede Bånd",
+  "date" : "20180109",
+  "items" : 6
+}, {
+  "uri" : "http://heartbeats.dk/feed/podcast/forbrydelse-og-straf",
+  "name" : "Forbrydelse og Straf",
+  "date" : "20180101",
+  "items" : 4
+}, {
+  "uri" : "http://heartbeats.dk/feed/podcast/helt-aerligt-mor",
+  "name" : "Helt Ærligt Mor",
+  "date" : "20180109",
+  "items" : 4
+}, {
+  "uri" : "http://heartbeats.dk/feed/podcast/klub-27",
+  "name" : "Klub 27",
+  "date" : "20180101",
+  "items" : 7
+}, {
+  "uri" : "http://heartbeats.dk/feed/podcast/midweek-waves",
+  "name" : "Midweek Waves",
+  "date" : "20171225",
+  "items" : 9
+}, {
+  "uri" : "http://heartbeats.dk/feed/podcast/mod-til-at-lede",
+  "name" : "Mod til at lede",
+  "date" : "20180109",
+  "items" : 5
+}, {
+  "uri" : "http://heartbeats.dk/feed/podcast/saxes-glaspalads",
+  "name" : "Saxes Glaspalads",
+  "date" : "20180101",
+  "items" : 23
+}, {
+  "uri" : "http://horizontal.drh.dk/horizontal.xml",
+  "name" : "Horizontal Sessions - DRH Records",
+  "date" : "20131220",
+  "items" : 37
+}, {
+  "uri" : "http://hva-saa.podomatic.com/rss2.xml",
+  "name" : "Hva så?! med Christian Fuhlendorff",
+  "date" : "20171228",
+  "items" : 20
+}, {
+  "uri" : "http://icymi.dk/feed/podcast/",
+  "name" : "ICYMI m/ Lasse Reimer & Stefan Christensen",
+  "date" : "20170816",
+  "items" : 14
+}, {
+  "uri" : "http://jagtenpaadenperfektesmagsoplevelse.dk/feed/podcast/",
+  "name" : "Jagten på den Perfekte Smagsoplevelse",
+  "date" : "20171102",
+  "items" : 15
+}, {
+  "uri" : "http://jegerordblind.libsyn.com/rss",
+  "name" : "Jeg Er Ordblind",
+  "date" : "20171230",
+  "items" : 13
+}, {
+  "uri" : "http://jobeksperten.libsyn.com/rss",
+  "name" : "Job Eksperten",
+  "date" : "20180115",
+  "items" : 42
+}, {
+  "uri" : "http://katapult.podbean.com/feed/",
+  "name" : "Katapult StorySlam",
+  "date" : "20170905",
+  "items" : 16
+}, {
+  "uri" : "http://kikali.web.student.hum.au.dk/index.xml",
+  "name" : "Kikali video",
+  "date" : "20061024",
+  "items" : 2
+}, {
+  "uri" : "http://kongeligaen.podomatic.com/rss2.xml",
+  "name" : "Kongeligaen's Podcast",
+  "date" : "20171214",
+  "items" : 7
+}, {
+  "uri" : "http://krabat.menneske.dk/krabatpodcast.xml",
+  "name" : "Digterstemme: Kenneth Krabat",
+  "date" : "19630130",
+  "items" : 5
+}, {
+  "uri" : "http://kristianbac.podomatic.com/rss2.xml",
+  "name" : "Kristianbac's Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://ladiestalk.libsyn.com/rss",
+  "name" : "Ladies:Talk Podcast",
+  "date" : "20171230",
+  "items" : 18
+}, {
+  "uri" : "http://leonbirdi.libsyn.com/rss",
+  "name" : "Sælg for Helvede",
+  "date" : "20171219",
+  "items" : 43
+}, {
+  "uri" : "http://lmvidebaek.dk/podcast/itunes.xml",
+  "name" : "Luthersk Mission Videb�k",
+  "items" : 11
+}, {
+  "uri" : "http://lydsingle.dk/feed/podcast",
+  "name" : "Selvstændig, freelancer eller på vej til det",
+  "date" : "20160603",
+  "items" : 1
+}, {
+  "uri" : "http://lytbar.dk/wordpress/?feed=rss2&cat=11",
+  "name" : "Afdøde Danskere",
+  "date" : "20171226",
+  "items" : 5
+}, {
+  "uri" : "http://lytbar.dk/wordpress/?feed=rss2&cat=7",
+  "name" : "Verdens Bedste Filmklub",
+  "date" : "20171226",
+  "items" : 23
+}, {
+  "uri" : "http://lytbar.dk/wordpress/?feed=rss2&cat=9",
+  "name" : "Brian Mørk Show",
+  "date" : "20171226",
+  "items" : 100
+}, {
+  "uri" : "http://marketingbrief.libsyn.com/rss",
+  "name" : "Marketing Brief - Et podcast om Online Marketing",
+  "date" : "20171220",
+  "items" : 164
+}, {
+  "uri" : "http://millespeak.com/feed/podcast/",
+  "name" : "Den digitale nomade",
+  "date" : "20171222",
+  "items" : 27
+}, {
+  "uri" : "http://mokai.dk/podcast",
+  "name" : "MOKAÃ Lounge",
+  "items" : 312
+}, {
+  "uri" : "http://mortenresen.libsyn.com/rss",
+  "name" : "Morten Resen: Startup",
+  "date" : "20171222",
+  "items" : 37
+}, {
+  "uri" : "http://neofilm.dk/feed/podcast",
+  "name" : "Neofilm",
+  "date" : "20170510",
+  "items" : 29
+}, {
+  "uri" : "http://nlpkursus.podomatic.com/rss2.xml",
+  "name" : "NLP Guiden",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://nochmal.dk/feed/podcast/",
+  "name" : "Help Marketing",
+  "date" : "20171227",
+  "items" : 172
+}, {
+  "uri" : "http://nordeaprivatebanking.libsyn.com/rss",
+  "name" : "Nordea Pulse DK",
+  "date" : "20171225",
+  "items" : 97
+}, {
+  "uri" : "http://podcast.apk-fa.dk/feed.xml",
+  "name" : "Et sted du kan kalde hjem",
+  "date" : "20171228",
+  "items" : 74
+}, {
+  "uri" : "http://podcast.dr.dk/kultur/rssfeed/drkrimimesse2013.xml",
+  "name" : "Krimimessen i Horsens 2013 - DR",
+  "date" : "20130315",
+  "items" : 23
+}, {
+  "uri" : "http://podcast.dr.dk/oline/rssfeed/gamle_dage.xml",
+  "name" : "Gamle dage",
+  "date" : "20090401",
+  "items" : 5
+}, {
+  "uri" : "http://podcast.dr.dk/oline/rssfeed/julekalender.xml",
+  "name" : "Oline julekalender",
+  "date" : "20081117",
+  "items" : 24
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/Whisky_aac.xml",
+  "name" : "Fra Skotland til Skjern - AAC",
+  "date" : "20120527",
+  "items" : 3
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/enhanced_harddisken.xml",
+  "name" : "Harddisken (AAC)",
+  "date" : "20160226",
+  "items" : 310
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/gram.xml",
+  "name" : "Verden ifølge Gram",
+  "date" : "20180118",
+  "items" : 94
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/konfliktloesning.xml",
+  "name" : "Baggrund: Konfliktløsning",
+  "date" : "20071005",
+  "items" : 5
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/p1_business.xml",
+  "name" : "P1 Business",
+  "date" : "20171228",
+  "items" : 26
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/p1_i_faengsel.xml",
+  "name" : "P1 i fængsel",
+  "date" : "20091228",
+  "items" : 6
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/radioavisboeffer.xml",
+  "name" : "Radioavisens bøffer",
+  "date" : "20101225",
+  "items" : 31
+}, {
+  "uri" : "http://podcast.dr.dk/p1/rssfeed/radiodrama.xml",
+  "name" : "Radiodrama",
+  "date" : "20180118",
+  "items" : 40
+}, {
+  "uri" : "http://podcast.dr.dk/p3/rssfeed/madsogmonopolet.xml",
+  "name" : "Mads & Monopolet - podcast",
+  "date" : "20171228",
+  "items" : 435
+}, {
+  "uri" : "http://podcast.dr.dk/p4/rssfeed/sproghjoernet.xml",
+  "name" : "Sproghjørnet",
+  "date" : "20171228",
+  "items" : 310
+}, {
+  "uri" : "http://podcast.dr.dk/ramasjang/rssfeed/fie_og_fanny.xml",
+  "name" : "Fie og Fanny",
+  "date" : "20140827",
+  "items" : 3
+}, {
+  "uri" : "http://podcast.dr.dk/ramasjang/rssfeed/hovedet_foden_haand.xml",
+  "name" : "Hovedet, Foden og Hånd i hånd",
+  "date" : "20140828",
+  "items" : 3
+}, {
+  "uri" : "http://podcast.dr.dk/ramasjang/rssfeed/siljas_historier.xml",
+  "name" : "Siljas historier",
+  "date" : "20140828",
+  "items" : 2
+}, {
+  "uri" : "http://podcast.knr.dk/feed/gol/",
+  "name" : "Guds ord er levende",
+  "date" : "20171224",
+  "items" : 141
+}, {
+  "uri" : "http://podcast.knr.dk/feed/notabene/",
+  "name" : "Nota Bene",
+  "date" : "20171229",
+  "items" : 1012
+}, {
+  "uri" : "http://podcastfeeds.radio24syv.dk/corduastenodanmarkshistorie",
+  "name" : "Cordua & Stenos politiske Danmarkshistorie",
+  "date" : "20170810",
+  "items" : 35
+}, {
+  "uri" : "http://politikenmusikkenshistorier.podbean.com/feed/",
+  "name" : "Musikkens historier",
+  "date" : "20160406",
+  "items" : 4
+}, {
+  "uri" : "http://politikenplusen.podbean.com/feed/",
+  "name" : "Plus En",
+  "date" : "20171009",
+  "items" : 15
+}, {
+  "uri" : "http://politikenspoptillaeg.podbean.com/feed/",
+  "name" : "Politikens Poptillæg",
+  "date" : "20171222",
+  "items" : 100
+}, {
+  "uri" : "http://politikenxthirdear.podbean.com/feed/",
+  "name" : "Third Ear x Politiken",
+  "date" : "20171113",
+  "items" : 37
+}, {
+  "uri" : "http://politimuseet.podomatic.com/rss2.xml",
+  "name" : "Politimuseet til historiske dage",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://pottercut.dk/feed/podcast/",
+  "name" : "Online markedsføring på Internettet",
+  "date" : "20171223",
+  "items" : 100
+}, {
+  "uri" : "http://prideradiodenmark.podomatic.com/rss2.xml",
+  "name" : "\"Weekly\" fra Pride Radio DK",
+  "date" : "20171213",
+  "items" : 5
+}, {
+  "uri" : "http://proces.podomatic.com/rss2.xml",
+  "name" : "P R O C E S",
+  "date" : "20171214",
+  "items" : 3
+}, {
+  "uri" : "http://programmetomingenting.libsyn.com/rss",
+  "name" : "Programmet om Ingenting",
+  "date" : "20171223",
+  "items" : 34
+}, {
+  "uri" : "http://purl.ku.dk/podcast/anders_toftgaard.xml",
+  "name" : "Anders Toftgaard podcast",
+  "date" : "20101214",
+  "items" : 6
+}, {
+  "uri" : "http://purl.ku.dk/podcast/ikk-cast.xml",
+  "name" : "IKK Cast - Podcast fra Institut for Kunst- og Kulturvidenskab",
+  "date" : "20101214",
+  "items" : 22
+}, {
+  "uri" : "http://pwcdanmark.libsyn.com/rss",
+  "name" : "Nyt om skat",
+  "date" : "20180116",
+  "items" : 3
+}, {
+  "uri" : "http://radioguru.dk/feed/blivbrandmandnu.xml",
+  "name" : "Bliv brandmand nu",
+  "date" : "20100915",
+  "items" : 10
+}, {
+  "uri" : "http://radionet.dk/podcast/anr_1418.xml",
+  "name" : "ANR med Nadim",
+  "date" : "20171222",
+  "items" : 60
+}, {
+  "uri" : "http://radionet.dk/podcast/balkonen.xml",
+  "name" : "Balkonen med Skovmand og Bue",
+  "date" : "20180112",
+  "items" : 43
+}, {
+  "uri" : "http://rasjessen.podomatic.com/rss2.xml",
+  "name" : "Rasmus Lindeblad Jessen's Podcast",
+  "date" : "20171214",
+  "items" : 2
+}, {
+  "uri" : "http://reggaemoods.podomatic.com/rss2.xml",
+  "name" : "Reggae Moods Podcast",
+  "date" : "20171226",
+  "items" : 10
+}, {
+  "uri" : "http://salgetsvirkelighed.podomatic.com/rss2.xml",
+  "name" : "Tony Evald Clausens Podcast",
+  "date" : "20171228",
+  "items" : 16
+}, {
+  "uri" : "http://schoetministeriet.podbean.com/feed/",
+  "name" : "Schøtministeriet",
+  "date" : "20171222",
+  "items" : 251
+}, {
+  "uri" : "http://sivpdk.libsyn.com/rss",
+  "name" : "Succes I Veterinær Praksis Podcast - Sammen om at blive bedre",
+  "date" : "20171229",
+  "items" : 54
+}, {
+  "uri" : "http://skaermbattle.podomatic.com/rss2.xml",
+  "name" : "Skærm Battle Royale",
+  "date" : "20171214",
+  "items" : 11
+}, {
+  "uri" : "http://slutmedforbudt.libsyn.com/rss",
+  "name" : "Slut med forbudt",
+  "date" : "20171228",
+  "items" : 6
+}, {
+  "uri" : "http://soelvstein.dk/feed/podcast/",
+  "name" : "Psykologen i Øret",
+  "date" : "20171219",
+  "items" : 10
+}, {
+  "uri" : "http://solopreneurcast.libsyn.com/rss",
+  "name" : "SolopreneurCast - for og med soloselvstændige",
+  "date" : "20180102",
+  "items" : 100
+}, {
+  "uri" : "http://solosanne.dk/feed/podcast/",
+  "name" : "Sannes Salon",
+  "date" : "20170601",
+  "items" : 9
+}, {
+  "uri" : "http://sortealf.dk/?feed=podcast",
+  "name" : "Sorte Alf",
+  "date" : "20170314",
+  "items" : 10
+}, {
+  "uri" : "http://sorthumor.podomatic.com/rss2.xml",
+  "name" : "Cand.komik #1 - Sort Humor",
+  "date" : "20171214",
+  "items" : 2
+}, {
+  "uri" : "http://soultalk.libsyn.com/rss",
+  "name" : "Soultalk - Kisser Paludan",
+  "date" : "20171219",
+  "items" : 23
+}, {
+  "uri" : "http://standard.soundvenue.com/rss",
+  "name" : "Standard – Soundvenues hiphop-podcast",
+  "date" : "20171226",
+  "items" : 15
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/207.xml",
+  "name" : "Vikartimen",
+  "date" : "20171108",
+  "items" : 62
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/252.xml",
+  "name" : "Showet pÃ¥ The Voice",
+  "date" : "20170901",
+  "items" : 100
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/265.xml",
+  "name" : "Dan & Jeppe i Monopolet",
+  "date" : "20150320",
+  "items" : 22
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/271.xml",
+  "name" : "GO'NOVA Dagens Udvalgte",
+  "date" : "20180117",
+  "items" : 100
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/288.xml",
+  "name" : "60 Sekunder Med Stjernerne",
+  "date" : "20171004",
+  "items" : 79
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/290.xml",
+  "name" : "Chriz & Heino",
+  "date" : "20171108",
+  "items" : 100
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/294.xml",
+  "name" : "One Direction podcast",
+  "date" : "20170901",
+  "items" : 19
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/397.xml",
+  "name" : "Min dag som",
+  "date" : "20160919",
+  "items" : 14
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/399.xml",
+  "name" : "Justin Bieber Podcast",
+  "date" : "20170901",
+  "items" : 10
+}, {
+  "uri" : "http://static.radioplay.se/data/rss/400.xml",
+  "name" : "Fed, Fit & Fakta",
+  "date" : "20160826",
+  "items" : 4
+}, {
+  "uri" : "http://stegelcast.libsyn.com/rss",
+  "name" : "Stegelcast",
+  "date" : "20171219",
+  "items" : 13
+}, {
+  "uri" : "http://succes.libsyn.com/rss",
+  "name" : "Succes - med salg.",
+  "date" : "20180109",
+  "items" : 7
+}, {
+  "uri" : "http://sulteneftersucces.dk/feed/podcast/",
+  "name" : "Sulten Efter Succes",
+  "date" : "20171222",
+  "items" : 27
+}, {
+  "uri" : "http://taarekanalen.libsyn.com/rss",
+  "name" : "Tårekanalen",
+  "date" : "20180116",
+  "items" : 25
+}, {
+  "uri" : "http://tanketid.libsyn.com/rss",
+  "name" : "Tanketid",
+  "date" : "20171228",
+  "items" : 34
+}, {
+  "uri" : "http://terningerneerkastet.dk/feed/podcast",
+  "name" : "Terningerne Er Kastet",
+  "date" : "20170818",
+  "items" : 56
+}, {
+  "uri" : "http://thedanishpodcastproject.podomatic.com/rss2.xml",
+  "name" : "The Podcast Project's Podcast",
+  "date" : "20171214",
+  "items" : 1
+}, {
+  "uri" : "http://thefarside.dk/?feed=podcast",
+  "name" : "The FAR side - Podcast",
+  "date" : "20171230",
+  "items" : 35
+}, {
+  "uri" : "http://themovement.dk/joan-oerting/feed/podcast/",
+  "name" : "Sex-terapi med Joan Ørting",
+  "date" : "20171223",
+  "items" : 13
+}, {
+  "uri" : "http://thewebintegrators.eu/ftp_hf1/christian/podcast.xml",
+  "name" : "Bydelsportræt Nordhavn",
+  "date" : "20130219",
+  "items" : 1
+}, {
+  "uri" : "http://thinskin.libsyn.com/rss",
+  "name" : "Thin Skin - en podcast om kulturelle og videnskabelige fænomener",
+  "date" : "20171219",
+  "items" : 15
+}, {
+  "uri" : "http://tommyogtvaermenneskeligheden.libsyn.com/rss",
+  "name" : "Tommy og Tværmenneskeligheden",
+  "date" : "20180116",
+  "items" : 15
+}, {
+  "uri" : "http://toplick.podomatic.com/rss2.xml",
+  "name" : "Toplick",
+  "date" : "20171213",
+  "items" : 1
+}, {
+  "uri" : "http://unboxingdanmark.podomatic.com/rss2.xml",
+  "name" : "Mathias Kolster's Podcast",
+  "date" : "20171214",
+  "items" : 2
+}, {
+  "uri" : "http://undervandsitetet.dk/feed/podcast/",
+  "name" : "Undervandsjagt, fridykning og snorkling. Uvpodcast fra Undervandsitetet. Dykning uden vejrtrækning med Morten Rosenvold Villadsen forfatter til 'Hold Vejret'",
+  "date" : "20180103",
+  "items" : 27
+}, {
+  "uri" : "http://unstuck.podomatic.com/rss2.xml",
+  "name" : "Maiken Christina Kühl's Podcast",
+  "date" : "20171214",
+  "items" : 3
+}, {
+  "uri" : "http://updateinsight.libsyn.com/rss",
+  "name" : "Update Insight",
+  "date" : "20180116",
+  "items" : 9
+}, {
+  "uri" : "http://vaeksthusforledelse.libsyn.com/rss",
+  "name" : "Ørerne I Maskinen",
+  "date" : "20171219",
+  "items" : 11
+}, {
+  "uri" : "http://visesipitten.dk/feed/podcast/",
+  "name" : "Vi ses i pitten",
+  "date" : "20180110",
+  "items" : 20
+}, {
+  "uri" : "http://voksenabc.libsyn.com/rss",
+  "name" : "Voksen ABC podcast",
+  "date" : "20180116",
+  "items" : 35
+}, {
+  "uri" : "http://vpodcast.dr.dk/feeds/bonderoevenrss.xml",
+  "name" : "Bonderøven",
+  "date" : "20171228",
+  "items" : 13
+}, {
+  "uri" : "http://vpodcast.dr.dk/feeds/gintberg_paa_kantenrss.xml",
+  "name" : "Gintberg på kanten",
+  "date" : "20150126",
+  "items" : 15
+}, {
+  "uri" : "http://vpodcast.dr.dk/feeds/soeindingrss.xml",
+  "name" : "So ein Ding",
+  "date" : "20171228",
+  "items" : 23
+}, {
+  "uri" : "http://webtv.um.dk/audiopodcast?album_id=18096427",
+  "name" : "Ambassadørerne",
+  "date" : "20180105",
+  "items" : 15
+}, {
+  "uri" : "http://webtv.um.dk/podcast?album_id=20321580",
+  "name" : "#DigitalDiplomacy",
+  "items" : 2
+}, {
+  "uri" : "http://www.57nord.dk/e-zines.xml",
+  "name" : "e-magazinerne Reflex og Afvigelse",
+  "date" : "20170914",
+  "items" : 42
+}, {
+  "uri" : "http://www.altomadhd.dk/feed/podcast/",
+  "name" : "Alt Om ADHDs Podcast - ADHD I Forandring",
+  "date" : "20170921",
+  "items" : 12
+}, {
+  "uri" : "http://www.antphilosophy.com/category/interviews/feed/",
+  "name" : "Antphilosophy Podcast: Online MarkedsfÃ¸ring | IvÃ¦rksÃ¦tteri | Passiv Indkomst | Livsstil | Personlig Udvikling",
+  "date" : "20171213",
+  "items" : 35
+}, {
+  "uri" : "http://www.b.dk/mecommobile/podcast/5474",
+  "name" : "BT Mandagstræner",
+  "date" : "20150810",
+  "items" : 10
+}, {
+  "uri" : "http://www.bagomburet.dk/?feed=podcast",
+  "name" : "Bag om buret",
+  "date" : "20170920",
+  "items" : 10
+}, {
+  "uri" : "http://www.buzzsprout.com/135827.rss",
+  "name" : "Den Antropologiske Podcast",
+  "date" : "20171214",
+  "items" : 2
+}, {
+  "uri" : "http://www.defalske9ere.dk/feed/podcast/",
+  "name" : "De Falske 9'ere - En dansk Premier League podcast",
+  "date" : "20171218",
+  "items" : 50
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/album?format=podcast&limit=100",
+  "name" : "Album",
+  "date" : "20180118",
+  "items" : 31
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/astrid-bliver-storesoester.xml?format=podcast&limit=500",
+  "name" : "Astrid bliver storesøster",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/audiens.xml?format=podcast&limit=500",
+  "name" : "Audiens",
+  "date" : "20171229",
+  "items" : 14
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/baereboelgen?format=podcast&limit=500",
+  "name" : "Bærebølgen",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/bag-ruslands-facade-pa-besoeg-i-tjuvasjien.xml?format=podcast&limit=500",
+  "name" : "Bag Ruslands facade - På besøg i Tjuvasjien",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/carl-nielsen-internationale-kammermusikkonkurrence-2015.xml?format=podcast&limit=500",
+  "name" : "Carl Nielsen Kammermusikkonkurrence",
+  "date" : "20171230",
+  "items" : 4
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/carl-nielsens-liv-lyst-last-og-laengsel?format=podcast&limit=500",
+  "name" : "Carl Nielsens liv, lyst, last og længsel",
+  "date" : "20171230",
+  "items" : 7
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/cocktail-pa-p8-jazz-med-ole-jacobsen?format=podcast&limit=500",
+  "name" : "Cocktail",
+  "date" : "20180118",
+  "items" : 21
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/de-har-voldtaget-mit-land?format=podcast&limit=500",
+  "name" : "De har voldtaget mit land",
+  "date" : "20171230",
+  "items" : 1
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/de-sorte-spejdere-podcast.xml?format=podcast&limit=500",
+  "name" : "De Sorte Spejdere - podcast",
+  "date" : "20180118",
+  "items" : 316
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/den-bedste-ferie-nogensinde.xml?format=podcast&limit=500",
+  "name" : "Den bedste ferie nogensinde - og en hund der hedder Pyjamas",
+  "date" : "20180118",
+  "items" : 8
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/den-foerste-gang-med-kasper-winding?format=podcast&limit=500",
+  "name" : "Den første gang med Kasper Winding",
+  "date" : "20171229",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/den-nordiske-odysse.xml?format=podcast&limit=500",
+  "name" : "Den Nordiske Odyssé",
+  "date" : "20171229",
+  "items" : 13
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/diva-dario.xml?format=podcast&limit=500",
+  "name" : "Diva & Dario",
+  "date" : "20171230",
+  "items" : 90
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/domino-radio?format=podcast&limit=500",
+  "name" : "Domino",
+  "date" : "20171229",
+  "items" : 66
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/droner-og-kanoner.xml?format=podcast&limit=500",
+  "name" : "Droner og kanoner",
+  "date" : "20171229",
+  "items" : 65
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/elsket-og-hadet?format=podcast&limit=500",
+  "name" : "Elsket og hadet - en radiobiografi om Paul McCartney",
+  "date" : "20171229",
+  "items" : 2
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/elvis-radio?format=podcast&limit=500",
+  "name" : "Elvis lever",
+  "date" : "20171229",
+  "items" : 2
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/eu-i-frit-fald.xml?format=podcast&limit=500",
+  "name" : "EU i frit fald",
+  "date" : "20180118",
+  "items" : 6
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/fonk-det-er-podcast.xml?format=podcast&limit=500",
+  "name" : "FONK! Det er podcast",
+  "date" : "20171229",
+  "items" : 66
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/fonk-det-er-smakage.xml?format=podcast&limit=500",
+  "name" : "FONK! Det er småkage",
+  "date" : "20171229",
+  "items" : 2
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/formiddag-pa-4-eren-2?format=podcast&limit=500",
+  "name" : "Formiddag på 4'eren",
+  "date" : "20171230",
+  "items" : 21
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/fredagsmix?format=podcast&limit=500",
+  "name" : "Fredagsmix",
+  "date" : "20171230",
+  "items" : 41
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/gandhi-myten-om-det-gode.xml?format=podcast&limit=500",
+  "name" : "Gandhi - myten om det gode?",
+  "date" : "20180118",
+  "items" : 1
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/grillen-pa-p4.xml?format=podcast&limit=500",
+  "name" : "Grillen",
+  "date" : "20171229",
+  "items" : 4
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/hammerslag-3?format=podcast&limit=500",
+  "name" : "Hammerslag",
+  "date" : "20180118",
+  "items" : 13
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/hit-med-historien?format=podcast&limit=500",
+  "name" : "Hit med historien",
+  "date" : "20171230",
+  "items" : 3
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/hverdag-i-diktaturet.xml?format=podcast&limit=500",
+  "name" : "Hverdag i diktaturet",
+  "date" : "20171229",
+  "items" : 1
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/hvid-vred-og-pa-roeven-baglandet-i-usa.xml?format=podcast&limit=500",
+  "name" : "Hvid, vred og på røven - Baglandet i USA",
+  "date" : "20180118",
+  "items" : 9
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/idealisten?format=podcast&limit=500",
+  "name" : "Idealisten - i virkeligheden",
+  "date" : "20171230",
+  "items" : 2
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/iran-radio?format=podcast&limit=500",
+  "name" : "Iran - fra paria til partner",
+  "date" : "20171230",
+  "items" : 6
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/jazz-for-jazzhadere?format=podcast&limit=500",
+  "name" : "Jazz for jazzhadere",
+  "date" : "20171229",
+  "items" : 38
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/jazz-pa-vinyl-med-hugo-rasmussen?format=podcast&limit=500",
+  "name" : "Jazz på vinyl med Hugo Rasmussen",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/jazz-top-50-radio.xml?format=podcast&limit=500",
+  "name" : "Jazz Top 50",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/jazzmosfaeren-med-master-fatman?format=podcast&limit=500",
+  "name" : "Jazzmosfæren med Master Fatman",
+  "date" : "20171230",
+  "items" : 50
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/kender-du-typen-alle?format=podcast&limit=500",
+  "name" : "Kender du typen?",
+  "date" : "20180118",
+  "items" : 24
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/klassisk-top-50-den-danske-sang?format=podcast&limit=500",
+  "name" : "Klassisk Top 50 Den danske sang",
+  "date" : "20180118",
+  "items" : 29
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/klassisk-top-50-opera.xml?format=podcast&limit=500",
+  "name" : "Klassisk top 50 Opera",
+  "date" : "20171229",
+  "items" : 22
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/kristendom-i-koed-og-blod?format=podcast&limit=500",
+  "name" : "Kristendom - i kød og blod",
+  "date" : "20171229",
+  "items" : 14
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/langt-fra-borgen.xml?format=podcast&limit=500",
+  "name" : "Langt fra Borgen",
+  "date" : "20180118",
+  "items" : 40
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/last-night-a-dj-saved-my-life.xml?format=podcast&limit=500",
+  "name" : "Last Night A DJ Saved My Life",
+  "date" : "20180118",
+  "items" : 4
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/livet-i-bybussen?format=podcast&limit=500",
+  "name" : "Næste Stop Hjem",
+  "date" : "20180118",
+  "items" : 3
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/lotte-heise-helt-klassisk?format=podcast&limit=500",
+  "name" : "Lotte Heise - Helt Klassisk",
+  "date" : "20171229",
+  "items" : 11
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/mads-monopolet-podcast?format=podcast&limit=500",
+  "name" : "Mads & Monopolet - podcast",
+  "date" : "20180118",
+  "items" : 438
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/madsen-podcast?format=podcast&limit=500",
+  "name" : "Madsen og Rebbes vikarservice",
+  "date" : "20180118",
+  "items" : 231
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/min-yndlingsmusik.xml?format=podcast&limit=500",
+  "name" : "Min yndlingsmusik",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/monster-buster-2?format=podcast&limit=500",
+  "name" : "Monster buster",
+  "date" : "20180118",
+  "items" : 17
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/monte-carlo?format=podcast&limit=100",
+  "name" : "Monte Carlo",
+  "date" : "20171227",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/mord-myter-og-medaljer.xml?format=podcast&limit=500",
+  "name" : "Mord, myter og medaljer",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/mother-teresa.xml?format=podcast&limit=500",
+  "name" : "Mother Teresa - myten om det gode?",
+  "date" : "20171230",
+  "items" : 1
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/motor-mille-og-boernebanden.xml?format=podcast&limit=500",
+  "name" : "Motor Mille og Børnebanden",
+  "date" : "20180118",
+  "items" : 12
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/nye-skiver-pa-p8-jazz.xml?format=podcast&limit=500",
+  "name" : "Nye Skiver på P8 JAZZ",
+  "date" : "20171230",
+  "items" : 20
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/onkel-rejes-soeroevershow.xml?format=podcast&limit=500",
+  "name" : "Onkel Rejes Sørøvershow",
+  "date" : "20180118",
+  "items" : 27
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/operaens-oerehaengere.xml?format=podcast&limit=500",
+  "name" : "Operaens ørehængere",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/operation-menneskejagt.xml?format=podcast&limit=500",
+  "name" : "Operation Menneskejagt",
+  "date" : "20171229",
+  "items" : 9
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/p1-i-faengsel?format=podcast&limit=500",
+  "name" : "P1 i Fængsel",
+  "date" : "20171229",
+  "items" : 6
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/p1-i-pattaya?format=podcast&limit=500",
+  "name" : "P1 i Pattaya",
+  "date" : "20171229",
+  "items" : 3
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/p1-pa-plejehjem?format=podcast&limit=500",
+  "name" : "P1 på plejehjem",
+  "date" : "20171229",
+  "items" : 6
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/p2koncerten?format=podcast&limit=500",
+  "name" : "P2 koncerten",
+  "date" : "20180118",
+  "items" : 195
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/p7-maraton?format=podcast&limit=100",
+  "name" : "P7 MIX Maraton - podcast",
+  "date" : "20180118",
+  "items" : 56
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/pa-opdagelse-i-carl-nielsens-symfonier?format=podcast&limit=500",
+  "name" : "På opdagelse i Carl Nielsens symfonier",
+  "date" : "20180118",
+  "items" : 6
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/palle-alene-rundt-i-verden.xml?format=podcast&limit=500",
+  "name" : "Palle Alene Rundt i Verden",
+  "date" : "20171229",
+  "items" : 23
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/radiomontagen-greatest.xml?format=podcast&limit=500",
+  "name" : "Radiomontagen - Greatest",
+  "date" : "20171229",
+  "items" : 30
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/rejsen-til-det-fremmede?format=podcast&limit=500",
+  "name" : "Rejsen til det fremmede",
+  "date" : "20180118",
+  "items" : 4
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/sadan-lyder-landet.xml?format=podcast&limit=500",
+  "name" : "Sådan lyder landet",
+  "date" : "20171229",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/sebastian-pa-dybt-vand.xml?format=podcast&limit=500",
+  "name" : "Sebastian på dybt vand",
+  "date" : "20180118",
+  "items" : 11
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/simpson-leth.xml?format=podcast&limit=500",
+  "name" : "Simpson & Leth",
+  "date" : "20171229",
+  "items" : 18
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/skaeg-med-tal.xml?format=podcast&limit=500",
+  "name" : "Skæg med tal",
+  "date" : "20180118",
+  "items" : 20
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/sofus-2.xml?format=podcast&limit=500",
+  "name" : "Sofus",
+  "date" : "20180118",
+  "items" : 21
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/sort-soendag?format=podcast&limit=100",
+  "name" : "Sort Søndag",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/sovedyr-pa-eventyr.xml?format=podcast&limit=500",
+  "name" : "Sovedyr på eventyr",
+  "date" : "20180118",
+  "items" : 8
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/status-pa-p6-beat?format=podcast&limit=500",
+  "name" : "Status på P6 BEAT",
+  "date" : "20171229",
+  "items" : 3
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/taler-du-jazz-podcast.xml?format=podcast&limit=500",
+  "name" : "Taler du Jazz? - podcast",
+  "date" : "20180118",
+  "items" : 23
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/troscafe-pa-p1?format=podcast&limit=500",
+  "name" : "Troscafé på P1",
+  "date" : "20171230",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/tv-avisen?format=podcast&limit=500",
+  "name" : "TV Avisen 21:30",
+  "date" : "20180118",
+  "items" : 18
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/tynget-af-gaeld?format=podcast&limit=500",
+  "name" : "Tynget af gæld",
+  "date" : "20171230",
+  "items" : 1
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/ultralyd-greatest.xml?format=podcast&limit=500",
+  "name" : "Ultralyd - Greatest",
+  "date" : "20171229",
+  "items" : 20
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b88fe860d9a33ccfdaf04?format=podcast&limit=100",
+  "name" : "Eldorado",
+  "date" : "20180118",
+  "items" : 73
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b8904860d9a33ccfdaf22?format=podcast&limit=100",
+  "name" : "Orientering",
+  "date" : "20180101",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b891b860d9a33ccfdaf65?format=podcast&limit=100",
+  "name" : "Smag på P3",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b8922860d9a33ccfdaf90?format=podcast&limit=100",
+  "name" : "Country Club",
+  "date" : "20180118",
+  "items" : 82
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b896b860d9a33ccfdb0f8?format=podcast&limit=100",
+  "name" : "Skønlitteratur på P1",
+  "date" : "20180117",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b8a2a860d9a33ccfdb3a6?format=podcast&limit=100",
+  "name" : "Go' Morgen P3",
+  "date" : "20180118",
+  "items" : 19
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b8a67860d9a33ccfdb4cd?format=podcast&limit=100",
+  "name" : "Mennesker og medier",
+  "date" : "20180101",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b8aba860d9a33ccfdb635?format=podcast&limit=100",
+  "name" : "Panorama",
+  "date" : "20180101",
+  "items" : 97
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f3b8b19860d9a33ccfdb763?format=podcast&limit=100",
+  "name" : "Meningsministeriet",
+  "date" : "20180117",
+  "items" : 3
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4f576e38860d9a0154f99285?format=podcast&limit=100",
+  "name" : "Nis på P5",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:4fdab080860d9a0ff0d45dd9?format=podcast&limit=100",
+  "name" : "Sommergæsten på P1",
+  "date" : "20171230",
+  "items" : 50
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:502ca71e860d9a0950d4be63?format=podcast&limit=100",
+  "name" : "Debut",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:50da9580860d9a0c60e01ef3?format=podcast&limit=100",
+  "name" : "Bravo - med Lotte Heise",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:512315b5860d9a31045176b7?format=podcast&limit=100",
+  "name" : "Hjernekassen på P1",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:514e7eaa860d9a20204ce086?format=podcast&limit=100",
+  "name" : "Klassisk Top 50",
+  "date" : "20180117",
+  "items" : 42
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:51a81f6e6187a21100088823?format=podcast&limit=100",
+  "name" : "Mig og Musikken",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:51b554b76187a2155c1a5c03?format=podcast&limit=100",
+  "name" : "Folk på 5'eren",
+  "date" : "20180118",
+  "items" : 75
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:51f742256187a20d6c186e54?format=podcast&limit=100",
+  "name" : "Wagners Ringen ifølge Kristian Leth",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:522594faa11f9d1364aa5acc?format=podcast&limit=100",
+  "name" : "Rosenkjærprisen",
+  "date" : "20180118",
+  "items" : 99
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:5258af566187a21760389c23?format=podcast&limit=100",
+  "name" : "Jazz & Co",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:526342b96187a20a54514f52?format=podcast&limit=100",
+  "name" : "Danmark og bankerotten",
+  "date" : "20180118",
+  "items" : 3
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:52c7559e6187a21290d883db?format=podcast&limit=100",
+  "name" : "Shanes Symfoni",
+  "date" : "20180118",
+  "items" : 32
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:52cd1cf86187a213f89ae031?format=podcast&limit=100",
+  "name" : "Ugens gæst",
+  "date" : "20180118",
+  "items" : 23
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:52cfc2f46187a20d34dbba33?format=podcast&limit=100",
+  "name" : "Den Sorte Gryde",
+  "date" : "20171230",
+  "items" : 25
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:52ea50546187a219842e2688?format=podcast&limit=100",
+  "name" : "Ring til regeringen",
+  "date" : "20171230",
+  "items" : 16
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:53487f97a11f9d0cfcee07d2?format=podcast&limit=100",
+  "name" : "Nedslag med Schønwandt",
+  "date" : "20171230",
+  "items" : 6
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:535e3a4aa11f9d0eb07e5d2d?format=podcast&limit=100",
+  "name" : "Beethovens 9 symfonier ifølge Kristian Leth",
+  "date" : "20171230",
+  "items" : 9
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:53dd7b80a11f9d11d81be03f?format=podcast&limit=100",
+  "name" : "De sidste danskere i Helmand",
+  "date" : "20180118",
+  "items" : 4
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:53eff0d96187a202386b6c61?format=podcast&limit=100",
+  "name" : "Leonard Cohen - en radiobiografi",
+  "date" : "20171230",
+  "items" : 3
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:5424ae686187a210e8a9241d?format=podcast&limit=100",
+  "name" : "Bagklog på P1",
+  "date" : "20171229",
+  "items" : 25
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:542f39716187a21768807d07?format=podcast&limit=100",
+  "name" : "Backstage med Chris Minh Doky",
+  "date" : "20171229",
+  "items" : 8
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:54308dcb6187a205f06ca6f9?format=podcast&limit=100",
+  "name" : "Klassisk Top 50 Filmmusik",
+  "date" : "20171229",
+  "items" : 27
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/urn:dr:mu:bundle:543481d66187a20a9c086896?format=podcast&limit=100",
+  "name" : "P1 i Perama",
+  "date" : "20171229",
+  "items" : 1
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/verdens-venligste-faengsel?format=podcast&limit=500",
+  "name" : "Verdens venligste fængsel",
+  "date" : "20171230",
+  "items" : 1
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/vi-ses-hos-clement?format=podcast&limit=500",
+  "name" : "Vi ses hos Clement",
+  "date" : "20180118",
+  "items" : 16
+}, {
+  "uri" : "http://www.dr.dk/mu/feed/wikibeats-podcast.xml?format=podcast&limit=500",
+  "name" : "Wikibeats - podcast",
+  "date" : "20171229",
+  "items" : 13
+}, {
+  "uri" : "http://www.fabiola-christensen.com/feed/podcast/",
+  "name" : "Fabiola Share",
+  "date" : "20171219",
+  "items" : 61
+}, {
+  "uri" : "http://www.flobber.dk/feed/podcast",
+  "name" : "Soundtrack: Fixed",
+  "date" : "20151006",
+  "items" : 2
+}, {
+  "uri" : "http://www.florian.dk/?feed=podcast",
+  "name" : "Florians Podcast",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.fotografikurser.dk/?feed=podcast",
+  "name" : "Fotografi, Kamera og Motiv",
+  "date" : "20180113",
+  "items" : 10
+}, {
+  "uri" : "http://www.kasparbang.dk/podcast/kasparbangpodcast.xml",
+  "name" : "Kaspar Bang Podcast",
+  "date" : "20081121",
+  "items" : 3
+}, {
+  "uri" : "http://www.kirkeibyen.dk/podcast/kibpodcasts.xml",
+  "name" : "Apostolsk Kirke Kolding",
+  "date" : "20171231",
+  "items" : 23
+}, {
+  "uri" : "http://www.kloerkonge.dk/feeds/sindssygt_langt_ude_aarhusianske_godnathistorier.xml",
+  "name" : "Sindssygt langt ude århusianske godnathistorier",
+  "date" : "20080828",
+  "items" : 3
+}, {
+  "uri" : "http://www.kloerkonge.dk/feeds/sindssygt_langt_ude_koebenhavnske_godnathistorier.xml",
+  "name" : "Sindssygt langt ude københavnske godnathistorier",
+  "date" : "20111027",
+  "items" : 15
+}, {
+  "uri" : "http://www.kristentf.dk/podcast",
+  "name" : "Højnæskirken - Kristent Fællesskab i Rødovre",
+  "items" : 30
+}, {
+  "uri" : "http://www.lecture.dk/feed/podcast",
+  "name" : "LECTURE.DK",
+  "date" : "20170108",
+  "items" : 3
+}, {
+  "uri" : "http://www.livingsmarttv.dk/category/alt-indhold/udsendelser/lstv-fotoskolen/feed/",
+  "name" : "LSTV Foto – Living Smart TV",
+  "date" : "20171221",
+  "items" : 10
+}, {
+  "uri" : "http://www.livingsmarttv.dk/category/alt-indhold/udsendelser/lstv-mobil-og-tablet/feed/",
+  "name" : "LSTV Mobil og tablet – Living Smart TV",
+  "date" : "20171221",
+  "items" : 10
+}, {
+  "uri" : "http://www.livingsmarttv.dk/category/alt-indhold/udsendelser/lstv-streaming/feed/",
+  "name" : "LSTV Hjemmebiograf – Living Smart TV",
+  "date" : "20171221",
+  "items" : 10
+}, {
+  "uri" : "http://www.loyalbooks.com/book/fem-uger-i-ballon-by-jules-verne/feed",
+  "name" : "Fem Uger i Ballon by Unknown",
+  "date" : "20180117",
+  "items" : 32
+}, {
+  "uri" : "http://www.loyalbooks.com/book/guld-og-aere-by-otto-martin-moller/feed",
+  "name" : "Guld og Ære by Otto Martin Moller",
+  "date" : "20180117",
+  "items" : 21
+}, {
+  "uri" : "http://www.loyalbooks.com/book/udvalgte-danske-eventyr-001/feed",
+  "name" : "Udvalgte Danske Eventyr 001 by Hans Christian Andersen",
+  "date" : "20180114",
+  "items" : 12
+}, {
+  "uri" : "http://www.lyttilgud.dk/system/lyttilgud.dk/podcast/weekly_sermon/weekly_sermon.podcast.xml",
+  "name" : "Ugens tale fra lyttilgud.dk",
+  "date" : "20180112",
+  "items" : 159
+}, {
+  "uri" : "http://www.maanedsskriftet.dk/podcast/feed.xml",
+  "name" : "MÃ¥nedsskrift for almen praksis",
+  "date" : "20171229",
+  "items" : 12
+}, {
+  "uri" : "http://www.mariagerfjordfrikirke.dk/podcast/?feed=rss2",
+  "name" : "Mariagerfjord Frikirkes Podcast",
+  "date" : "20171226",
+  "items" : 100
+}, {
+  "uri" : "http://www.ollemus.dk/emne/records/feed/",
+  "name" : "OE Podcast",
+  "date" : "20171226",
+  "items" : 19
+}, {
+  "uri" : "http://www.ollemus.dk/feed/podcast/",
+  "name" : "Ollerup Efterskoles podcast",
+  "date" : "20171229",
+  "items" : 19
+}, {
+  "uri" : "http://www.pixiehouse.com/category/lydboeger-gabriella/feed/",
+  "name" : "Lydbøger – Gabriella – PixieHouse, Inc.",
+  "date" : "20150325",
+  "items" : 4
+}, {
+  "uri" : "http://www.pixiehouse.com/category/lydboeger-sandra/feed/",
+  "name" : "Lydbøger - Sandra",
+  "date" : "20150325",
+  "items" : 5
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=1961",
+  "name" : "Snaps i Bollerne",
+  "date" : "20131228",
+  "items" : 6
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=3350",
+  "name" : "Silkeborg Oasekirke",
+  "date" : "20140323",
+  "items" : 1
+}, {
+  "uri" : "http://www.provector.dk/fitness-university/",
+  "name" : "Fitness Institute",
+  "date" : "20110906",
+  "items" : 36
+}, {
+  "uri" : "http://www.provector.dk/kunst/?tag=672",
+  "name" : "Kunst.dk  - Kunst i Fokus",
+  "date" : "20101117",
+  "items" : 49
+}, {
+  "uri" : "http://www.radioguru.dk/feed/udafboksenpodcast.xml",
+  "name" : "Ud af boksen-podcast",
+  "date" : "20101129",
+  "items" : 9
+}, {
+  "uri" : "http://www.radionet.dk/podcast/dfl.xml",
+  "name" : "Den fjerde Limfjordsforbindelse",
+  "date" : "20180112",
+  "items" : 60
+}, {
+  "uri" : "http://www.radionet.dk/podcast/gm.xml",
+  "name" : "Go morgen",
+  "date" : "20180117",
+  "items" : 60
+}, {
+  "uri" : "http://www.rfpodcast.dk/feed/",
+  "name" : "Roskilde Festival Podcast",
+  "date" : "20170513",
+  "items" : 8
+}, {
+  "uri" : "http://www.silkeborg-kirke.dk/podcast.aspx",
+  "name" : "Silkeborg Kirke Podcast",
+  "date" : "20180114",
+  "items" : 16
+}, {
+  "uri" : "http://www.socialsellingcompany.dk/feed/podcast/",
+  "name" : "Social Selling Radio",
+  "date" : "20180107",
+  "items" : 68
+}, {
+  "uri" : "http://www.spreaker.com/show/1827519/episodes/feed",
+  "name" : "NurseTalk",
+  "date" : "20160613",
+  "items" : 22
+}, {
+  "uri" : "http://www.spreaker.com/show/1929925/episodes/feed",
+  "name" : "anders & anders podcast",
+  "date" : "20171218",
+  "items" : 53
+}, {
+  "uri" : "http://www.spreaker.com/show/2093919/episodes/feed",
+  "name" : "Her Går Det Godt",
+  "date" : "20180112",
+  "items" : 44
+}, {
+  "uri" : "http://www.spreaker.com/show/2108328/episodes/feed",
+  "name" : "DEN GRÅ SIDE",
+  "date" : "20180111",
+  "items" : 26
+}, {
+  "uri" : "http://www.spreaker.com/show/2145898/episodes/feed",
+  "name" : "Pils, Panik og Personer",
+  "date" : "20170322",
+  "items" : 8
+}, {
+  "uri" : "http://www.spreaker.com/show/2202588/episodes/feed",
+  "name" : "JACKSTIKKET - Metal med Bjarnø",
+  "date" : "20180109",
+  "items" : 16
+}, {
+  "uri" : "http://www.spreaker.com/show/2216120/episodes/feed",
+  "name" : "Succes Kriteriet",
+  "date" : "20171106",
+  "items" : 30
+}, {
+  "uri" : "http://www.spreaker.com/show/2350315/episodes/feed",
+  "name" : "Nøglen til din hjerne",
+  "date" : "20180111",
+  "items" : 35
+}, {
+  "uri" : "http://www.spreaker.com/show/2353430/episodes/feed",
+  "name" : "Anders & Rasmus Erobrer Filmbranchen",
+  "date" : "20171030",
+  "items" : 14
+}, {
+  "uri" : "http://www.spreaker.com/show/2410856/episodes/feed",
+  "name" : "På sporet af Aarhus Letbane",
+  "date" : "20171221",
+  "items" : 18
+}, {
+  "uri" : "http://www.spreaker.com/show/2424002/episodes/feed",
+  "name" : "Sæt Lyd På Smag",
+  "date" : "20170707",
+  "items" : 7
+}, {
+  "uri" : "http://www.spreaker.com/show/2599397/episodes/feed",
+  "name" : "Kongerækken",
+  "date" : "20180112",
+  "items" : 88
+}, {
+  "uri" : "http://www.spreaker.com/show/2656318/episodes/feed",
+  "name" : "Hjørnekontoret",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://www.spreaker.com/show/2663268/episodes/feed",
+  "name" : "SKIpodcast",
+  "date" : "20180112",
+  "items" : 4
+}, {
+  "uri" : "http://www.spreaker.com/show/2720800/episodes/feed",
+  "name" : "Glimmerfabrikken",
+  "date" : "20180105",
+  "items" : 5
+}, {
+  "uri" : "http://www.spreaker.com/show/2734601/episodes/feed",
+  "name" : "Vi elsker clickbait",
+  "date" : "20180111",
+  "items" : 10
+}, {
+  "uri" : "http://www.spreaker.com/show/2741461/episodes/feed",
+  "name" : "Mødeindustriens Dag",
+  "date" : "20171106",
+  "items" : 5
+}, {
+  "uri" : "http://www.spreaker.com/show/2746980/episodes/feed",
+  "name" : "De 95 Procent",
+  "date" : "20171229",
+  "items" : 10
+}, {
+  "uri" : "http://www.stetoskopet.nu/podcast/podcast.rss",
+  "name" : "Stetoskopet",
+  "date" : "20171215",
+  "items" : 31
+}, {
+  "uri" : "http://www.theawayteam.dk/rss",
+  "name" : "The Away Team - Dansk Star Trek Podcast",
+  "date" : "20171221",
+  "items" : 11
+}, {
+  "uri" : "http://www.thejustcast.com/shows/rene-buchholdt-example/audioposts.rss",
+  "name" : "example",
+  "date" : "20151215",
+  "items" : 2
+}, {
+  "uri" : "http://www.trendsonline.dk/wp-content/uploads/podcast/podcast_angelwings.xml",
+  "name" : "Angelwings - Podcast med danske angel investorer",
+  "date" : "20130307",
+  "items" : 3
+}, {
+  "uri" : "http://www.tv2fyn.dk/feeds/tv2r/podcasts/news/1930/feed.xml",
+  "name" : "TV 2/FYN 19.30",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://www.tvsyd.dk/feeds/tv2r/podcasts/news/1930/feed.xml",
+  "name" : "TV SYD - 19.30 nyhederne",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://www.tvsyd.dk/feeds/tv2r/podcasts/news/2220/feed.xml",
+  "name" : "TV SYD - 22.20 nyhederne",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://www.underkurven.com/feed/podcast",
+  "name" : "Under Kurven NBA Podcast",
+  "date" : "20170129",
+  "items" : 20
+}, {
+  "uri" : "http://www.villivap.dk/feed/podcast/",
+  "name" : "Villi-Vap Er En Lap",
+  "date" : "20170105",
+  "items" : 4
+}, {
+  "uri" : "http://www.vonb.dk/feed/podcast",
+  "name" : "Langt Ude  - DENFRI / Kristian von Bengtson",
+  "date" : "20170825",
+  "items" : 11
+}, {
+  "uri" : "http://www.wessmann.dk/feed/podcast",
+  "name" : "Nielsen & Wessmann - det handler om fotografi",
+  "date" : "20171219",
+  "items" : 25
+}, {
+  "uri" : "http://www.xn--lsden-sra.dk/wp/index.php/feed/podcast/",
+  "name" : "Læs den!",
+  "date" : "20171224",
+  "items" : 32
+}, {
+  "uri" : "http://www.znaty.dk/znaty.dk/Podcast/rss.xml",
+  "name" : "PZ Podcast",
+  "items" : 31
+}, {
+  "uri" : "https://17medsigneamtoft.podbean.com/feed/",
+  "name" : "17 med Signe Amtoft",
+  "date" : "20171020",
+  "items" : 8
+}, {
+  "uri" : "https://album.podbean.com/feed/",
+  "name" : "Album 2016",
+  "date" : "20170727",
+  "items" : 20
+}, {
+  "uri" : "https://arkiv.radio24syv.dk/audiopodcast/channel/18857661",
+  "name" : "All Inclusive",
+  "date" : "20170829",
+  "items" : 7
+}, {
+  "uri" : "https://arkiv.radio24syv.dk/audiopodcast/channel/19542599",
+  "name" : "Når fars pige er til piger",
+  "date" : "20171011",
+  "items" : 3
+}, {
+  "uri" : "https://arkiv.radio24syv.dk/audiopodcast/channel/19771361",
+  "name" : "Vi har aben",
+  "date" : "20171211",
+  "items" : 5
+}, {
+  "uri" : "https://arkiv.radio24syv.dk/audiopodcast/channel/19986935",
+  "name" : "Pigen",
+  "date" : "20171130",
+  "items" : 7
+}, {
+  "uri" : "https://arkiv.radio24syv.dk/audiopodcast/channel/20035414",
+  "name" : "Min græske dagbog",
+  "date" : "20171120",
+  "items" : 116
+}, {
+  "uri" : "https://arkiv.radio24syv.dk/audiopodcast/channel/20234758",
+  "name" : "Stille før optagelse",
+  "date" : "20180111",
+  "items" : 33
+}, {
+  "uri" : "https://arkiv.radio24syv.dk/audiopodcast/channel/20889116",
+  "name" : "Nyt fra Nordfynsk Universitet",
+  "date" : "20180111",
+  "items" : 10
+}, {
+  "uri" : "https://audioboom.com/users/122754/boos.rss",
+  "name" : "Christian Monrad's posts",
+  "date" : "20170610",
+  "items" : 67
+}, {
+  "uri" : "https://audioboom.com/users/1522860/posts.rss",
+  "name" : "Karen-Marie Lillelund's posts",
+  "date" : "20160202",
+  "items" : 3
+}, {
+  "uri" : "https://audioboom.com/users/1551950/posts.rss",
+  "name" : "Sundhed for Sjælen v./Madalina Cassandra Rosenqvist's posts",
+  "date" : "20160414",
+  "items" : 15
+}, {
+  "uri" : "https://audioboom.com/users/1649252/posts.rss",
+  "name" : "Erik Andreasen, Jens Mogensen & Lasse Roldkjær's posts",
+  "date" : "20141206",
+  "items" : 14
+}, {
+  "uri" : "https://audioboom.com/users/2485572/posts.rss",
+  "name" : "Martin Angelo Sunesen's posts",
+  "date" : "20140526",
+  "items" : 2
+}, {
+  "uri" : "https://cdn.radioplay.se/data/rss/403.xml",
+  "name" : "myROCK Podcast",
+  "date" : "20171220",
+  "items" : 47
+}, {
+  "uri" : "https://dahlpaahack.podbean.com/feed/",
+  "name" : "DAHL på HACK",
+  "date" : "20180112",
+  "items" : 42
+}, {
+  "uri" : "https://danskestatsministre.podbean.com/feed/",
+  "name" : "Danske Statsministre",
+  "date" : "20180115",
+  "items" : 14
+}, {
+  "uri" : "https://deutschstunde.podbean.com/feed/",
+  "name" : "Deutschstunde",
+  "date" : "20171024",
+  "items" : 5
+}, {
+  "uri" : "https://feed.podcastmachine.com/podcasts/26/aac.rss",
+  "name" : "The Second Shot",
+  "date" : "20080620",
+  "items" : 5
+}, {
+  "uri" : "https://jyllandsposten.podbean.com/feed/",
+  "name" : "Frøkjær & forfatterne",
+  "date" : "20180111",
+  "items" : 22
+}, {
+  "uri" : "https://mandenogpraesten.podbean.com/feed/",
+  "name" : "Manden & præsten",
+  "date" : "20171122",
+  "items" : 6
+}, {
+  "uri" : "https://moderneideer.podbean.com/feed/",
+  "name" : "Moderne Ideer",
+  "date" : "20170823",
+  "items" : 7
+}, {
+  "uri" : "https://myterommilliarder.podbean.com/feed/",
+  "name" : "Myter om milliarder",
+  "date" : "20171220",
+  "items" : 6
+}, {
+  "uri" : "https://nochmal.dk/podcasts/feed/podcast/",
+  "name" : "Help Marketing",
+  "date" : "20180110",
+  "items" : 174
+}, {
+  "uri" : "https://podcast.dr.dk/oline/rssfeed/hvorfor_dit_og_hvorfor_dat.xml",
+  "name" : "Hvorfor dit og hvorfor dat",
+  "date" : "20090401",
+  "items" : 23
+}, {
+  "uri" : "https://podcast.dr.dk/p1/rssfeed/armensk_folkemord.xml",
+  "name" : "Det armenske folkemord",
+  "date" : "20091007",
+  "items" : 3
+}, {
+  "uri" : "https://politikenbogfolk.podbean.com/feed/",
+  "name" : "Politiken Bogfolk",
+  "date" : "20171215",
+  "items" : 100
+}, {
+  "uri" : "https://politikendokumentar.podbean.com/feed/",
+  "name" : "Politiken dokumentar",
+  "date" : "20171106",
+  "items" : 22
+}, {
+  "uri" : "https://politikenmusikkenshistorier.podbean.com/feed/",
+  "name" : "Musikkens historier",
+  "date" : "20160406",
+  "items" : 4
+}, {
+  "uri" : "https://politikenspoptillaeg.podbean.com/feed/",
+  "name" : "Politikens Poptillæg",
+  "date" : "20180112",
+  "items" : 100
+}, {
+  "uri" : "https://politikenxthirdear.podbean.com/feed/",
+  "name" : "Third Ear x Politiken",
+  "date" : "20171113",
+  "items" : 37
+}, {
+  "uri" : "https://radiojazzcopenhagen.airtime.pro/feeds/station-rss",
+  "name" : "Radio Jazz Copenhagen",
+  "date" : "20180113",
+  "items" : 34
+}, {
+  "uri" : "https://s3.amazonaws.com/buddy.podcast.net/rss.xml",
+  "name" : "BuddyCast",
+  "date" : "20150313",
+  "items" : 16
+}, {
+  "uri" : "https://schoetministeriet.podbean.com/feed/",
+  "name" : "Schøtministeriet",
+  "date" : "20180116",
+  "items" : 257
+}, {
+  "uri" : "https://thirdear.podbean.com/feed/",
+  "name" : "Third Ear",
+  "date" : "20171124",
+  "items" : 30
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=60-sekunder-med-stjernerne",
+  "name" : "60 Sekunder Med Stjernerne",
+  "date" : "20171004",
+  "items" : 79
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=daniels-jul",
+  "name" : "Daniels Jul",
+  "date" : "20180105",
+  "items" : 13
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=forstaa-din-dame",
+  "name" : "Forstå din dame",
+  "date" : "20180108",
+  "items" : 21
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=go-nova-dagens-udvalgte",
+  "name" : "GO'NOVA Dagens Udvalgte",
+  "date" : "20180117",
+  "items" : 100
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=i-seng-med-nova",
+  "name" : "I seng med NOVA",
+  "date" : "20171202",
+  "items" : 31
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=justin-bieber-podcast",
+  "name" : "Justin Bieber Podcast",
+  "date" : "20170901",
+  "items" : 10
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=myrock-myway",
+  "name" : "myROCK myWAY",
+  "date" : "20180114",
+  "items" : 57
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=ojeblikke-af-guld",
+  "name" : "Ãjeblikke af Guld",
+  "date" : "20171128",
+  "items" : 27
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=one-direction-podcast",
+  "name" : "One Direction podcast",
+  "date" : "20170901",
+  "items" : 19
+}, {
+  "uri" : "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=vi-unge-podcast",
+  "name" : "Vi Unge Podcast",
+  "date" : "20180111",
+  "items" : 100
+}, {
+  "uri" : "https://transformator.fireside.fm/rss",
+  "name" : "Transformator",
+  "date" : "20171228",
+  "items" : 14
+}, {
+  "uri" : "https://valdemar-pustelnik.squarespace.com/den-dumme-dumme-quiz-podcast/?format=rss",
+  "name" : "Den Dumme Dumme Quiz (Podcast) - Valdemar Pustelnik",
+  "date" : "20171109",
+  "items" : 86
+}, {
+  "uri" : "https://velkommentilinternettet.podbean.com/feed/",
+  "name" : "VELKOMMEN TIL INTERNETTET",
+  "date" : "20171226",
+  "items" : 7
+}, {
+  "uri" : "https://workflow.fireside.fm/rss",
+  "name" : "work.flow - med Anders Høeg Nissen",
+  "date" : "20171228",
+  "items" : 35
+}, {
+  "uri" : "https://www.buzzsprout.com/30439.rss",
+  "name" : "Lyt til erhvervsadvokaten - en advokat fra DELACOUR fortæller",
+  "date" : "20171213",
+  "items" : 16
+}, {
+  "uri" : "https://www.buzzsprout.com/44059.rss",
+  "name" : "Smartfar",
+  "date" : "20170919",
+  "items" : 4
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/aerligt-talt-shubiduas-historie-fortalt-af-michael-bundesen.xml?format=podcast&limit=500",
+  "name" : "Ærligt talt - Shu-bi-duas historie fortalt af Michael Bundesen",
+  "date" : "20180118",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/album?format=podcast&limit=100",
+  "name" : "Album",
+  "date" : "20180118",
+  "items" : 31
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/audiens.xml?format=podcast&limit=500",
+  "name" : "Audiens",
+  "date" : "20180118",
+  "items" : 15
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/bagklog-pa-p1?format=podcast&limit=100",
+  "name" : "Bagklog på P1",
+  "date" : "20180118",
+  "items" : 25
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/baglandet.xml?format=podcast&limit=500",
+  "name" : "Baglandet",
+  "date" : "20180118",
+  "items" : 201
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/bas?format=podcast&limit=100",
+  "name" : "BAS",
+  "date" : "20180118",
+  "items" : 60
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/brinkmann-paa-p1.xml?format=podcast&limit=500",
+  "name" : "Brinkmann på P1",
+  "date" : "20180118",
+  "items" : 28
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/cocktailtimen.xml?format=podcast&limit=500",
+  "name" : "Cocktailtimen",
+  "date" : "20180118",
+  "items" : 31
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/de-sorte-spejdere-podcast.xml?format=podcast&limit=500",
+  "name" : "De Sorte Spejdere - podcast",
+  "date" : "20180118",
+  "items" : 316
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/den-nordiske-odysse.xml?format=podcast&limit=500",
+  "name" : "Den Nordiske Odyssé",
+  "date" : "20180118",
+  "items" : 13
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/den-sorte-boks-podcast.xml?format=podcast&limit=500",
+  "name" : "Den sorte boks - podcast",
+  "date" : "20180118",
+  "items" : 41
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/det-du-frygter.xml?format=podcast&limit=500",
+  "name" : "Det du frygter",
+  "date" : "20180118",
+  "items" : 13
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/det-roede-rum-radio.xml?format=podcast&limit=500",
+  "name" : "Det røde rum",
+  "date" : "20180118",
+  "items" : 7
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/dobbeltmordet.xml?format=podcast&limit=500",
+  "name" : "Dobbeltmordet",
+  "date" : "20180118",
+  "items" : 9
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/eksistens-radio?format=podcast&limit=100",
+  "name" : "Eksistens",
+  "date" : "20180118",
+  "items" : 92
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/faedregruppen.xml?format=podcast&limit=500",
+  "name" : "Fædregruppen",
+  "date" : "20180118",
+  "items" : 2
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/farrock-pa-p6-beat.xml?format=podcast&limit=500",
+  "name" : "Farrock på P6 BEAT",
+  "date" : "20180118",
+  "items" : 27
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/filmharmonikerne.xml?format=podcast&limit=500",
+  "name" : "Filmharmonikerne",
+  "date" : "20180118",
+  "items" : 34
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/filmland?format=podcast&limit=100",
+  "name" : "Filmland",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/fonk-det-er-podcast.xml?format=podcast&limit=500",
+  "name" : "FONK! Det er podcast",
+  "date" : "20180118",
+  "items" : 69
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/hithouse?format=podcast&limit=100",
+  "name" : "Hithouse",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/hjernekassen-pa-p1?format=podcast&limit=100",
+  "name" : "Hjernekassen på P1",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/jazzmosfaeren-med-master-fatman?format=podcast&limit=500",
+  "name" : "Jazzmosfæren med Master Fatman",
+  "date" : "20180118",
+  "items" : 50
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/jeg-er-mobilafhaengig-med-thomas-skov.xml?format=podcast&limit=500",
+  "name" : "Jeg er mobilafhængig - med Thomas Skov",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/jeg-er-noegen.xml?format=podcast&limit=500",
+  "name" : "Jeg er nøgen",
+  "date" : "20180118",
+  "items" : 8
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/klassikere-genfortalt.xml?format=podcast&limit=500",
+  "name" : "Klassikere Genfortalt I",
+  "date" : "20180118",
+  "items" : 8
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/klimatestamentet.xml?format=podcast&limit=500",
+  "name" : "Klimatestamentet",
+  "date" : "20180118",
+  "items" : 2
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/klog-pa-sprog.xml?format=podcast&limit=500",
+  "name" : "Klog på Sprog",
+  "date" : "20180118",
+  "items" : 25
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/krig-og-klassisk-med-lotte-heise.xml?format=podcast&limit=500",
+  "name" : "Krig og klassisk - med Lotte Heise",
+  "date" : "20180118",
+  "items" : 3
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/ludermanifestet.xml?format=podcast&limit=500",
+  "name" : "Ludermanifestet",
+  "date" : "20180118",
+  "items" : 8
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/mads-monopolet-podcast?format=podcast&limit=500",
+  "name" : "Mads & Monopolet - podcast",
+  "date" : "20180118",
+  "items" : 438
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/meget-mere-matador.xml?format=podcast&limit=500",
+  "name" : "Meget mere Matador",
+  "date" : "20180118",
+  "items" : 13
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/mennesker-og-medier?format=podcast&limit=100",
+  "name" : "Mennesker og medier",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/mennesker-og-tro?format=podcast&limit=100",
+  "name" : "Mennesker og tro",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/mod-det-uendelige-univers.xml?format=podcast&limit=500",
+  "name" : "Mod det uendelige univers",
+  "date" : "20180118",
+  "items" : 3
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/musikquizzen?format=podcast&limit=100",
+  "name" : "Musikquizzen",
+  "date" : "20180118",
+  "items" : 21
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/nattens-dronning.xml?format=podcast&limit=500",
+  "name" : "Nattens dronning",
+  "date" : "20180118",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/orientering?format=podcast&limit=100",
+  "name" : "Orientering",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/overvurderet.xml?format=podcast&limit=500",
+  "name" : "Overvurderet",
+  "date" : "20180118",
+  "items" : 4
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/p1-business?format=podcast&limit=100",
+  "name" : "P1 Business",
+  "date" : "20180118",
+  "items" : 27
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/p1-dokumentar?format=podcast&limit=100",
+  "name" : "P1 Dokumentar",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/p1-morgen?format=podcast&limit=100",
+  "name" : "P1 Morgen",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/p2koncerten?format=podcast&limit=500",
+  "name" : "P2 koncerten",
+  "date" : "20180118",
+  "items" : 195
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/p6-beat-elsker.xml?format=podcast&limit=500",
+  "name" : "P6 BEAT elsker - podcast",
+  "date" : "20180118",
+  "items" : 30
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/p7-maraton?format=podcast&limit=100",
+  "name" : "P7 MIX Maraton - podcast",
+  "date" : "20180118",
+  "items" : 56
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/public-service.xml?format=podcast&limit=500",
+  "name" : "Public service",
+  "date" : "20180118",
+  "items" : 11
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/radiodrama-podcast?format=podcast&limit=500",
+  "name" : "Radiodrama",
+  "date" : "20180118",
+  "items" : 40
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/radiofortaellinger?format=podcast&limit=100",
+  "name" : "Radiofortællinger",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/recept-radio.xml?format=podcast&limit=500",
+  "name" : "Recept",
+  "date" : "20180118",
+  "items" : 23
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/rosenkjaerprisen?format=podcast&limit=100",
+  "name" : "Rosenkjærprisen",
+  "date" : "20180118",
+  "items" : 99
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/sagnfolket.xml?format=podcast&limit=500",
+  "name" : "Sagnfolket",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/selvsving?format=podcast&limit=100",
+  "name" : "Selvsving",
+  "date" : "20180118",
+  "items" : 46
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/shitstorm.xml?format=podcast&limit=500",
+  "name" : "Shitstorm",
+  "date" : "20180118",
+  "items" : 2
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/skoenlitteratur-pa-p1?format=podcast&limit=100",
+  "name" : "Skønlitteratur på P1",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/slotsholmen.xml?format=podcast&limit=500",
+  "name" : "Slotsholmen",
+  "date" : "20180118",
+  "items" : 25
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/supertanker.xml?format=podcast&limit=500",
+  "name" : "Supertanker",
+  "date" : "20180118",
+  "items" : 42
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/tryk-play-for-mord.xml?format=podcast&limit=500",
+  "name" : "Tryk play for mord",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/ugens-gaest-p1?format=podcast&limit=100",
+  "name" : "Ugens gæst",
+  "date" : "20180118",
+  "items" : 23
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/ulkegade.xml?format=podcast&limit=500",
+  "name" : "Ulkegade",
+  "date" : "20180118",
+  "items" : 12
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/verden-ifoelge-gram?format=podcast&limit=100",
+  "name" : "Verden ifølge Gram",
+  "date" : "20180118",
+  "items" : 94
+}, {
+  "uri" : "https://www.dr.dk/mu/Feed/videnskabens-verden?format=podcast&limit=100",
+  "name" : "Videnskabens Verden",
+  "date" : "20180118",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/adgang-med-abdel.xml?format=podcast&limit=500",
+  "name" : "Adgang med Abdel",
+  "date" : "20180109",
+  "items" : 30
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/barometeret?format=podcast&limit=500",
+  "name" : "Barometeret",
+  "date" : "20171229",
+  "items" : 91
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/beethovens-9-symfonier-ifoelge-kristian-leth?format=podcast&limit=100",
+  "name" : "Beethovens 9 symfonier ifølge Kristian Leth",
+  "date" : "20171226",
+  "items" : 9
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/binge-med-frederik-og-kasper.xml?format=podcast&limit=500",
+  "name" : "Binge - med Frederik og Kasper",
+  "date" : "20180109",
+  "items" : 24
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/bravo?format=podcast&limit=100",
+  "name" : "Bravo - med Lotte Heise",
+  "date" : "20180109",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/brinkmann-paa-p1.xml?format=podcast&limit=500",
+  "name" : "Brinkmann på P1",
+  "date" : "20171228",
+  "items" : 28
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/de-helt-store-draebere.xml?format=podcast&limit=500",
+  "name" : "De helt store dræbere",
+  "date" : "20171226",
+  "items" : 4
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/de-sorte-spejdere-podcast.xml?format=podcast&limit=500",
+  "name" : "De Sorte Spejdere - podcast",
+  "date" : "20180118",
+  "items" : 316
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/debut-programmer?format=podcast&limit=100",
+  "name" : "Debut",
+  "date" : "20171226",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/den-nordiske-odysse.xml?format=podcast&limit=500",
+  "name" : "Den Nordiske Odyssé",
+  "date" : "20180109",
+  "items" : 13
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/den-sorte-boks-podcast.xml?format=podcast&limit=500",
+  "name" : "Den sorte boks - podcast",
+  "date" : "20171228",
+  "items" : 39
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/den-sorte-gryde?format=podcast&limit=100",
+  "name" : "Den Sorte Gryde",
+  "date" : "20171228",
+  "items" : 26
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/den-store-poptur.xml?format=podcast&limit=500",
+  "name" : "Den Store Poptur",
+  "date" : "20171226",
+  "items" : 41
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/den-yderste-oe-anders-lund-madsen-pa-faeroeerne.xml?format=podcast&limit=500",
+  "name" : "Anders Lund Madsen på Den Yderste Ø",
+  "date" : "20180118",
+  "items" : 3
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/det-andet-koen-for-en-dag.xml?format=podcast&limit=500",
+  "name" : "Det andet køn for en dag",
+  "date" : "20171228",
+  "items" : 1
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/det-du-frygter.xml?format=podcast&limit=500",
+  "name" : "Det du frygter",
+  "date" : "20171229",
+  "items" : 13
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/det-perfekte-offer.xml?format=podcast&limit=500",
+  "name" : "Det perfekte offer",
+  "date" : "20171229",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/digitalt.xml?format=podcast&limit=500",
+  "name" : "Digitalt",
+  "date" : "20171229",
+  "items" : 21
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/dobbeltmordet.xml?format=podcast&limit=500",
+  "name" : "Dobbeltmordet",
+  "date" : "20171229",
+  "items" : 9
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/eksistens-radio?format=podcast&limit=100",
+  "name" : "Eksistens",
+  "date" : "20171229",
+  "items" : 96
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/elsker-dig-for-evigt-radio.xml?format=podcast&limit=500",
+  "name" : "Elsker dig for evigt",
+  "date" : "20171228",
+  "items" : 4
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/eu-i-frit-fald.xml?format=podcast&limit=500",
+  "name" : "EU i frit fald",
+  "date" : "20171225",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/fonk-det-er-podcast.xml?format=podcast&limit=500",
+  "name" : "FONK! Det er podcast",
+  "date" : "20180109",
+  "items" : 68
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/fra-a-til-b-med-anders-bisgaard.xml?format=podcast&limit=500",
+  "name" : "Fra A til B - med Anders Bisgaard",
+  "date" : "20171228",
+  "items" : 5
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/hithouse?format=podcast&limit=100",
+  "name" : "Hithouse",
+  "date" : "20171229",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/hoeje-haele-og-store-beslutninger.xml?format=podcast&limit=500",
+  "name" : "Høje hæle og store beslutninger",
+  "date" : "20171229",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/hullet-i-julen.xml?format=podcast&limit=500",
+  "name" : "Hullet i julen",
+  "date" : "20171229",
+  "items" : 24
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/jazz-top-50-radio.xml?format=podcast&limit=500",
+  "name" : "Jazz Top 50",
+  "date" : "20180109",
+  "items" : 10
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/jazzmosfaeren-med-master-fatman?format=podcast&limit=500",
+  "name" : "Jazzmosfæren med Master Fatman",
+  "date" : "20180109",
+  "items" : 51
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/jeg-er-mobilafhaengig-med-thomas-skov.xml?format=podcast&limit=500",
+  "name" : "Jeg er mobilafhængig - med Thomas Skov",
+  "date" : "20171228",
+  "items" : 5
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/jultra-store-noerdernes-julekalender.xml?format=podcast&limit=500",
+  "name" : "JULTRA - Store Nørdernes julekalender",
+  "date" : "20180118",
+  "items" : 14
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/kaere-carl-breve-og-sange-fra-carl-nielsen-og-anne-marie-carl-nielsens-aegteskab.xml?format=podcast&limit=500",
+  "name" : "Kære Carl... Breve og sange fra Carl Nielsen og Anne Marie Carl Nielsens ægteskab",
+  "date" : "20171228",
+  "items" : 4
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/kejser.xml?format=podcast&limit=500",
+  "name" : "Kejser",
+  "date" : "20171228",
+  "items" : 132
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/klassikere-genfortalt-saeson-2.xml?format=podcast&limit=500",
+  "name" : "Klassikere Genfortalt II",
+  "date" : "20180118",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/klassisk-top-50-opera.xml?format=podcast&limit=500",
+  "name" : "Klassisk top 50 Opera",
+  "date" : "20180109",
+  "items" : 22
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/klog-pa-sprog.xml?format=podcast&limit=500",
+  "name" : "Klog på Sprog",
+  "date" : "20180109",
+  "items" : 26
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/korrespondenternes-klub.xml?format=podcast&limit=500",
+  "name" : "Korrespondenternes klub",
+  "date" : "20171225",
+  "items" : 17
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/leonard-cohen-en-radiobiografi?format=podcast&limit=100",
+  "name" : "Leonard Cohen - en radiobiografi",
+  "date" : "20171228",
+  "items" : 3
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/leonard-cohen-radio.xml?format=podcast&limit=500",
+  "name" : "Leonard Cohen - Closing Time",
+  "date" : "20171226",
+  "items" : 5
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/ludermanifestet.xml?format=podcast&limit=500",
+  "name" : "Ludermanifestet",
+  "date" : "20171229",
+  "items" : 8
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/mads-monopolet-podcast?format=podcast&limit=500",
+  "name" : "Mads & Monopolet - podcast",
+  "date" : "20171228",
+  "items" : 435
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/meget-mere-matador.xml?format=podcast&limit=500",
+  "name" : "Meget mere Matador",
+  "date" : "20171226",
+  "items" : 13
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/mennesker-og-medier?format=podcast&limit=100",
+  "name" : "Mennesker og medier",
+  "date" : "20180109",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/mennesker-og-tro?format=podcast&limit=100",
+  "name" : "Mennesker og tro",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/min-opera.xml?format=podcast&limit=500",
+  "name" : "Min opera",
+  "date" : "20180118",
+  "items" : 5
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/monster-buster-2?format=podcast&limit=500",
+  "name" : "Monster buster",
+  "date" : "20180118",
+  "items" : 17
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/monte-carlo?format=podcast&limit=100",
+  "name" : "Monte Carlo",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/nattens-dronning.xml?format=podcast&limit=500",
+  "name" : "Nattens dronning",
+  "date" : "20171229",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/noerd-i-jordan.xml?format=podcast&limit=500",
+  "name" : "Store Nørd i Jordan",
+  "date" : "20171226",
+  "items" : 1
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/opera-i-guldalderens-koebenhavn.xml?format=podcast&limit=500",
+  "name" : "Opera i guldalderens København",
+  "date" : "20180109",
+  "items" : 10
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/orientering-kort-og-godt.xml?format=podcast&limit=500",
+  "name" : "Orientering - Kort og Godt",
+  "date" : "20171228",
+  "items" : 33
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/orientering?format=podcast&limit=100",
+  "name" : "Orientering",
+  "date" : "20171229",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p1-business?format=podcast&limit=100",
+  "name" : "P1 Business",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p1-debat.xml?format=podcast&limit=500",
+  "name" : "P1 Debat",
+  "date" : "20171229",
+  "items" : 139
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p1-dokumentar?format=podcast&limit=100",
+  "name" : "P1 Dokumentar",
+  "date" : "20171229",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p1-satire.xml?format=podcast&limit=500",
+  "name" : "P1 Satire",
+  "date" : "20171229",
+  "items" : 47
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p1s-alternative-kulturkanon.xml?format=podcast&limit=500",
+  "name" : "P1's Alternative Kulturkanon: 12 begreber - 48 værker",
+  "date" : "20171228",
+  "items" : 47
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p2koncerten?format=podcast&limit=500",
+  "name" : "P2 koncerten",
+  "date" : "20180118",
+  "items" : 195
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p3dokumentar.xml?format=podcast&limit=500",
+  "name" : "P3 Dokumentar: Mig & Markus",
+  "date" : "20171229",
+  "items" : 6
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p6-beat-elsker.xml?format=podcast&limit=500",
+  "name" : "P6 BEAT elsker - podcast",
+  "date" : "20171225",
+  "items" : 30
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/p7-maraton?format=podcast&limit=100",
+  "name" : "P7 MIX Maraton - podcast",
+  "date" : "20171228",
+  "items" : 55
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/pop-med-milling-og-molbech.xml?format=podcast&limit=500",
+  "name" : "Pop! Med Milling og Molbech",
+  "date" : "20180109",
+  "items" : 20
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/pop-op-med-p7-mix-radio.xml?format=podcast&limit=500",
+  "name" : "Stå op med P7 MIX",
+  "date" : "20171228",
+  "items" : 95
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/radiodrama-podcast?format=podcast&limit=500",
+  "name" : "Radiodrama",
+  "date" : "20171229",
+  "items" : 34
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/radiofortaellinger?format=podcast&limit=100",
+  "name" : "Radiofortællinger",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/ring-til-herrens-veje.xml?format=podcast&limit=500",
+  "name" : "Ring til Herrens Veje",
+  "date" : "20171225",
+  "items" : 1
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/ring-til-regeringen?format=podcast&limit=100",
+  "name" : "Ring til regeringen",
+  "date" : "20171225",
+  "items" : 16
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/rosa-fra-rouladegade-iii.xml?format=podcast&limit=500",
+  "name" : "Rosa fra Rouladegade",
+  "date" : "20180118",
+  "items" : 32
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/rosenkjaerprisen?format=podcast&limit=100",
+  "name" : "Rosenkjærprisen",
+  "date" : "20171228",
+  "items" : 99
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/sadan-kan-du-hoere-det-er.xml?format=podcast&limit=500",
+  "name" : "Sådan kan du høre det er - Podcast",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/selvsving?format=podcast&limit=100",
+  "name" : "Selvsving",
+  "date" : "20171229",
+  "items" : 47
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/sidste-mand-slukker-lyset.xml?format=podcast&limit=500",
+  "name" : "Sidste mand slukker lyset",
+  "date" : "20180118",
+  "items" : 21
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/skaeg-med-matematik.xml?format=podcast&limit=500",
+  "name" : "Skæg med matematik",
+  "date" : "20180109",
+  "items" : 16
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/slotsholmen.xml?format=podcast&limit=500",
+  "name" : "Slotsholmen",
+  "date" : "20171228",
+  "items" : 23
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/sorgens-dag-musik-til-den-du-savner.xml?format=podcast&limit=500",
+  "name" : "Sorgens dag: Musik til den du savner",
+  "date" : "20171228",
+  "items" : 2
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/supertanker.xml?format=podcast&limit=500",
+  "name" : "Supertanker",
+  "date" : "20171229",
+  "items" : 40
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/taendt.xml?format=podcast&limit=500",
+  "name" : "Tændt",
+  "date" : "20171228",
+  "items" : 21
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/tidsaand.xml?format=podcast&limit=500",
+  "name" : "Tidsånd",
+  "date" : "20180118",
+  "items" : 54
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/top-1000.xml?format=podcast&limit=500",
+  "name" : "LOL DK",
+  "date" : "20171228",
+  "items" : 116
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/tv-avisen-med-sporten?format=podcast&limit=100",
+  "name" : "TV AVISEN 18:30",
+  "date" : "20180109",
+  "items" : 29
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/verden-ifoelge-gram?format=podcast&limit=100",
+  "name" : "Verden ifølge Gram",
+  "date" : "20171229",
+  "items" : 91
+}, {
+  "uri" : "https://www.dr.dk/mu/feed/videnskabens-verden?format=podcast&limit=100",
+  "name" : "Videnskabens Verden",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "https://www.herning-gym.dk/feed/podcast/bogkvidder",
+  "name" : "Bogkvidder fra Herning Gymnasium",
+  "date" : "20171220",
+  "items" : 16
+} ]

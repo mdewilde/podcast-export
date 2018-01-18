@@ -1,0 +1,765 @@
+[ {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/dvojka.rss",
+  "name" : "Dvojka",
+  "date" : "20180114",
+  "items" : 21
+}, {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/kv.rss",
+  "name" : "Karlovy Vary",
+  "date" : "20180112",
+  "items" : 50
+}, {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/olomouc.rss",
+  "name" : "Olomouc",
+  "date" : "20171201",
+  "items" : 33
+}, {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/plus.rss",
+  "name" : "Plus",
+  "date" : "20180114",
+  "items" : 44
+}, {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/radiowave.rss",
+  "name" : "Radio Wave",
+  "date" : "20180113",
+  "items" : 50
+}, {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/radiozurnal.rss",
+  "name" : "Radiožurnál",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/strednicechy.rss",
+  "name" : "Region, Střední Čechy",
+  "date" : "20180109",
+  "items" : 49
+}, {
+  "uri" : "http://api.rozhlas.cz/data/v2/podcast/station/vltava.rss",
+  "name" : "Vltava",
+  "date" : "20180111",
+  "items" : 5
+}, {
+  "uri" : "http://apokalypsavislamu.podomatic.com/rss2.xml",
+  "name" : "Konec světa podle Islámu a Koránu",
+  "date" : "20171214",
+  "items" : 6
+}, {
+  "uri" : "http://appliste.cz/itunes_2min/feed.xml",
+  "name" : "2minutovÃ½ pÅehled Apple tÃ½dne",
+  "date" : "20171228",
+  "items" : 19
+}, {
+  "uri" : "http://appliste.cz/zlutapohovka/feed.xml",
+  "name" : "Žlutá pohovka",
+  "date" : "20180117",
+  "items" : 7
+}, {
+  "uri" : "http://deeptalks.libsyn.com/rss",
+  "name" : "Deep Talks",
+  "date" : "20171227",
+  "items" : 6
+}, {
+  "uri" : "http://elkast.i-logout.cz/elkast.php",
+  "name" : "el-Kást",
+  "date" : "20121025",
+  "items" : 8
+}, {
+  "uri" : "http://feed.byznyspark.cz/audio.xml",
+  "name" : "ByznysPark (audio)",
+  "date" : "20170628",
+  "items" : 25
+}, {
+  "uri" : "http://feed.byznyspark.cz/video.xml",
+  "name" : "ByznysPark",
+  "date" : "20170628",
+  "items" : 25
+}, {
+  "uri" : "http://feeds.feedburner.com/Pohadkar?format=xml",
+  "name" : "Pohádkář",
+  "date" : "20170408",
+  "items" : 16
+}, {
+  "uri" : "http://feeds.feedburner.com/lubospavelspodcast",
+  "name" : "Pohádkář 2",
+  "date" : "20171214",
+  "items" : 13
+}, {
+  "uri" : "http://feeds.feedburner.com/radiocitycz/flirt",
+  "name" : "Nový ranní flirt - Radio City 93,7 FM",
+  "date" : "20110629",
+  "items" : 99
+}, {
+  "uri" : "http://feeds.feedburner.com/radiocitycz/oto_a_olina",
+  "name" : "Oto a Olina - Radio City 93,7 FM",
+  "date" : "20120629",
+  "items" : 99
+}, {
+  "uri" : "http://feeds.feedburner.com/snidane",
+  "name" : "Snídaně s ...",
+  "date" : "20130821",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.feedburner.com/soundcloud/uRWP",
+  "name" : "Proti Proudu",
+  "date" : "20171228",
+  "items" : 35
+}, {
+  "uri" : "http://feeds.feedburner.com/strategicke-zisky",
+  "name" : "Strategické zisky",
+  "date" : "20180112",
+  "items" : 95
+}, {
+  "uri" : "http://feeds.lds.org/worldwide-devotional-mp3-ces",
+  "name" : "Worldwide Devotional For Young Adults | MP3 | CZECH",
+  "date" : "20170921",
+  "items" : 40
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:139596369/sounds.rss",
+  "name" : "Kávička s Michalem",
+  "date" : "20171228",
+  "items" : 162
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:141544632/sounds.rss",
+  "name" : "Médiář",
+  "date" : "20161123",
+  "items" : 51
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:144334586/sounds.rss",
+  "name" : "Online s úsměvem",
+  "date" : "20171130",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:150377069/sounds.rss",
+  "name" : "Rodina 2.0",
+  "date" : "20151123",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:183102845/sounds.rss",
+  "name" : "Kafemlejnek.TV",
+  "date" : "20180109",
+  "items" : 31
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:206444980/sounds.rss",
+  "name" : ".NET.CZ",
+  "date" : "20171221",
+  "items" : 19
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:212853839/sounds.rss",
+  "name" : "Sedm plus ... Miloše Čermáka",
+  "date" : "20171020",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:231345914/sounds.rss",
+  "name" : "Štěstí v práci",
+  "date" : "20171218",
+  "items" : 9
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:232851472/sounds.rss",
+  "name" : "Fotbal fokus podcast",
+  "date" : "20171221",
+  "items" : 105
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:237429383/sounds.rss",
+  "name" : "Marketingové tipy | MasteredMonkey",
+  "date" : "20170114",
+  "items" : 4
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:237862872/sounds.rss",
+  "name" : "SOFFA podcast",
+  "date" : "20171013",
+  "items" : 12
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:249427376/sounds.rss",
+  "name" : "Na volné noze",
+  "date" : "20171219",
+  "items" : 139
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:266728041/sounds.rss",
+  "name" : "Vzhůru dolů podcast",
+  "date" : "20171217",
+  "items" : 8
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:288702061/sounds.rss",
+  "name" : "Podcast Zhasni!",
+  "date" : "20170621",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:314319551/sounds.rss",
+  "name" : "GrunexCast",
+  "date" : "20171224",
+  "items" : 6
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:333244901/sounds.rss",
+  "name" : "Vortex",
+  "date" : "20171223",
+  "items" : 14
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:352063271/sounds.rss",
+  "name" : "Z Podpalubí",
+  "date" : "20180109",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:50642260/sounds.rss",
+  "name" : "365 cups of coffee",
+  "date" : "20160816",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:50647070/sounds.rss",
+  "name" : "Roth Wellden's Podcast",
+  "date" : "20170516",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:53231846/sounds.rss",
+  "name" : "PROBUDOBRA SHOW",
+  "date" : "20180113",
+  "items" : 36
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:7003459/sounds.rss",
+  "name" : "Vaše jméno je vaše značka - nejen o kreativním podnikání",
+  "date" : "20171227",
+  "items" : 11
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:87950060/sounds.rss",
+  "name" : "Život a Firma 2.0 s Davidem Kiršem",
+  "date" : "20171219",
+  "items" : 77
+}, {
+  "uri" : "http://games.tiscali.cz/podcast/rss.xml",
+  "name" : "Fight Club",
+  "date" : "20180118",
+  "items" : 414
+}, {
+  "uri" : "http://hovorysguruem.cz/?feed=podcast",
+  "name" : "Hovory s Guruem",
+  "date" : "20170608",
+  "items" : 8
+}, {
+  "uri" : "http://i.iinfo.cz/files/podnikatel/505/01-itunes-videobiz-mobile-xml.xml",
+  "name" : "Videobiz (Mobile)",
+  "date" : "20140527",
+  "items" : 92
+}, {
+  "uri" : "http://iklik.podbean.com/feed/",
+  "name" : "i-klik",
+  "date" : "20111011",
+  "items" : 6
+}, {
+  "uri" : "http://jakubsobek.podomatic.com/rss2.xml",
+  "name" : "Mytologie Grécka - Jakub Sobek",
+  "date" : "20171214",
+  "items" : 20
+}, {
+  "uri" : "http://justcast.herokuapp.com/shows/radek-spidla-pohadky-zdarma/audioposts.rss",
+  "name" : "Pohádky zdarma",
+  "date" : "20140828",
+  "items" : 3
+}, {
+  "uri" : "http://liborcervinka.podbean.com/feed/",
+  "name" : "Top Secret-Official Pop & Film Podcast",
+  "date" : "20120914",
+  "items" : 4
+}, {
+  "uri" : "http://log-out.cz/feed/podcast",
+  "name" : "ESK Log-out",
+  "date" : "20171214",
+  "items" : 10
+}, {
+  "uri" : "http://martinrosulek.podbean.com/feed/",
+  "name" : "Digitální nomádství - práce na dálku a cestování",
+  "date" : "20170613",
+  "items" : 7
+}, {
+  "uri" : "http://modrakrev.libsyn.com/rss",
+  "name" : "Modrá krev - Reklama na Facebooku",
+  "date" : "20171219",
+  "items" : 7
+}, {
+  "uri" : "http://podcasting.expresradio.cz/listen.xml?podcast=special",
+  "name" : "Expres speci�l",
+  "date" : "20180118",
+  "items" : 26
+}, {
+  "uri" : "http://realitnivideokurz.podomatic.com/rss2.xml",
+  "name" : "1. realitní videokurz v České republice",
+  "date" : "20171214",
+  "items" : 7
+}, {
+  "uri" : "http://redbullcz.libsyn.com/rss",
+  "name" : "RedBull.cz",
+  "date" : "20171225",
+  "items" : 11
+}, {
+  "uri" : "http://tajemstvikoranu.podomatic.com/rss2.xml",
+  "name" : "Tajemství Koránu",
+  "date" : "20171214",
+  "items" : 16
+}, {
+  "uri" : "http://ttb.twr.org/rss/czech_main.xml",
+  "name" : "Světem Bible@ttb.twr.org/czech",
+  "date" : "20180117",
+  "items" : 261
+}, {
+  "uri" : "http://ucetniportal.podbean.com/feed/",
+  "name" : "Pěva Čouková a život s Účetním portálem",
+  "date" : "20160811",
+  "items" : 12
+}, {
+  "uri" : "http://unasveskole.eu/podcastgen/feed.xml",
+  "name" : "MILAN KH@S PODCAST",
+  "date" : "20171230",
+  "items" : 10
+}, {
+  "uri" : "http://universal.cz/upload/files/lucie_itunes_rss.xml",
+  "name" : "Podcast Lucie",
+  "date" : "20130614",
+  "items" : 3
+}, {
+  "uri" : "http://www.ac.vys.cz/rss/podcast-kazani-vyskov.xml",
+  "name" : "Apoštolská církev Vyškov",
+  "date" : "20171217",
+  "items" : 11
+}, {
+  "uri" : "http://www.bal.cekuj.net/?feed=videocast",
+  "name" : "Videocasty společnosti Beneš a Lát a.s. » Videocast BaL",
+  "date" : "20150612",
+  "items" : 10
+}, {
+  "uri" : "http://www.cnb.cz/cs/menova_politika/br_zapisy_z_jednani/tkbr_podcast.xml",
+  "name" : "Měnová rozhodnutí bankovní rady České národní banky",
+  "date" : "20171221",
+  "items" : 73
+}, {
+  "uri" : "http://www.davidsvoboda.cz/podcasts/meditace/meditace-podcast.xml",
+  "name" : "Meditace pro kaÅ¾dÃ½ den",
+  "date" : "20141224",
+  "items" : 17
+}, {
+  "uri" : "http://www.forbes.cz/radio/rss.xml",
+  "name" : "Forbes Radio",
+  "date" : "20170419",
+  "items" : 34
+}, {
+  "uri" : "http://www.fsrecs.com/metalcast/metalcast.xml",
+  "name" : "Forbidden Society Recordings METALCAST",
+  "date" : "20170725",
+  "items" : 40
+}, {
+  "uri" : "http://www.fsrecs.com/promocast/podcast.xml",
+  "name" : "Forbidden Society Promo Mixes",
+  "date" : "20170829",
+  "items" : 17
+}, {
+  "uri" : "http://www.hrej.cz/podcasty/podcast.xml",
+  "name" : "hPod",
+  "date" : "20060120",
+  "items" : 724
+}, {
+  "uri" : "http://www.kolamadolu.cz/feed/podcast/",
+  "name" : "Kolama dolu podcast",
+  "date" : "20171018",
+  "items" : 30
+}, {
+  "uri" : "http://www.lekarenskypodcast.cz/rubrika-co-vy-na-to-pane-presidente/rss.xml",
+  "name" : "APATYKÁŘ® – Co Vy na to, pane presidente?",
+  "date" : "20180114",
+  "items" : 20
+}, {
+  "uri" : "http://www.lekarenskypodcast.cz/rubrika-hovory-z-kuksu/rss.xml",
+  "name" : "APATYKÁŘ® – Hovory z Kuksu",
+  "date" : "20180114",
+  "items" : 20
+}, {
+  "uri" : "http://www.lekarenskypodcast.cz/rubrika-okenko-pro-vakciny-net/rss.xml",
+  "name" : "APATYKÁŘ® – Okénko pro Vakcíny.net",
+  "date" : "20180114",
+  "items" : 11
+}, {
+  "uri" : "http://www.lekarenskypodcast.cz/rubrika-podcast-pro-hosta/rss.xml",
+  "name" : "APATYKÁŘ® – Podcast pro hosta",
+  "date" : "20180114",
+  "items" : 20
+}, {
+  "uri" : "http://www.lekarenskypodcast.cz/rubrika-podcast-special/rss.xml",
+  "name" : "APATYKÁŘ® – Podcast - speciál",
+  "date" : "20180114",
+  "items" : 15
+}, {
+  "uri" : "http://www.lekarenskypodcast.cz/rubrika-tematicky-den/rss.xml",
+  "name" : "APATYKÁŘ® – Tématický den",
+  "date" : "20180114",
+  "items" : 20
+}, {
+  "uri" : "http://www.misia.sk/podcast/czech/",
+  "name" : "Apostolic Prophetic Bible Ministry - czech",
+  "date" : "20180114",
+  "items" : 830
+}, {
+  "uri" : "http://www.plastikapraha.cz/itunes.php",
+  "name" : "MUDr. TomÃ¡Å¡ DoleÅ¾al - PlastickÃ¡ chirurgie Praha",
+  "date" : "20100101",
+  "items" : 1
+}, {
+  "uri" : "http://www.podcastgarden.com/podcast/podcast-rss.php?id=3741",
+  "name" : "The Journey of Trance",
+  "date" : "20170629",
+  "items" : 25
+}, {
+  "uri" : "http://www.propagacenainternetu.cz/feed/podcast",
+  "name" : "Propagace Na Internetu Podcast - SEO, Internetový Marketing, Email Marketing, Copywriting",
+  "date" : "20170215",
+  "items" : 5
+}, {
+  "uri" : "http://www.radio.cz/feeds/rss/cs/rubriky/cestina.xml",
+  "name" : "Radio Praha - Rubrika ÄeÅ¡tina, jak ji neznÃ¡te",
+  "date" : "20121229",
+  "items" : 30
+}, {
+  "uri" : "http://www.radiodixie.cz/xml/radio/podcasty_rss?r=1",
+  "name" : "RadioDixie - Blues bar",
+  "date" : "20150421",
+  "items" : 25
+}, {
+  "uri" : "http://www.radiodixie.cz/xml/radio/podcasty_rss?r=5",
+  "name" : "RadioDixie - Country Heroes",
+  "date" : "20150717",
+  "items" : 26
+}, {
+  "uri" : "http://www.radiodixie.cz/xml/radio/podcasty_rss?r=6",
+  "name" : "RadioDixie - Honkytonk jukebox",
+  "date" : "20180104",
+  "items" : 55
+}, {
+  "uri" : "http://www.radiodixie.cz/xml/radio/podcasty_rss?r=7",
+  "name" : "RadioDixie - Bemanova Noční můra",
+  "date" : "20180111",
+  "items" : 63
+}, {
+  "uri" : "http://www.twr.cz/audio/twr.xml",
+  "name" : "Pořady TWR a Rádia 7",
+  "date" : "20180107",
+  "items" : 459
+}, {
+  "uri" : "http://www.zdencinpokec.cz/feed/podcast/",
+  "name" : "Zdenčin pokec – podcast úspěšných",
+  "date" : "20171204",
+  "items" : 63
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/cestovani.rss",
+  "name" : "ÄeskÃ½ rozhlas - CestovÃ¡nÃ­",
+  "date" : "20180106",
+  "items" : 25
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/cro1.rss",
+  "name" : "Radiožurnál",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/historie.rss",
+  "name" : "ÄeskÃ½ rozhlas - Historie",
+  "date" : "20180114",
+  "items" : 30
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/kultura.rss#",
+  "name" : "ÄeskÃ½ rozhlas - UmÄnÃ­ a kultura",
+  "date" : "20180112",
+  "items" : 11
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/leonardo.rss",
+  "name" : "ÄeskÃ½ rozhlas - LeonardoÂ­",
+  "date" : "20180114",
+  "items" : 12
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/nabozenstvi.rss",
+  "name" : "Český rozhlas - Náboženství",
+  "date" : "20180114",
+  "items" : 24
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1002",
+  "name" : "Názory a argumenty",
+  "date" : "20130228",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=100466",
+  "name" : "Bon Appétit",
+  "date" : "20111227",
+  "items" : 44
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=100520",
+  "name" : "Ve vlastní šťávě",
+  "date" : "20170929",
+  "items" : 10
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101022",
+  "name" : "Názory a argumenty",
+  "date" : "20180113",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101024",
+  "name" : "Svět ve 20 minutách",
+  "date" : "20180113",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101030",
+  "name" : "Pro a proti",
+  "date" : "20180112",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101033",
+  "name" : "Historie Plus",
+  "date" : "20180113",
+  "items" : 49
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101036",
+  "name" : "Knížky Plus",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101064",
+  "name" : "Leonardo Plus",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101392",
+  "name" : "Hlavní zprávy - rozhovory a komentáře",
+  "date" : "20180118",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101637",
+  "name" : "Den podle...",
+  "date" : "20180112",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101645",
+  "name" : "Knihy, na které vám nezbyl čas",
+  "date" : "20170822",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101646",
+  "name" : "Jak to bylo doopravdy",
+  "date" : "20180108",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101647",
+  "name" : "Evropa Plus",
+  "date" : "20180106",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=101653",
+  "name" : "Interview Plus",
+  "date" : "20180112",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=136",
+  "name" : "Stalo se dnes",
+  "date" : "20150427",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=14",
+  "name" : "Zápisník zahraničních zpravodajů",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1672",
+  "name" : "Jak to vidí...",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1823",
+  "name" : "Ze čtvrti do čtvrti",
+  "date" : "20060127",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1937",
+  "name" : "Nedělní šálek kávy s Miroslavem Donutilem",
+  "date" : "20091220",
+  "items" : 49
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1964",
+  "name" : "Slovo na příští týden",
+  "date" : "20130224",
+  "items" : 49
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1967",
+  "name" : "Hovory na bělidle",
+  "date" : "20130226",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1972",
+  "name" : "Zaostřeno na vědu",
+  "date" : "20080428",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1976",
+  "name" : "Portréty",
+  "date" : "20180111",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=1979",
+  "name" : "Česká justice",
+  "date" : "20130222",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=2623",
+  "name" : "Nula-jednička",
+  "date" : "20130225",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=2628",
+  "name" : "Vstupte!",
+  "date" : "20130228",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=3108",
+  "name" : "Příběhy 20. století",
+  "date" : "20180107",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=3169",
+  "name" : "Dvacet minut Radiožurnálu",
+  "date" : "20180112",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=3175",
+  "name" : "Host Lucie Výborné",
+  "date" : "20180113",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=318",
+  "name" : "Káva o čtvrté",
+  "date" : "20180111",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=3184",
+  "name" : "Cestovatelský deník",
+  "date" : "20110903",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=4552",
+  "name" : "Stopy, fakta, tajemství...",
+  "date" : "20180108",
+  "items" : 4
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=464",
+  "name" : "Toulky českou minulostí",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=4743",
+  "name" : "Lenoška Iva Šmoldase",
+  "date" : "20140720",
+  "items" : 9
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=807",
+  "name" : "Lidé pera",
+  "date" : "20130226",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=820",
+  "name" : "Média v postmoderním světě",
+  "date" : "20140329",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=821",
+  "name" : "Hovory o politice",
+  "date" : "20130225",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/podcast_porady.php?p_po=91",
+  "name" : "Večerní Host Radiožurnálu",
+  "date" : "20180113",
+  "items" : 49
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/politika.rss",
+  "name" : "ÄeskÃ½ rozhlas - Politika: rozhovory, komentÃ¡Åe",
+  "date" : "20180114",
+  "items" : 30
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/radiowave.rss",
+  "name" : "Radio Wave",
+  "date" : "20180113",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/radiozurnal.rss",
+  "name" : "Radiožurnál",
+  "date" : "20180114",
+  "items" : 50
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/veda.rss",
+  "name" : "ÄeskÃ½ rozhlas - VÄda a technika",
+  "date" : "20180114",
+  "items" : 30
+}, {
+  "uri" : "http://www2.rozhlas.cz/podcast/vltava.rss",
+  "name" : "Vltava",
+  "date" : "20180111",
+  "items" : 5
+}, {
+  "uri" : "https://api.rozhlas.cz/data/v2/podcast/show/5180094.rss",
+  "name" : "Čelisti",
+  "date" : "20180108",
+  "items" : 10
+}, {
+  "uri" : "https://api.rozhlas.cz/data/v2/podcast/show/5180586.rss",
+  "name" : "Casablanca",
+  "date" : "20180107",
+  "items" : 10
+}, {
+  "uri" : "https://api.rozhlas.cz/data/v2/podcast/show/5183382.rss",
+  "name" : "Ve vlastní šťávě",
+  "date" : "20170929",
+  "items" : 10
+}, {
+  "uri" : "https://api.rozhlas.cz/data/v2/podcast/show/5183415.rss",
+  "name" : "Modeschau",
+  "date" : "20180109",
+  "items" : 10
+}, {
+  "uri" : "https://api.rozhlas.cz/data/v2/podcast/show/5183538.rss",
+  "name" : "Bourání",
+  "date" : "20171113",
+  "items" : 10
+}, {
+  "uri" : "https://api.rozhlas.cz/data/v2/podcast/show/5183697.rss",
+  "name" : "Diagnóza F",
+  "date" : "20180111",
+  "items" : 10
+}, {
+  "uri" : "https://api.rozhlas.cz/data/v2/podcast/show/5183916.rss",
+  "name" : "Quest",
+  "date" : "20180113",
+  "items" : 10
+}, {
+  "uri" : "https://audioboom.com/channels/4938427.rss",
+  "name" : "Podcast Život Jako Hra",
+  "date" : "20171220",
+  "items" : 107
+}, {
+  "uri" : "https://games.tiscali.cz/podcast/rss.xml",
+  "name" : "Fight Club",
+  "date" : "20171228",
+  "items" : 412
+}, {
+  "uri" : "https://mobilenet.cz/data/podcast/jablecny-podcast/feed.xml",
+  "name" : "Jablečný podcast (audio)",
+  "date" : "20171229",
+  "items" : 2
+}, {
+  "uri" : "https://mobilenet.cz/data/podcast/mobilecast/feed.xml",
+  "name" : "mobilecast (audio)",
+  "date" : "20171229",
+  "items" : 139
+}, {
+  "uri" : "https://www.novinky.cz/podcast/komentare.rss",
+  "name" : "Novinky.cz - Komentáře",
+  "items" : 20
+}, {
+  "uri" : "https://www.zive.cz/media/podcast.ashx?type=1",
+  "name" : "TÃ½den Å½ivÄ",
+  "date" : "20131006",
+  "items" : 235
+}, {
+  "uri" : "https://www.zive.cz/media/podcast.ashx?type=2",
+  "name" : "ZprÃ¡vy Å½ivÄ",
+  "date" : "20131005",
+  "items" : 203
+} ]

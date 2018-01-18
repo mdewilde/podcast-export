@@ -1,0 +1,46 @@
+[ {
+  "uri" : "http://arsenalsweden.libsyn.com/rss",
+  "name" : "Arsenal Sweden Podcast",
+  "date" : "20171224",
+  "items" : 100
+}, {
+  "uri" : "http://bolltrollbanke.libsyn.com/rss",
+  "name" : "Bolltroll & Banke's podcast",
+  "date" : "20180116",
+  "items" : 100
+}, {
+  "uri" : "http://feeds.feedburner.com/filertillkaffet2016",
+  "name" : "Filer till kaffet",
+  "date" : "20180111",
+  "items" : 56
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:48608978/sounds.rss",
+  "name" : "Magnus och Peppes podcast",
+  "date" : "20180105",
+  "items" : 202
+}, {
+  "uri" : "http://rss.acast.com/coltingsnaknasanning",
+  "name" : "Coltings Nakna Sanning",
+  "date" : "20171221",
+  "items" : 144
+}, {
+  "uri" : "http://rss.acast.com/fjardeuppgiften",
+  "name" : "Fjärde Uppgiften Podcast",
+  "date" : "20171109",
+  "items" : 83
+}, {
+  "uri" : "http://rss.acast.com/skrackpodden",
+  "name" : "Skräckpodden",
+  "date" : "20171219",
+  "items" : 7
+}, {
+  "uri" : "http://summit.libsyn.com/rss",
+  "name" : "Summit",
+  "date" : "20171219",
+  "items" : 100
+}, {
+  "uri" : "https://nouw.com/podcast_rss.ashx?id=10",
+  "name" : "Vad sa hon?",
+  "date" : "20171026",
+  "items" : 34
+} ]

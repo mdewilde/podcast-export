@@ -1,0 +1,76 @@
+[ {
+  "uri" : "http://feedpress.me/voiceofethiopia",
+  "name" : "Voice Of Ethiopia",
+  "date" : "20171216",
+  "items" : 2
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_amh",
+  "name" : "Deutsch – warum nicht? ክፍል 2 | ጀርመንኛ መማር | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_diskussionsforum",
+  "name" : "á¥ááá«á­ | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_europa_deutschland",
+  "name" : "አውሮጳን እና ጀርመንን የሚመለከቱ አርዕስት ያስተነትናል። | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_feature_der_woche",
+  "name" : "ááá°á¨ áá | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_fokus_afrika",
+  "name" : "ትኩረት በአፍሪቃ | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_hoererpost",
+  "name" : "á¨á áµáá®á½ ááµá¨á­ ááá¢ | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_jugendmagazin",
+  "name" : "á¨áá£á¶á½ ááá | Deutsche Welle",
+  "date" : "20171230",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_kultur",
+  "name" : "ባህላዊ ጉዳዮች | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_lbe",
+  "name" : "በማድመጥ መማር | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_nachrichten",
+  "name" : "ááá£ | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_unterhaltung",
+  "name" : "መዝናኛ | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_wirtschaft",
+  "name" : "ኤኮኖሚ ነክ ዜና | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_wissenschaft",
+  "name" : "በሳይንስ እና ቴክኒክ ላይ ያተኩራል። | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+}, {
+  "uri" : "http://rss.dw.com/xml/podcast_amh_zeitfunk",
+  "name" : "áá áá½ááµ | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 50
+} ]

@@ -1,0 +1,496 @@
+[ {
+  "uri" : "http://feeds.feedburner.com/idea/saade",
+  "name" : "Idea360",
+  "date" : "20180104",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/krist/kone",
+  "name" : "Kristuse Kogudus",
+  "date" : "20140301",
+  "items" : 47
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_digitund",
+  "name" : "Digitund",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_etnoscoop",
+  "name" : "Etnoscoop",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_kirillitsas-eesti",
+  "name" : "Kirillitsas Eesti",
+  "date" : "20180114",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_mehed-ei-nuta",
+  "name" : "Mehed Ei Nuta",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_muuli-ja-riikoja",
+  "name" : "Muuli ja Riikoja",
+  "date" : "20180114",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_muuli-ja-samost",
+  "name" : "Muuli ja Samost",
+  "date" : "20180114",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_naised-ei-jata",
+  "name" : "Naised ei jäta",
+  "date" : "20180114",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_oigus-ja-oiglus",
+  "name" : "Õigus ja Õiglus",
+  "date" : "20180114",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_olukorrast-ajakirjanduses",
+  "name" : "Olukorrast Ajakirjanduses",
+  "date" : "20180114",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_poliitikaguru",
+  "name" : "Poliitikaguru",
+  "date" : "20180114",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.feedburner.com/kukukuku_vanamehed-kolmandalt",
+  "name" : "Vanamehed Kolmandalt",
+  "date" : "20180118",
+  "items" : 10
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:221150862/sounds.rss",
+  "name" : "Äripäeva raadio",
+  "date" : "20171228",
+  "items" : 250
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:235122109/sounds.rss",
+  "name" : "Vaba mikrofon",
+  "date" : "20171127",
+  "items" : 52
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:236950899/sounds.rss",
+  "name" : "Gay Science",
+  "date" : "20170910",
+  "items" : 3
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:262801378/sounds.rss",
+  "name" : "Molacast",
+  "date" : "20171030",
+  "items" : 27
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:281511109/sounds.rss",
+  "name" : "Mõtteaine",
+  "date" : "20171228",
+  "items" : 55
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:317878409/sounds.rss",
+  "name" : "Investeerimisklubi",
+  "date" : "20171215",
+  "items" : 21
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:3888095/sounds.rss",
+  "name" : "Üks Ühele Podcast",
+  "date" : "20171203",
+  "items" : 5
+}, {
+  "uri" : "http://feeds.soundcloud.com/users/soundcloud:users:87462233/sounds.rss",
+  "name" : "Viies veerandaeg",
+  "date" : "20171227",
+  "items" : 110
+}, {
+  "uri" : "http://globaalsedeestlased.libsyn.com/rss",
+  "name" : "Globaalsed eestlased",
+  "date" : "20171215",
+  "items" : 33
+}, {
+  "uri" : "http://heli.err.ee/helid/exp/rahvaomakaitse.xml",
+  "name" : "Rahva Oma Kaitse | Raadio 2 | ERR",
+  "date" : "20180117",
+  "items" : 297
+}, {
+  "uri" : "http://minadisainer.ee/podcast/feed/mina-disainer/",
+  "name" : "Mina, Disainer",
+  "date" : "20161222",
+  "items" : 3
+}, {
+  "uri" : "http://podcast.kuku.postimees.ee/saated/spordireporter/feed/",
+  "name" : "Spordireporter",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://popkulturistid.com/feed/podcast/",
+  "name" : "Popkulturistid",
+  "date" : "20171217",
+  "items" : 32
+}, {
+  "uri" : "http://raadio1.ee/samostkross/feed/",
+  "name" : "Raadio1 » Samost ja Kross",
+  "date" : "20171227",
+  "items" : 10
+}, {
+  "uri" : "http://raharaadio.libsyn.com/rss",
+  "name" : "RahaRaadio: investeerimine | finantsiline vabadus | raha kogumine | säästmine",
+  "date" : "20171219",
+  "items" : 61
+}, {
+  "uri" : "http://services.err.ee/podcast/app/eesti_lugu.xml",
+  "name" : "Eesti lugu | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 492
+}, {
+  "uri" : "http://services.err.ee/podcast/app/must_vene.xml",
+  "name" : "Müstiline Venemaa | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 919
+}, {
+  "uri" : "http://services.err.ee/podcast/app/rahva_teenrid.xml",
+  "name" : "Rahva teenrid | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 133
+}, {
+  "uri" : "http://services.err.ee/podcast/series/1hommikumaa.xml",
+  "name" : "Hommikumaa vägevad | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 8
+}, {
+  "uri" : "http://services.err.ee/podcast/series/1loetud.xml",
+  "name" : "Loetud ja kirjutatud | Vikerraadio | ERR",
+  "date" : "20171228",
+  "items" : 48
+}, {
+  "uri" : "http://services.err.ee/podcast/series/1loodjalaulud.xml",
+  "name" : "Lood ja laulud | Vikerraadio | ERR",
+  "date" : "20171228",
+  "items" : 52
+}, {
+  "uri" : "http://services.err.ee/podcast/series/1samost.xml",
+  "name" : "Samost ja Ruussaar | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 64
+}, {
+  "uri" : "http://services.err.ee/podcast/series/2agenda.xml",
+  "name" : "Agenda | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 1469
+}, {
+  "uri" : "http://services.err.ee/podcast/series/2bertjajon.xml",
+  "name" : "Bert ja Jon heinamaal | Raadio 2 | ERR",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://services.err.ee/podcast/series/2laupaevahommik.xml",
+  "name" : "Laupaeva Hommik | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 77
+}, {
+  "uri" : "http://services.err.ee/podcast/series/2machinenation.xml",
+  "name" : "Machine Nation | Raadio 2 | ERR",
+  "date" : "20171226",
+  "items" : 95
+}, {
+  "uri" : "http://services.err.ee/podcast/series/2meloturniir.xml",
+  "name" : "Meloturniir | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 111
+}, {
+  "uri" : "http://services.err.ee/podcast/series/2popkulturistid.xml",
+  "name" : "Popkulturistid | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 15
+}, {
+  "uri" : "http://services.err.ee/podcast/series/2reispass.xml",
+  "name" : "Reispass | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 56
+}, {
+  "uri" : "http://services.err.ee/podcast/series/aiatark.xml",
+  "name" : "Aiatark | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 148
+}, {
+  "uri" : "http://services.err.ee/podcast/series/baltiscene.xml",
+  "name" : "Balti Jaam | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 273
+}, {
+  "uri" : "http://services.err.ee/podcast/series/eluedetabelid.xml",
+  "name" : "Elu Edetabelid | Raadio 2 | ERR",
+  "date" : "20180117",
+  "items" : 56
+}, {
+  "uri" : "http://services.err.ee/podcast/series/hallokosmos.xml",
+  "name" : "Hallo, Kosmos! | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 339
+}, {
+  "uri" : "http://services.err.ee/podcast/series/huvitaja.xml",
+  "name" : "Huvitaja | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 617
+}, {
+  "uri" : "http://services.err.ee/podcast/series/jutusaade.xml",
+  "name" : "Jutusaade | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 70
+}, {
+  "uri" : "http://services.err.ee/podcast/series/kuula-rand.xml",
+  "name" : "Kuula rändajat | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 467
+}, {
+  "uri" : "http://services.err.ee/podcast/series/maarjamerivooparro.xml",
+  "name" : "Maarja Merivoo-Parro | Raadio 2 | ERR",
+  "date" : "20171228",
+  "items" : 252
+}, {
+  "uri" : "http://services.err.ee/podcast/series/muusikanoukogu.xml",
+  "name" : "Muusikanõukogu | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 275
+}, {
+  "uri" : "http://services.err.ee/podcast/series/nestorjamorna.xml",
+  "name" : "Nestor ja Morna | Raadio 2 | ERR",
+  "date" : "20171228",
+  "items" : 98
+}, {
+  "uri" : "http://services.err.ee/podcast/series/olukorrastriigis.xml",
+  "name" : "Olukorrast Riigis | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 408
+}, {
+  "uri" : "http://services.err.ee/podcast/series/ooulikool.xml",
+  "name" : "Ööülikool | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 389
+}, {
+  "uri" : "http://services.err.ee/podcast/series/paevatee.xml",
+  "name" : "Päevatee | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 108
+}, {
+  "uri" : "http://services.err.ee/podcast/series/puustjapunaseks.xml",
+  "name" : "Puust Ja Punaseks | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 196
+}, {
+  "uri" : "http://services.err.ee/podcast/series/rahvaomakaitse.xml",
+  "name" : "Rahva Oma Kaitse | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 294
+}, {
+  "uri" : "http://services.err.ee/podcast/series/reporter.xml",
+  "name" : "Reporteritund | Vikerraadio | ERR",
+  "date" : "20171229",
+  "items" : 358
+}, {
+  "uri" : "http://services.err.ee/podcast/series/tjuunin.xml",
+  "name" : "Tjuun In | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 94
+}, {
+  "uri" : "http://services.err.ee/podcast/series/trammjabuss.xml",
+  "name" : "Tramm Ja Buss | Raadio 2 | ERR",
+  "date" : "20171228",
+  "items" : 63
+}, {
+  "uri" : "http://services.err.ee/podcast/series/uudisedjaportaal.xml",
+  "name" : "Uudised ja Portaal | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 69
+}, {
+  "uri" : "http://services.err.ee/podcast/series/vibratsioon.xml",
+  "name" : "Vibratsioon | Raadio 2 | ERR",
+  "date" : "20171229",
+  "items" : 96
+}, {
+  "uri" : "http://sound.valgusetee.ee/rss/viimased10.rss",
+  "name" : "Viimased 10 teenistust - Valguse Tee Vabakoguduse Podcast",
+  "date" : "20171228",
+  "items" : 10
+}, {
+  "uri" : "http://www.kahvel.ee/feed/podcast",
+  "name" : "Kahvel",
+  "date" : "20161125",
+  "items" : 15
+}, {
+  "uri" : "http://www.kinnisvararaadio.ee/feed",
+  "name" : "Kinnisvararaadio",
+  "date" : "20161106",
+  "items" : 45
+}, {
+  "uri" : "https://services.err.ee/podcast/app/eesti_lugu.xml",
+  "name" : "Eesti lugu | Vikerraadio | ERR",
+  "date" : "20171225",
+  "items" : 492
+}, {
+  "uri" : "https://services.err.ee/podcast/app/must_vene.xml",
+  "name" : "Müstiline Venemaa | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 921
+}, {
+  "uri" : "https://services.err.ee/podcast/app/rahva_teenrid.xml",
+  "name" : "Rahva teenrid | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 135
+}, {
+  "uri" : "https://services.err.ee/podcast/series/1hommikumaa.xml",
+  "name" : "Hommikumaa vägevad | Vikerraadio | ERR",
+  "date" : "20180117",
+  "items" : 8
+}, {
+  "uri" : "https://services.err.ee/podcast/series/1kabi.xml",
+  "name" : "Käbi ei kuku... | Vikerraadio | ERR",
+  "date" : "20180117",
+  "items" : 34
+}, {
+  "uri" : "https://services.err.ee/podcast/series/1samost.xml",
+  "name" : "Samost ja Ruussaar | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 66
+}, {
+  "uri" : "https://services.err.ee/podcast/series/2agenda.xml",
+  "name" : "Agenda | Raadio 2 | ERR",
+  "date" : "20180117",
+  "items" : 1509
+}, {
+  "uri" : "https://services.err.ee/podcast/series/2laupaevahommik.xml",
+  "name" : "Laupaeva Hommik | Raadio 2 | ERR",
+  "date" : "20171225",
+  "items" : 77
+}, {
+  "uri" : "https://services.err.ee/podcast/series/2meloturniir.xml",
+  "name" : "Meloturniir | Raadio 2 | ERR",
+  "date" : "20171225",
+  "items" : 111
+}, {
+  "uri" : "https://services.err.ee/podcast/series/2popkulturistid.xml",
+  "name" : "Popkulturistid | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 16
+}, {
+  "uri" : "https://services.err.ee/podcast/series/2reispass.xml",
+  "name" : "Reispass | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 57
+}, {
+  "uri" : "https://services.err.ee/podcast/series/aiatark.xml",
+  "name" : "Aiatark | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 150
+}, {
+  "uri" : "https://services.err.ee/podcast/series/baltiscene.xml",
+  "name" : "Balti Jaam | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 274
+}, {
+  "uri" : "https://services.err.ee/podcast/series/eluedetabelid.xml",
+  "name" : "Elu Edetabelid | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 55
+}, {
+  "uri" : "https://services.err.ee/podcast/series/hallokosmos.xml",
+  "name" : "Hallo, Kosmos! | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 339
+}, {
+  "uri" : "https://services.err.ee/podcast/series/huvitaja.xml",
+  "name" : "Huvitaja | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 623
+}, {
+  "uri" : "https://services.err.ee/podcast/series/jazzitup.xml",
+  "name" : "Jazzitup | Raadio 2 | ERR",
+  "date" : "20180117",
+  "items" : 98
+}, {
+  "uri" : "https://services.err.ee/podcast/series/jutusaade.xml",
+  "name" : "Jutusaade | Vikerraadio | ERR",
+  "date" : "20171225",
+  "items" : 70
+}, {
+  "uri" : "https://services.err.ee/podcast/series/kuula-rand.xml",
+  "name" : "Kuula rändajat | Vikerraadio | ERR",
+  "date" : "20171225",
+  "items" : 467
+}, {
+  "uri" : "https://services.err.ee/podcast/series/mnemo.xml",
+  "name" : "Mnemoturniir | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 145
+}, {
+  "uri" : "https://services.err.ee/podcast/series/muusikanoukogu.xml",
+  "name" : "Muusikanõukogu | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 277
+}, {
+  "uri" : "https://services.err.ee/podcast/series/nestorjamorna.xml",
+  "name" : "Nestor ja Morna | Raadio 2 | ERR",
+  "date" : "20180117",
+  "items" : 101
+}, {
+  "uri" : "https://services.err.ee/podcast/series/olukorrastriigis.xml",
+  "name" : "Olukorrast Riigis | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 410
+}, {
+  "uri" : "https://services.err.ee/podcast/series/ooulikool.xml",
+  "name" : "Ööülikool | Vikerraadio | ERR",
+  "date" : "20171225",
+  "items" : 389
+}, {
+  "uri" : "https://services.err.ee/podcast/series/paevatee.xml",
+  "name" : "Päevatee | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 109
+}, {
+  "uri" : "https://services.err.ee/podcast/series/progressioon.xml",
+  "name" : "Progressioon | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 99
+}, {
+  "uri" : "https://services.err.ee/podcast/series/puustjapunaseks.xml",
+  "name" : "Puust Ja Punaseks | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 198
+}, {
+  "uri" : "https://services.err.ee/podcast/series/rahvaomakaitse.xml",
+  "name" : "Rahva Oma Kaitse | Raadio 2 | ERR",
+  "date" : "20171225",
+  "items" : 294
+}, {
+  "uri" : "https://services.err.ee/podcast/series/reporter.xml",
+  "name" : "Reporteritund | Vikerraadio | ERR",
+  "date" : "20180109",
+  "items" : 360
+}, {
+  "uri" : "https://services.err.ee/podcast/series/tallinnexpress.xml",
+  "name" : "Tallinn Express | Raadio 2 | ERR",
+  "date" : "20171225",
+  "items" : 92
+}, {
+  "uri" : "https://services.err.ee/podcast/series/tjuunin.xml",
+  "name" : "Tjuun In | Raadio 2 | ERR",
+  "date" : "20171225",
+  "items" : 94
+}, {
+  "uri" : "https://services.err.ee/podcast/series/trammjabuss.xml",
+  "name" : "Tramm Ja Buss | Raadio 2 | ERR",
+  "date" : "20180109",
+  "items" : 63
+}, {
+  "uri" : "https://services.err.ee/podcast/series/uudisedjaportaal.xml",
+  "name" : "Uudised ja Portaal | Raadio 2 | ERR",
+  "date" : "20171225",
+  "items" : 69
+}, {
+  "uri" : "https://services.err.ee/podcast/series/vibratsioon.xml",
+  "name" : "Vibratsioon | Raadio 2 | ERR",
+  "date" : "20171225",
+  "items" : 95
+} ]

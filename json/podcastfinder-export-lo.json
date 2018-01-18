@@ -1,0 +1,26 @@
+[ {
+  "uri" : "http://feed.cri.cn/rss/0dc1f078-742b-42e5-833e-d51104fa6fb2",
+  "name" : "ເລື່ອງເລົ່າເບົາສະໝອງ",
+  "date" : "20141208",
+  "items" : 17
+}, {
+  "uri" : "http://feed.cri.cn/rss/b13ef1bb-7f31-4f56-8f68-2d87ed34d3ce",
+  "name" : "ລາຕີ CRI",
+  "date" : "20141208",
+  "items" : 2
+}, {
+  "uri" : "http://feeds.feedburner.com/LAOMK_VOH",
+  "name" : "AWR Lao / ພາສາລາວ / phasa lao",
+  "date" : "20171230",
+  "items" : 62
+}, {
+  "uri" : "http://streamer1.rfaweb.org/audio/LAO/Lao_podcast.php",
+  "name" : "ວິທຍຸເອເຊັຍເສຣີ",
+  "date" : "20180117",
+  "items" : 20
+}, {
+  "uri" : "https://lao.voanews.com/podcast/?count=50&zoneId=2348",
+  "name" : "ລາຍການກະຈາຍສຽງຂອງວີໂອເອ ລາວ - ສຽງອາເມຣິກາ ວີໂອເອ",
+  "date" : "20180118",
+  "items" : 30
+} ]

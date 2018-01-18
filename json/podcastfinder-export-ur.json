@@ -1,0 +1,170 @@
+[ {
+  "uri" : "http://arrahma.org/rssfeeds/juz10feed.xml",
+  "name" : "Taleem-Al-Quran-Juz 10",
+  "items" : 27
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz11feed.xml",
+  "name" : "Taleem-Al-Quran-Juz 11",
+  "items" : 24
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz1feed.xml",
+  "name" : "Taleem-Al-Quran-Juz 1",
+  "items" : 54
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz2feed.xml",
+  "name" : "Taleem-Al-Quran-Juz 2",
+  "items" : 40
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz4feed.xml",
+  "name" : "Taleem-Al-Quran Juz 4",
+  "items" : 27
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz5feed.xml",
+  "name" : "Taleem-Al-Quran Juz 5",
+  "items" : 27
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz6feed.xml",
+  "name" : "Taleem-Al-Quran Juz 6",
+  "items" : 27
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz7feed.xml",
+  "name" : "Taleem-Al-Quran Juz 7",
+  "items" : 27
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/juz8feed.xml",
+  "name" : "Taleem-Al-Quran Juz 8",
+  "items" : 27
+}, {
+  "uri" : "http://arrahma.org/rssfeeds/mmfeed.xml",
+  "name" : "Medan a Mahshur may Meri Kahani",
+  "items" : 9
+}, {
+  "uri" : "http://awazradio.com/podcastgen/feed.xml",
+  "name" : "AwazRadio's Podcast / Archives",
+  "date" : "20120313",
+  "items" : 35
+}, {
+  "uri" : "http://feeds.feedburner.com/URDLA_AWR",
+  "name" : "AWR Urdu / اردو (Pakistan)",
+  "date" : "20180111",
+  "items" : 62
+}, {
+  "uri" : "http://feeds.feedburner.com/islahikhutbat",
+  "name" : "Islahi Khutbat - Maulana Muhammad Haroon Khan Sahab",
+  "date" : "20130115",
+  "items" : 2
+}, {
+  "uri" : "http://media.recordedsuccess.com/audios/urdu/DrIsrarAhmed/Bayanulquran_1998/index.rss",
+  "name" : "Bayan Ul Quran by Dr Israr Ahmed 1998",
+  "items" : 143
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_urd",
+  "name" : "Deutsch – warum nicht? Serie 1 | Deutsch lernen | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_urd",
+  "name" : "Deutsch – warum nicht? | Deutsch lernen | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_marktplatz_urd",
+  "name" : "Marktplatz – Deutsche Sprache in der Wirtschaft | Deutsch lernen | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_urd",
+  "name" : "Mission Europe – Mission Berlin | Deutsch lernen | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_urd",
+  "name" : "Radio D | Deutsch lernen | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_urd",
+  "name" : "Wieso nicht? | Deutsch lernen | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 20
+}, {
+  "uri" : "http://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-ur.rss",
+  "name" : "Urdu Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171228",
+  "items" : 100
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/bccwbtp1da.xml",
+  "name" : "Balochi, Southern Bible (Non - Dramatized) Book of Mark - ÙØ§Ø±Ú© Ú©Û Ø¨ÙÙÚÛØ Ø¬ÙÙØ¨Û Ø¨Ø§Ø¦Ø¨Ù (ØºÛØ± ÚØ±Ø§ÙÛ) Ú©ØªØ§Ø¨",
+  "date" : "20150914",
+  "items" : 16
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/bccwbtp2da.xml",
+  "name" : "Balochi, Southern Bible (Dramatized) Book of Mark - ÙØ§Ø±Ú© Ú©Û Ø¨ÙÙÚÛØ Ø¬ÙÙØ¨Û Ø¨Ø§Ø¦Ø¨Ù (ÚØ±Ø§ÙÛ) Ú©ØªØ§Ø¨",
+  "date" : "20150914",
+  "items" : 16
+}, {
+  "uri" : "http://www.loyalbooks.com/book/selected-ghazals-of-ghalib-by-mirza-ghalib/feed",
+  "name" : "Selected Ghazals of Ghalib by Mirza Ghalib",
+  "date" : "20180117",
+  "items" : 35
+}, {
+  "uri" : "http://www.minhaj.pk/i/irfan-ul-quran-5-sura.php",
+  "name" : "Recitation of 5 Sura of Holy Quran with Urdu Translation",
+  "date" : "20171228",
+  "items" : 5
+}, {
+  "uri" : "http://www.minhaj.pk/i/irfan-ul-quran_mp3_itune.php",
+  "name" : "Recitation of Holy Quran with Urdu Translation",
+  "date" : "20171227",
+  "items" : 114
+}, {
+  "uri" : "http://www.urduvoa.com/podcast/?count=50&zoneid=2475",
+  "name" : "9:00PM - راؤنڈ ٹیبل  - وائس آف امریکہ",
+  "date" : "20180117",
+  "items" : 10
+}, {
+  "uri" : "http://www.voiceofislam.ca/podcast.xml",
+  "name" : "Radio Ahmadiyya - The Real Voice of Islam",
+  "date" : "20180115",
+  "items" : 750
+}, {
+  "uri" : "https://islamhouse.com/pc/127736?page=127736",
+  "name" : "قاری احمد بن على عجمی کی تلاوت قرآن کریم کا البم",
+  "date" : "20080427",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/3638?page=3638",
+  "name" : "رسول تمھیں جو دے لے لو اور جس سے منع کرے رک جا‏‌‍‌ؤ [1]",
+  "date" : "20060522",
+  "items" : 1
+}, {
+  "uri" : "https://islamhouse.com/pc/392665?page=392665",
+  "name" : "1431ھ میں حرم نبوی میں پڑھی گئی قرآن کریم کا البم",
+  "date" : "20120331",
+  "items" : 114
+}, {
+  "uri" : "https://islamhouse.com/pc/471706",
+  "name" : "قرآن کریم کے آخری تین پاروں (-30-29-28) کا اردو ترجمہ آڈیو کی شکل میں",
+  "date" : "20140317",
+  "items" : 57
+}, {
+  "uri" : "https://islamhouse.com/pc/4968?page=4968",
+  "name" : "سوال وجواب",
+  "date" : "20060508",
+  "items" : 35
+}, {
+  "uri" : "https://islamhouse.com/pc/887076",
+  "name" : "اسی منتخب احادیث (4)",
+  "date" : "20150511",
+  "items" : 81
+}, {
+  "uri" : "https://www.alislam.org/friday-sermon/podcasts/rss/friday-sermon-ur.rss",
+  "name" : "Urdu Friday Sermon by Head of Ahmadiyya Muslim Community",
+  "date" : "20171225",
+  "items" : 100
+}, {
+  "uri" : "https://www.urduvoa.com/podcast/?count=50&zoneId=2475",
+  "name" : "9:00PM - راؤنڈ ٹیبل  - وائس آف امریکہ",
+  "date" : "20180118",
+  "items" : 9
+} ]

@@ -1,0 +1,46 @@
+[ {
+  "uri" : "http://feed.cri.cn/rss/c6e7b78e-2545-4e2b-9ccb-a05db15cdd18",
+  "name" : "Ni Hao",
+  "date" : "20170727",
+  "items" : 100
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/lndbsmn1da",
+  "name" : "Lun Bawang - Lun Dayah Alkitab (Bukan yang dramatik) - Lun Bawang - Lun Dayah Bible (Non-Dramatized)",
+  "date" : "20160808",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/lndbsmn2da",
+  "name" : "Lun Bawang - Lun Dayah Alkitab (dramatik) - Lun Bawang - Lun Dayah Bible (Dramatized)",
+  "date" : "20160629",
+  "items" : 260
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/seawyip1da",
+  "name" : "Semai Bible (tidak besarkan)",
+  "date" : "20160816",
+  "items" : 78
+}, {
+  "uri" : "http://podcast.faithcomesbyhearing.com/feed/260/seawyip2da",
+  "name" : "Semai Bible (Besarkan)",
+  "date" : "20160816",
+  "items" : 78
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/bdgwyip1da.xml",
+  "name" : "Bonggi Bible (Non-Dramatized NT Partials) -Bonggi Alkitab (Non-besarkan) NT Partials",
+  "date" : "20170530",
+  "items" : 68
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/bdgwyip2da.xml",
+  "name" : "Bonggi Bible (Dramatized NT Partials) -Bonggi Alkitab (besarkan) NT Partials",
+  "date" : "20150914",
+  "items" : 68
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/dbjwbtp1da.xml",
+  "name" : "Begak Alkitab (bukan besarkan) - Begak Bible (Non-Dramatized)",
+  "date" : "20160218",
+  "items" : 28
+}, {
+  "uri" : "http://www.faithcomesbyhearing.com/feeds/audio-bibles/dbjwbtp2da.xml",
+  "name" : "Begak Alkitab (besarkan) - Begak Bible (Dramatized)",
+  "date" : "20160218",
+  "items" : 28
+} ]

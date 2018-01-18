@@ -1,0 +1,51 @@
+[ {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_dwn1_maz",
+  "name" : "Deutsch – warum nicht? Серија 1 | Учење германски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/DKpodcast_radiod1_maz",
+  "name" : "Radio D | Учење германски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn1_maz",
+  "name" : "Deutsch – warum nicht? Серија 1 | Учење германски | Deutsche Welle",
+  "date" : "20171229",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn2_maz",
+  "name" : "Deutsch – warum nicht? Серија 2 | Учење германски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn3_maz",
+  "name" : "Deutsch – warum nicht? Серија 3 | Учење германски | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_dwn4_maz",
+  "name" : "Deutsch – warum nicht? Серија 4 | Учење германски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_marktplatz_maz",
+  "name" : "Marktplatz – германскиот јазик во стопанството | Учење германски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_missionberlin_maz",
+  "name" : "Mission Europe – Mission Berlin | Учење германски | Deutsche Welle",
+  "date" : "20171225",
+  "items" : 25
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_radiod1_maz",
+  "name" : "Radio D | Учење германски | Deutsche Welle",
+  "date" : "20171228",
+  "items" : 26
+}, {
+  "uri" : "http://rss.dw.com/xml/dkpodcast_wiesonicht_maz",
+  "name" : "Wieso nicht? | Учење германски | Deutsche Welle",
+  "date" : "20180117",
+  "items" : 20
+} ]
